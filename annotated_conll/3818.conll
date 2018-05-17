@@ -1,0 +1,12 @@
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:0
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:1
+3	ändå	ändå	AB	AB	_	_	_	_	_	O	_	temp:0:3
+4	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:8
+5	inga	ingen	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	temp:0:11
+6	rosor	rosor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+7	kommit	komma	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:22
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:30
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:31
+

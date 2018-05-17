@@ -1,0 +1,8 @@
+1	frihet	frihet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:7
+3	glädje	glädje	UO	UO	_	_	_	_	_	O	_	temp:0:11
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	hafvet	hafvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	bo	bo	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

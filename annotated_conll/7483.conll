@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	djur	djur	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	menskor	menskor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	näras	näras	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:21
+6	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:31
+8	moders	moders	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	barm	barm	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:42
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

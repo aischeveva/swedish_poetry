@@ -1,0 +1,7 @@
+1	Hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	äro	äro	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	pärlor	pärlor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:21
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

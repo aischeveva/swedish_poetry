@@ -1,0 +1,16 @@
+1	Strax	strax	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	gamle	gamle	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	kungen	kungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	vaken	vaken	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:29
+2	Mycket	mycket	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:1:30
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:37
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:1:41
+5	sömn	sömn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:45
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:1:50
+7	värd	värd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:54
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:58
+

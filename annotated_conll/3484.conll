@@ -1,0 +1,5 @@
+1	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	hem	hem	PL	PL	_	_	_	_	_	O	_	temp:0:12
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

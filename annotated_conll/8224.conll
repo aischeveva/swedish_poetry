@@ -1,0 +1,9 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	klagan	klagan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	stulen	stulen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:22
+7	bröst	bröst	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,11 @@
+1	Ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	pärleregn	pärleregn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	dagg	dagg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+6	vrider	vrida	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+7	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:33
+8	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:36
+9	hår	hår	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

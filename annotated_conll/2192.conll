@@ -1,0 +1,6 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	regn	regn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+

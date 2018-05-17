@@ -1,0 +1,13 @@
+1	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:12
+6	mål	mål	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+8	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:21
+9	lust	lust	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:29
+

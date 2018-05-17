@@ -1,0 +1,8 @@
+1	sköld	sköld	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	ryggen	rygg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	barmen	barmen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	bar	bära	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

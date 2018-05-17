@@ -1,0 +1,7 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	jagten	jagten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	skulle	ska	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	mången	mången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	skrämt	skrämt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

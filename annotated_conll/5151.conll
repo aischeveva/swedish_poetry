@@ -1,0 +1,9 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	salighet	salighet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:12
+4	öm	öm	AB	AB	_	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:19
+7	varm	varm	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

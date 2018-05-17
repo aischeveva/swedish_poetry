@@ -1,0 +1,11 @@
+1	vifta	vifta	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vingarna	vingarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	molnen	molnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	hväsande	hväsande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:34
+8	vågor	vågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:37
+9	skär	skära	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:43
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:47
+

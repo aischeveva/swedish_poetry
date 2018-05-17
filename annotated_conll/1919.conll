@@ -1,0 +1,7 @@
+1	DET	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	ÄR	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	STÄNGNINGSDAGS	stängningsdags	AB	AB	_	_	_	_	_	O	_	temp:0:7
+4	NU	nu	AB	AB	_	_	_	_	_	O	_	temp:0:22
+5	SLÄCKER	släcker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+6	VI	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:33
+

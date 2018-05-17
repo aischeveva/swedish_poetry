@@ -1,0 +1,10 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	strumpor	strumpa	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	tofflor	tofflor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	tröjor	tröjor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+8	korsetter	korsetter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

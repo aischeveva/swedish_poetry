@@ -1,0 +1,22 @@
+1	God	god	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	natt	natt	IN	IN	_	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	Bill	Bill	PM	PM	NOM	_	_	_	_	B	place	temp:0:10
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:14
+
+1	God	god	IN	IN	_	_	_	_	_	O	_	temp:1:16
+2	natt	natt	IN	IN	_	_	_	_	_	O	_	temp:1:20
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:24
+4	Lou	lou	AB	AB	KOM	_	_	_	_	O	_	temp:1:26
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:29
+
+1	God	god	IN	IN	_	_	_	_	_	O	_	temp:2:31
+2	natt	natt	IN	IN	_	_	_	_	_	O	_	temp:2:35
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:2:39
+4	May	May	PM	PM	NOM	_	_	_	_	B	place	temp:2:41
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:2:44
+
+1	God	god	IN	IN	_	_	_	_	_	O	_	temp:3:46
+2	natt	natt	IN	IN	_	_	_	_	_	O	_	temp:3:50
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:3:54
+

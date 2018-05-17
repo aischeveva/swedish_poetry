@@ -1,0 +1,6 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	nå	nå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:6
+4	mål	mål	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	...	...	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

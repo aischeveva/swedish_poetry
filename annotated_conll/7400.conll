@@ -1,0 +1,10 @@
+1	Stolt	stolt	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	stod	stå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:11
+4	der	der	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	fjällets	fjällets	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	brant	brant	NN	NN	AN	_	_	_	_	O	_	temp:0:31
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:37
+9	speglade	speglade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:41
+

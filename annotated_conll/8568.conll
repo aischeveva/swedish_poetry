@@ -1,0 +1,12 @@
+1	Hvad	hvad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+4	Norden	Norden	PM	PM	NOM	_	_	_	_	B	person	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	hvad	hvad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+8	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:28
+9	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:32
+10	folk	folk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

@@ -1,0 +1,6 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	lilla	liten	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	ordet	ordet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	ja	ja	IN	IN	_	_	_	_	_	O	_	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+

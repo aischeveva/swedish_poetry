@@ -1,0 +1,6 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	sitter	sitta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	vårt	vår	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:12
+5	hem	hem	AB	AB	_	_	_	_	_	O	_	temp:0:17
+

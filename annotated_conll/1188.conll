@@ -1,0 +1,11 @@
+1	Mogen	mogen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	frukt	frukt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+6	världen	värld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:34
+8	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:36
+9	famn	famn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

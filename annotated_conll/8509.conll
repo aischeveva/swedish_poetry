@@ -1,0 +1,12 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	fick	få	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	tala	tala	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	Ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:1:22
+2	sorl	sorl	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:26
+3	af	af	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:1:31
+4	fasa	fasa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:34
+

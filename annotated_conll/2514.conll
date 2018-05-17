@@ -1,0 +1,6 @@
+1	Tvingad	tvingad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hårt	hårt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	spänning	spänning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

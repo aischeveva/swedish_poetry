@@ -1,0 +1,8 @@
+1	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	sjukt	sjuk	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+6	nervöst	nervöst	AB	AB	SUV	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,5 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:4
+3	osett	ose	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	sköljer	sköljer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+

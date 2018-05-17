@@ -1,0 +1,11 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	fagert	fagert	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	spel	spel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:26
+8	konstrikt	konstrikt	AB	AB	POS	_	_	_	_	O	_	temp:0:29
+9	ingen	ingen	PN	PN	UTR|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:39
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

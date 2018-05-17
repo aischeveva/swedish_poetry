@@ -1,0 +1,6 @@
+1	Har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	smaken	smaken	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	anna	anna	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	regel	regel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+

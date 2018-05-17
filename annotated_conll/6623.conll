@@ -1,0 +1,12 @@
+1	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	tystnade	tystnade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:12
+4	andre	andre	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:22
+7	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+8	gjort	göra	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:30
+9	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:36
+10	med	med	AB	AB	_	_	_	_	_	O	_	temp:0:39
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

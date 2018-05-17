@@ -1,0 +1,6 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	själarna	själarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	glimmande	glimmande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	strömmar	strömmar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+

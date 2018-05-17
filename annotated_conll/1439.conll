@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	slutar	sluta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	stava	stava	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:18
+6	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+7	vilja	vilja	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+9	upphört	upphört	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:36
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

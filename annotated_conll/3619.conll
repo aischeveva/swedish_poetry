@@ -1,0 +1,9 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	virvlande	virvlande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	bubblor	bubblor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	susade	susade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+5	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:29
+6	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:32
+7	dagern	dagern	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

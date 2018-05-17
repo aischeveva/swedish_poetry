@@ -1,0 +1,8 @@
+1	Ämnar	ämnar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	kväva	kvävara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	namn	namn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	all	all	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+7	namnlös	namnlös	AB	AB	_	_	_	_	_	O	_	temp:0:26
+

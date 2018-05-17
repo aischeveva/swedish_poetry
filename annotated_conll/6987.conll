@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	fästa	fästa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:12
+5	hjelmhatt	hjelmhatt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:26
+7	späda	späda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	blomma	blomma	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:36
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

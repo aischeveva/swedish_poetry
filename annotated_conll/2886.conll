@@ -1,0 +1,11 @@
+1	Somna	somna	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	nornornas	nornornas	AB	AB	_	_	_	_	_	O	_	temp:0:7
+4	skyttel	skyttel	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+
+1	Inget	inget	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:1:27
+2	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:33
+3	förvandlat	förvandlat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:1:38
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:48
+

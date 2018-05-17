@@ -1,0 +1,5 @@
+1	bottenlösa	bottenlösa	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	grafven	grafven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+3	opp	opp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

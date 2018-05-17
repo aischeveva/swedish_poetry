@@ -1,0 +1,6 @@
+1	kringdansa	kringdansa	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:11
+3	lummig	lummig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+4	gren	gren	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

@@ -1,0 +1,11 @@
+1	Klär	klär	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+3	förhoppning	förhoppning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	grön	grön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:27
+7	snart	snart	AB	AB	POS	_	_	_	_	O	_	temp:0:31
+8	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:37
+9	stam	stam	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

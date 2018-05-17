@@ -1,0 +1,8 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	altaret	altaret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:14
+5	okänd	okänd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

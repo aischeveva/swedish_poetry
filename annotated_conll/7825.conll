@@ -1,0 +1,17 @@
+1	Ringen	ringen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	bar	bära	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	likväl	likväl	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:23
+2	Den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:24
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:28
+4	dyrköpt	dyrköpt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:31
+5	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:38
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:39
+7	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:41
+8	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:46
+9	ofta	ofta	AB	AB	POS	_	_	_	_	O	_	temp:1:50
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:54
+

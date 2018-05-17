@@ -1,0 +1,9 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	isens	isens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	pansar	pansar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	smälter	smälter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	fjällets	fjällets	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:31
+7	bröst	bröst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

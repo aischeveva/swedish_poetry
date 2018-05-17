@@ -1,0 +1,6 @@
+1	Tvång	tvång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	blanka	blanka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	vapen	vapen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

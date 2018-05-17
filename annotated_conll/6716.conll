@@ -1,0 +1,10 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	går	går	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+5	stormen	stormen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+6	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+7	öfver	öfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	sjön	sjön	AB	AB	AN	_	_	_	_	O	_	temp:0:31
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

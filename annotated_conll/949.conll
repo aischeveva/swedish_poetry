@@ -1,0 +1,9 @@
+1	in	in	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:3
+3	vårt	vår	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:5
+4	inre	inre	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+6	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:16
+7	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:21
+8	sorl	sorl	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

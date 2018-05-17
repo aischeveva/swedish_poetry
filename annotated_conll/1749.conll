@@ -1,0 +1,7 @@
+1	anar	anar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:5
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	sällsam	sällsam	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	gryning	gryning	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

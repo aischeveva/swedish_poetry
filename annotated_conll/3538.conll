@@ -1,0 +1,6 @@
+1	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	gränserna	gränserna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:15
+4	borta	borta	PL	PL	_	_	_	_	_	O	_	temp:0:21
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

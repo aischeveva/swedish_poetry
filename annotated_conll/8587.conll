@@ -1,0 +1,8 @@
+1	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	brasans	brasans	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	sken	sken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	långa	långa	RG	RG	NOM	_	_	_	_	O	_	temp:0:19
+6	vinterqvällar	vinterqvällar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

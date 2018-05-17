@@ -1,0 +1,8 @@
+1	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	svår	svår	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	snuva	snuva	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	icke	icke	AB	AB	_	_	_	_	_	O	_	temp:0:17
+6	desto	desto	AB	AB	_	_	_	_	_	O	_	temp:0:22
+7	mindre	litet	AB	AB	KOM	_	_	_	_	O	_	temp:0:28
+

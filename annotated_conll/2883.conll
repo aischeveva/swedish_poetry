@@ -1,0 +1,10 @@
+1	susar	susar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:10
+5	gudarnas	gudarnas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:14
+6	makt	makt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+8	all	all	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

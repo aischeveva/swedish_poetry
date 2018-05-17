@@ -1,0 +1,11 @@
+1	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+3	säkert	säkert	AB	AB	POS	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	mins	mins	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:19
+6	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:24
+7	hvad	hvad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:32
+9	bjöd	bjöd	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:36
+10	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

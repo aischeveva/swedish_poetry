@@ -1,0 +1,14 @@
+1	Ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	ropar	ropa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	människor	människa	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	stora	stor	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	mått	må	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:1:37
+2	ger	ge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:41
+3	stora	stor	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:45
+4	mått	må	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:1:51
+

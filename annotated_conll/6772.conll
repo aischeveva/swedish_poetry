@@ -1,0 +1,14 @@
+1	Så	så	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:3
+3	klagade	klaga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:14
+
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:1:16
+2	kommo	kommo	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:19
+3	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:1:25
+4	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:1:28
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:1:32
+6	enslig	enslig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:35
+7	dal	dal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:42
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:45
+

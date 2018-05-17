@@ -1,0 +1,7 @@
+1	människors	människors	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:16
+4	hela	hel	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+5	mänskligheten	mänskligheten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

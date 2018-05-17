@@ -1,0 +1,8 @@
+1	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+5	tingen	tingen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	verklighet	verklighet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

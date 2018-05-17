@@ -1,0 +1,6 @@
+1	hör	hör	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	väl	väl	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:8
+4	märk	märk	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+

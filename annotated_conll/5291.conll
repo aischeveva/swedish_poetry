@@ -1,0 +1,11 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	lång	lång	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:10
+5	ändlös	ändlös	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:14
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+7	vart	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+8	pulsslags	pulsslag	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:29
+9	smärta	smärta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

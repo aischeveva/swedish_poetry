@@ -1,0 +1,11 @@
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	hundra	hundra	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	nya	ny	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	klockspel	klockspel	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:34
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:39
+9	väckt	väckt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:43
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

@@ -1,0 +1,11 @@
+1	försont	försont	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	jämväl	jämväl	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:15
+4	brott	brott	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+6	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:26
+7	diktat	diktat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:30
+8	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:37
+9	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:40
+10	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

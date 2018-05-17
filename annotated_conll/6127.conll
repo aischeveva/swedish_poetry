@@ -1,0 +1,7 @@
+1	högbarmad	högbarmad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	lögn	lögn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+5	rosenkind	rosenkind	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

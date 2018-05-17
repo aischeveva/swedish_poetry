@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	all	all	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	tid	tid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:16
+6	flytt	flytt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:26
+8	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

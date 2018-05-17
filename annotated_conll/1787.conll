@@ -1,0 +1,10 @@
+1	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:5
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+6	promenerade	promenerade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+7	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:32
+8	Hofgarten	hofgarten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

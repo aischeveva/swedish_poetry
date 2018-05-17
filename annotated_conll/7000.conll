@@ -1,0 +1,14 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	farväl	farväl	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	söner	son	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+
+1	Gån	gån	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:24
+2	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:1:28
+3	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:32
+4	hit	hit	AB	AB	_	_	_	_	_	O	_	temp:1:35
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:1:38
+

@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	glad	glad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	for	for	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+5	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+6	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:20
+7	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:24
+8	kärleksbref	kärleksbref	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+9	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

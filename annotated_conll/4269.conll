@@ -1,0 +1,11 @@
+1	Bäst	bra	AB	AB	SUV	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:8
+4	tiga	tiga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+7	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:24
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:28
+9	famn	famn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

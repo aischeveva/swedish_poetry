@@ -1,0 +1,6 @@
+1	Några	någon	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	temp:0:0
+2	hjärtan	hjärtan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+4	skatter	skatter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

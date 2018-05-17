@@ -1,0 +1,7 @@
+1	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	silfverfåra	silfverfåra	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:16
+4	solblank	solblank	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	ban	ban	AB	AB	AN	_	_	_	_	O	_	temp:0:28
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

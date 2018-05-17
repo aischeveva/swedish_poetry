@@ -1,0 +1,7 @@
+1	slår	slår	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:5
+3	puls	puls	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	hunger	hunger	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

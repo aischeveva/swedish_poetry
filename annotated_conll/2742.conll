@@ -1,0 +1,8 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	tror	tro	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	bär	bär	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:15
+6	kors	kors	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

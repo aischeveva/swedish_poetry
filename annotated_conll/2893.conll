@@ -1,0 +1,7 @@
+1	grenar	grenar	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	träds	träds	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	grenar	grenar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sist	sist	AB	AB	SUV	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	djupt	djupt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:10
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:18
+7	djupa	djupa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

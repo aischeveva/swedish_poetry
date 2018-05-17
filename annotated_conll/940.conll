@@ -1,0 +1,6 @@
+1	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	lägerbål	lägerbål	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	lägerbål	lägerbål	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

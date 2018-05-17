@@ -1,0 +1,9 @@
+1	Ske	ske	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+5	sen	sen	AB	AB	_	_	_	_	_	O	_	temp:0:15
+6	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+7	ämna	ämna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

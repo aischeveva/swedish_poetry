@@ -1,0 +1,11 @@
+1	ässjan	ässjan	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	väntar	väntar	UO	UO	_	_	_	_	_	O	_	temp:0:7
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	hammaren	hammaren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:28
+7	smider	smider	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+8	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:39
+9	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:43
+10	blixt	blixt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+

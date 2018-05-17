@@ -1,0 +1,5 @@
+1	hopskruvade	hopskruvade	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+3	livsvinsten	livsvinsten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

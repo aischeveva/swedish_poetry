@@ -1,0 +1,11 @@
+1	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	detta	detta	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	ensamt	ensamt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:13
+5	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	detta	detta	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+8	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:33
+9	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:37
+10	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:40
+

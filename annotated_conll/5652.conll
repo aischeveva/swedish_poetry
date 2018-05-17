@@ -1,0 +1,7 @@
+1	grip	grip	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:5
+3	starkt	starkt	AB	AB	POS	_	_	_	_	O	_	temp:0:9
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	björnram	björnram	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:20
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

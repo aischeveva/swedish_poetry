@@ -1,0 +1,9 @@
+1	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	kanske	kanske	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	själva	själv	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	framtiden	framtid	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	låter	låta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+6	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:34
+7	dämmas	dämmas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:38
+8	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

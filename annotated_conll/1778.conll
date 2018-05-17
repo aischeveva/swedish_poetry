@@ -1,0 +1,8 @@
+1	April	april	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	grymmast	grymmast	PC	PC	PRF|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	månaderna	månaderna	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:31
+7	driver	driver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,10 @@
+1	tätnar	tätnar	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	droppar	droppar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	faller	faller	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	dödstyst	dödstyst	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

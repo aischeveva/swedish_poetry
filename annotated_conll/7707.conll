@@ -1,0 +1,11 @@
+1	Springare	springare	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:10
+3	gånger	gång	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	tolf	tolf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+6	bångstyriga	bångstyriga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+8	fjättrade	fjättrade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:40
+9	vindar	vindar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:50
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:56
+

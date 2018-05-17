@@ -1,0 +1,9 @@
+1	Bor	bor	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	friden	friden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	saliga	saliga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	dalarna	dalarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	der	der	AB	AB	AN	_	_	_	_	O	_	temp:0:31
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

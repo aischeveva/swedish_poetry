@@ -1,0 +1,6 @@
+1	visste	veta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:7
+3	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:11
+4	råd	råd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

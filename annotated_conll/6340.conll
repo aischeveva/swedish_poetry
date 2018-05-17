@@ -1,0 +1,9 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	for	for	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	vida	vida	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+6	jagande	jagande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:18
+7	falk	falk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

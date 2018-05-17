@@ -1,0 +1,11 @@
+1	löje	löje	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	lätt	lätt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	lätt	lätt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	snö	snö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+8	höstmild	höstmild	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	ironi	ironi	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

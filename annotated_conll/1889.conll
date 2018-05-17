@@ -1,0 +1,13 @@
+1	Tala	tala	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:9
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:12
+
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:14
+2	talar	tala	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:17
+3	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:1:23
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:29
+
+1	Tala	tala	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:2:31
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:2:35
+

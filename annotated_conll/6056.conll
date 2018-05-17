@@ -1,0 +1,11 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	ger	ge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:8
+4	hvila	hvila	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+7	ger	ge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+8	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+9	ro	ro	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

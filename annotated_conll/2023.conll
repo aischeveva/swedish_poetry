@@ -1,0 +1,9 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	väntade	väntade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:12
+4	gäst	gäst	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:21
+6	skulle	ska	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+7	komma	komma	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:32
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

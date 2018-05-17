@@ -1,0 +1,7 @@
+1	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:5
+3	drabba	drabba	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:16
+5	själv	själv	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

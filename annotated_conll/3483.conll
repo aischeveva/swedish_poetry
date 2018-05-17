@@ -1,0 +1,8 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	misstror	misstro	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:13
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:17
+5	söker	söker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	nöd	nöd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

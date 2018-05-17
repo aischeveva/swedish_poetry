@@ -1,0 +1,11 @@
+1	Den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:4
+3	bor	bor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:12
+5	inne	inne	AB	AB	_	_	_	_	_	O	_	temp:0:16
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:24
+8	mycket	mycket	AB	AB	POS	_	_	_	_	O	_	temp:0:28
+9	kär	kär	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

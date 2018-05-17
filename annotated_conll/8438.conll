@@ -1,0 +1,11 @@
+1	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	fränka	fränka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+5	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+6	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+7	emot	emot	PP	PP	_	_	_	_	_	O	_	temp:0:24
+8	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:29
+9	öde	öde	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

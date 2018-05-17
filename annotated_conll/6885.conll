@@ -1,0 +1,9 @@
+1	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kungen	kungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	allenast	allenast	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:14
+5	hvad	hvad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	folket	folket	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+7	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:35
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

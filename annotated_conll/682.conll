@@ -1,0 +1,4 @@
+1	Din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	stora	stor	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	förtvivlan	förtvivlan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+

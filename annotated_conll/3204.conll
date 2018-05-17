@@ -1,0 +1,6 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	mycket	mycket	AB	AB	POS	_	_	_	_	O	_	temp:0:7
+4	nog	nog	AB	AB	_	_	_	_	_	O	_	temp:0:14
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+

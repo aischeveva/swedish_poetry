@@ -1,0 +1,9 @@
+1	Hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	gått	gå	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	piska	piska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+7	pest	pest	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,7 @@
+1	efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	domen	domen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	talen	talen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

@@ -1,0 +1,6 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	rotens	rotens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	krafter	krafter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

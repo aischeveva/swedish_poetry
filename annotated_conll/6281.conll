@@ -1,0 +1,7 @@
+1	Kunde	kunna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	gälla	gälla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:6
+3	ert	ert	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:12
+4	usla	usla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+5	lif	lif	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

@@ -1,0 +1,18 @@
+1	Din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	röst	röst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+5	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+6	hört	hört	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:18
+7	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:27
+9	tjugo	tjugo	RG	RG	NOM	_	_	_	_	O	_	temp:0:29
+10	år	år	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:35
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+12	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:39
+13	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:43
+14	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:48
+15	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:52
+16	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:55
+17	sagt	säga	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:59
+

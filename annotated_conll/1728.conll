@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	all	all	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	strävan	strävan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	syns	syns	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:20
+6	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:25
+

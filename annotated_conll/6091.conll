@@ -1,0 +1,8 @@
+1	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	gamle	gamle	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	Hilding	hilding	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	honom	han	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+6	går	går	AB	AB	_	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

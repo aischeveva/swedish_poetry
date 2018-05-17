@@ -1,0 +1,13 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:11
+5	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	källorna	källorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+8	ska	ska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+9	ökenstormen	ökenstormen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+10	krossa	krossa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:47
+11	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:54
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

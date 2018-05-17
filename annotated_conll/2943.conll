@@ -1,0 +1,8 @@
+1	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	stark	stark	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:10
+4	dryck	dryck	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:20
+6	bräddar	bräddar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

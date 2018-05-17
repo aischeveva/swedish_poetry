@@ -1,0 +1,5 @@
+1	Djupt	djupt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+

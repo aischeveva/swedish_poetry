@@ -1,0 +1,6 @@
+1	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	tröttadt	tröttadt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	drakskepp	Drakskepp	PM	PM	NOM	_	_	_	_	B	person	temp:0:13
+4	stod	stå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:23
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

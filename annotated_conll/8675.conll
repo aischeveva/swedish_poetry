@@ -1,0 +1,9 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	blickar	blickar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	fulla	full	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	utaf	utaf	UO	UO	_	_	_	_	_	O	_	temp:0:18
+5	hot	hot	UO	UO	_	_	_	_	_	O	_	temp:0:23
+6	uppå	uppå	UO	UO	_	_	_	_	_	O	_	temp:0:27
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:32
+8	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

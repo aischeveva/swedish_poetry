@@ -1,0 +1,12 @@
+1	Främst	främst	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	vörda	vörda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	gudar	gudar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+
+1	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:25
+2	ondt	ondt	AB	AB	POS	_	_	_	_	O	_	temp:1:28
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:1:33
+4	godt	godt	AB	AB	AN	_	_	_	_	O	_	temp:1:37
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:41
+

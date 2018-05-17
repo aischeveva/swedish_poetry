@@ -1,0 +1,6 @@
+1	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	allför	allför	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	ungt	ungt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	knoppningsgyllne	knoppningsgyllne	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+

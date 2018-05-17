@@ -1,0 +1,9 @@
+1	Ilande	ilande	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	pilande	pilande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	svalor	svalor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	vingarna	vingarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	vilande	vila	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:36
+

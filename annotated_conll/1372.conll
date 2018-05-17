@@ -1,0 +1,7 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Din	din	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:1
+3	gräns	gräns	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:5
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+5	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+

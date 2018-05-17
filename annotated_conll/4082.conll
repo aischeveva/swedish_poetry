@@ -1,0 +1,6 @@
+1	tanken	tanke	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:10
+4	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	djupen	djupen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+

@@ -1,0 +1,7 @@
+1	förvandlas	förvandlas	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	grymme	grymme	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	kungen	kungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+

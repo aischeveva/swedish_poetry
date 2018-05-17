@@ -1,0 +1,8 @@
+1	Förklarar	förklarar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	himlen	himmel	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+4	gör	göra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+5	böljan	böljan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+6	fri	fri	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

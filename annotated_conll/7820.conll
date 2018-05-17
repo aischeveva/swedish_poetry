@@ -1,0 +1,15 @@
+1	hvad	hvad	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:5
+3	förnam	förnam	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:18
+6	nattliga	nattliga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+7	djup	djup	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+9	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:37
+10	teg	teg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:40
+11	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:44
+12	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:48
+13	ryste	ryste	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:52
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

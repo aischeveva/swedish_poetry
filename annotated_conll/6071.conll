@@ -1,0 +1,9 @@
+1	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	gården	gården	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+6	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:19
+7	svedjeland	svedjeland	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

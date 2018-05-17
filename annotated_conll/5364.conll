@@ -1,0 +1,8 @@
+1	liksom	liksom	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:7
+3	hjelm	hjelm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	rundel	rundel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	hvälfver	hvälfver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

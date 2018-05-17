@@ -1,0 +1,8 @@
+1	Tre	tre	RG	RG	NOM	_	_	_	_	O	_	temp:0:0
+2	steg	steg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+5	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	bordet	bordet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

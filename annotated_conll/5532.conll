@@ -1,0 +1,6 @@
+1	sköna	sköna	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Ingeborg	ingeborg	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:6
+3	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:14
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:15
+

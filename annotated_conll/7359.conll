@@ -1,0 +1,9 @@
+1	stod	stå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	silfverblank	silfverblank	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:18
+4	klippans	klippans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	brant	brant	AB	AB	AN	_	_	_	_	O	_	temp:0:30
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:36
+7	sken	sken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:40
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

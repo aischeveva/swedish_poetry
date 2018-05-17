@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	samma	samma	DT	DT	UTR/NEU|SIN/PLU|IND	_	_	_	_	O	_	temp:0:4
+3	foglar	foglar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	än	än	AB	AB	_	_	_	_	_	O	_	temp:0:17
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	skogen	skog	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	slå	slå	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

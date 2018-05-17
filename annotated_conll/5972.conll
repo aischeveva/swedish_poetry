@@ -1,0 +1,11 @@
+1	dock	dock	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	far	fara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:17
+6	kär	kär	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:25
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:27
+

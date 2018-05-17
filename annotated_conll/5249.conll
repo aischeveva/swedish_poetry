@@ -1,0 +1,9 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:21
+7	anförvanter	anförvanter	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

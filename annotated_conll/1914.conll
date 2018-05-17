@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	ska	ska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	spela	spela	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:17
+6	parti	parti	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	schack	schack	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

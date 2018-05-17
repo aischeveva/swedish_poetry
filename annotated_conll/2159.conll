@@ -1,0 +1,10 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	alltid	alltid	AB	AB	_	_	_	_	_	O	_	temp:0:7
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:14
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:22
+7	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+8	bredvid	bredvid	PP	PP	_	_	_	_	_	O	_	temp:0:30
+9	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:38
+

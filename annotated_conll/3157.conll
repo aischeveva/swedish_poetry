@@ -1,0 +1,10 @@
+1	Kanhända	kanhända	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:9
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	mullen	mullen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	vattnet	vatten	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+8	mängd	mängd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

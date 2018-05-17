@@ -1,0 +1,13 @@
+1	Af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	få	få	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+4	stolte	stolte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+5	fruktas	fruktas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:26
+8	hatas	hatas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:30
+9	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:36
+10	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:39
+11	hvar	hvar	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

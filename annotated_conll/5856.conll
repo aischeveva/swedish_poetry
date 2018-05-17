@@ -1,0 +1,7 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	lek	lek	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	sluta	sluta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+

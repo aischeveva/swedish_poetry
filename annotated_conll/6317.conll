@@ -1,0 +1,8 @@
+1	sitter	sitta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	takets	takets	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	ås	ås	NN	NN	AN	_	_	_	_	O	_	temp:0:17
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	gal	gal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

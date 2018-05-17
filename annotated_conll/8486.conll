@@ -1,0 +1,10 @@
+1	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	reste	reste	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	bedjande	bedjande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:28
+8	blickar	blickar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

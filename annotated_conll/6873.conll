@@ -1,0 +1,10 @@
+1	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	hufvud	hufvud	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+5	högre	högre	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:25
+7	bägge	bägge	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:28
+8	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

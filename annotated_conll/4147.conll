@@ -1,0 +1,8 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	sällsam	sällsam	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	mänska	mänska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+6	mött	mött	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:26
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,9 @@
+1	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	våg	våg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:13
+6	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+7	hvit	hvit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:21
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

@@ -1,0 +1,15 @@
+1	Hvad	hvad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:5
+3	vinner	vinner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	hjelterykte	hjelterykte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+6	vinner	vinner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:35
+8	dock	dock	KN	KN	_	_	_	_	_	O	_	temp:0:38
+9	ej	ej	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:43
+10	derpå	derpå	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:52
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:54
+

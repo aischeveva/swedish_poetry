@@ -1,0 +1,8 @@
+1	Kung	kung	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Gråskägg	Gråskägg	PM	PM	NOM	_	_	_	_	B	person	temp:0:5
+3	sjelf	sjelf	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+4	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:20
+5	rida	rida	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:25
+6	åstad	åstad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

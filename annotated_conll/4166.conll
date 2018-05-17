@@ -1,0 +1,7 @@
+1	faller	faller	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	stillaste	stillaste	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	ljus	ljus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:22
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+6	väg	väg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

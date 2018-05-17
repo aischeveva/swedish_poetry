@@ -1,0 +1,14 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	jägarskaran	jägarskaran	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	färdig	färdig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+
+1	Hejsan	hejsan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:26
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:32
+3	öfver	öfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:1:34
+4	berg	berg	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:40
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:1:45
+6	dal	dal	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:1:49
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:1:52
+

@@ -1,0 +1,12 @@
+1	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	mina	min	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:9
+4	lyckliga	lyckliga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:14
+5	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+6	slår	slår	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:30
+7	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:35
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:38
+9	tunga	tunga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:40
+10	rosor	rosor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:46
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+

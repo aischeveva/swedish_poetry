@@ -1,0 +1,8 @@
+1	I	i	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	tretti	tretti	UO	UO	_	_	_	_	_	O	_	temp:0:2
+3	vintrar	vintrar	UO	UO	_	_	_	_	_	O	_	temp:0:9
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:17
+5	fredlig	fredlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:29
+7	säll	säll	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

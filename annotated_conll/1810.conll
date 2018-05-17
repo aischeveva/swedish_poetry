@@ -1,0 +1,5 @@
+1	mein	mein	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Irisch	irisch	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	Kind	Kind	PM	PM	NOM	_	_	_	_	B	person	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+

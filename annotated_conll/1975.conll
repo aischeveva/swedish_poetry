@@ -1,0 +1,9 @@
+1	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	visa	visa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:14
+5	högljudd	högljudd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:26
+7	lång	lång	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

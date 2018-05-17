@@ -1,0 +1,11 @@
+1	Tre	tre	RG	RG	NOM	_	_	_	_	O	_	temp:0:0
+2	ting	ting	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	skattades	skattades	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:9
+4	dock	dock	KN	KN	_	_	_	_	_	O	_	temp:0:19
+5	af	af	NN	NN	AN	_	_	_	_	O	_	temp:0:24
+6	all	all	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:27
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:31
+8	rikedom	rikedom	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+9	ypperst	ypperst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+10	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

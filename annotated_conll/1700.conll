@@ -1,0 +1,8 @@
+1	fällde	fällde	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+3	gamla	gammal	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	marken	marken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:29
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

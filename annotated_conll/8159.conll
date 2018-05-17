@@ -1,0 +1,7 @@
+1	ohörd	ohörd	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	gård	gård	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+6	emedan	emedan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+

@@ -1,0 +1,19 @@
+1	Der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	steg	steg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	kungen	kungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:23
+7	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:27
+8	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:29
+9	Se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:30
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+11	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:34
+12	skön	skön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+14	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:44
+15	sval	sval	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+16	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:53
+17	lund	lund	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:57
+18	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:61
+

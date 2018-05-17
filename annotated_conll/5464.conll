@@ -1,0 +1,8 @@
+1	liksom	liksom	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:7
+3	ungas	ungas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:10
+4	hjertan	hjertan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	samman	samman	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

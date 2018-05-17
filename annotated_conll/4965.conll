@@ -1,0 +1,9 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	verkeligt	verkeligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:18
+6	leven	leven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:28
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

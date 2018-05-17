@@ -1,0 +1,8 @@
+1	omflutna	omflutna	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	utaf	utaf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+3	lockigt	lockigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	guld	guld	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:28
+7	vinkade	vinkade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:31
+

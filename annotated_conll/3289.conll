@@ -1,0 +1,8 @@
+1	sövd	sövd	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	segerdröm	segerdröm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	furususet	furususet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:30
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

@@ -1,0 +1,9 @@
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	skönt	skön	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:10
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	bildat	bildat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:17
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	Norden	norden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

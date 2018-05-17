@@ -1,0 +1,6 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:7
+4	sägas	sägas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+

@@ -1,0 +1,12 @@
+1	Guld	guld	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	blek	blek	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	koppar	koppar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	Rimfrost	rimfrost	UO	UO	_	_	_	_	_	O	_	temp:1:23
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:1:32
+3	guldbruna	guldbruna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:35
+4	gärden	gärden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:45
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:1:51
+

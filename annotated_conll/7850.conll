@@ -1,0 +1,13 @@
+1	ankaret	ankaret	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sänkte	sänkte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+3	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:15
+4	ned	ned	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	bet	bet	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:27
+7	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:31
+8	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:35
+9	hulling	hulling	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:47
+11	djupet	djupet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:49
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:55
+

@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:11
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:15
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:18
+7	dränkt	dränkt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:22
+8	sej	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:29
+

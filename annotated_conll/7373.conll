@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	gläds	gläds	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:10
+4	undrar	undrar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:22
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+8	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:28
+9	försvunnet	försvunnet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

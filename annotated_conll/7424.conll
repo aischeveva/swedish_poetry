@@ -1,0 +1,7 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	morgondaggen	morgondaggen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+4	skimrande	skimrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:24
+5	derpå	derpå	AB	AB	KOM	_	_	_	_	O	_	temp:0:34
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

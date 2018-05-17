@@ -1,0 +1,8 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+5	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:13
+6	vandra	vandra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:17
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

@@ -1,0 +1,6 @@
+1	Inga	ingen	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	temp:0:0
+2	sorger	sorger	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	längre	längre	UO	UO	_	_	_	_	_	O	_	temp:0:12
+4	bränna	bränna	UO	UO	_	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

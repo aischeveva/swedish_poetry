@@ -1,0 +1,7 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	hjärtat	hjärta	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	sucker	sucker	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	dock	dock	KN	KN	_	_	_	_	_	O	_	temp:0:19
+5	därunder	därunder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

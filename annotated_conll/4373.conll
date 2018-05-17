@@ -1,0 +1,7 @@
+1	Inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ens	ens	AB	AB	_	_	_	_	_	O	_	temp:0:5
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	grå	grå	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	liten	liten	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	fågel	fågel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+

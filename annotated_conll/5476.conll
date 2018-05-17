@@ -1,0 +1,11 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	krans	krans	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	af	af	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:12
+5	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:16
+6	Frithiof	Frithiof	PM	PM	NOM	_	_	_	_	B	person	temp:0:20
+7	sira	sira	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:29
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:34
+

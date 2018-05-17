@@ -1,0 +1,10 @@
+1	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	förhoppning	förhoppning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:21
+6	bröst	bröst	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:32
+8	grafven	grafven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

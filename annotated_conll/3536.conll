@@ -1,0 +1,7 @@
+1	möter	möter	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:10
+4	vägen	väg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	kröker	kröker	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

@@ -1,0 +1,5 @@
+1	skölden	skölden	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	arm	arm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:14
+

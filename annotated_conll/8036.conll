@@ -1,0 +1,5 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	glad	glad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	förening	förening	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+

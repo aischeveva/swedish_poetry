@@ -1,0 +1,7 @@
+1	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ändå	ändå	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	hela	hel	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	havet	havet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	hörs	hörs	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

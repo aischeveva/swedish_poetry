@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:4
+3	drag	drag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	slutna	slutna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+6	skrin	skrin	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

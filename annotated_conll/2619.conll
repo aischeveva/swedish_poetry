@@ -1,0 +1,10 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	sett	se	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:16
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:21
+7	skimret	skimret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+8	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:33
+9	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+

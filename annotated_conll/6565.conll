@@ -1,0 +1,10 @@
+1	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	stämmes	stämmes	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	härslag	härslag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:31
+7	is	is	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:36
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

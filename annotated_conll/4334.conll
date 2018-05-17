@@ -1,0 +1,14 @@
+1	Herre	herre	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	världens	värld	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:10
+5	slagfält	slagfält	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:19
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:28
+7	svärd	svärd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:38
+9	båge	båge	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:44
+10	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:49
+11	följer	följer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:53
+12	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:60
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:63
+

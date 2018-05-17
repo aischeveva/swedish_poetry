@@ -1,0 +1,8 @@
+1	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	det	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:6
+4	bästa	god	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:16
+6	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

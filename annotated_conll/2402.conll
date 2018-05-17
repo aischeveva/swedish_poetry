@@ -1,0 +1,7 @@
+1	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	all	all	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	sorg	sorg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:13
+5	härdar	härdar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+5	hungrade	hungrade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	öknen	öknen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

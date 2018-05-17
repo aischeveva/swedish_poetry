@@ -1,0 +1,10 @@
+1	Den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:4
+3	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	äga	äga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	anden	anden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+7	andens	andens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:26
+8	förrädare	förrädare	AB	AB	KOM	_	_	_	_	O	_	temp:0:33
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

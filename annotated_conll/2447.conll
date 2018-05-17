@@ -1,0 +1,8 @@
+1	går	går	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+4	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:17
+6	verk	verk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

@@ -1,0 +1,8 @@
+1	svänger	svänger	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	lä	lä	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	tung	tung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	bom	bom	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

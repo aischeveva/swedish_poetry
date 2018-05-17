@@ -1,0 +1,7 @@
+1	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	lätt	lätt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	lockar	lockar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	svärmarn	svärmarn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	neder	neder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+

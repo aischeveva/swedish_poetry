@@ -1,0 +1,6 @@
+1	följ	följa	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:5
+3	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:8
+4	stigar	stigar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+

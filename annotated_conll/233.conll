@@ -1,0 +1,8 @@
+1	brödet	brödet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:7
+3	lindrar	lindra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+5	nakna	nakna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+6	nöden	nöden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

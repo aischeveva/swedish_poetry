@@ -1,0 +1,8 @@
+1	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:3
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	kind	kind	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	spreds	spreds	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	ljuvligt	ljuvligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	orörd	orörd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

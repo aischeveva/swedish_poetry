@@ -1,0 +1,15 @@
+1	Ärans	ärans	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	hjältarnas	hjältarnas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:10
+4	språk	språk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:1:28
+2	ädelt	ädelt	AB	AB	POS	_	_	_	_	O	_	temp:1:32
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:1:38
+4	manligt	manligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:42
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:50
+6	rör	röra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:53
+7	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:1:57
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:1:60
+

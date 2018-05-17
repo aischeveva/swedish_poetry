@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	tanken	tanke	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	krymper	krymper	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:19
+5	trängre	trängre	UO	UO	_	_	_	_	_	O	_	temp:0:24
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

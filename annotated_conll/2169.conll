@@ -1,0 +1,10 @@
+1	störtar	störtar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:8
+3	formas	formas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:12
+4	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	brister	brister	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:34
+8	luftens	luftens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:36
+9	lila	lila	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+

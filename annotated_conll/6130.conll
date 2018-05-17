@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mened	mened	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	dansar	dansar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	läppar	läpp	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	friska	frisk	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:35
+

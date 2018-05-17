@@ -1,0 +1,7 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	ska	ska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	tacka	tacka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:7
+4	dina	dina	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	gudar	gudar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

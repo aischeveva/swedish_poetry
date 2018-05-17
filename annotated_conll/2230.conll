@@ -1,0 +1,8 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dessa	denna	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:4
+3	spillror	spillror	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	stöttar	stötta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:27
+6	mina	min	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:31
+7	ruiner	ruiner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:36
+

@@ -1,0 +1,7 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Välkommen	välkommen	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:1
+3	gäst	gäst	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:11
+4	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:16
+5	inne	inne	AB	AB	_	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

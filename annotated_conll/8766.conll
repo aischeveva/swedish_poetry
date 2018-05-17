@@ -1,0 +1,9 @@
+1	Fördunkla	fördunkla	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	ej	ej	UO	UO	_	_	_	_	_	O	_	temp:0:10
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:13
+4	bilden	bild	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:28
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+8	möt	möt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

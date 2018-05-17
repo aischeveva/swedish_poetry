@@ -1,0 +1,10 @@
+1	Önska	önska	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	inget	inget	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:17
+6	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+8	fått	få	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:31
+9	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

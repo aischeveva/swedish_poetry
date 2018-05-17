@@ -1,0 +1,12 @@
+1	Ingeborg	ingeborg	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+4	förlorat	förlorat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+6	henne	hon	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:27
+7	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:33
+8	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:37
+9	gamle	gamle	UO	UO	_	_	_	_	_	O	_	temp:0:41
+10	Ring	ring	UO	UO	_	_	_	_	_	O	_	temp:0:47
+11	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+

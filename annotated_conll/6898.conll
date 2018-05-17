@@ -1,0 +1,11 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	redligt	redligt	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	hjerta	hjerta	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	Helge	Helge	PM	PM	NOM	_	_	_	_	B	place	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+8	friskt	friskt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	tillika	tillika	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

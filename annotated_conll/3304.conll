@@ -1,0 +1,7 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	lyser	lyse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	Torstens	Torsten	PM	PM	GEN	_	_	_	_	B	person	temp:0:12
+5	hus	hus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

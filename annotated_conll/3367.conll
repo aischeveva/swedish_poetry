@@ -1,0 +1,14 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	talte	talte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	stadens	stadens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:9
+4	furste	furste	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+5	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:25
+7	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:26
+8	ska	ska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+9	dö	dö	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:33
+10	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:36
+11	ditt	ditt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+12	illdåd	illdåd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:51
+

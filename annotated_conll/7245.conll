@@ -1,0 +1,5 @@
+1	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	eget	eget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	val	val	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:11
+

@@ -1,0 +1,5 @@
+1	seger	seger	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	striderna	striderna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+

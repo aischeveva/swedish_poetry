@@ -1,0 +1,9 @@
+1	strax	strax	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	maten	mat	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	tråkighet	tråkighet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:29
+7	trötthet	trötthet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

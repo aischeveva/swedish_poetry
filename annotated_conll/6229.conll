@@ -1,0 +1,8 @@
+1	mordbrännarkungen	mordbrännarkungen	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:19
+4	sålt	sålt	AB	AB	POS	_	_	_	_	O	_	temp:0:23
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:28
+6	syster	syster	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

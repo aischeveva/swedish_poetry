@@ -1,0 +1,14 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	förföljer	förföljer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:18
+5	rof	rof	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	flög	flyga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:28
+8	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:33
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:36
+10	viken	viken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:38
+11	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:44
+12	drakskepp	drakskepp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

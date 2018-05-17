@@ -1,0 +1,9 @@
+1	Med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	nederslagna	nederslagna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+4	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:21
+5	räckte	räckte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+6	hornet	hornet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+7	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:39
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

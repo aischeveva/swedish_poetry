@@ -1,0 +1,7 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	vandrar	vandra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	fri	fri	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	givna	givna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	väg	väg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

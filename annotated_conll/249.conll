@@ -1,0 +1,11 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	ville	vilja	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	följa	följa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:16
+5	tyst	tyst	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	där	där	HA	HA	_	_	_	_	_	O	_	temp:0:26
+8	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:30
+9	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

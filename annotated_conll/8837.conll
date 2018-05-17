@@ -1,0 +1,8 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	öppet	öppet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	ting	ting	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	emellan	emellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	blanka	blanka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+6	vapen	vapen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

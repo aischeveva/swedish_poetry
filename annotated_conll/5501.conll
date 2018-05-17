@@ -1,0 +1,7 @@
+1	Friboren	friboren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:9
+3	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	vika	vika	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+5	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

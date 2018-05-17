@@ -1,0 +1,6 @@
+1	begär	begär	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	minne	minne	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	kittlar	kittla	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+

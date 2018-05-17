@@ -1,0 +1,9 @@
+1	hemåt	hemåt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	leder	leder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	seglaren	seglaren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	hem	hem	PL	PL	_	_	_	_	_	O	_	temp:0:25
+6	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:29
+7	havet	havet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

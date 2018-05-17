@@ -1,0 +1,10 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	strådöd	strådöd	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	också	också	AB	AB	_	_	_	_	_	O	_	temp:0:15
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:21
+6	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:27
+8	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:29
+9	slut	slut	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+

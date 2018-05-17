@@ -1,0 +1,8 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	kunglig	kunglig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	idrott	idrott	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	landets	landets	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	fred	fred	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,6 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	knutpunkt	knutpunkt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	ödet	ödet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

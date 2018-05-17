@@ -1,0 +1,9 @@
+1	hvarann	hvarann	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+3	trohet	trohet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	fast	fast	SN	SN	_	_	_	_	_	O	_	temp:0:19
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:24
+7	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:28
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,9 @@
+1	Kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	älskade	älskade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+6	låt	låt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:22
+8	trycka	trycka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+

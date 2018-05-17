@@ -1,0 +1,16 @@
+1	Alla	alla	PN	PN	UTR/NEU|PLU|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+5	nåd	nåd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:19
+7	vänta	vänta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+8	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:29
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:30
+10	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:32
+11	gåva	gåva	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+12	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:40
+13	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:44
+14	rövar	rövar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:50
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:55
+

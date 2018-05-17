@@ -1,0 +1,9 @@
+1	dock	dock	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	lefver	lefver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:12
+4	minne	minne	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	skaldens	skaldens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:25
+7	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

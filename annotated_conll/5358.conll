@@ -1,0 +1,7 @@
+1	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:0
+2	plantor	plantor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	fostrarns	fostrarns	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	vård	vård	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

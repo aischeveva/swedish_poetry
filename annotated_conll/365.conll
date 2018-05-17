@@ -1,0 +1,6 @@
+1	Låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	mångfald	mångfald	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	långsamt	långsamt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+

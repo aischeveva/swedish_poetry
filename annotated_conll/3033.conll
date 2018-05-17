@@ -1,0 +1,9 @@
+1	Se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:2
+3	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:4
+4	ljusen	ljusen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+5	tindrar	tindra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:23
+7	slätterna	slätterna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:26
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,6 @@
+1	ner	ner	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	sjöblå	Sjöblå	PM	PM	NOM	_	_	_	_	B	person	temp:0:9
+4	Ran	Ran	PM	PM	NOM	_	_	_	_	I	person	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+

@@ -1,0 +1,9 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Jug	jug	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:1
+3	jug	jug	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:8
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:10
+6	smutsiga	smutsiga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+7	öron	öron	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

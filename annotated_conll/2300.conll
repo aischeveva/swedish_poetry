@@ -1,0 +1,12 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	vilja	vilja	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	viss	viss	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+7	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:28
+8	väg	väg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:36
+10	underdånig	underdånig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+11	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

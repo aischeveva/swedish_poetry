@@ -1,0 +1,8 @@
+1	Hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	sväfvar	sväfvar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	sakta	sakta	AB	AB	POS	_	_	_	_	O	_	temp:0:12
+4	öfver	öfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	Balders	balders	UO	UO	_	_	_	_	_	O	_	temp:0:24
+6	lunder	lunder	UO	UO	_	_	_	_	_	O	_	temp:0:32
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

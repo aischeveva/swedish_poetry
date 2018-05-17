@@ -1,0 +1,9 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	ditt	ditt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	tecken	tecken	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+6	hjeltefader	hjeltefader	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+7	god	god	IN	IN	_	_	_	_	_	O	_	temp:0:33
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

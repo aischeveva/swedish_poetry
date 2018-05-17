@@ -1,0 +1,6 @@
+1	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	skimrande	skimrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	bärnsten	bärnsten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

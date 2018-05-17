@@ -1,0 +1,8 @@
+1	Ljus	ljus	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	gräns	gräns	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:10
+4	omvärver	omvärver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:25
+6	drag	drag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

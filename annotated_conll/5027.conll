@@ -1,0 +1,10 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	låga	låga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	sanning	sanning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+6	våga	våga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:25
+7	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:30
+8	rätt	rätt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

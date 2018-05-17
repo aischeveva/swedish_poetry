@@ -1,0 +1,9 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	gyllne	gyllne	RG	RG	NOM	_	_	_	_	O	_	temp:0:4
+3	kronor	krona	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	sutto	Sutto	PM	PM	NOM	_	_	_	_	B	person	temp:0:19
+6	Valhalls	Valhalls	PM	PM	NOM	_	_	_	_	I	person	temp:0:25
+7	gudar	gudar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

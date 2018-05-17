@@ -1,0 +1,8 @@
+1	stiger	stiger	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	djerft	djerft	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+4	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:18
+5	hvilade	hvilade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+6	örn	örn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

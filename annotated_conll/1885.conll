@@ -1,0 +1,9 @@
+1	Under	under	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	eldskenet	eldskenet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+4	Under	under	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	borsten	borsten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+6	spreds	spreds	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:31
+7	hennes	hennes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:38
+8	hår	hår	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:45
+

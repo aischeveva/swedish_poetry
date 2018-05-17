@@ -1,0 +1,6 @@
+1	Tingens	tingens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:0
+2	töckenbilder	töckenbild	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	löser	löse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:27
+5	form	form	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+

@@ -1,0 +1,8 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	rosor	rosor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	uppå	uppå	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	kinderna	kinderna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+6	rosor	rosor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:34
+

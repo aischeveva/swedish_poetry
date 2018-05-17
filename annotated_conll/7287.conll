@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Balders	Balder	PM	PM	GEN	_	_	_	_	B	person	temp:0:4
+3	tempel	tempel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+6	vigda	vigda	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	strand	strand	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

@@ -1,0 +1,5 @@
+1	solig	solig	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	salig	salig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+

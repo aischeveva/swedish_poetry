@@ -1,0 +1,8 @@
+1	Ämnar	ämnar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	stänga	stänga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	sista	sist	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	vägen	väg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

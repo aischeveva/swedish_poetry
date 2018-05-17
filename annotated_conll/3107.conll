@@ -1,0 +1,7 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	vaknar	vaknar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:14
+5	hemlig	hemlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	värk	värk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+

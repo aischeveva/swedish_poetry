@@ -1,0 +1,14 @@
+1	Upp	upp	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	Frithiof	frithiof	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:17
+5	växt	växt	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+8	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:31
+9	blandat	blanda	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:34
+10	blod	blod	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+11	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:47
+12	hvarandra	hvarandra	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:51
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:60
+

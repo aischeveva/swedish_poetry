@@ -1,0 +1,7 @@
+1	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	alfer	alfer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:9
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:13
+5	lyder	lyder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+6	blint	blint	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+

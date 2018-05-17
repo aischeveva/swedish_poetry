@@ -1,0 +1,8 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	lek	lek	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:11
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:15
+6	lån	lån	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

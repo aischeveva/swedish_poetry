@@ -1,0 +1,10 @@
+1	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:0
+2	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	Nordlanden	nordlanden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	Menskan	menskan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:22
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:30
+3	slaf	slaf	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:33
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:1:37
+

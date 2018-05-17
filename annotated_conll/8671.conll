@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	nattens	nattens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:18
+6	allvarsamma	allvarsamma	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	tankar	tankar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

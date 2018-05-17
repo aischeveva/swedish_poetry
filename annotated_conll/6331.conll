@@ -1,0 +1,7 @@
+1	Eldhaf	eldhaf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	böljar	böljar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:7
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	Balders	balders	UO	UO	_	_	_	_	_	O	_	temp:0:16
+5	lund	lund	UO	UO	_	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

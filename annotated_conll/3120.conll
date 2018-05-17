@@ -1,0 +1,7 @@
+1	tinningar	tinningar	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+3	samma	samma	DT	DT	UTR/NEU|SIN/PLU|IND	_	_	_	_	O	_	temp:0:12
+4	välvning	välvning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	gjutna	gjutna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:27
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

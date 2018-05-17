@@ -1,0 +1,10 @@
+1	lösta	lösta	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	kaskader	kaskader	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	toner	toner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	tills	tills	SN	SN	_	_	_	_	_	O	_	temp:0:27
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:33
+9	känner	känna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:37
+

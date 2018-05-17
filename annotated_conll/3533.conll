@@ -1,0 +1,6 @@
+1	innan	innan	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	världen	värld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+4	till	till	AB	AB	_	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+

@@ -1,0 +1,9 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	plöjdes	plöjdes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:4
+3	mark	mark	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:20
+6	första	första	RO	RO	NOM	_	_	_	_	O	_	temp:0:23
+7	plogarna	plogarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

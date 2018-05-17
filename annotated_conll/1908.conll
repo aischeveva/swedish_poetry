@@ -1,0 +1,14 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:1
+3	ska	ska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+5	göra	göra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+6	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:18
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:1:22
+2	ska	ska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:26
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:30
+4	göra	göra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:34
+5	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:1:38
+

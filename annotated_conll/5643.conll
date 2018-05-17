@@ -1,0 +1,8 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	skeppet	skeppet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	halft	halft	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	begrafvet	begrafvet	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

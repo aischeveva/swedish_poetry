@@ -1,0 +1,12 @@
+1	Ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hvad	hvad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+4	sker	ske	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:17
+6	nere	nere	AB	AB	_	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:27
+9	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+10	redan	redan	AB	AB	_	_	_	_	_	O	_	temp:0:35
+11	skett	ske	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:41
+

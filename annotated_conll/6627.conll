@@ -1,0 +1,12 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	talte	talte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	kungen	kungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	vredgad	vredgad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	gubben	gubben	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+8	gömd	gömd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:42
+10	vrån	vrån	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:44
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

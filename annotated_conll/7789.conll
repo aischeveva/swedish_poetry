@@ -1,0 +1,13 @@
+1	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	vågen	vågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	Forsete	Forsete	PM	PM	NOM	_	_	_	_	B	person	temp:0:26
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+9	domarn	domarn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+10	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:42
+11	höstting	höstting	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:53
+

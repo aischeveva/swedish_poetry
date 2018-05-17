@@ -1,0 +1,9 @@
+1	Allfader	allfader	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dömmer	dömmer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+3	emellan	emellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+4	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:24
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:28
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:30
+

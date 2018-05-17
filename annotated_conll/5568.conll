@@ -1,0 +1,7 @@
+1	än	än	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:3
+3	stund	stund	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	stormen	stormen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

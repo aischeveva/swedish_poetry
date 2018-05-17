@@ -1,0 +1,10 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	kung	kung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:15
+6	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:19
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:23
+8	ära	ära	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

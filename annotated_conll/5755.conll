@@ -1,0 +1,7 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	sed	sed	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	gamle	gamle	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+6	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

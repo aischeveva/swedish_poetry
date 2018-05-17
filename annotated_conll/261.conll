@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	upptäckarglädjen	upptäckarglädjen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	inför	inför	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+4	nya	ny	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:27
+5	gamla	gammal	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:31
+6	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:37
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

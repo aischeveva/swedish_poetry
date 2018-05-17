@@ -1,0 +1,6 @@
+1	vann	vinna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:5
+3	egen	egen	JJ	JJ	POS|UTR|SIN|IND/DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	själ	själ	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+

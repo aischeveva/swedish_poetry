@@ -1,0 +1,7 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	store	store	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	Odensonens	odensonens	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:20
+5	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:22
+6	ättartal	ättartal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+

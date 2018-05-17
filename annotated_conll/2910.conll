@@ -1,0 +1,8 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	blixtrade	blixtrade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	hårt	hårt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:14
+4	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

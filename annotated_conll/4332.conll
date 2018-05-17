@@ -1,0 +1,21 @@
+1	Herre	herre	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	sällhet	sällhet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+6	din	din	NN	NN	UTR|-|-|-	_	_	_	_	O	_	temp:0:22
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:28
+2	gav	ge	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:31
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:34
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:1:36
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:40
+6	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:43
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:46
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:1:48
+9	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:52
+10	döljer	döljer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:55
+11	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:1:62
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:65
+

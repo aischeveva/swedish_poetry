@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	knappt	knappt	AB	AB	POS	_	_	_	_	O	_	temp:0:12
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:19
+6	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+7	dej	dej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+8	hit	hit	AB	AB	_	_	_	_	_	O	_	temp:0:30
+

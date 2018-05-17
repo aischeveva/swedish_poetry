@@ -1,0 +1,12 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	bad	be	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	middag	middag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:22
+7	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:25
+8	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:29
+9	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:32
+10	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:35
+11	varm-	varm-	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+

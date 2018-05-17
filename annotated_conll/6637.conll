@@ -1,0 +1,15 @@
+1	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	mötte	möta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:9
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	hån	hån	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+8	för	för	KN	KN	_	_	_	_	_	O	_	temp:0:26
+9	hån	hån	AB	AB	_	_	_	_	_	O	_	temp:0:30
+10	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+11	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:37
+12	ej	ej	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:41
+13	gjord	gjord	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+14	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

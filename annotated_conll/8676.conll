@@ -1,0 +1,9 @@
+1	förliden	förliden	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+5	betänkt	betänka	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:22
+6	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:30
+7	öde	öde	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

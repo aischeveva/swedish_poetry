@@ -1,0 +1,7 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	väsen	väsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	behagade	behagade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	icke	icke	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+5	Björn	Björn	PM	PM	NOM	_	_	_	_	B	person	temp:0:24
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

@@ -1,0 +1,11 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	helig	helig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:9
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+5	läste	läsa	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+6	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:23
+7	korparna	korparna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:26
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:35
+9	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:39
+10	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

@@ -1,0 +1,7 @@
+1	Asarna	asarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:12
+4	huggna	huggna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	stoder	stoder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

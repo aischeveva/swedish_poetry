@@ -1,0 +1,7 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	vesterhafvet	vesterhafvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:22
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:26
+6	krans	krans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

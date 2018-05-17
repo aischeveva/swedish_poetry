@@ -1,0 +1,6 @@
+1	sövt	sövt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	sorgsen	sorgsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	dvala	dvala	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+5	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:21
+

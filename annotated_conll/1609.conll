@@ -1,0 +1,9 @@
+1	bugar	bugar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	icke	icke	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:19
+6	stolta	stolta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+7	portalerna	portalerna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

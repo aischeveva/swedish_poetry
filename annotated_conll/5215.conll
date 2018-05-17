@@ -1,0 +1,13 @@
+1	Stolt	stolt	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	oböjlig	oböjlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	arm	arm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:22
+7	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:24
+8	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:28
+9	graven	graven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+10	behärskar	behärskar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:38
+11	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:48
+12	ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:51
+

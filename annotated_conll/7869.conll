@@ -1,0 +1,11 @@
+1	Kämpar	kämpa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+4	tolf	tolf	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	gråhåriga	gråhåriga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+7	furstar	fursta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:40
+9	idrott	idrott	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:48
+

@@ -1,0 +1,11 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vågen	vågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	tumlar	tumlar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:17
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:21
+6	förr	förr	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+7	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:30
+8	hällen	hällen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+10	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

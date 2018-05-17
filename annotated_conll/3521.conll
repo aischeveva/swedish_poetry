@@ -1,0 +1,14 @@
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:7
+4	mål	mål	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:17
+7	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:19
+8	väg	väg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+10	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:29
+11	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:32
+12	känd	känd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+13	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

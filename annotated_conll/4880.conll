@@ -1,0 +1,5 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	talte	talte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	sanning	sanning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+

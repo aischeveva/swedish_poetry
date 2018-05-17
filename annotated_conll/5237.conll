@@ -1,0 +1,13 @@
+1	Mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	behagar	behagar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+4	ej	ej	AB	AB	KOM	_	_	_	_	O	_	temp:0:15
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+
+1	För	för	PP	PP	_	_	_	_	_	O	_	temp:1:19
+2	veklig	veklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:23
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:1:30
+4	nordiska	nordiska	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:34
+5	styrkan	styrkan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:43
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:50
+

@@ -1,0 +1,7 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	hastigt	hastigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	lurfhårig	lurfhårig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	Bran	bran	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

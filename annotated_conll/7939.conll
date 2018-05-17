@@ -1,0 +1,10 @@
+1	Hvad	hvad	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	Ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:14
+6	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:17
+7	ej	ej	RG	RG	NOM	_	_	_	_	O	_	temp:0:20
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:23
+9	öfverflöd	öfverflöd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

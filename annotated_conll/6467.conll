@@ -1,0 +1,11 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	syns	syns	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	vikingaskepp	vikingaskepp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+5	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:22
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+7	äntring	äntring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:36
+9	strid	strid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

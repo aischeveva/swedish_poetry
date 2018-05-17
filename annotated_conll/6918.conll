@@ -1,0 +1,9 @@
+1	Fåkunnig	fåkunnig	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	gäst	gäst	AB	AB	POS	_	_	_	_	O	_	temp:0:9
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	högbänk	högbänk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	försmås	försmås	AB	AB	AN	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+7	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:33
+8	vitter	vitter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:37
+

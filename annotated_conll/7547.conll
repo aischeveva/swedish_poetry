@@ -1,0 +1,8 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	höge	höge	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	Asar	asar	UO	UO	_	_	_	_	_	O	_	temp:0:8
+4	föllo	föllo	UO	UO	_	_	_	_	_	O	_	temp:0:13
+5	sjelfve	sjelfve	UO	UO	_	_	_	_	_	O	_	temp:0:19
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	Ragnarök	Ragnarök	PM	PM	NOM	_	_	_	_	B	person	temp:0:28
+

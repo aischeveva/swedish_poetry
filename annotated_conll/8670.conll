@@ -1,0 +1,11 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	väntade	väntade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:12
+4	ständigt	ständigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:30
+8	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:33
+9	ej	ej	RG	RG	NOM	_	_	_	_	O	_	temp:0:37
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

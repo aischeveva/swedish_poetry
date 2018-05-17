@@ -1,0 +1,7 @@
+1	grep	grep	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:13
+5	rus	rus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

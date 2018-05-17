@@ -1,0 +1,6 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:2
+3	främmande	främmande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+4	land	land	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

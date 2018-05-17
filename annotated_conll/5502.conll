@@ -1,0 +1,8 @@
+1	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	verlden	verlden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	frie	frie	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

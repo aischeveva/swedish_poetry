@@ -1,0 +1,9 @@
+1	det	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	bästa	god	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	undret	undret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:20
+6	troget	troget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	hjerta	hjerta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

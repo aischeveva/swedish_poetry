@@ -1,0 +1,8 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	fromme	fromme	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	guden	guden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	öfver	öfver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	jungfruns	jungfruns	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:23
+6	kärlek	kärlek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,7 @@
+1	Ångesten	ångest	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sträcker	sträcker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+3	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+4	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:22
+5	dyiga	dyiga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+6	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+

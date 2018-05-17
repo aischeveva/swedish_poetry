@@ -1,0 +1,8 @@
+1	fritt	fritt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	tinget	tinget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:21
+6	mening	mening	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

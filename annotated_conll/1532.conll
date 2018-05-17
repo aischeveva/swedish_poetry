@@ -1,0 +1,5 @@
+1	läppar	läpp	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	uttala	uttala	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+

@@ -1,0 +1,8 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	glänste	glänste	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	klinga	klinga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	blå	blå	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

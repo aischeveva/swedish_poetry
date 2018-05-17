@@ -1,0 +1,10 @@
+1	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	barndoms	barndoms	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	vänner	vän	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:25
+7	älskat	älska	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:29
+8	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:36
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

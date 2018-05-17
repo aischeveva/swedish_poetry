@@ -1,0 +1,11 @@
+1	Ack	ack	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:3
+
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:1:5
+2	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:1:9
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:14
+4	för	för	KN	KN	_	_	_	_	_	O	_	temp:1:16
+5	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:1:20
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:26
+7	flutit	flutit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:1:30
+

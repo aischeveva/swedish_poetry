@@ -1,0 +1,6 @@
+1	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:6
+4	gamla	gammal	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:9
+5	tider	tid	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+

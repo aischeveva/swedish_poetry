@@ -1,0 +1,16 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	För	för	PP	PP	_	_	_	_	_	O	_	temp:0:1
+3	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:5
+4	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+5	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:13
+6	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:14
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+8	för	för	KN	KN	_	_	_	_	_	O	_	temp:0:17
+9	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:21
+10	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+11	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:29
+12	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:30
+13	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:32
+

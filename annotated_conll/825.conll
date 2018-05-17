@@ -1,0 +1,5 @@
+1	tidlös	tidlös	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	eld	eld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+3	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	skaparbålet	skaparbålet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+

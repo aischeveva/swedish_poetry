@@ -1,0 +1,7 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	gäspar	gäspar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	värdes	värdes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:13
+5	förlåta	förlåta	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

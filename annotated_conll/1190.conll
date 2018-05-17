@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	skalet	skalet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+5	tunna	tunna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	blå	blå	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	hinnan	hinnan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:35
+9	spänner	spänner	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:39
+10	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:47
+

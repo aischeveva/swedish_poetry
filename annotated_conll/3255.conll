@@ -1,0 +1,8 @@
+1	Jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	lam	lam	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+5	himlen	himmel	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	blind	blind	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

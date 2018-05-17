@@ -1,0 +1,7 @@
+1	Känn	känn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:5
+3	nära	nära	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	Verkligheten	verklighet	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	bor	bor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

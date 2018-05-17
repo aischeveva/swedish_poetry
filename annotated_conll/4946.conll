@@ -1,0 +1,9 @@
+1	Fast	fast	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:5
+3	väsende	väsende	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:21
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:25
+

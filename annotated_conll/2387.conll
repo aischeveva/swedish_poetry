@@ -1,0 +1,8 @@
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+4	lugnt	lugnt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:11
+5	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+6	falla	falla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

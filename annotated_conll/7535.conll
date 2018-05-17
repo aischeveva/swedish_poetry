@@ -1,0 +1,9 @@
+1	Allfaders	allfaders	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:10
+3	tankar	tankar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:25
+6	förändras	förändras	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:28
+7	ej	ej	RG	RG	NOM	_	_	_	_	O	_	temp:0:38
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

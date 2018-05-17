@@ -1,0 +1,8 @@
+1	inga	ingen	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	temp:0:0
+2	band	band	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:14
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+6	fästa	fästa	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

@@ -1,0 +1,9 @@
+1	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	njuta	njuta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:18
+6	sorgfria	sorgfria	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	väsen	väsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

@@ -1,0 +1,40 @@
+1	Ska	skola	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14889090:0:1
+2	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	265827-14889090:0:5
+3	sluta	sluta	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14889090:0:12
+4	äta	äta	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14889090:0:18
+5	mellis	mellis	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14889090:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14889090:0:28
+
+1	Blandade	blanda	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14889090:1:30
+2	lite	lite	AB	AB	POS	_	_	_	_	O	_	265827-14889090:1:39
+3	ekologisk	ekologisk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14889090:1:44
+4	naturell	naturell	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14889090:1:54
+5	yoghurt	yoghurt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14889090:1:63
+6	med	med	PP	PP	_	_	_	_	_	O	_	265827-14889090:1:71
+7	frysta	frysa	PC	PC	PRF|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14889090:1:75
+8	bär	bär	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	265827-14889090:1:82
+9	och	och	KN	KN	_	_	_	_	_	O	_	265827-14889090:1:86
+10	honung	honung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14889090:1:90
+11	,	,	MID	MID	_	_	_	_	_	O	_	265827-14889090:1:96
+12	och	och	KN	KN	_	_	_	_	_	O	_	265827-14889090:1:98
+13	lite	lite	AB	AB	POS	_	_	_	_	O	_	265827-14889090:1:102
+14	supermüsli	supermüsli	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14889090:1:107
+15	på	på	PP	PP	_	_	_	_	_	O	_	265827-14889090:1:118
+16	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14889090:1:120
+
+1	Och	och	KN	KN	_	_	_	_	_	O	_	265827-14889090:2:122
+2	sen	sen	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14889090:2:126
+3	macka	macka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14889090:2:130
+4	med	med	PP	PP	_	_	_	_	_	O	_	265827-14889090:2:136
+5	extra	extra	AB	AB	_	_	_	_	_	O	_	265827-14889090:2:140
+6	mycket	mycken	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14889090:2:146
+7	smör	smör	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14889090:2:153
+8	på	på	PP	PP	_	_	_	_	_	O	_	265827-14889090:2:158
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14889090:2:160
+
+1	Beach	Beach	PM	PM	NOM	_	_	_	_	B	person	265827-14889090:3:162
+2	2012	2012	RG	RG	NOM	_	_	_	_	O	_	265827-14889090:3:168
+3	-	-	MID	MID	_	_	_	_	_	O	_	265827-14889090:3:173
+4	pffft	pffft	IN	IN	_	_	_	_	_	O	_	265827-14889090:3:175
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14889090:3:180
+

@@ -1,0 +1,5 @@
+1	räknad	räknad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	varma	varm	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	svärmare	svärmare	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:16
+

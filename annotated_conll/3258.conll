@@ -1,0 +1,8 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+5	vaknat	vaknat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:14
+6	redan	redan	AB	AB	_	_	_	_	_	O	_	temp:0:21
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

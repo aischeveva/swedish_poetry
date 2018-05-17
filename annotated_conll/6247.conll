@@ -1,0 +1,9 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Björn	björn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:1
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	håll	håll	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+5	endast	endast	AB	AB	SUV	_	_	_	_	O	_	temp:0:13
+6	dörren	dörr	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:27
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

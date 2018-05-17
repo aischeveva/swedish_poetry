@@ -1,0 +1,11 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	drottningen	drottningen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+4	hornet	hornet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:28
+7	framför	framför	PP	PP	_	_	_	_	_	O	_	temp:0:32
+8	henne	hon	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:40
+9	stod	stå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:46
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:50
+

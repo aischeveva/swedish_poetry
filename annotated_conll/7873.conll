@@ -1,0 +1,17 @@
+1	glad	glad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:19
+7	fast	fast	SN	SN	_	_	_	_	_	O	_	temp:0:23
+8	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:28
+9	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:32
+10	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:35
+11	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:39
+12	vis	vis	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+13	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:47
+14	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:51
+15	gubbe	gubbe	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:54
+16	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:59
+

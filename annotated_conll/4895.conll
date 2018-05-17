@@ -1,0 +1,7 @@
+1	Tor	tor	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	hammar	hammar	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

@@ -1,0 +1,7 @@
+1	lugn	lugn	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:11
+4	heta	heta	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	dödar	dödar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

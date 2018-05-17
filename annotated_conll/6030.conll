@@ -1,0 +1,8 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	fädren	fädren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	sitta	sitta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	gröna	gröna	RG	RG	NOM	_	_	_	_	O	_	temp:0:19
+6	högar	högar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

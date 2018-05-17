@@ -1,0 +1,9 @@
+1	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:5
+3	peta	peta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	frön	frön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:22
+7	gro	gro	UO	UO	_	_	_	_	_	O	_	temp:0:26
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

@@ -1,0 +1,9 @@
+1	O	o	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:1
+3	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:7
+5	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:11
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+7	banan	banan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+8	trädde	trädde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+

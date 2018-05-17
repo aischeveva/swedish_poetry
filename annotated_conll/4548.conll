@@ -1,0 +1,9 @@
+1	nej	nej	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	faktiskt	faktiskt	AB	AB	POS	_	_	_	_	O	_	temp:0:5
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:14
+5	gjorde	göra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:25
+7	ej	ej	AB	AB	KOM	_	_	_	_	O	_	temp:0:29
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

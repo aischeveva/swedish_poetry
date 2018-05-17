@@ -1,0 +1,8 @@
+1	Jämmer	jämmer	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	vinden	vinden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	gråt	gråt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:17
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	regnet	regnet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+

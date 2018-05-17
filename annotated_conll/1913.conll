@@ -1,0 +1,12 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:4
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:7
+4	regnar	regnar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:19
+7	täckt	täckt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	bil	bil	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+9	klockan	klocka	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+10	fyra	fyra	RG	RG	NOM	_	_	_	_	O	_	temp:0:40
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

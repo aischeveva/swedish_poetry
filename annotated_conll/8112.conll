@@ -1,0 +1,7 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	simma	simma	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	drakar	drakar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	vågen	vågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:25
+

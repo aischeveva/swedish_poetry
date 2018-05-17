@@ -1,0 +1,12 @@
+1	söder	söder	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	Gröningasund	Gröningasund	PM	PM	NOM	_	_	_	_	B	person	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+5	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+6	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:26
+7	stridde	stridde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:30
+8	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:38
+9	väldige	väldige	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+10	Vifell	Vifell	PM	PM	NOM	_	_	_	_	B	person	temp:0:50
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:56
+

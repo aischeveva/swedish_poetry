@@ -1,0 +1,7 @@
+1	snart	snart	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+3	blef	blef	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	öga	öga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

@@ -1,0 +1,8 @@
+1	Evig	evig	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	medvind	medvind	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:15
+5	segel	segel	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	susar	susar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

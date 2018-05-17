@@ -1,0 +1,8 @@
+1	Detta	detta	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	ljugande	ljugande	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	spegelbild	spegelbild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	bara	bara	AB	AB	_	_	_	_	_	O	_	temp:0:32
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

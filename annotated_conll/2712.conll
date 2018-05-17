@@ -1,0 +1,7 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	väl	väl	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	brinnande	brinnande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	ljus	ljus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

@@ -1,0 +1,6 @@
+1	Starkt	starkt	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	evigt	evigt	AB	AB	POS	_	_	_	_	O	_	temp:0:8
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+5	starkt	starkt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+

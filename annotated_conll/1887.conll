@@ -1,0 +1,10 @@
+1	glödde	glödde	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	låg	ligga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+6	sen	sen	AB	AB	_	_	_	_	_	O	_	temp:0:21
+7	förbittrat	förbittrat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:25
+8	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:36
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

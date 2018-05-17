@@ -1,0 +1,6 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	frid	frid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:7
+4	röst	röst	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+

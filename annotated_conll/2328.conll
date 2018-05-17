@@ -1,0 +1,6 @@
+1	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	svarta	svart	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	senhöstnatten	senhöstnatt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,8 @@
+1	Halvätne	halvätne	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	månen	måne	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+3	skrider	skrider	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+4	jämt	jämt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:23
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:28
+6	skrider	skrider	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

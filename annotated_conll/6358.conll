@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	nät	nät	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+6	flygande	flygande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	lock	lock	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,11 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	häpna	häpna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	drottnings	drottnings	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	kinder	kinder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:28
+6	skifta	skifta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:31
+7	färg	färg	NN	NN	AN	_	_	_	_	O	_	temp:0:38
+8	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:43
+9	snällt	snällt	AB	AB	POS	_	_	_	_	O	_	temp:0:46
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

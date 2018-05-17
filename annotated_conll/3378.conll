@@ -1,0 +1,9 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:3
+3	verk	verk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:13
+6	återstår	återstå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+7	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:26
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

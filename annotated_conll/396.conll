@@ -1,0 +1,9 @@
+1	vittnesbörd	vittnesbörd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:12
+3	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:15
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	nåd	nåd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:26
+7	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+8	fått	få	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:33
+

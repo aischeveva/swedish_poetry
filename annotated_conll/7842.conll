@@ -1,0 +1,16 @@
+1	ge	ge	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:3
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:7
+4	minne	minne	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:20
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:1:25
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:1:29
+3	rikedom	rikedom	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:33
+4	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:41
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:1:48
+6	hafvet	hafvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:50
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:1:56
+

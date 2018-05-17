@@ -1,0 +1,10 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	sådan	sådan	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	frisk	frisk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	fin	fin	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+7	luftig	luftig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	blomsky	blomsky	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

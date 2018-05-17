@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mensklig	mensklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	hämnd	hämnd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+5	menskligt	menskligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	hat	hat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:33
+7	smalt	smalt	AB	AB	POS	_	_	_	_	O	_	temp:0:37
+8	sakta	sakta	AB	AB	POS	_	_	_	_	O	_	temp:0:43
+9	hän	hän	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:49
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

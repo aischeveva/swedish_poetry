@@ -1,0 +1,7 @@
+1	Välv	välv	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	salig	salig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	tiden	tid	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

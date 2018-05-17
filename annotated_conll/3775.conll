@@ -1,0 +1,7 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	ville	vilja	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	måla	måla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:15
+5	ringa	ringa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+6	grand	grand	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

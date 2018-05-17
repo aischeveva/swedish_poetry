@@ -1,0 +1,5 @@
+1	havsvidder	havsvidder	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:11
+3	dagbräckning	dagbräckning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

@@ -1,0 +1,9 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	stiga	stiga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+4	stjärnor	stjärnor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+5	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	Lethe	Lethe	PM	PM	NOM	_	_	_	_	B	person	temp:0:25
+7	opp	Opp	PM	PM	NOM	_	_	_	_	I	person	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

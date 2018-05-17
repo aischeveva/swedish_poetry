@@ -1,0 +1,15 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:3
+3	sköld	sköld	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:14
+6	lugnt	lugnt	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:23
+8	barnet	barnet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+9	somnar	somna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+10	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:41
+11	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:44
+12	moders	moders	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+13	arm	arm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:55
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:58
+

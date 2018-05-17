@@ -1,0 +1,6 @@
+1	alla	alla	PN	PN	UTR/NEU|PLU|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+3	blotar	blota	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	skogen	skog	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+

@@ -1,0 +1,12 @@
+1	Ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sky	sky	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	torva	torva	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	där	där	HA	HA	_	_	_	_	_	O	_	temp:0:18
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+8	lagt	lägga	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:25
+9	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:30
+10	stoft	stoft	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

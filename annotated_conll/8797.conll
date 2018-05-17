@@ -1,0 +1,10 @@
+1	i	i	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	skum	skum	UO	UO	_	_	_	_	_	O	_	temp:0:2
+3	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	väg	väg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	längterskan	längterskan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:32
+8	stranden	stranden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

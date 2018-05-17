@@ -1,0 +1,6 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	bön	bön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+5	enda	enda	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+

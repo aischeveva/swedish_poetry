@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	stämmer	stämmer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	tonen	tonen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	sakta	sakta	AB	AB	POS	_	_	_	_	O	_	temp:0:19
+6	pröfvande	pröfvande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+8	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:36
+9	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:41
+

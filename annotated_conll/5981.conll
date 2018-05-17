@@ -1,0 +1,7 @@
+1	lik	lik	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	fjäriln	fjäriln	UO	UO	_	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	förd	förd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	vinden	vinden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+

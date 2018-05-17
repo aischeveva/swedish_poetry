@@ -1,0 +1,10 @@
+1	Hav	hav	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:4
+3	hav	hav	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:13
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+7	kanske	kanske	AB	AB	_	_	_	_	_	O	_	temp:0:19
+8	land	land	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+9	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

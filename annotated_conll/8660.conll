@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	seglarns	seglarns	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	köl	köl	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	öfver	öfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	henne	hon	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:27
+7	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:33
+

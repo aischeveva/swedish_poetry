@@ -1,0 +1,7 @@
+1	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	korparna	korparna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	åto	åto	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:17
+5	mätta	mätta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

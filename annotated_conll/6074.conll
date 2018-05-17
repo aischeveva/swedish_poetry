@@ -1,0 +1,8 @@
+1	kring	kring	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	brända	brända	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	tomter	tomter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:20
+5	ögat	öga	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+6	kastar	kastar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

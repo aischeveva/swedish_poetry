@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mest	mycket	AB	AB	SUV	_	_	_	_	O	_	temp:0:4
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	de	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:13
+5	starkas	starkas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:16
+6	enfald	enfald	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:4
+3	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	mötas	mötas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:19
+6	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	vinnings	vinnings	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:29
+8	skull	skull	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+

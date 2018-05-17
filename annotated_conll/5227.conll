@@ -1,0 +1,17 @@
+1	Skona	skona	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	blott	blott	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:10
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:28
+8	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:30
+9	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+10	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:37
+11	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:41
+12	dans	dans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+13	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:49
+14	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:52
+15	döve	döve	UO	UO	_	_	_	_	_	O	_	temp:0:55
+16	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:59
+

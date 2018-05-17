@@ -1,0 +1,9 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	fågellåt	fågellåt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	alp	alp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+7	hed	hed	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

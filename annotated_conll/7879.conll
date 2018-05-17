@@ -1,0 +1,10 @@
+1	drack	drack	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	fädernas	fädernas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:9
+4	vis	vis	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:18
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+6	faders	faders	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	minne	minne	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:39
+9	hörde	höra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:43
+

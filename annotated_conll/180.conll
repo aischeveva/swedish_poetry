@@ -1,0 +1,17 @@
+1	Sen	sen	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	tyngre	tung	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	tyngre	tyngre	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:33
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:37
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:1:40
+4	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:1:44
+5	bar	bära	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:48
+6	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:1:52
+7	berg	berg	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:56
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:60
+

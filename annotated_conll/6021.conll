@@ -1,0 +1,6 @@
+1	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vestanvindar	vestanvindar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:16
+4	vårens	vårens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:20
+5	tunga	tunga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+

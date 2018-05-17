@@ -1,0 +1,6 @@
+1	stelnat	stelnat	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+3	Fyris	fyris	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	flöde	flöde	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

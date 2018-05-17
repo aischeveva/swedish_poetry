@@ -1,0 +1,10 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	botten	botten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	dyker	dyka	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:19
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+7	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:26
+8	tröst	tröst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

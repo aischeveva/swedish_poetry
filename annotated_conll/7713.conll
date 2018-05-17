@@ -1,0 +1,15 @@
+1	Genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	salen	sal	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:13
+5	lång	lång	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:21
+7	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:25
+8	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:29
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+10	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:34
+11	bordet	bordet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+12	af	af	UO	UO	_	_	_	_	_	O	_	temp:0:46
+13	stenek	stenek	UO	UO	_	_	_	_	_	O	_	temp:0:49
+14	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:55
+

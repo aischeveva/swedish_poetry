@@ -1,0 +1,14 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	svär	svvara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:9
+4	Frithiof	Frithiof	PM	PM	NOM	_	_	_	_	B	person	temp:0:13
+5	skydda	skydda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+8	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:34
+9	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:38
+10	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:42
+11	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:46
+12	verld	verld	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:49
+13	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:54
+

@@ -1,0 +1,7 @@
+1	Hos	hos	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	frihet	frihet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	vank	vank	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+

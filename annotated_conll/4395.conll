@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	blåser	blåse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:11
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	fackla	fackla	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	...	...	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

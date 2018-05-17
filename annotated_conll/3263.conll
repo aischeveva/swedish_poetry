@@ -1,0 +1,9 @@
+1	Mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	sinne	sinne	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	sluts	sluts	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:19
+6	fruset	fruset	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	tvång	tvång	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

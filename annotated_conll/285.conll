@@ -1,0 +1,14 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	frön	frön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+5	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+6	kraft	kraft	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:17
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+9	ska	ska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+10	bevaras	bevaras	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:32
+11	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:40
+12	gömmas	gömmas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:44
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

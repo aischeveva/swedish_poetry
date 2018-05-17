@@ -1,0 +1,9 @@
+1	bort	bort	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:9
+4	nidingsfunder	nidingsfunder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:26
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:28
+

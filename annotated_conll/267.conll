@@ -1,0 +1,9 @@
+1	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sjudande	sjudande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	oro	oro	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	jäsande	jäsande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	frågor	fråga	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

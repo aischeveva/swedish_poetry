@@ -1,0 +1,12 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:4
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+5	lärt	lärt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:15
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+8	slutat	sluta	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:28
+9	skrämmas	skrämmas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:35
+10	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:44
+11	blåsten	blåsten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:47
+

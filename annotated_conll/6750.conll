@@ -1,0 +1,13 @@
+1	Blicka	blicka	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	ros	ros	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	lilja	lilja	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+8	skiftande	skiftande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:28
+9	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:38
+10	hennes	hennes	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:41
+11	kind	kind	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

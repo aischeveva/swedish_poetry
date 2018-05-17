@@ -1,0 +1,7 @@
+1	Ångestfullt	ångestfullt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	läpparna	läpparna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	slutna	slutna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:26
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

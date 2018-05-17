@@ -1,0 +1,9 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	icke	icke	AB	AB	_	_	_	_	_	O	_	temp:0:3
+3	helig	helig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	nog	nog	AB	AB	_	_	_	_	_	O	_	temp:0:14
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	gudars	gudars	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:22
+7	blickar	blickar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

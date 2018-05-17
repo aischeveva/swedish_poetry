@@ -1,0 +1,11 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	drömmen	drömmen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:17
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+7	stolt	stolt	AB	AB	POS	_	_	_	_	O	_	temp:0:26
+8	som	som	HA	HA	_	_	_	_	_	O	_	temp:0:32
+9	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:36
+10	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

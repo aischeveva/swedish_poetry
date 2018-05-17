@@ -1,0 +1,5 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	vandrar	vandra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	mina	min	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:12
+4	vägar	vägar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+

@@ -1,0 +1,9 @@
+1	Jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	öppnar	öppnar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	vidare	vitt	AB	AB	KOM	_	_	_	_	O	_	temp:0:22
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:29
+7	jättekalk	jättekalk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

@@ -1,0 +1,9 @@
+1	glöm	glöm	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	ej	ej	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:9
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+7	andra	andra	PN	PN	UTR/NEU|PLU|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:21
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

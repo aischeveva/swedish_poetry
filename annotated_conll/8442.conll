@@ -1,0 +1,13 @@
+1	Var	vara	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	stark	stark	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:10
+4	själ	själ	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:20
+2	Välkommen	välkommen	AB	AB	AN	_	_	_	_	O	_	temp:1:22
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:31
+4	sent	sent	AB	AB	POS	_	_	_	_	O	_	temp:1:33
+5	omsider	omsider	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:1:38
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:1:45
+

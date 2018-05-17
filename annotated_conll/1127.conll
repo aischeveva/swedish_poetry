@@ -1,0 +1,8 @@
+1	Är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:6
+4	eld	eld	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:13
+6	bränner	bränner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

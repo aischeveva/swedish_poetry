@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:4
+3	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+4	tiga	tiga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	tåla	tåla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+7	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:26
+8	fram	fram	AB	AB	_	_	_	_	_	O	_	temp:0:30
+

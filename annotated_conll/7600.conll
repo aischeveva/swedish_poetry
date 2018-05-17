@@ -1,0 +1,7 @@
+1	sänd	sänd	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	Allfader	Allfader	PM	PM	NOM	_	_	_	_	B	person	temp:0:8
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:17
+5	förklara	förklara	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	runorna	runorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:30
+

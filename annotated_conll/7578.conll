@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Valhalls	valhalls	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	glans	glans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:13
+4	omstrålar	omstrålar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:29
+6	förtjustas	förtjustas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:32
+7	syn	syn	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:43
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

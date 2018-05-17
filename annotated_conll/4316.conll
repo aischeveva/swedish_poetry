@@ -1,0 +1,9 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	lyfta	lyfta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+6	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+7	bära	bära	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

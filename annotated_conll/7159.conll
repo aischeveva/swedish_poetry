@@ -1,0 +1,5 @@
+1	kring	kring	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	strödde	strödde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+

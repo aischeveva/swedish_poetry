@@ -1,0 +1,9 @@
+1	Tak	tak	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	huvudet	huvudet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	skydd	skydd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	kölden	kölden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

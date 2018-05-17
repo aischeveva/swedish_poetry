@@ -1,0 +1,7 @@
+1	Lyfte	lyfta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	Odens	Oden	PM	PM	GEN	_	_	_	_	B	person	temp:0:14
+5	sal	sal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

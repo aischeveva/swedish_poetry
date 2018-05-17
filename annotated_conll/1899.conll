@@ -1,0 +1,12 @@
+1	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	ingenting	ingenting	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:12
+
+1	Ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:14
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:18
+3	ingenting	ingenting	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:1:21
+4	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:1:30
+
+1	Minns	minns	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:2:32
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:2:38
+

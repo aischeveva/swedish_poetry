@@ -1,0 +1,9 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	vaggar	vaggar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	floden	floden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	inga	ingen	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	temp:0:17
+5	tombuteljer	tombuteljer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+7	smörgåspapper	smörgåspapper	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:35
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:48
+

@@ -1,0 +1,8 @@
+1	Din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vilsna	vilsna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	vänskap	vänskap	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	sekler	sekler	RG	RG	NOM	_	_	_	_	O	_	temp:0:25
+6	strövar	strövar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:32
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

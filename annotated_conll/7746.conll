@@ -1,0 +1,13 @@
+1	Fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	Österland	österland	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:24
+6	smidt	smidt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	(	(	PAD	PAD	_	_	_	_	_	O	_	temp:0:34
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:35
+9	sagan	sagan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+10	förtäljer	förtäljer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:45
+11	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:0:54
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:55
+

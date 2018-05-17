@@ -1,0 +1,12 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	dagg	dagg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	o	o	KN	KN	_	_	_	_	_	O	_	temp:0:14
+6	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:16
+7	himmel	himmel	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+9	gif	gif	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+10	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:31
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

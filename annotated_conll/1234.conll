@@ -1,0 +1,10 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:3
+3	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	kärlek	kärlek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+6	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:24
+7	villkor	villkor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+8	kvar	kvar	PL	PL	_	_	_	_	_	O	_	temp:0:36
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

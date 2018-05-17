@@ -1,0 +1,12 @@
+1	blank	blank	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	hennes	hennes	AB	AB	_	_	_	_	_	O	_	temp:0:9
+4	sköld	sköld	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+8	öppna	öppen	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+9	hennes	hennes	AB	AB	SUV	_	_	_	_	O	_	temp:0:39
+10	anletsdrag	anletsdrag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:56
+

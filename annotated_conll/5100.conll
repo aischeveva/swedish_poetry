@@ -1,0 +1,11 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	offer	offer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	bragte	bragte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+7	faror	faror	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+8	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:29
+9	lopp	lopp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

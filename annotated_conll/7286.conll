@@ -1,0 +1,12 @@
+1	Är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+4	förr	förr	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+
+1	Hvar	hvar	UO	UO	_	_	_	_	_	O	_	temp:1:18
+2	äro	äro	UO	UO	_	_	_	_	_	O	_	temp:1:23
+3	Framnäs	framnäs	UO	UO	_	_	_	_	_	O	_	temp:1:27
+4	'	'	UO	UO	_	_	_	_	_	O	_	temp:1:34
+5	salar	salar	UO	UO	_	_	_	_	_	O	_	temp:1:36
+

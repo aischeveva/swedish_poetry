@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	brinner	brinner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	smältande	smältande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+6	snö	snö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

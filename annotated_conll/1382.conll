@@ -1,0 +1,11 @@
+1	dit	dit	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	slipper	slipper	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:22
+7	helgar	helgar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+8	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:33
+9	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:37
+10	gåva	gåva	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+

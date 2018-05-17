@@ -1,0 +1,8 @@
+1	sluter	sluter	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:7
+3	rummet	rum	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	trängre	trängre	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+6	trängre	trängre	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

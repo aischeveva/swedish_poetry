@@ -1,0 +1,15 @@
+1	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	förfärlig	förfärlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	gestalt	gestalt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:25
+6	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:27
+7	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:31
+8	klädd	klädd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:41
+10	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:43
+11	mantel	mantel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+12	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:53
+13	lågor	lågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:56
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:61
+

@@ -1,0 +1,10 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	hörde	höra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	Helge	helge	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:21
+7	blind	blind	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	förbittring	förbittring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	drog	drog	AB	AB	AN	_	_	_	_	O	_	temp:0:43
+

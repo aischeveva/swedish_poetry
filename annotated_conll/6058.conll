@@ -1,0 +1,10 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:7
+4	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+5	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:16
+6	bud	bud	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:24
+8	föra	föra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

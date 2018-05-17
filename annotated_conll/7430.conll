@@ -1,0 +1,12 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	ton	ton	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	Breidablick	Breidablick	PM	PM	NOM	_	_	_	_	B	person	temp:0:20
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+8	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:33
+9	gudens	gudens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:38
+10	sal	sal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:48
+

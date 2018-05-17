@@ -1,0 +1,13 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	torra	torra	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	stenen	stenen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	inget	inget	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+5	sorl	sorl	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:23
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:28
+7	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+
+1	Blott	blott	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:39
+2	här	här	AB	AB	_	_	_	_	_	O	_	temp:1:45
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:48
+

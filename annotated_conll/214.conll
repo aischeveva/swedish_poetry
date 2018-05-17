@@ -1,0 +1,8 @@
+1	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	krympt	krympt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:11
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	blivit	bliva	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:22
+6	liten	liten	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

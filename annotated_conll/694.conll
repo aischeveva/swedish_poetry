@@ -1,0 +1,6 @@
+1	Bed	bed	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+

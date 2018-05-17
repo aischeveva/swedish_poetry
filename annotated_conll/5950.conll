@@ -1,0 +1,5 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	hjeltens	hjeltens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:5
+3	äfventyr	äfventyr	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

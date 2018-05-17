@@ -1,0 +1,6 @@
+1	sådan	sådan	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	skärran	skärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

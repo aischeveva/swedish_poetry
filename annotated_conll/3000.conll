@@ -1,0 +1,6 @@
+1	skänks	skänks	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	blott	blott	PC	PC	PRF|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+

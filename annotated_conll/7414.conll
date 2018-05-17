@@ -1,0 +1,10 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	gyllne	gyllne	UO	UO	_	_	_	_	_	O	_	temp:0:4
+3	stjernor	stjernor	UO	UO	_	_	_	_	_	O	_	temp:0:11
+4	uppå	uppå	UO	UO	_	_	_	_	_	O	_	temp:0:20
+5	mörkblå	mörkblå	UO	UO	_	_	_	_	_	O	_	temp:0:25
+6	grund	grund	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:40
+9	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:44
+

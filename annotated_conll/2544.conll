@@ -1,0 +1,5 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	svårmärklig	svårmärklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+4	egen	egen	JJ	JJ	POS|UTR|SIN|IND/DEF|NOM	_	_	_	_	O	_	temp:0:19
+

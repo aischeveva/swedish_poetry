@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:15
+6	blixten	blixten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	ledes	ledes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:27
+

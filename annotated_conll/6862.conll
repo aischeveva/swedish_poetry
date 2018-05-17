@@ -1,0 +1,10 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	varning	varning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:16
+5	gifva	gifvara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:26
+7	örnar	örnar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+8	unga	unga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

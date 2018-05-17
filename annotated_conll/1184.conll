@@ -1,0 +1,7 @@
+1	dalar	dalar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Undret	undret	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:13
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:17
+5	väldig	väldig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	insekt	insekt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+

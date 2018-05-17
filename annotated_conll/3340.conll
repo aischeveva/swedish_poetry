@@ -1,0 +1,10 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	silverskära	silverskära	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	toner	toner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+5	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+6	värld	värld	NN	NN	AN	_	_	_	_	O	_	temp:0:29
+7	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:35
+8	sport	sport	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

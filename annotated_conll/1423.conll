@@ -1,0 +1,7 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	asplöv	asplöv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	kropp	kropp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

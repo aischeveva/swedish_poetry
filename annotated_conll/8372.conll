@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	locka	locka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	löftet	löftet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+6	stoltes	stoltes	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	mun	mun	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

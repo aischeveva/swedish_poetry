@@ -1,0 +1,8 @@
+1	branta	branta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+4	skrämmer	skrämmer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+6	veka	veka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

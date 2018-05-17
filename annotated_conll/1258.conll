@@ -1,0 +1,5 @@
+1	Minns	minns	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	het	het	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	ömhet	ömhet	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+

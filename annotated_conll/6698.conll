@@ -1,0 +1,13 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	grep	grep	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	hvar	hvar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	svärdet	svärdet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+8	då	då	HA	HA	_	_	_	_	_	O	_	temp:0:30
+9	flammade	flammade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:33
+10	hvar	hvar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:42
+11	blick	blick	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

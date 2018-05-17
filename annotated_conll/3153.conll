@@ -1,0 +1,14 @@
+1	Mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:16
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:24
+8	bara	bara	AB	AB	_	_	_	_	_	O	_	temp:0:26
+9	mycket	mycket	AB	AB	POS	_	_	_	_	O	_	temp:0:31
+10	mindre	liten	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:38
+11	lätt	lätt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+12	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:50
+13	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:51
+

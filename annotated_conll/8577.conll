@@ -1,0 +1,10 @@
+1	få	få	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:3
+3	rum	rum	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	skeppsbord	skeppsbord	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:27
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+9	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:34
+

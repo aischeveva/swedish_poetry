@@ -1,0 +1,9 @@
+1	ska	ska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:4
+3	heta	heta	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	gnistor	gnistor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	falla	falla	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:27
+

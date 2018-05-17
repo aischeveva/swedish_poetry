@@ -1,0 +1,10 @@
+1	sköljer	sköljer	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	våg	våg	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	våg	våg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:21
+7	nattblå	nattblå	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	evighet	evighet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

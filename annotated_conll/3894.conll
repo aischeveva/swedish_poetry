@@ -1,0 +1,14 @@
+1	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	stort	stor	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	ej	ej	JJ	JJ	POS|UTR|SIN|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	smått	smått	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:20
+8	ej	ej	UO	UO	_	_	_	_	_	O	_	temp:0:22
+9	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+11	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+12	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

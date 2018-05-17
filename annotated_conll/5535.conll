@@ -1,0 +1,7 @@
+1	drog	drog	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	trollpar	trollpar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	fejd	fejd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

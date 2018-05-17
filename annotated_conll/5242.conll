@@ -1,0 +1,10 @@
+1	Dalarnas	dalarnas	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	lägre	lägre	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:9
+3	behag	behag	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	äro	äro	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+6	gjorda	gjorda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+7	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:35
+8	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:39
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

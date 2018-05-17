@@ -1,0 +1,11 @@
+1	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:0
+2	styrka	styrka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	båtar	båta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	föga	föga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+7	vett	vett	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:27
+8	ej	ej	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:32
+9	fins	fins	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,7 @@
+1	orört	orört	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kysk	kysk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:11
+4	skuldlöst	skuldlöst	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:15
+5	sann	sann	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

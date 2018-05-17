@@ -1,0 +1,8 @@
+1	Upp	upp	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	högbänk	högbänk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+5	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+6	leder	leder	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

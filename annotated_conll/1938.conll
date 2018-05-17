@@ -1,0 +1,16 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	borde	böra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:9
+4	skämmas	skämmas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	sa	säga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:25
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+9	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:30
+10	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:34
+11	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:37
+12	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:40
+13	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:44
+14	käring	käring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:53
+

@@ -1,0 +1,13 @@
+1	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:7
+4	armas	armas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:10
+5	ställe	ställe	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:29
+9	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:33
+10	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:37
+11	förr	förr	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:41
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

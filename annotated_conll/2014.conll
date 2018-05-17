@@ -1,0 +1,8 @@
+1	sätter	sätta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	undan	undan	PL	PL	_	_	_	_	_	O	_	temp:0:7
+3	frukostdisken	frukostdisken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+5	tänder	tänder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+6	kaminen	kaminen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

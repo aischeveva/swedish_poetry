@@ -1,0 +1,10 @@
+1	J	J	PM	PM	NOM	_	_	_	_	B	person	temp:0:0
+2	a	a	UO	UO	_	_	_	_	_	O	_	temp:0:2
+3	g	G	NN	NN	AN	_	_	_	_	O	_	temp:0:4
+4	o	o	KN	KN	_	_	_	_	_	O	_	temp:0:8
+5	r	r	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+6	k	k	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+7	a	a	UO	UO	_	_	_	_	_	O	_	temp:0:14
+8	r	r	UO	UO	_	_	_	_	_	O	_	temp:0:16
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+

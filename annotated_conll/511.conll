@@ -1,0 +1,8 @@
+1	hänger	hänger	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:7
+3	levandes	levandes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+6	brinnandes	brinnandes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:23
+7	bilder	bild	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,11 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	natten	natt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:19
+7	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+8	rymden	rymden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+9	makt	makt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

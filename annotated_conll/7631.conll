@@ -1,0 +1,12 @@
+1	dock	dock	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	gode	gode	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	gudars	gudars	UO	UO	_	_	_	_	_	O	_	temp:0:10
+4	gåfva	gåfva	UO	UO	_	_	_	_	_	O	_	temp:0:17
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+
+1	Är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:24
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:27
+3	sjelf	sjelf	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:30
+4	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:36
+5	stolt	stolt	AB	AB	POS	_	_	_	_	O	_	temp:1:39
+

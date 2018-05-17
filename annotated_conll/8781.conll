@@ -1,0 +1,9 @@
+1	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	mönstrar	mönstrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:12
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:15
+5	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	förflutna	förflutna	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	dagar	dag	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

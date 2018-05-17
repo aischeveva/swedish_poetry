@@ -1,0 +1,8 @@
+1	Var	vara	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	dalens	dalens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+5	ängarnas	ängarnas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:16
+6	runa	runa	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

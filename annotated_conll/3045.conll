@@ -1,0 +1,9 @@
+1	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	snart	snart	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	få	få	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	brista	brista	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	blommor	blomma	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:30
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

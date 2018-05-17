@@ -1,0 +1,10 @@
+1	Djungeln	djungeln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kröp	krypa	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+3	samman	samman	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+5	krökte	krökte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+6	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:32
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:36
+8	tystnad	tystnad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

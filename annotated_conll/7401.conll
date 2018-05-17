@@ -1,0 +1,9 @@
+1	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	panna	panna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	hafvets	hafvets	NN	NN	NEU|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:19
+6	blanka	blanka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+7	våg	våg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

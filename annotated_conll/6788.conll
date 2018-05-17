@@ -1,0 +1,14 @@
+1	Frithiof	frithiof	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	lyssnar	lyssna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+3	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:16
+4	hör	hör	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+
+1	då	då	AB	AB	_	_	_	_	_	O	_	temp:1:23
+2	sjunger	sjunga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:26
+3	snöhvit	snöhvit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:1:34
+4	fogel	fogel	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:42
+5	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:1:48
+6	qvist	qvist	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:54
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:1:59
+

@@ -1,0 +1,12 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	föreställa	föreställa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:29
+8	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:33
+9	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:36
+10	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:40
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

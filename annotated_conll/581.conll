@@ -1,0 +1,8 @@
+1	Vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	hörde	höra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:8
+
+1	Vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:1:11
+2	trodde	tro	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:14
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:20
+

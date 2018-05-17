@@ -1,0 +1,10 @@
+1	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	skymmande	skymmande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	oro	oro	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	eter	eter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:26
+7	klart	klar	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	ren	ren	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

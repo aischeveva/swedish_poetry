@@ -1,0 +1,9 @@
+1	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	vänligt	vänligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	örat	örat	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:22
+7	nattens	nattens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:24
+8	vindar	vindar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+

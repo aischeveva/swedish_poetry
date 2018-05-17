@@ -1,0 +1,8 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	tror	tro	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	döden	döden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	som	som	HA	HA	_	_	_	_	_	O	_	temp:0:18
+6	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

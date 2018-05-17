@@ -1,0 +1,10 @@
+1	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	gjord	gjord	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:13
+5	offras	offras	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:17
+6	opp	opp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:28
+

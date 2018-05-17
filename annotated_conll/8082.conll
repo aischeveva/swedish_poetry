@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	skalderna	skalderna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	följde	följa	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:22
+6	rad	rad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:29
+8	lång	lång	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

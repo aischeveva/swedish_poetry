@@ -1,0 +1,6 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	svävande	svävande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	fågeln	fågeln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	jublar	jublar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

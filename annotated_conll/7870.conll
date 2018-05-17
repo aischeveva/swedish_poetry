@@ -1,0 +1,13 @@
+1	faderns	faderns	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	kamrater	kamrater	UO	UO	_	_	_	_	_	O	_	temp:0:8
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	bröst	bröst	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:28
+7	stål	stål	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:31
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:36
+9	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:40
+10	ärriga	ärriga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:44
+11	pannor	pannor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:51
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

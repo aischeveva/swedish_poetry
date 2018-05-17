@@ -1,0 +1,9 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	ögonblick	ögonblick	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+6	vredens	vredens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:26
+7	drägt	drägt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

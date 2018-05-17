@@ -1,0 +1,10 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	välbekant	välbekant	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+5	vore	vore	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:27
+8	systers	systers	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

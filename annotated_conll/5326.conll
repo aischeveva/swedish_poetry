@@ -1,0 +1,6 @@
+1	Uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:4
+3	svenska	svenska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	barm	barm	NN	NN	AN	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

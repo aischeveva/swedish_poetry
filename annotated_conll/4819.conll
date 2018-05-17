@@ -1,0 +1,12 @@
+1	Förgömda	förgömda	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	klippans	klippans	UO	UO	_	_	_	_	_	O	_	temp:0:9
+3	son	son	UO	UO	_	_	_	_	_	O	_	temp:0:18
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:23
+6	hälsar	hälsar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+7	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:34
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+9	o	o	KN	KN	_	_	_	_	_	O	_	temp:0:39
+10	järn	järn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:41
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

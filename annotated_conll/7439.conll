@@ -1,0 +1,9 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	vänlig	vänlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	helsning	helsning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:24
+6	forna	forna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+7	ungdomsvän	ungdomsvän	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

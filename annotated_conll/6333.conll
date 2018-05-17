@@ -1,0 +1,9 @@
+1	Sol	sol	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	opp	opp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:13
+6	fjärd	fjärd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+8	sund	sund	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+

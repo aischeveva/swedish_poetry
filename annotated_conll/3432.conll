@@ -1,0 +1,7 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	stjärnan	stjärnan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+5	gilja	gilja	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

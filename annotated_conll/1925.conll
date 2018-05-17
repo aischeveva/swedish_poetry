@@ -1,0 +1,18 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	sa	säga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+6	tar	ta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+7	'	'	PM	PM	NOM	_	_	_	_	B	person	temp:0:18
+8	t	T	PM	PM	NOM	_	_	_	_	I	person	temp:0:19
+9	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:21
+10	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:24
+11	ed	ed	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+13	för	för	KN	KN	_	_	_	_	_	O	_	temp:0:32
+14	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:36
+15	orkar	orka	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:40
+16	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:46
+17	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:51
+

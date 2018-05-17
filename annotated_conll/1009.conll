@@ -1,0 +1,8 @@
+1	Omkring	omkring	PL	PL	_	_	_	_	_	O	_	temp:0:0
+2	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+3	klänger	klänge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:20
+5	segt	segt	AB	AB	POS	_	_	_	_	O	_	temp:0:24
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:29
+7	blint	blint	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

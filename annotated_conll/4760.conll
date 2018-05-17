@@ -1,0 +1,11 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	gått	gå	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:13
+5	par	par	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	fjät	fjät	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:26
+8	så	så	SN	SN	_	_	_	_	_	O	_	temp:0:28
+9	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:31
+10	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:35
+

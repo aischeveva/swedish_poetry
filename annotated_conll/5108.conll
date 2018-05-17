@@ -1,0 +1,11 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	fatta	fatta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	all	all	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:9
+4	sanning	sanning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:22
+7	våga	våga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+8	all	all	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:30
+9	rätt	rätt	AB	AB	_	_	_	_	_	O	_	temp:0:34
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

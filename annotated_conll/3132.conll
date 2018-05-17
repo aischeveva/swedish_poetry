@@ -1,0 +1,9 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	välsignar	välsignar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:14
+4	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+5	stund	stund	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:28
+7	pinar	pinar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

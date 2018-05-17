@@ -1,0 +1,14 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:1
+3	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+5	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:12
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+7	herr	herr	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+8	konung	konung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+10	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:29
+11	löfte	löfte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+12	äfvenväl	äfvenväl	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+13	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

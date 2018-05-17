@@ -1,0 +1,9 @@
+1	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	Halfdan	Halfdan	PM	PM	NOM	_	_	_	_	B	place	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	tanklöst	tanklöst	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:14
+5	lekande	lekande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:23
+6	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:31
+7	svärdet	svärdet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

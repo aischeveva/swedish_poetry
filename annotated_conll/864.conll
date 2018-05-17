@@ -1,0 +1,11 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	djupa	djupa	RG	RG	NOM	_	_	_	_	O	_	temp:0:4
+3	skuggor	skuggor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	bjärt	bjärt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:22
+6	sol	sol	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:32
+8	plötslig	plötslig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+9	fågelsång	fågelsång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:54
+

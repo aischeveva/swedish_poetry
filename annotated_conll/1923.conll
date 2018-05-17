@@ -1,0 +1,7 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:5
+4	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+5	med	med	PL	PL	_	_	_	_	_	O	_	temp:0:13
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+

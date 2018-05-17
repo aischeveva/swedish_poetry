@@ -1,0 +1,8 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	mannen	man	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	nåd	nåd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

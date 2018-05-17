@@ -1,0 +1,7 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	nordan	nordan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	isar	isar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:16
+5	patos	patos	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

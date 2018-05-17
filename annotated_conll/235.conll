@@ -1,0 +1,9 @@
+1	detta	detta	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	vapen	vapen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	kamp	kamp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	döden	döden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

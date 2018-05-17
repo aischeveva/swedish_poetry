@@ -1,0 +1,9 @@
+1	Se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:2
+3	Skidbladner	Skidbladner	PM	PM	NOM	_	_	_	_	B	person	temp:0:4
+4	vinkar	vinkar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:23
+6	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	stranden	stranden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

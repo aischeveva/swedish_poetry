@@ -1,0 +1,8 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	starke	starke	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	Angantyr	angantyr	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	högen	högen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+6	qvad	qvad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

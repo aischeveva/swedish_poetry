@@ -1,0 +1,9 @@
+1	utaf	utaf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:5
+3	faders	faders	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	hög	hög	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:24
+7	af	af	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	Beles	beles	AB	AB	_	_	_	_	_	O	_	temp:0:30
+

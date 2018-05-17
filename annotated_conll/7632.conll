@@ -1,0 +1,10 @@
+1	af	af	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	dina	dina	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	hjeltebragder	hjeltebragder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+5	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+6	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	högre	högre	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:30
+8	kraft	kraft	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+9	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

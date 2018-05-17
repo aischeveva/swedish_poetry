@@ -1,0 +1,11 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	släppa	släppa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:13
+5	rof	rof	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	fastän	fastän	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:30
+9	blöder	blöder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:34
+10	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

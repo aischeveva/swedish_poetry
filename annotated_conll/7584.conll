@@ -1,0 +1,10 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	morgonrodna	morgonrodna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:14
+4	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:15
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:22
+7	hvar	hvar	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	försoningsdag	försoningsdag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

@@ -1,0 +1,9 @@
+1	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	drömmar	drömmar	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+6	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:23
+7	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

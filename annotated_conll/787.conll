@@ -1,0 +1,8 @@
+1	slukar	slukar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:7
+3	bär	bär	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	allt	all	DT	DT	NEU|SIN|IND/DEF	_	_	_	_	O	_	temp:0:15
+5	jordiskt	jordiskt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	öde	öde	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

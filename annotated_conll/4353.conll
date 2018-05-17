@@ -1,0 +1,6 @@
+1	tusenfaldigt	tusenfaldigt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:13
+3	lidande	lidande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:16
+4	ristad	ristad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

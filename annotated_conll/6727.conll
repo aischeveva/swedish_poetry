@@ -1,0 +1,9 @@
+1	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:10
+4	gäst	gäst	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:23
+7	hvirfvelvind	hvirfvelvind	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

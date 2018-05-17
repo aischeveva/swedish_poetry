@@ -1,0 +1,11 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	fria	fria	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:6
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:12
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+7	lätta	lätta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+9	klara	klar	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:28
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

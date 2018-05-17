@@ -1,0 +1,5 @@
+1	mörkt	mörkt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	verkliga	verkliga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:6
+3	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	rymder	rymder	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+

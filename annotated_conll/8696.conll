@@ -1,0 +1,9 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	himmelsk	himmelsk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	skildtvakt	skildtvakt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+5	öfver	öfver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+6	fädrens	fädrens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:30
+7	grafvar	grafvar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:38
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

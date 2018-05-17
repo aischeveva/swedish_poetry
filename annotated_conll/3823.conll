@@ -1,0 +1,9 @@
+1	fylld	fylla	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	blyg	blyg	UO	UO	_	_	_	_	_	O	_	temp:0:12
+5	bävande	bävande	UO	UO	_	_	_	_	_	O	_	temp:0:17
+6	väntans	väntans	UO	UO	_	_	_	_	_	O	_	temp:0:25
+7	doft	doft	UO	UO	_	_	_	_	_	O	_	temp:0:33
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

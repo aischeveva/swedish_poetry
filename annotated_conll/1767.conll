@@ -1,0 +1,7 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	evigt	evigt	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	kommande	kommande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+5	ring	ring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

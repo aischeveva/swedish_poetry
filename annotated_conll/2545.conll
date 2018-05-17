@@ -1,0 +1,6 @@
+1	fin	fin	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	smak	smak	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:9
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+

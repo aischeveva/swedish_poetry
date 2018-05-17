@@ -1,0 +1,9 @@
+1	Tappert	tappert	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	drog	drog	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:18
+6	ring	ring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+8	arm	arm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+

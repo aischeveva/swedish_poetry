@@ -1,0 +1,9 @@
+1	Shantih	shantih	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:7
+
+1	Shantih	shantih	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:20
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:27
+
+1	Shantih	shantih	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:2:38
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:2:45
+

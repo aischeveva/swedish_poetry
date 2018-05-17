@@ -1,0 +1,7 @@
+1	gömmer	gömmer	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:7
+3	förnekar	förnekar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	sina	sin	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:20
+5	läppar	läpp	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

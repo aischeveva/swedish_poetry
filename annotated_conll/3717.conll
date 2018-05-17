@@ -1,0 +1,5 @@
+1	likt	likt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	löje	löje	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+

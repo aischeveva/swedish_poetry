@@ -1,0 +1,6 @@
+1	knappt	knappt	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	mening	mening	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:18
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

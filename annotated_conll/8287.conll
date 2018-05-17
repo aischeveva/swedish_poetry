@@ -1,0 +1,7 @@
+1	Der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	låge	låge	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	skuggan	skuggan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+6	trygga	trygga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+

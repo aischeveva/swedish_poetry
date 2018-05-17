@@ -1,0 +1,12 @@
+1	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	blott	blott	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:3
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	gudars	gudars	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:11
+5	salar	salar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:25
+8	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:29
+9	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+10	ock	ock	AB	AB	AN	_	_	_	_	O	_	temp:0:39
+11	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

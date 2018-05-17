@@ -1,0 +1,9 @@
+1	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	templet	templet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+6	fader	fader	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	beskref	beskref	AB	AB	AN	_	_	_	_	O	_	temp:0:26
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

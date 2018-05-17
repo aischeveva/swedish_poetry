@@ -1,0 +1,7 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	tomma	tomma	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

@@ -1,0 +1,6 @@
+1	Likt	likt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vågor	vågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:11
+4	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	hösten	hösten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+

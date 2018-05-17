@@ -1,0 +1,11 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:7
+4	dom	dom	PN	PN	UTR/NEU|PLU|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+7	härmed	härmed	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+8	löstes	löstes	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+9	tinget	tinget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

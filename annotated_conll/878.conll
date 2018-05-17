@@ -1,0 +1,14 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	livs	livs	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	fullbordan	fullbordan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:1:30
+2	mognade	mognade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:34
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:1:42
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:1:46
+5	slut	slut	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:51
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:1:55
+

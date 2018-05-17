@@ -1,0 +1,13 @@
+1	Gåfvan	gåfvan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	kunglig	kunglig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:19
+5	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	ty	ty	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+8	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:30
+9	bugtiga	bugtiga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:33
+10	plankor	plankor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:41
+11	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:49
+12	eke	eke	AB	AB	AN	_	_	_	_	O	_	temp:0:52
+

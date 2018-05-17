@@ -1,0 +1,8 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	dikt	dikt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+4	strök	strök	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+5	mej	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+6	förbi	förbi	PL	PL	_	_	_	_	_	O	_	temp:0:22
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

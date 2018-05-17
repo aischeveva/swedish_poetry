@@ -1,0 +1,16 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	svor	svor	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:14
+6	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:16
+7	bröt	bröt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:20
+8	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+9	icke	icke	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:29
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+11	grymma	grym	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:35
+12	gudar	gudar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:42
+13	bröto	bröto	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:48
+14	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:54
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

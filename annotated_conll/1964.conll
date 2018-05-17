@@ -1,0 +1,13 @@
+1	Sweet	sweet	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	Thames	thames	UO	UO	_	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	run	run	UO	UO	_	_	_	_	_	O	_	temp:0:14
+5	softly	softly	UO	UO	_	_	_	_	_	O	_	temp:0:18
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:26
+8	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:31
+9	end	end	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+10	my	my	UO	UO	_	_	_	_	_	O	_	temp:0:37
+11	song	song	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

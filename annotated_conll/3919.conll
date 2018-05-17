@@ -1,0 +1,8 @@
+1	svarta	svart	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	halvt	halvt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:15
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	sömn	sömn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

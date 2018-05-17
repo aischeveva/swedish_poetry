@@ -1,0 +1,7 @@
+1	hårda	hårda	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	stålet	stålet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	trygga	trygga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

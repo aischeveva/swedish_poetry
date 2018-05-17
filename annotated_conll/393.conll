@@ -1,0 +1,6 @@
+1	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	vinning	vinning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+

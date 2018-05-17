@@ -1,0 +1,12 @@
+1	Frithiofs	frithiofs	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:11
+4	biltoge	biltoge	UO	UO	_	_	_	_	_	O	_	temp:0:15
+5	vikingens	vikingens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+7	ben	ben	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:38
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:40
+

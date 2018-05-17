@@ -1,0 +1,5 @@
+1	runor	runor	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	Oden	oden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+

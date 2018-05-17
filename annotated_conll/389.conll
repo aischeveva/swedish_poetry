@@ -1,0 +1,9 @@
+1	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	nog	nog	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	tvinga	tvinga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+6	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:23
+7	blöda	blöda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

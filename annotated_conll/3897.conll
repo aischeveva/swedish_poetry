@@ -1,0 +1,11 @@
+1	Vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	rysen	rysen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:10
+
+1	Upp	upp	AB	AB	SMS	_	_	_	_	O	_	temp:1:13
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:16
+3	följen	följen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:18
+4	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:1:25
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:1:28
+

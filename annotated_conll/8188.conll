@@ -1,0 +1,8 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	kära	kär	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	namnet	namnet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:20
+6	svärd	svärd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

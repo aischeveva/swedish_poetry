@@ -1,0 +1,7 @@
+1	Skymning	skymning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:9
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:14
+4	okänd	okänd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	stig	stig	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	...	...	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

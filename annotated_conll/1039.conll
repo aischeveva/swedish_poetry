@@ -1,0 +1,7 @@
+1	skymtar	skymtar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	onda	onda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	drag	drag	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

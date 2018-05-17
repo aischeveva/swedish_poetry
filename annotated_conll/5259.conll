@@ -1,0 +1,9 @@
+1	All	all	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	livskraft	livskraft	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	dog	dö	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:20
+6	förfrusna	förfrusna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	sinne	sinne	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

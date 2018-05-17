@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sett	se	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:4
+3	dit	dit	AB	AB	_	_	_	_	_	O	_	temp:0:9
+4	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:13
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	tonande	tonande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:18
+7	skymningsdjup	skymningsdjup	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,14 @@
+1	O	o	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Herre	herre	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:9
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+6	gränsar	gränsar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+7	nära	nära	PP	PP	_	_	_	_	_	O	_	temp:0:24
+8	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:29
+9	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:34
+10	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:38
+11	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:42
+12	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:47
+13	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:52
+

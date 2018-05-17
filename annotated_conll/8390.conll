@@ -1,0 +1,10 @@
+1	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	älska	älska	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+6	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+7	förtörnat	förtörnat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:22
+8	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:32
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

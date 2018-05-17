@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	seglet	seglet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	svälde	svälde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	vågen	vågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	fnös	fnös	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

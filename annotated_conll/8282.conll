@@ -1,0 +1,9 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	mjödhorn	mjödhorn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	skum	skum	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	af	af	UO	UO	_	_	_	_	_	O	_	temp:0:26
+7	gull	gull	UO	UO	_	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

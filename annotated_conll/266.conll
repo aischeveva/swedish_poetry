@@ -1,0 +1,10 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	flod	flod	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	ung	ung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	vårkraft	vårkraft	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+7	nya	ny	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	möjligheter	möjligheter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

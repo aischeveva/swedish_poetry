@@ -1,0 +1,5 @@
+1	barmen	barmen	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	bordet	bordet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+

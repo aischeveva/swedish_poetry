@@ -1,0 +1,13 @@
+1	Hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	strålar	strålar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	slumrade	slumrade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+4	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:22
+5	drivors	drivors	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+6	bädd	bädd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:42
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:43
+3	Med	med	PP	PP	_	_	_	_	_	O	_	temp:1:45
+4	hast	hast	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:49
+

@@ -1,0 +1,6 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	nattregn	nattregn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	falla	falla	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

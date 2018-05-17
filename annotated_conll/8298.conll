@@ -1,0 +1,8 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	kärlekens	kärlekens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	fridens	fridens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:21
+6	tjäll	tjäll	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

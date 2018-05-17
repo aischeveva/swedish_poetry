@@ -1,0 +1,11 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mild	mild	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	sommarnatt	sommarnatt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+6	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:28
+7	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:32
+8	syn	syn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+9	förnöja	förnöja	NN	NN	AN	_	_	_	_	O	_	temp:0:40
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

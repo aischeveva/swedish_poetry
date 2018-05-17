@@ -1,0 +1,19 @@
+1	Hvad	hvad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	ditt	ditt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	namn	namn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+
+1	Hvad	hvad	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:19
+2	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:24
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:29
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:31
+
+1	Hvar	hvar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:2:33
+2	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:2:38
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:2:45
+4	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:2:48
+5	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:2:53
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:3:54
+

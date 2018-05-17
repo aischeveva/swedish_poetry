@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sitter	sitta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	sorgsen	sorgsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	kungens	kungens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:21
+6	gård	gård	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

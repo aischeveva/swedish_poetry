@@ -1,0 +1,6 @@
+1	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:7
+4	spår	spår	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+

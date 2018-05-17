@@ -1,0 +1,9 @@
+1	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	upp	upp	PL	PL	_	_	_	_	_	O	_	temp:0:5
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	jarlens	jarlens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:14
+5	gård	gård	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:27
+

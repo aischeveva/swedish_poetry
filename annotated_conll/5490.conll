@@ -1,0 +1,8 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	älskog	älskog	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	vänd	vänd	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	håg	håg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	ifrån	ifrån	AB	AB	_	_	_	_	_	O	_	temp:0:24
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

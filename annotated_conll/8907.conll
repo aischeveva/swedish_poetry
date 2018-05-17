@@ -1,0 +1,5 @@
+1	Döden	döden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	allena	allena	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:13
+4	bringar	bringar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+

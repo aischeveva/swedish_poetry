@@ -1,0 +1,13 @@
+1	Ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	syntes	synas	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:6
+3	derpå	derpå	AB	AB	_	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	ej	ej	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:23
+7	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:31
+9	märkte	märkte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:35
+10	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:42
+11	styrman	styrman	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+12	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

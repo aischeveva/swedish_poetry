@@ -1,0 +1,11 @@
+1	Blod	blod	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	blod	blod	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:19
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:22
+8	dömt	dömt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:26
+9	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:31
+10	hårt	hårt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+

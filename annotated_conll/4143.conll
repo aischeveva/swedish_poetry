@@ -1,0 +1,5 @@
+1	jord	jord	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	fötterna	fötterna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+

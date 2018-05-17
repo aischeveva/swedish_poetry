@@ -1,0 +1,12 @@
+1	Var	vara	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	icke	icke	UO	UO	_	_	_	_	_	O	_	temp:0:4
+3	hård	hård	UO	UO	_	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	kung	kung	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+6	Helge	helge	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:20
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+8	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:27
+9	endast	endast	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:31
+10	fast	fast	SN	SN	_	_	_	_	_	O	_	temp:0:38
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

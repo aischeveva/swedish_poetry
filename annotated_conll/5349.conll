@@ -1,0 +1,9 @@
+1	Böj	böj	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	Svea	Svea	PM	PM	NOM	_	_	_	_	B	place	temp:0:5
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+5	knä	Knä	PM	PM	NOM	_	_	_	_	B	person	temp:0:11
+6	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:15
+7	griften	griften	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

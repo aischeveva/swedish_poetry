@@ -1,0 +1,9 @@
+1	sänk	sänk	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	Kaos	kaos	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:14
+6	formlösa	formlösa	UO	UO	_	_	_	_	_	O	_	temp:0:16
+7	krafter	krafter	UO	UO	_	_	_	_	_	O	_	temp:0:25
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

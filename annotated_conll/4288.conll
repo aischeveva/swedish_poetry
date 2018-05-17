@@ -1,0 +1,8 @@
+1	Sagan	sagan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	förtäljer	förtäljer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:15
+4	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:17
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	land	land	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

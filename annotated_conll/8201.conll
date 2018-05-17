@@ -1,0 +1,7 @@
+1	Om	om	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	kärlek	kärlek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	hviska	hviska	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	jordens	jord	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:17
+5	floder	floder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

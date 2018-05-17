@@ -1,0 +1,5 @@
+1	större	stor	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:7
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:13
+

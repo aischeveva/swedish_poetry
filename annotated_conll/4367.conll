@@ -1,0 +1,9 @@
+1	Låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	minnas	minnas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:8
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	gråt	gråt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+7	gråhet	gråhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

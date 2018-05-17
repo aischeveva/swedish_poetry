@@ -1,0 +1,5 @@
+1	känner	känna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:7
+3	damm	damm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+

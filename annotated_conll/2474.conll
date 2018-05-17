@@ -1,0 +1,5 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	ilning	ilning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	vällust	vällust	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+

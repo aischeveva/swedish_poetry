@@ -1,0 +1,8 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	andra	annan	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	växte	växte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:20
+6	ros	ros	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

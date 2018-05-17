@@ -1,0 +1,9 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	vers	vers	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:14
+6	kyssar	kyssar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:25
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

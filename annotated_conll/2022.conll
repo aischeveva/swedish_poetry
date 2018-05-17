@@ -1,0 +1,6 @@
+1	åsåg	åsåg	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	scenen	scenen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:12
+4	förutsade	förutsade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+5	resten-	resten-	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+

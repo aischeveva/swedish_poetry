@@ -1,0 +1,12 @@
+1	strider	strider	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	himmelens	himmelens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:11
+4	hvalf	hvalf	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:31
+7	menniskans	menniskans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	sinne	sinne	NN	NN	AN	_	_	_	_	O	_	temp:0:44
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+10	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:51
+11	voro	voro	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:54
+

@@ -1,0 +1,10 @@
+1	Allfader	allfader	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	lagt	lägga	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:9
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	vågskåln	vågskåln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	allt	all	DT	DT	NEU|SIN|IND/DEF	_	_	_	_	O	_	temp:0:29
+7	menskligt	menskligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	lif	lif	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:47
+

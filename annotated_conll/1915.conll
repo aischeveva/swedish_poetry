@@ -1,0 +1,9 @@
+1	trycka	trycka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	händerna	hand	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:16
+4	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:25
+6	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:29
+7	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+8	slutas	slutas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:38
+

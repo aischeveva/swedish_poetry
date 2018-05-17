@@ -1,0 +1,7 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:6
+4	hemliga	hemliga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:9
+5	djupens	djupens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:17
+6	skog	skog	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

@@ -1,0 +1,6 @@
+1	trångt	trångt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	mycket	mycket	AB	AB	POS	_	_	_	_	O	_	temp:0:13
+4	smått	smått	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

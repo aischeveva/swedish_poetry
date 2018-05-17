@@ -1,0 +1,6 @@
+1	kring	kring	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	berg	berg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:11
+4	dal	dal	AB	AB	KOM	_	_	_	_	O	_	temp:0:15
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+

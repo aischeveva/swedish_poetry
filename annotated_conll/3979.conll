@@ -1,0 +1,4 @@
+1	Läkarens	läkarens	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Kniv	kniv	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:13
+

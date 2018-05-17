@@ -1,0 +1,12 @@
+1	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	nere	nere	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+4	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+5	uppe	uppe	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	blott	blott	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:23
+8	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+9	friden	friden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+10	bor	bor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:40
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

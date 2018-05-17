@@ -1,0 +1,9 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	blivit	bliva	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:4
+3	dygdens	dygdens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:11
+4	grav	grav	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+6	sannings	sannings	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:28
+7	plågoris	plågoris	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

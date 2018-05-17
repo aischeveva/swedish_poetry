@@ -1,0 +1,6 @@
+1	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	offret	offret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:12
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:16
+5	gjort	göra	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:20
+

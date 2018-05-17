@@ -1,0 +1,12 @@
+1	ångest	ångest	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	fasa	fasa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:8
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:13
+5	ensamhet	ensamhet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+8	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:31
+9	oförsonliga	oförsonliga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+10	skulden	skulden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:47
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:54
+

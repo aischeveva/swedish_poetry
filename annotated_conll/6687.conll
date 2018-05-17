@@ -1,0 +1,10 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	dunkla	dunkla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	droppar	droppar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	brunno	brunno	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	hennes	hennes	AB	AB	SUV	_	_	_	_	O	_	temp:0:28
+7	hvita	hvita	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:35
+8	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

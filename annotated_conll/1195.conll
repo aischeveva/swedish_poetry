@@ -1,0 +1,13 @@
+1	dränkt	dränkt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	mognads	mognads	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	dop	dop	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+7	född	född	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:33
+9	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:38
+10	mognads	mognads	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+11	makt	makt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:49
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:53
+

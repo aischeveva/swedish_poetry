@@ -1,0 +1,5 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	bleke	bleke	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:10
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:13
+

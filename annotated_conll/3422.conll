@@ -1,0 +1,7 @@
+1	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:13
+5	lott	lott	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

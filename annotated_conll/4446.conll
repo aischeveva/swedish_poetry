@@ -1,0 +1,5 @@
+1	brand	brand	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	ökensand	ökensand	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+

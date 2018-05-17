@@ -1,0 +1,8 @@
+1	Hildings	hildings	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

@@ -1,0 +1,7 @@
+1	Stumma	stumma	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sluts	sluts	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	dina	dina	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+4	smala	smala	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+5	läppar	läpp	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

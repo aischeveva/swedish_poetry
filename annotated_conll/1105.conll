@@ -1,0 +1,5 @@
+1	Fackelfester	fackelfester	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+3	forntidshallar	forntidshallar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

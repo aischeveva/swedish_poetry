@@ -1,0 +1,10 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	lugna	lugna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	hjelteblicken	hjelteblicken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+5	sal	sal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:34
+7	gäster	gäster	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:38
+8	for	for	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+9	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

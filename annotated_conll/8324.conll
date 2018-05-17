@@ -1,0 +1,9 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	bär	bär	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	skyn	skyn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:15
+6	glada	glad	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	par	par	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

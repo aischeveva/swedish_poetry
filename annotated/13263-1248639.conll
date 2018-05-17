@@ -1,0 +1,47 @@
+1	Första	första	RO	RO	NOM	_	_	_	_	O	_	13263-1248639:0:1
+2	sidan	sida	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1248639:0:8
+3	i	i	PP	PP	_	_	_	_	_	O	_	13263-1248639:0:14
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	13263-1248639:0:16
+5	lilla	liten	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	13263-1248639:0:20
+6	Moleskine	Moleskine	PM	PM	NOM	_	_	_	_	B	place	13263-1248639:0:26
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	13263-1248639:0:36
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1248639:0:40
+9	öppnade	öppna	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-1248639:0:44
+10	upp	upp	PL	PL	_	_	_	_	_	O	_	13263-1248639:0:52
+11	igår	igår	AB	AB	_	_	_	_	_	O	_	13263-1248639:0:56
+12	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1248639:0:61
+13	nu	nu	AB	AB	_	_	_	_	_	O	_	13263-1248639:0:65
+14	blivit	bli	VB	VB	SUP|AKT	_	_	_	_	O	_	13263-1248639:0:68
+15	fylld	fylla	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1248639:0:75
+16	med	med	PP	PP	_	_	_	_	_	O	_	13263-1248639:0:81
+17	klotter	klotter	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1248639:0:85
+18	och	och	KN	KN	_	_	_	_	_	O	_	13263-1248639:0:93
+19	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	13263-1248639:0:97
+20	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1248639:0:100
+
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	13263-1248639:1:102
+2	märklig	märklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1248639:1:105
+3	sörja	sörja	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1248639:1:113
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	13263-1248639:1:119
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1248639:1:123
+6	inte	inte	AB	AB	_	_	_	_	_	O	_	13263-1248639:1:127
+7	tänker	tänka	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1248639:1:132
+8	visa	visa	VB	VB	INF|AKT	_	_	_	_	O	_	13263-1248639:1:139
+9	upp	upp	PL	PL	_	_	_	_	_	O	_	13263-1248639:1:144
+10	här	här	AB	AB	_	_	_	_	_	O	_	13263-1248639:1:148
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1248639:1:151
+
+1	Läs	läsa	VB	VB	IMP|AKT	_	_	_	_	O	_	13263-1248639:2:153
+2	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	13263-1248639:2:157
+3	bloggar	blogg	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-1248639:2:163
+4	om	om	PP	PP	_	_	_	_	_	O	_	13263-1248639:2:171
+5	Moleskine	Moleskine	PM	PM	NOM	_	_	_	_	B	place	13263-1248639:2:174
+6	,	,	MID	MID	_	_	_	_	_	O	_	13263-1248639:2:183
+7	klotter	klotter	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1248639:2:185
+8	,	,	MID	MID	_	_	_	_	_	O	_	13263-1248639:2:192
+9	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	13263-1248639:2:194
+10	,	,	MID	MID	_	_	_	_	_	O	_	13263-1248639:2:197
+11	sörja	sörja	VB	VB	INF|AKT	_	_	_	_	O	_	13263-1248639:2:199
+12	,	,	MID	MID	_	_	_	_	_	O	_	13263-1248639:2:204
+13	märklig	märklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1248639:2:206
+

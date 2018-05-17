@@ -1,0 +1,9 @@
+1	Hvar	hvar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	helst	gärna	AB	AB	SUV	_	_	_	_	O	_	temp:0:5
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:11
+4	klinga	klinga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	sår	sår	AB	AB	_	_	_	_	_	O	_	temp:0:21
+6	högens	högens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:25
+7	säd	säd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

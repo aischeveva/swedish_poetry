@@ -1,0 +1,15 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+4	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+5	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:15
+6	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:18
+7	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:24
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+9	sa	säga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:28
+10	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:31
+11	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:35
+12	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:39
+13	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:43
+14	rakt	rakt	AB	AB	POS	_	_	_	_	O	_	temp:0:47
+

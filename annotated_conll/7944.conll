@@ -1,0 +1,10 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	rof	rof	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:8
+5	rof	Rof	PM	PM	NOM	_	_	_	_	B	inst	temp:0:11
+6	skriker	skrika	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+7	falken	falken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	vildt	vildt	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:30
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

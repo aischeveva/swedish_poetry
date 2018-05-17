@@ -1,0 +1,11 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	helsning	helsning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:13
+5	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:17
+6	släcks	släcks	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:28
+8	dina	dina	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:30
+9	vågor	vågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

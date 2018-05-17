@@ -1,0 +1,8 @@
+1	Jagar	jagar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	köln	köln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	hav	hav	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+6	jord	jord	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

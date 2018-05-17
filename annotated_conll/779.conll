@@ -1,0 +1,7 @@
+1	kastar	kastar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:7
+3	jagets	jagets	NN	NN	NEU|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:10
+4	nio	nio	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:17
+5	hudar	hudar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

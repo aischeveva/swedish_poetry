@@ -1,0 +1,11 @@
+1	Till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	tings	tings	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:10
+
+1	Till	till	PP	PP	_	_	_	_	_	O	_	temp:1:12
+2	tings	tings	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:1:17
+3	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:1:22
+
+1	Budkaflen	budkaflen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:2:24
+2	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:2:34
+

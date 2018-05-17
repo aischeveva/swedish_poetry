@@ -1,0 +1,5 @@
+1	Trogen	trogen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	väntar	vänta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	kvällsljuset	kvällsljuset	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+

@@ -1,0 +1,9 @@
+1	Var	vara	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+5	fått	få	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:15
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:20
+7	del	del	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

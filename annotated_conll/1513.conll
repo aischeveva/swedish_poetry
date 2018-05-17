@@ -1,0 +1,7 @@
+1	hugga	hugga	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	förtvivlat	förtvivlat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:6
+3	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:17
+4	de	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:20
+5	andra	andra	PN	PN	UTR/NEU|PLU|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

@@ -1,0 +1,14 @@
+1	samman	samman	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	lust	lust	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	nöd	nöd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+8	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:28
+9	hämna	hämna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:32
+10	hvarandra	hvarandra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:38
+11	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:48
+12	döden	döden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:50
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:55
+

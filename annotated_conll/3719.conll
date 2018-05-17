@@ -1,0 +1,10 @@
+1	träffar	träffa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	er	er	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+3	flykt	flykt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	våra	vår	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:17
+5	hjärtans	hjärtans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:22
+6	tyngd	tyngd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+7	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:37
+8	förakt	förakt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:47
+

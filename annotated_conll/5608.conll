@@ -1,0 +1,6 @@
+1	gapar	gapar	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:6
+3	oändlig	oändlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	graf	graf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

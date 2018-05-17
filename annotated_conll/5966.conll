@@ -1,0 +1,7 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	lyda	lyda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:12
+5	lag	lag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

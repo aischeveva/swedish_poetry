@@ -1,0 +1,10 @@
+1	Lugna	lugn	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	glida	glida	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:12
+4	fram	fram	AB	AB	_	_	_	_	_	O	_	temp:0:15
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:24
+7	slutligen	slutligen	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+8	lugnt	lugnt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:38
+9	dö	dö	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:44
+

@@ -1,0 +1,10 @@
+1	hos	hos	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	honom	han	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	Thorsten	Thorsten	PM	PM	NOM	_	_	_	_	B	person	temp:0:10
+4	Vikingsson	Vikingsson	PM	PM	NOM	_	_	_	_	I	person	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+6	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:31
+7	bonde	bonde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:35
+8	god	god	IN	IN	_	_	_	_	_	O	_	temp:0:41
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

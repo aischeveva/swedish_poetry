@@ -1,0 +1,13 @@
+1	Blott	blott	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:6
+3	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	låt	låt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:23
+7	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+8	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:30
+9	verk	verk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:40
+11	glädjas	glädjas	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:44
+12	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+

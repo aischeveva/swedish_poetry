@@ -1,0 +1,9 @@
+1	gif	gif	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:8
+4	skönaste	skönaste	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+6	de	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:21
+7	bästa	god	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:24
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

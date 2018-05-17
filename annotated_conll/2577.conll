@@ -1,0 +1,6 @@
+1	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	ditt	ditt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:5
+3	enda	enda	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	val	val	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+

@@ -1,0 +1,7 @@
+1	bränt	bränt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	tinning	tinning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

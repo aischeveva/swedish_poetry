@@ -1,0 +1,10 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	tung	tung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	börda	börda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	binder	binder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:21
+6	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	er	er	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:27
+8	själva	själv	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

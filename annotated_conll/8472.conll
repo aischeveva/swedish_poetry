@@ -1,0 +1,12 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+
+1	Vid	vid	PP	PP	_	_	_	_	_	O	_	temp:1:17
+2	Asa-Thor	asa-thor	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:21
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:29
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:31
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:35
+

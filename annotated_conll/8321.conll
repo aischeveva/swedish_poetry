@@ -1,0 +1,9 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	lycklige	lycklige	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:3
+3	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:11
+
+1	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:1:13
+2	skiljer	skiljer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:1:17
+3	ingen	ingen	PN	PN	UTR|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:1:25
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:30
+

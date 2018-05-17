@@ -1,0 +1,9 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	himmelsk	himmelsk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	mildhet	mildhet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:21
+5	de	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:23
+6	ädla	ädla	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	anletsdrag	anletsdrag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

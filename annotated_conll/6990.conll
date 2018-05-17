@@ -1,0 +1,9 @@
+1	Tvång	tvång	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	retar	reta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	ädelt	ädelt	AB	AB	POS	_	_	_	_	O	_	temp:0:12
+4	sinne	sinne	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:25
+7	saktmod	saktmod	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	leder	leder	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+

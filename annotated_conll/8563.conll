@@ -1,0 +1,8 @@
+1	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	krönte	krönte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	hycklarns	hycklarns	AB	AB	_	_	_	_	_	O	_	temp:0:11
+4	offerknif	offerknif	AB	AB	POS	_	_	_	_	O	_	temp:0:21
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:31
+6	alltid	alltid	AB	AB	_	_	_	_	_	O	_	temp:0:35
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

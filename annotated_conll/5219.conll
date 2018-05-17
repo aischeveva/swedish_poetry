@@ -1,0 +1,13 @@
+1	Älskade	älskade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	duva	duvara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:8
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	bliv	bliv	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+5	kvar	kvar	PL	PL	_	_	_	_	_	O	_	temp:0:19
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+7	kuttra	kuttra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+8	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:35
+9	längtan	längtan	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+10	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:46
+11	njutning	njutning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:50
+12	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:58
+

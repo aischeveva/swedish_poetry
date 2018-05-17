@@ -1,0 +1,5 @@
+1	All	all	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	skam	skam	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+

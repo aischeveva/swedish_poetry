@@ -1,0 +1,6 @@
+1	söker	söker	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	hjälp	hjälp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:23
+

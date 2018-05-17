@@ -1,0 +1,7 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	demotisk	demotisk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	franska	franska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	bjöd	bjöd	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+5	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:25
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:29
+

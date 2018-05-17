@@ -1,0 +1,11 @@
+1	skref	skref	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Oden	oden	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	fullt	fullt	AB	AB	POS	_	_	_	_	O	_	temp:0:11
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	runor	runor	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:28
+8	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:32
+9	svika	svika	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:39
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

@@ -1,0 +1,8 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	spirade	spirade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+4	sådan	sådan	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	ljuvlig	ljuvlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	mångfald	mångfald	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

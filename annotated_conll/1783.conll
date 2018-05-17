@@ -1,0 +1,8 @@
+1	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	glömska	glömska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+5	snö	snö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	gömde	gömde	AB	AB	AN	_	_	_	_	O	_	temp:0:26
+

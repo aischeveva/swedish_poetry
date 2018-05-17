@@ -1,0 +1,13 @@
+1	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	Tiresias	tiresias	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:9
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	fast	fast	SN	SN	_	_	_	_	_	O	_	temp:0:19
+7	blind	blind	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+9	flämtande	flämtande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:31
+10	mellan	mellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:41
+11	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:48
+12	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:52
+

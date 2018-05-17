@@ -1,0 +1,9 @@
+1	Dörrarna	dörrarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	glappar	glappar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:18
+5	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+6	inga	ingen	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	temp:0:26
+7	fönster	fönster	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

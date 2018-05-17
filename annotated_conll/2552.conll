@@ -1,0 +1,8 @@
+1	alltför	alltför	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	nära	nära	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	svår	svår	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:19
+6	älska	älska	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

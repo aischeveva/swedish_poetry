@@ -1,0 +1,43 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	265827-15106303:0:1
+2	håller	hålla	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106303:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-15106303:0:11
+4	på	på	PL	PL	_	_	_	_	_	O	_	265827-15106303:0:15
+5	att	att	IE	IE	_	_	_	_	_	O	_	265827-15106303:0:18
+6	göra	göra	VB	VB	INF|AKT	_	_	_	_	O	_	265827-15106303:0:22
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-15106303:0:27
+8	ny	ny	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106303:0:30
+9	videoblogg	videoblogg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106303:0:33
+10	-	-	MID	MID	_	_	_	_	_	O	_	265827-15106303:0:44
+11	dock	dock	KN	KN	_	_	_	_	_	O	_	265827-15106303:0:46
+12	av	av	PP	PP	_	_	_	_	_	O	_	265827-15106303:0:51
+13	det	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	265827-15106303:0:54
+14	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	265827-15106303:0:58
+15	seriösa	seriös	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-15106303:0:62
+16	slaget	slag	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-15106303:0:70
+17	....	....	MAD	MAD	_	_	_	_	_	O	_	265827-15106303:0:76
+
+1	Men	men	KN	KN	_	_	_	_	_	O	_	265827-15106303:1:81
+2	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-15106303:1:85
+3	kanske	kanske	AB	AB	_	_	_	_	_	O	_	265827-15106303:1:88
+4	gillar	gilla	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106303:1:95
+5	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-15106303:1:102
+6	i	i	PP	PP	_	_	_	_	_	O	_	265827-15106303:1:106
+7	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	265827-15106303:1:108
+8	fall	fall	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	265827-15106303:1:113
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106303:1:117
+
+1	Alltså	alltså	AB	AB	_	_	_	_	_	O	_	265827-15106303:2:119
+2	,	,	MID	MID	_	_	_	_	_	O	_	265827-15106303:2:125
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106303:2:127
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-15106303:2:130
+5	inne	inne	AB	AB	_	_	_	_	_	O	_	265827-15106303:2:134
+6	med	med	PP	PP	_	_	_	_	_	O	_	265827-15106303:2:139
+7	sånt	sådant	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	265827-15106303:2:143
+8	här	här	AB	AB	_	_	_	_	_	O	_	265827-15106303:2:148
+9	?	?	MAD	MAD	_	_	_	_	_	O	_	265827-15106303:2:151
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-15106303:3:153
+2	fattar	fatta	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106303:3:157
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-15106303:3:164
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106303:3:168
+

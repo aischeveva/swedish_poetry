@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	rodnar	rodnar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:12
+5	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:16
+6	skådar	skådar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+7	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+8	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:29
+9	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:30
+

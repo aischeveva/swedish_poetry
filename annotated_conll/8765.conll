@@ -1,0 +1,8 @@
+1	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	dina	dina	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	anletsdrag	anletsdrag	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	inför	inför	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:26
+6	öga	öga	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

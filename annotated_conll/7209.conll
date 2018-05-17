@@ -1,0 +1,8 @@
+1	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	leda	leda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:11
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:12
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:14
+

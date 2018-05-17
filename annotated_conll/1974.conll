@@ -1,0 +1,7 @@
+1	rinn	rinn	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sakta	sakta	AB	AB	POS	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	vackra	vackra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	Thames	thames	AB	AB	AN	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

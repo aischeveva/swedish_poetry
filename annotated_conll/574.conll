@@ -1,0 +1,7 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	världens	värld	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:2
+3	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	post	post	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

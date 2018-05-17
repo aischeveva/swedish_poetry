@@ -1,0 +1,6 @@
+1	mens	mens	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	skymningen	skymningen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	rullar	rullar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+4	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:23
+5	dunkelljus	dunkelljus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+

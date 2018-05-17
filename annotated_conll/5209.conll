@@ -1,0 +1,11 @@
+1	Sångmön	sångmön	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	älskar	älska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:15
+4	högst	högst	AB	AB	SUV	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+6	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	modersmålet	modersmålet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:41
+9	kärast	kärast	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:44
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

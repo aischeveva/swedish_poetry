@@ -1,0 +1,7 @@
+1	tung	tung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	kväll	kväll	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:11
+4	väldig	väldig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	soluppgång	soluppgång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

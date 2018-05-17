@@ -1,0 +1,8 @@
+1	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	falk	falk	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	höjden	höjden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	skjuter	skjuta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+7	ned	ned	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+

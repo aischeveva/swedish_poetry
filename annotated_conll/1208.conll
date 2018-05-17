@@ -1,0 +1,10 @@
+1	ville	vilja	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:6
+3	sett	se	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:9
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+5	utslagna	utslagna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	blommor	blomma	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	dina	dina	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:35
+8	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:40
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

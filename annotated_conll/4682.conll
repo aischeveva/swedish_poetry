@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	bära	bära	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:9
+4	dagar	dag	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+6	fått	få	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:22
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

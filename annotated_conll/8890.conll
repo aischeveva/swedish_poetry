@@ -1,0 +1,9 @@
+1	bleknad	bleknad	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:8
+3	kall	kall	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:21
+6	kärleks	kärleks	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	skull	skull	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

@@ -1,0 +1,7 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	mörka	mörka	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	änglarna	änglarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	blå	blå	RG	RG	NOM	_	_	_	_	O	_	temp:0:22
+6	lågor	lågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:26
+

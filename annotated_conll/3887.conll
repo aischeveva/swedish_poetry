@@ -1,0 +1,6 @@
+1	Upplåst	upplåst	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+3	världens	värld	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:11
+4	kopparport	kopparport	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

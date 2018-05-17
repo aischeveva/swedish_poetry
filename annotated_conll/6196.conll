@@ -1,0 +1,9 @@
+1	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	hjerta	hjerta	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	klappar	klapp	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:21
+6	pulsar	pulsar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+7	slå	slå	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

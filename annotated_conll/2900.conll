@@ -1,0 +1,9 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	rädd	rädd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	ibland	ibland	AB	AB	_	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	frågar	fråga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+7	ängsligt	ängsligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

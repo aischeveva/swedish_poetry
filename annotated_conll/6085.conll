@@ -1,0 +1,9 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	gnäggar	gnäggar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	glädtigt	glädtigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+5	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+6	halsen	hals	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	vänder	vända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

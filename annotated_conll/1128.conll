@@ -1,0 +1,7 @@
+1	låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	känna	känna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+5	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

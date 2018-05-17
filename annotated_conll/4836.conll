@@ -1,0 +1,10 @@
+1	Bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	stadens	stadens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:6
+3	dockor	dockor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:21
+5	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:24
+6	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	mindes	mindes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:36
+8	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:43
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

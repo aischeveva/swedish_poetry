@@ -1,0 +1,11 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	lukten	lukten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	graven	graven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:25
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+9	givet	givet	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+10	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

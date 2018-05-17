@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vandrat	vandrat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:4
+3	djupast	djupast	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:22
+6	dödas	dödas	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	rike	rike	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+
+1	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:1:36
+

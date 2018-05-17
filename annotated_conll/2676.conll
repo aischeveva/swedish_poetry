@@ -1,0 +1,10 @@
+1	vandrar	vandrar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	snabba	snabb	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+5	spänstiga	spänstiga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+6	steg	steg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:38
+8	vinden	vinden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:42
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

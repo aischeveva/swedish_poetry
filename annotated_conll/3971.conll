@@ -1,0 +1,12 @@
+1	Tyst	tyst	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+4	tyst	tyst	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:16
+7	håll	håll	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+8	andan	andan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:29
+10	lyssna	lyssna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:33
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

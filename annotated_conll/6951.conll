@@ -1,0 +1,12 @@
+1	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vädret	väder	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	rår	rår	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	årsväxt	årsväxt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+8	vind	vind	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:36
+10	lycka	lycka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

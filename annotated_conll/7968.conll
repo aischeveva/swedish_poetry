@@ -1,0 +1,10 @@
+1	likt	likt	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	ungträn	ungträn	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+5	växa	växa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+6	tillsammans	tillsammans	AB	AB	_	_	_	_	_	O	_	temp:0:23
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:35
+8	topp	topp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

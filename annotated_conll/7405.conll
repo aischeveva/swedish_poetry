@@ -1,0 +1,9 @@
+1	Hög	hög	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	kopparstöpta	kopparstöpta	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	port	port	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:31
+8	innanför	innanför	PP	PP	_	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,12 @@
+1	Kolsvart	kolsvart	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	fogel	fogel	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+3	flyr	flyr	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	Nastrand	Nastrand	PM	PM	NOM	_	_	_	_	B	person	temp:0:25
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+7	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:35
+8	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:39
+9	lätta	lätta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+10	vingars	vingars	AB	AB	AN	_	_	_	_	O	_	temp:0:48
+11	par	par	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:56
+

@@ -1,0 +1,9 @@
+1	försmälter	försmälter	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hårda	hårda	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+3	hjertan	hjertan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+5	lägger	lägge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+6	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:38
+8	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+

@@ -1,0 +1,6 @@
+1	Se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:2
+3	nattens	nattens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+4	stjärnor	stjärnor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	blossa	blossa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+

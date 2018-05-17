@@ -1,0 +1,12 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	stum	stum	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	röd	röd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	klocka	klocka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:21
+8	tiggde	tiggde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+9	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:32
+10	röst	röst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

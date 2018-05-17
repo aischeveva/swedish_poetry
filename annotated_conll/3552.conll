@@ -1,0 +1,6 @@
+1	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	inget	ingen	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	annat	annat	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:10
+4	väsen	väsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

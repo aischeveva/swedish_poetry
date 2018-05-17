@@ -1,0 +1,17 @@
+1	Är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:3
+3	rädd	rädd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:11
+5	bli	bli	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+6	fånge	fånge	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+9	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:29
+10	rädd	rädd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+11	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:37
+12	drunkna	drunkna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:41
+13	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:49
+14	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:51
+15	gråa	gråa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:55
+16	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:59
+

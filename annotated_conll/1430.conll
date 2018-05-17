@@ -1,0 +1,7 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:7
+4	fattar	fatta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+5	ursprungsordet	ursprungsordet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

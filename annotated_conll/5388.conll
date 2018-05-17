@@ -1,0 +1,8 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	runan	runan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	fick	få	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+5	Ingborg	ingborg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+6	lära	lära	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

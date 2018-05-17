@@ -1,0 +1,9 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	ber	ber	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:7
+4	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:12
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:15
+6	godas	godas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:18
+7	kamp	kamp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

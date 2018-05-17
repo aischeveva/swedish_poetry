@@ -1,0 +1,11 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Intet	intet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:1
+3	visste	veta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	litet	liten	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+7	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:29
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:33
+10	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,5 @@
+1	Fågelfri	fågelfri	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+3	mången	mången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+

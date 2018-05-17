@@ -1,0 +1,6 @@
+1	smiddes	smiddes	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+3	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+4	Vaulunder	Vaulunder	PM	PM	NOM	_	_	_	_	B	animal	temp:0:15
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

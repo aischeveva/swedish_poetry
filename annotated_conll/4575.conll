@@ -1,0 +1,12 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	rädd	rädd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:20
+7	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:22
+8	köld	köld	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:31
+10	ris	ris	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

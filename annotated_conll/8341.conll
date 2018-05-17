@@ -1,0 +1,9 @@
+1	Der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	all	all	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:21
+7	ära	ära	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

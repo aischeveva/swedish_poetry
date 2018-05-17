@@ -1,0 +1,8 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	pekar	pekar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	alltjämt	alltjämt	AB	AB	POS	_	_	_	_	O	_	temp:0:10
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:24
+6	annan	annan	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

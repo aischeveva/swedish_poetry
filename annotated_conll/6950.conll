@@ -1,0 +1,12 @@
+1	Högt	högt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	mången	mången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	flyga	flyga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:27
+8	stödd	stödd	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:30
+9	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:36
+10	krycka	krycka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

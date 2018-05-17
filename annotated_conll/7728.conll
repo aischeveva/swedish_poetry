@@ -1,0 +1,14 @@
+1	Midt	midt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	golfvet	golfvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	(	(	PAD	PAD	_	_	_	_	_	O	_	temp:0:16
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	halm	halm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:26
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:30
+9	strödt	strödt	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:34
+10	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:0:40
+11	brann	brann	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:42
+12	lågan	lågan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:48
+13	beständigt	beständigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:54
+

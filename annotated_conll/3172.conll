@@ -1,0 +1,10 @@
+1	Att	att	IE	IE	_	_	_	_	_	O	_	temp:0:0
+2	lösa	lösa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:9
+4	kläppar	kläppar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	förstod	förstod	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+7	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:34
+8	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

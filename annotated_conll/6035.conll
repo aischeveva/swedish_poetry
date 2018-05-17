@@ -1,0 +1,7 @@
+1	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	himlaranden	himlaranden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:15
+4	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+5	växer	växer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+6	ut	ut	AB	AB	_	_	_	_	_	O	_	temp:0:27
+

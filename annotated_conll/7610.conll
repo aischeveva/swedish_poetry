@@ -1,0 +1,10 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	mina	min	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:2
+3	bättre	bra	AB	AB	KOM	_	_	_	_	O	_	temp:0:7
+4	stunder	stund	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:26
+7	anat	anat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:30
+8	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:35
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

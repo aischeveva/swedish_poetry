@@ -1,0 +1,5 @@
+1	Från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	blåa	blåa	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	molnen	molnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:16
+

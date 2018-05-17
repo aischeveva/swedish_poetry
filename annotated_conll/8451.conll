@@ -1,0 +1,10 @@
+1	berätta	berätta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	hvad	hvad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:13
+4	händt	händt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:24
+2	värsta	dålig	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:1:28
+3	anar	anar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:35
+

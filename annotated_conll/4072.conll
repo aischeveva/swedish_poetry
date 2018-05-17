@@ -1,0 +1,5 @@
+1	sina	sin	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	kungliga	kungliga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	banor	banor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+

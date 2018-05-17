@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	värkt	värkt	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	törne	törne	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	tills	tills	SN	SN	_	_	_	_	_	O	_	temp:0:23
+7	själen	själen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:36
+9	tom.	tom.	AB	AB	AN	_	_	_	_	O	_	temp:0:40
+

@@ -1,0 +1,7 @@
+1	Längre	längre	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	ner	ner	PL	PL	_	_	_	_	_	O	_	temp:0:7
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	bebodda	bebodda	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+

@@ -1,0 +1,11 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:6
+4	verldshaf	verldshaf	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	lika	lika	AB	AB	_	_	_	_	_	O	_	temp:0:22
+7	klar	klar	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:32
+9	ren	ren	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:36
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

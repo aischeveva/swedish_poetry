@@ -1,0 +1,9 @@
+1	din	din	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	egen	egen	JJ	JJ	POS|UTR|SIN|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	vilja	vilja	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	styr	styr	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+7	din	din	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:29
+8	fart	fart	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,13 @@
+1	Hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	lära	lära	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	sägs	sägs	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	vandrar	vandra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+8	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:0:29
+9	dal	dal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:39
+11	dal	dal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:47
+

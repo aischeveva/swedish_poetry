@@ -1,0 +1,7 @@
+1	Kall	kall	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:12
+5	kyssa	kyssa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

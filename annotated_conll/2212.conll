@@ -1,0 +1,12 @@
+1	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	tänker	tänka	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	nyckeln	nyckeln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+8	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:30
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:33
+10	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:35
+11	fängelse	fängelse	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+

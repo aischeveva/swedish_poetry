@@ -1,0 +1,9 @@
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	broddens	broddens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	skull	skull	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	där	där	HA	HA	_	_	_	_	_	O	_	temp:0:20
+6	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:24
+7	spirar	spirar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,10 @@
+1	För	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	inga	ingen	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	temp:0:4
+3	krukor	krukor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:21
+6	heta	heta	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	torra	torra	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	munnarna	munnarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:35
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

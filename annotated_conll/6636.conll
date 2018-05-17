@@ -1,0 +1,13 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:8
+4	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	din	din	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	vishet	vishet	NN	NN	AN	_	_	_	_	O	_	temp:0:19
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:27
+9	landet	land	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+10	vida	vida	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:36
+11	spord	spord	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

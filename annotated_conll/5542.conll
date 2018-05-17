@@ -1,0 +1,6 @@
+1	Alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:0
+2	fasans	fasans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:5
+3	makter	makter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	skrida	skrida	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

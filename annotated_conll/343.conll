@@ -1,0 +1,9 @@
+1	Under	under	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:6
+3	rötter	rötter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+5	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:23
+6	källorna	källorna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+7	sila	sila	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

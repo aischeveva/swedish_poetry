@@ -1,0 +1,8 @@
+1	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:0
+2	tryckas	tryckas	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	små	liten	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	hvita	hvita	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	armar	arm	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

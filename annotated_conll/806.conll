@@ -1,0 +1,10 @@
+1	andas	andas	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+3	sakta	sakta	AB	AB	POS	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	stannar	stannar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+7	vänder	vända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+8	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:35
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

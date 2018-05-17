@@ -1,0 +1,10 @@
+1	Mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	rike	rike	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	behöfver	behöfver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:19
+5	ej	ej	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+6	ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:25
+7	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:28
+8	an	an	PL	PL	_	_	_	_	_	O	_	temp:0:32
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

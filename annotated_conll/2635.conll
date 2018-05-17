@@ -1,0 +1,6 @@
+1	Klirrande	klirrande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vägar	vägar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+4	klirrande	klirrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	vägar	vägar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+

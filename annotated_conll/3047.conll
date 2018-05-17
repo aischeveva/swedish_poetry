@@ -1,0 +1,9 @@
+1	Tala	tala	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	tala	tala	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:6
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:11
+5	väck	väck	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+6	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:20
+7	land	land	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

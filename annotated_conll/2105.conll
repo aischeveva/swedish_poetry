@@ -1,0 +1,7 @@
+1	IV	iv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:2
+
+1	DÖDEN	döden	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:4
+2	GENOM	genom	PP	PP	_	_	_	_	_	O	_	temp:1:10
+3	VATTEN	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:16
+

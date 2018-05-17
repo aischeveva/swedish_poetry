@@ -1,0 +1,8 @@
+1	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	sjungit	sjungit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+5	vackraste	vackraste	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

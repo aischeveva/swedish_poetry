@@ -1,0 +1,13 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	förvildat	förvildat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:11
+5	hemligt	hemligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:33
+8	sus	sus	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:37
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:41
+10	ensamhet	ensamhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+11	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:54
+12	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:55
+

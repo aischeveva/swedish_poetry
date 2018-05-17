@@ -1,0 +1,12 @@
+1	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	sjelfve	sjelfve	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+4	befalt	befalt	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:15
+5	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:23
+7	hvar	hvar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:31
+9	sida	sida	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:40
+11	fjärden	fjärden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:43
+

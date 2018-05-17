@@ -1,0 +1,11 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	endast	endast	AB	AB	SUV	_	_	_	_	O	_	temp:0:4
+3	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+5	lycka	lycka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:28
+9	bästa	god	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:32
+10	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:38
+

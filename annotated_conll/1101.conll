@@ -1,0 +1,9 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	höjer	höjer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:13
+5	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:17
+6	röda	röda	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	vin	vin	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

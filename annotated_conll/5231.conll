@@ -1,0 +1,9 @@
+1	Allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	ditt	ditt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	fädernesland	fädernesland	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	ångmaskiner	ångmaskiner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	bedrives	bedrives	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:41
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

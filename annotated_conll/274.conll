@@ -1,0 +1,12 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	susar	susar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+5	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	träden	träden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+8	gräset	gräset	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:38
+10	regnet	regnet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:42
+11	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

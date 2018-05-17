@@ -1,0 +1,11 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	stillad	stillad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	håg	håg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+7	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:24
+8	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+9	lyser	lyse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,8 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+4	ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:12
+6	ganska	ganska	AB	AB	_	_	_	_	_	O	_	temp:0:16
+7	lugnt	lugnt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+

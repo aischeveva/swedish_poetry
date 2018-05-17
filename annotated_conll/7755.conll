@@ -1,0 +1,14 @@
+1	Ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	vågade	vågade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	kampen	kampen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	likväl	likväl	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+6	ty	ty	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:28
+7	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:31
+8	fans	fans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:35
+9	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:40
+10	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:43
+11	stål	stål	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:51
+13	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:53
+

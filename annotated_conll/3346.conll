@@ -1,0 +1,14 @@
+1	Blott	blott	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	värd	värd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:18
+6	vördas	vördas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:22
+7	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:29
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:33
+9	jordlivets	jordlivets	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+10	land	land	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:51
+

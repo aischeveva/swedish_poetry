@@ -1,0 +1,6 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	hammare	hammare	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:12
+4	brast	brista	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

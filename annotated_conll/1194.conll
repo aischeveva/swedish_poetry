@@ -1,0 +1,12 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ut	ut	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:9
+5	genomskinliga	genomskinliga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+6	alltet	alltet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	springer	springa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:43
+9	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:47
+10	simmare	simmare	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:51
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:58
+

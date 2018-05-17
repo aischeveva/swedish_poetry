@@ -1,0 +1,9 @@
+1	dröm	drömma	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+5	dåd	dåd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	värdigt	värdigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,11 @@
+1	tala	tala	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:6
+4	synen	synen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	svek	svek	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:26
+9	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:30
+10	varken	varken	KN	KN	_	_	_	_	_	O	_	temp:0:34
+

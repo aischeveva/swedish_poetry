@@ -1,0 +1,14 @@
+1	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	ros	ros	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	vissnade	vissnade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+7	löf	löf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:34
+9	Björn	Björn	PM	PM	NOM	_	_	_	_	B	person	temp:0:36
+10	hette	hette	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:42
+11	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:48
+12	unge	unge	UO	UO	_	_	_	_	_	O	_	temp:0:52
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:56
+

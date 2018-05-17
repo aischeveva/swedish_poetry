@@ -1,0 +1,85 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-15106304:0:1
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106304:0:5
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-15106304:0:9
+4	fatta	fatta	VB	VB	INF|AKT	_	_	_	_	O	_	265827-15106304:0:14
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-15106304:0:20
+6	själv	själv	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106304:0:24
+7	,	,	MID	MID	_	_	_	_	_	O	_	265827-15106304:0:29
+8	men	men	KN	KN	_	_	_	_	_	O	_	265827-15106304:0:31
+9	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-15106304:0:35
+10	vaknade	vakna	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-15106304:0:39
+11	imorse	imorse	AB	AB	_	_	_	_	_	O	_	265827-15106304:0:47
+12	kvart	kvart	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106304:0:54
+13	i	i	PP	PP	_	_	_	_	_	O	_	265827-15106304:0:60
+14	åtta	åtta	RG	RG	NOM	_	_	_	_	O	_	265827-15106304:0:62
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106304:0:66
+
+1	Sen	sen	AB	AB	_	_	_	_	_	O	_	265827-15106304:1:68
+2	kunde	kunna	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-15106304:1:72
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-15106304:1:78
+4	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-15106304:1:82
+5	somna	somna	VB	VB	INF|AKT	_	_	_	_	O	_	265827-15106304:1:87
+6	om	om	PL	PL	_	_	_	_	_	O	_	265827-15106304:1:93
+7	,	,	MID	MID	_	_	_	_	_	O	_	265827-15106304:1:95
+8	så	så	AB	AB	_	_	_	_	_	O	_	265827-15106304:1:97
+9	nu	nu	AB	AB	_	_	_	_	_	O	_	265827-15106304:1:100
+10	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106304:1:103
+11	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-15106304:1:107
+12	bara	bara	AB	AB	_	_	_	_	_	O	_	265827-15106304:1:111
+13	legat	ligga	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-15106304:1:116
+14	i	i	PP	PP	_	_	_	_	_	O	_	265827-15106304:1:122
+15	sängen	säng	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-15106304:1:124
+16	och	och	KN	KN	_	_	_	_	_	O	_	265827-15106304:1:131
+17	kollat	kolla	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-15106304:1:135
+18	på	på	PP	PP	_	_	_	_	_	O	_	265827-15106304:1:142
+19	tv	TV	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106304:1:145
+20	(	(	PAD	PAD	_	_	_	_	_	O	_	265827-15106304:1:148
+21	DARIN	Darin	PM	PM	NOM	_	_	_	_	B	inst	265827-15106304:1:149
+22	ÄR	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106304:1:155
+23	PÅ	på	PP	PP	_	_	_	_	_	O	_	265827-15106304:1:158
+24	TV4	TV4	PM	PM	NOM	_	_	_	_	B	place	265827-15106304:1:161
+25	,	,	MID	MID	_	_	_	_	_	O	_	265827-15106304:1:164
+26	och	och	KN	KN	_	_	_	_	_	O	_	265827-15106304:1:166
+27	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-15106304:1:170
+28	gillar	gilla	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106304:1:174
+29	typ	typ	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106304:1:181
+30	honom	han	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	265827-15106304:1:185
+31	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106304:1:190
+
+1	HAHA	haha	IN	IN	_	_	_	_	_	O	_	265827-15106304:2:192
+2	)	)	PAD	PAD	_	_	_	_	_	O	_	265827-15106304:2:196
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106304:2:197
+
+1	Gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-15106304:3:199
+2	upp	upp	PL	PL	_	_	_	_	_	O	_	265827-15106304:3:204
+3	och	och	KN	KN	_	_	_	_	_	O	_	265827-15106304:3:208
+4	tvätta	tvätta	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-15106304:3:212
+5	ansiktet	ansikte	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-15106304:3:219
+6	och	och	KN	KN	_	_	_	_	_	O	_	265827-15106304:3:228
+7	sitter	sitta	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106304:3:232
+8	nu	nu	AB	AB	_	_	_	_	_	O	_	265827-15106304:3:239
+9	med	med	PP	PP	_	_	_	_	_	O	_	265827-15106304:3:242
+10	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-15106304:3:246
+11	ansiktsmask	ansiktsmask	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106304:3:249
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106304:3:260
+
+1	Måste	måste	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106304:4:262
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106304:4:267
+
+1	Plugga	plugga	VB	VB	INF|AKT	_	_	_	_	O	_	265827-15106304:5:269
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106304:5:275
+
+1	Har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106304:6:279
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	265827-15106304:6:283
+3	biologiprov	biologiprov	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-15106304:6:287
+4	och	och	KN	KN	_	_	_	_	_	O	_	265827-15106304:6:299
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	265827-15106304:6:303
+6	matte-d-prov	matte-d-prov	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-15106304:6:307
+7	på	på	PP	PP	_	_	_	_	_	O	_	265827-15106304:6:320
+8	onsdag	onsdag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106304:6:323
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106304:6:329
+
+1	Oh	oh	IN	IN	_	_	_	_	_	O	_	265827-15106304:7:331
+2	ja	ja	IN	IN	_	_	_	_	_	O	_	265827-15106304:7:334
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106304:7:336
+

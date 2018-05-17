@@ -1,0 +1,9 @@
+1	Med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	duvans	duvans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	enfald	enfald	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	dundrets	dundrets	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,9 @@
+1	väger	väger	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	ont	ont	AB	AB	POS	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	väger	väge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+6	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:20
+7	gott	god	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

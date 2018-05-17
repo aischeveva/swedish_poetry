@@ -1,0 +1,6 @@
+1	något	något	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:6
+3	tröstar	trösta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	milt	milt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

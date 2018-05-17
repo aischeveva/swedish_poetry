@@ -1,0 +1,8 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	halvtänkt	halvtänkt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	tanke	tanke	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	slipper	slipper	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+5	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:27
+6	hjärnan	hjärnan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

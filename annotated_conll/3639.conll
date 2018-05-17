@@ -1,0 +1,6 @@
+1	sugen	sugen	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	hav	hav	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:13
+5	himmel	himmel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+

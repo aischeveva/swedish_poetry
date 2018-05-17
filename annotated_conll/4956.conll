@@ -1,0 +1,5 @@
+1	Vila	vila	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	paradis	paradis	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+

@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	dessa	denna	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	sjuka	sjuka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:20
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:21
+

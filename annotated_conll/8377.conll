@@ -1,0 +1,8 @@
+1	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	troget	troget	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	hjerta	hjerta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	mera	mera	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	mindre	litet	AB	AB	KOM	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,6 @@
+1	Någon	någon	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	ädel	ädel	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	handlings	handlings	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	skatt	skatt	AB	AB	AN	_	_	_	_	O	_	temp:0:21
+5	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

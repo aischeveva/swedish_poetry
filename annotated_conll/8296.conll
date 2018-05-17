@@ -1,0 +1,6 @@
+1	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	bleka	bleka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	lilja	lilja	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	rosenröd	rosenröd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

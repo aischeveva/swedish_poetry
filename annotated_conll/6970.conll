@@ -1,0 +1,11 @@
+1	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	trofast	trofast	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:4
+3	intill	intill	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	döden	döden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:26
+7	nöd	nöd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:32
+9	gamman	gamman	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

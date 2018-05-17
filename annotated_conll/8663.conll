@@ -1,0 +1,9 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:3
+3	roten	roten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	hänger	hänge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	fast	fast	PL	PL	_	_	_	_	_	O	_	temp:0:22
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	sanden	sanden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

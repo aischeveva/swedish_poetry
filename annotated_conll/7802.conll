@@ -1,0 +1,12 @@
+1	draken	draken	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:7
+3	klöf	klöf	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	skummande	skummande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	våg	våg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:34
+8	styrde	styra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:38
+9	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:45
+10	stället	ställe	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:50
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

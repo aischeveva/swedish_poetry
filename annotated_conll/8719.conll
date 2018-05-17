@@ -1,0 +1,9 @@
+1	vart	vart	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	ödes	ödes	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	skeppsbrott	skeppsbrott	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:10
+4	dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:22
+5	ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:27
+6	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:32
+7	ära	ära	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

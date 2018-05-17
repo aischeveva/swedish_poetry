@@ -1,0 +1,15 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	rätar	räta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	upp	upp	PL	PL	_	_	_	_	_	O	_	temp:0:13
+5	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:17
+6	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:21
+7	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:25
+8	ryck	ryck	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:34
+10	bär	bär	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:38
+11	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:42
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+13	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:48
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:52
+

@@ -1,0 +1,12 @@
+1	Skön	skön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	skön	skön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+5	glädjen	glädjen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	skön	skön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+9	också	också	AB	AB	_	_	_	_	_	O	_	temp:0:31
+10	sorgen	sorgen	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

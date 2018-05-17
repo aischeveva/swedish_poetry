@@ -1,0 +1,15 @@
+1	ensamt	ensamt	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	evigt	evigt	AB	AB	POS	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	ristat	ristat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:15
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:29
+9	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:38
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:40
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:41
+

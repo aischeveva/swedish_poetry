@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mycket	mycket	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	bad	be	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	hvite	hvite	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	guden	guden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

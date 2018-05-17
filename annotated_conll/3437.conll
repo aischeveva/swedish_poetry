@@ -1,0 +1,7 @@
+1	O	o	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	stjärna	stjärna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+6	gärning	gärning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+

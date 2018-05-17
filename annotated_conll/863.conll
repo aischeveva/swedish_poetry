@@ -1,0 +1,12 @@
+1	Din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	röst	röst	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+6	gammal	gammal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+7	fruktträdgård	fruktträdgård	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:36
+9	halvt	halvt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	igengrodd	igengrodd	AB	AB	_	_	_	_	_	O	_	temp:0:45
+11	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:55
+

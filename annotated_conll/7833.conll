@@ -1,0 +1,15 @@
+1	gladt	gladt	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:7
+4	föränderligt	föränderligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+7	likt	likt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	hafvet	hafvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+10	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:43
+11	leker	leker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:47
+12	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:53
+13	solsken	solsken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:55
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:62
+

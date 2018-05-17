@@ -1,0 +1,9 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	Vegtamsqvida	Vegtamsqvida	PM	PM	NOM	_	_	_	_	B	place	temp:0:2
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+4	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:16
+5	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:20
+6	sjöng	sjöng	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+7	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:30
+8	Oden	oden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+

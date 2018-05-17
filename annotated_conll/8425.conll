@@ -1,0 +1,7 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	lösta	lösta	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	dufvovingar	dufvovingar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:22
+5	blå	blå	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

@@ -1,0 +1,6 @@
+1	Uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	gamla	gammal	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	hjälteland	hjälteland	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

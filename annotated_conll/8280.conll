@@ -1,0 +1,10 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	trogen	trogen	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	vän	vän	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+6	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+7	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:22
+8	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:25
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

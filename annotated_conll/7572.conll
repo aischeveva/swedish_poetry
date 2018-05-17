@@ -1,0 +1,9 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	ringare	ringare	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:12
+5	högres	högres	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:23
+7	förespel	förespel	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

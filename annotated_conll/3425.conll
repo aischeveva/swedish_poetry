@@ -1,0 +1,8 @@
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	värnlös	värnlös	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+4	sjönk	sjunka	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:23
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:27
+

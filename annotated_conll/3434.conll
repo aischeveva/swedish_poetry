@@ -1,0 +1,6 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	henne	hon	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:2
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	vilja	vilja	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+

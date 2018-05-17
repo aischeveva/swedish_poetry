@@ -1,0 +1,7 @@
+1	klippans	klippans	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	topp	topp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+4	dunkel	dunkel	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	lund	lund	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

@@ -1,0 +1,8 @@
+1	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:0
+2	inga	ingen	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	temp:0:6
+3	gömslen	gömslen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+5	avstånd	avstånd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	längre	längre	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

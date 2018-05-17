@@ -1,0 +1,8 @@
+1	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	tömt	tömt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:12
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+6	källa	källa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

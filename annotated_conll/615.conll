@@ -1,0 +1,5 @@
+1	förgängligast	förgängligast	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+3	gudarna	gudarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:17
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

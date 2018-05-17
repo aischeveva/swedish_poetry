@@ -1,0 +1,13 @@
+1	Att	att	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:10
+5	nära	nära	PP	PP	_	_	_	_	_	O	_	temp:0:13
+6	...	...	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+
+1	Varför	varför	HA	HA	_	_	_	_	_	O	_	temp:1:22
+2	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:29
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:34
+4	här	här	AB	AB	_	_	_	_	_	O	_	temp:1:38
+5	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:1:41
+

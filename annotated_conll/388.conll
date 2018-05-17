@@ -1,0 +1,9 @@
+1	Fast	fast	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:17
+6	blodlöst	blodlöst	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	tom	tom	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

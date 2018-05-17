@@ -1,0 +1,8 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	liknar	liknar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	snäckan	snäckan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	kylig	kylig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	damm	damm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

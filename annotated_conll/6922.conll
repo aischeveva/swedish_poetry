@@ -1,0 +1,8 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	deremot	deremot	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	afsides	afsides	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:21
+6	hän	hän	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	belägen	belägen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+

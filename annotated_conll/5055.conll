@@ -1,0 +1,9 @@
+1	Är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:3
+3	ej	ej	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:10
+5	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:13
+6	dubbelt	dubbelt	AB	AB	POS	_	_	_	_	O	_	temp:0:16
+7	kär	kär	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+8	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

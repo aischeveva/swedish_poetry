@@ -1,0 +1,5 @@
+1	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	biter	biter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	godt	godt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:10
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:14
+

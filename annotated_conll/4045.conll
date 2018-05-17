@@ -1,0 +1,14 @@
+1	Sår	sår	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+4	dagen	dag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+5	slagit	slagit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:15
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	läkas	läkas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:23
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+9	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:30
+10	kväll	kväll	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+11	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:40
+12	inne	inne	AB	AB	_	_	_	_	_	O	_	temp:0:43
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

@@ -1,0 +1,11 @@
+1	strålgul	strålgul	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+3	frostig	frostig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	ängar	ängar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:27
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:33
+7	gärden	gärden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+8	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:44
+9	flyter	flyter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:48
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:54
+

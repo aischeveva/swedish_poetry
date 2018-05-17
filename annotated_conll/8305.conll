@@ -1,0 +1,7 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	sången	sången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:11
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:15
+5	ljuset	ljuset	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+6	båda	båda	PN	PN	UTR/NEU|PLU|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:26
+

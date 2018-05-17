@@ -1,0 +1,15 @@
+1	vänsällt	vänsällt	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+3	ädelt	ädelt	AB	AB	AN	_	_	_	_	O	_	temp:0:10
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	mildt	mildt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+8	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:31
+9	hvar	hvar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+11	växte	växte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:44
+12	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:50
+13	rykte	rykte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:55
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:60
+

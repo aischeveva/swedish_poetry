@@ -1,0 +1,14 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:10
+5	lång	lång	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:1:20
+2	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:23
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:27
+4	så	så	AB	AB	_	_	_	_	_	O	_	temp:1:30
+5	lång	lång	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:33
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:37
+

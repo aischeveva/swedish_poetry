@@ -1,0 +1,6 @@
+1	Intet	intet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	slaveri	slaveri	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	Norden	norden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+

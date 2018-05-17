@@ -1,0 +1,9 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	gamle	gamle	UO	UO	_	_	_	_	_	O	_	temp:0:4
+3	ej	ej	UO	UO	_	_	_	_	_	O	_	temp:0:10
+4	aktar	aktar	UO	UO	_	_	_	_	_	O	_	temp:0:13
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+6	drottnings	drottnings	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	bön	bön	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

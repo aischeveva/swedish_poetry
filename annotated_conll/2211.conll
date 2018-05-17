@@ -1,0 +1,11 @@
+1	vreds	vreds	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	låset	låset	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:17
+6	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+8	bara	bara	AB	AB	_	_	_	_	_	O	_	temp:0:29
+9	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:34
+10	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+

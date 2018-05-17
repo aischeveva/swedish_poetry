@@ -1,0 +1,11 @@
+1	Knappast	knappast	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	fans	fans	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:16
+5	nordiska	nordiska	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	land	land	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:33
+8	rikare	rikare	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:36
+9	arfving	arfving	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:50
+

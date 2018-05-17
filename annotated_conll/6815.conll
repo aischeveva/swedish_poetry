@@ -1,0 +1,16 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:13
+6	höljd	höljd	PC	PC	PRF|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:23
+8	lumpor	lumpor	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+10	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:33
+11	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:37
+12	tiggarstaf	tiggarstaf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+13	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:51
+14	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:53
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

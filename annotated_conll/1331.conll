@@ -1,0 +1,10 @@
+1	Stannar	stannar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+3	fredlig	fredlig	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+4	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:20
+5	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	foten	fot	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+7	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:34
+8	berget	berget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

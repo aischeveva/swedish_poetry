@@ -1,0 +1,9 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	kämpade	kämpa	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	bröst	bröst	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:15
+6	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:21
+7	bröst	bröst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,6 @@
+1	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	fiende	fiende	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	jord	jord	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

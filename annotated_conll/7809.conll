@@ -1,0 +1,10 @@
+1	Bister	bister	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	skurade	skurade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	der	der	AB	AB	SUV	_	_	_	_	O	_	temp:0:28
+7	blodfläckade	blodfläckade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:32
+8	klingan	klingan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:45
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

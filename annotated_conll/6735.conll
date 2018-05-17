@@ -1,0 +1,10 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	främmande	främmande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	blef	blef	UO	UO	_	_	_	_	_	O	_	temp:0:14
+4	der	der	UO	UO	_	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+6	tills	tills	SN	SN	_	_	_	_	_	O	_	temp:0:24
+7	våren	våren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:36
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

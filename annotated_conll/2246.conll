@@ -1,0 +1,8 @@
+1	når	når	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:7
+4	in	in	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	evigheten	evigheten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

@@ -1,0 +1,8 @@
+1	född	född	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	nytt	ny	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	slutet	slutet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+6	mörker	mörker	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

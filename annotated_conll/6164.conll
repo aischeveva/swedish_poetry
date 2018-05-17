@@ -1,0 +1,7 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	ungersven	ungersven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	förälskad	förälskad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	barm	barm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

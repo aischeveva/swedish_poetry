@@ -1,0 +1,10 @@
+1	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	Balders	balders	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	dal	dal	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:21
+6	sina	sin	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:26
+7	lundars	lundars	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:31
+8	sus	sus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

@@ -1,0 +1,6 @@
+1	inga	ingen	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	temp:0:0
+2	stämmor	stämmor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	mera	mera	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+4	stimma	stimma	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

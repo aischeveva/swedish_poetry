@@ -1,0 +1,8 @@
+1	fast	fast	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	Ring	Ring	PM	PM	NOM	_	_	_	_	B	inst	temp:0:9
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:14
+5	aktas	aktas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:17
+6	svaga	svaga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

@@ -1,0 +1,12 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	segern	segern	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:10
+
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:1:13
+2	mörkret	mörker	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:17
+3	gått	gå	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:1:25
+4	upp	upp	PL	PL	_	_	_	_	_	O	_	temp:1:30
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:1:34
+6	lågor	lågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:1:36
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:1:41
+

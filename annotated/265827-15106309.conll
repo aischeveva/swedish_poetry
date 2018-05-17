@@ -1,0 +1,81 @@
+1	Sitter	sitta	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106309:0:1
+2	och	och	KN	KN	_	_	_	_	_	O	_	265827-15106309:0:8
+3	hårdpluggar	hårdplugga	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106309:0:12
+4	i	i	PP	PP	_	_	_	_	_	O	_	265827-15106309:0:24
+5	köket	kök	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-15106309:0:26
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106309:0:31
+
+1	Klädvalet	klädval	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-15106309:1:33
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106309:1:43
+3	väldigt	väldigt	AB	AB	POS	_	_	_	_	O	_	265827-15106309:1:46
+4	enkelt	enkel	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-15106309:1:54
+5	,	,	MID	MID	_	_	_	_	_	O	_	265827-15106309:1:60
+6	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-15106309:1:62
+7	snackar	snacka	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106309:1:65
+8	pyjamasbyxor	pyjamasbyxa	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-15106309:1:73
+9	,	,	MID	MID	_	_	_	_	_	O	_	265827-15106309:1:85
+10	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	265827-15106309:1:87
+11	linne	linne	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-15106309:1:91
+12	och	och	KN	KN	_	_	_	_	_	O	_	265827-15106309:1:97
+13	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	265827-15106309:1:101
+14	myshoodie	myshoodie	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106309:1:105
+15	från	från	PP	PP	_	_	_	_	_	O	_	265827-15106309:1:115
+16	A	A	PM	PM	NOM	_	_	_	_	B	place	265827-15106309:1:120
+17	&	&	PM	PM	NOM	_	_	_	_	I	place	265827-15106309:1:121
+18	F	F	PM	PM	NOM	_	_	_	_	I	place	265827-15106309:1:122
+19	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106309:1:123
+
+1	Har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106309:2:125
+2	fruktansvärt	fruktansvärt	AB	AB	POS	_	_	_	_	O	_	265827-15106309:2:129
+3	ont	ont	AB	AB	POS	_	_	_	_	O	_	265827-15106309:2:142
+4	i	i	PP	PP	_	_	_	_	_	O	_	265827-15106309:2:146
+5	nacken	nacke	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-15106309:2:148
+6	,	,	MID	MID	_	_	_	_	_	O	_	265827-15106309:2:154
+7	så	så	KN	KN	_	_	_	_	_	O	_	265827-15106309:2:156
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-15106309:2:159
+9	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106309:2:163
+10	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-15106309:2:167
+11	sån	sådan	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106309:2:170
+12	här	här	AB	AB	_	_	_	_	_	O	_	265827-15106309:2:174
+13	varm	varm	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106309:2:178
+14	ärtpåse	ärtpåse	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106309:2:183
+15	över	över	PP	PP	_	_	_	_	_	O	_	265827-15106309:2:191
+16	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106309:2:195
+
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-15106309:3:197
+2	funkar	funka	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106309:3:201
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-15106309:3:208
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106309:3:212
+
+1	I	i	PP	PP	_	_	_	_	_	O	_	265827-15106309:4:216
+2	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	265827-15106309:4:218
+3	fall	fall	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	265827-15106309:4:223
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106309:4:227
+
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	265827-15106309:5:229
+2	ska	skola	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106309:5:232
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-15106309:5:236
+4	träna	träna	VB	VB	INF|AKT	_	_	_	_	O	_	265827-15106309:5:240
+5	jordens	jord	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	265827-15106309:5:246
+6	tidsåldrar	tidsålder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-15106309:5:254
+7	:	:	MID	MID	_	_	_	_	_	O	_	265827-15106309:5:264
+8	Prekambrium	Prekambrium	PM	PM	NOM	_	_	_	_	B	time	265827-15106309:5:266
+9	Kambrium	kambrium	PM	PM	NOM	_	_	_	_	B	time	265827-15106309:5:278
+10	...	...	MAD	MAD	_	_	_	_	_	O	_	265827-15106309:5:287
+
+1	ordovicium	ordovicium	PM	PM	NOM	_	_	_	_	B	time	265827-15106309:6:290
+2	(	(	PAD	PAD	_	_	_	_	_	O	_	265827-15106309:6:301
+3	tjuvkikade	tjuvkika	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-15106309:6:302
+4	)	)	PAD	PAD	_	_	_	_	_	O	_	265827-15106309:6:312
+5	Silur	silur	PM	PM	NOM	_	_	_	_	B	time	265827-15106309:6:314
+6	Devon	Devon	PM	PM	NOM	_	_	_	_	B	time	265827-15106309:6:320
+7	(	(	PAD	PAD	_	_	_	_	_	O	_	265827-15106309:6:326
+8	tjuvkikade	tjuvkika	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-15106309:6:327
+9	båda	båda	PN	PN	UTR/NEU|PLU|DEF|SUB/OBJ	_	_	_	_	O	_	265827-15106309:6:338
+10	)	)	PAD	PAD	_	_	_	_	_	O	_	265827-15106309:6:342
+11	Karbon	karbon	PM	PM	NOM	_	_	_	_	B	time	265827-15106309:6:344
+12	........	........	RG	RG	NOM	_	_	_	_	O	_	265827-15106309:6:350
+
+1	SKIT	skit	IN	IN	_	_	_	_	_	O	_	265827-15106309:7:359
+2	SAMMA	samma	IN	IN	_	_	_	_	_	O	_	265827-15106309:7:364
+

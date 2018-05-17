@@ -1,0 +1,9 @@
+1	beror	beror	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:6
+3	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+6	Beles	Bele	PM	PM	GEN	_	_	_	_	B	person	temp:0:20
+7	dotter	dotter	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	stjäl	stjäl	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

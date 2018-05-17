@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	helst	gärna	AB	AB	SUV	_	_	_	_	O	_	temp:0:4
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	blef	blef	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+7	lifvets	lifvets	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+8	stiltje	stiltje	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:32
+9	tröttsam	tröttsam	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:40
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

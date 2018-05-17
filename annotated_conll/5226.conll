@@ -1,0 +1,10 @@
+1	Ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+3	sällskapsdam	sällskapsdam	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	lyssna	lyssna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+5	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:29
+6	gärna	gärna	AB	AB	POS	_	_	_	_	O	_	temp:0:32
+7	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:38
+8	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:43
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

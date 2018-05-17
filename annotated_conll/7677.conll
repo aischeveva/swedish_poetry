@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	skilda	skilda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	slogo	slogo	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+6	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:30
+7	ihop	ihop	PL	PL	_	_	_	_	_	O	_	temp:0:33
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

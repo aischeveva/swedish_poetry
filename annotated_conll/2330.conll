@@ -1,0 +1,7 @@
+1	rolös	rolös	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ropande	ropande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	lek	lek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	tårar	tårar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

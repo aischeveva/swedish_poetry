@@ -1,0 +1,10 @@
+1	Le	le	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	Prince	prince	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	d	d	NN	NN	AN	_	_	_	_	O	_	temp:0:10
+4	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:11
+5	Aquitaine	aquitaine	UO	UO	_	_	_	_	_	O	_	temp:0:12
+6	à	à	UO	UO	_	_	_	_	_	O	_	temp:0:22
+7	la	lägga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+8	tour	tour	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	abolie	abolie	UO	UO	_	_	_	_	_	O	_	temp:0:32
+

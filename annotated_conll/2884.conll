@@ -1,0 +1,8 @@
+1	Under	under	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	nornornas	nornornas	NN	NN	UTR|SIN|IND|GEN	_	_	_	_	O	_	temp:0:6
+3	spånad	spånad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+5	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	ödenas	ödenas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:30
+7	dyning	dyning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+

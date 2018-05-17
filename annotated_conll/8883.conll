@@ -1,0 +1,8 @@
+1	Lysen	lysen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	stjernor	stjernor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+7	sägen	sägen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+

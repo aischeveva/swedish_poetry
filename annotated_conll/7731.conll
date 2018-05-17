@@ -1,0 +1,13 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	kring	kring	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	väggen	väggen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	naglar	naglar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	af	af	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:27
+7	stål	stål	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+9	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:36
+10	hängde	hänga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:40
+11	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:47
+12	radvis	radvis	AB	AB	_	_	_	_	_	O	_	temp:0:51
+

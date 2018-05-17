@@ -1,0 +1,10 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	sitter	sitta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	Halfdan	Halfdan	PM	PM	NOM	_	_	_	_	B	person	temp:0:10
+4	ensam	ensam	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	kung	kung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	Beles	beles	AB	AB	AN	_	_	_	_	O	_	temp:0:32
+8	stol	stol	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

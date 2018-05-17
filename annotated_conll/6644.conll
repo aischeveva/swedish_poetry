@@ -1,0 +1,11 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	gästens	gästens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:12
+5	hufvud	hufvud	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	föll	föll	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	luden	luden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+8	björnhud	björnhud	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:38
+9	ner	ner	PL	PL	_	_	_	_	_	O	_	temp:0:47
+10	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

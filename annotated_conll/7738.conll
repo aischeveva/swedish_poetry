@@ -1,0 +1,14 @@
+1	rodnade	rodnade	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	äfven	äfven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+4	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+5	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+7	gladde	gladde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:27
+8	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:34
+9	drickande	drickande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:37
+10	kämpar	kämpa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:47
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:53
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:55
+

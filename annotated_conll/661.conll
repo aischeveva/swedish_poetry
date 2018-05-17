@@ -1,0 +1,4 @@
+1	sammanhangets	sammanhangets	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	skull	skull	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+

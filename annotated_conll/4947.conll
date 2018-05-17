@@ -1,0 +1,6 @@
+1	Sade	sade	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	djärva	djärva	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	vingar	vingar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:19
+

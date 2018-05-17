@@ -1,0 +1,6 @@
+1	Kallt	kall	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	hårt	hårt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:7
+4	namn	namn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+

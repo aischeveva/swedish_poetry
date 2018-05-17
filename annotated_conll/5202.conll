@@ -1,0 +1,7 @@
+1	Mänskorna	mänskorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:10
+3	helig	helig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	håg	håg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

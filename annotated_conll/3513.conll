@@ -1,0 +1,8 @@
+1	För	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	världar	världar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+5	ditt	ditt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:23
+6	sken	sken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

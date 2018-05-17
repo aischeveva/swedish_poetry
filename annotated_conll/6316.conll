@@ -1,0 +1,6 @@
+1	eldröd	eldröd	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hane	hane	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:12
+4	svingar	svingar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

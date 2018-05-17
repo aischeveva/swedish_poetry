@@ -1,0 +1,13 @@
+1	Bågar	bågar	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	klinga	klinga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	koger	koge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	skramla	skramla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	hingstar	hingsta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+8	skrapa	skrapa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:38
+9	mark	mark	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+10	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:50
+11	hof	hof	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:54
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:57
+

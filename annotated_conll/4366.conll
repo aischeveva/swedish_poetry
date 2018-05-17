@@ -1,0 +1,7 @@
+1	höljer	höljer	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:7
+3	dagens	dag	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:11
+4	oro	oro	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	snart	snart	AB	AB	POS	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

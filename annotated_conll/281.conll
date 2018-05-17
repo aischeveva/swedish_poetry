@@ -1,0 +1,12 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	kanske	kanske	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	tar	ta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:15
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:23
+7	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:27
+8	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:31
+9	kommande	kommande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:35
+10	tiden	tid	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:44
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:49
+

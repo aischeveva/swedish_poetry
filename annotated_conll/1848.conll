@@ -1,0 +1,10 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	liket	liket	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	planterade	planterade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	fjol	fjol	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:31
+8	trädgårn	trädgårn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

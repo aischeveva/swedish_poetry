@@ -1,0 +1,5 @@
+1	Ax	ax	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	flätar	fläta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	Frej	frej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+

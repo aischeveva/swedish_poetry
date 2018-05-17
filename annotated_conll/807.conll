@@ -1,0 +1,6 @@
+1	Världarna	världarna	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vaknar	vaknar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:17
+4	andetagen	andetagen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

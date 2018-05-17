@@ -1,0 +1,7 @@
+1	Ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	säger	säga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	Dårars	dårars	UO	UO	_	_	_	_	_	O	_	temp:0:10
+5	bloss	bloss	UO	UO	_	_	_	_	_	O	_	temp:0:17
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

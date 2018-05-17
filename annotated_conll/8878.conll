@@ -1,0 +1,11 @@
+1	seglet	seglet	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	vester	vester	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+6	flög	flyga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+7	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:26
+8	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:29
+9	våg	våg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

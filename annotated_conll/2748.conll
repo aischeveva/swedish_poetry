@@ -1,0 +1,7 @@
+1	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+4	enda	enda	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

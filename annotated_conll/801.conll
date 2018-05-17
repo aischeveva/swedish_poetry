@@ -1,0 +1,9 @@
+1	Nakna	nakna	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:6
+3	gudar	gudar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:1:18
+2	formlös	formlös	NN	NN	UTR|SIN|IND|GEN	_	_	_	_	O	_	temp:1:20
+3	gryning	gryning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:28
+

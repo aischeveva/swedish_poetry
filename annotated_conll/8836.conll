@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	begär	begvara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	nej	nej	IN	IN	_	_	_	_	_	O	_	temp:0:18
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:23
+9	fordrar	fordra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+10	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:35
+

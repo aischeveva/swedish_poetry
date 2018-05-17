@@ -1,0 +1,10 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	stammen	stammen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	ditt	ditt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	drakskepp	drakskepp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+7	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:31
+8	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:35
+9	rodret	rodret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+

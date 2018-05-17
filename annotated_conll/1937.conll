@@ -1,0 +1,12 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	smiter	smiter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	Albert	albert	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:19
+6	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+7	ihåg	ihåg	PL	PL	_	_	_	_	_	O	_	temp:0:26
+8	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:31
+9	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:35
+10	sa	säga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:39
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

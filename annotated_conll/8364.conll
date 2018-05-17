@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	brinn	brinn	NN	NN	NEU|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:10
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+
+1	Farväl	farväl	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:19
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:25
+3	farväl	farväl	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:27
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:1:33
+

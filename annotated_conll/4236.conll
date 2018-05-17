@@ -1,0 +1,5 @@
+1	bakom	bakom	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kindens	kindens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:6
+3	blekhet	blekhet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

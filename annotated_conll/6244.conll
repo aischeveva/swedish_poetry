@@ -1,0 +1,5 @@
+1	sysslar	sysslar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	altarrunden	altarrunden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

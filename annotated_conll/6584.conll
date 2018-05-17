@@ -1,0 +1,12 @@
+1	se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:2
+3	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:3
+4	dra	dra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:5
+5	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:9
+6	lott	lott	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+7	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:17
+8	dela	dela	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+9	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:28
+10	bröder	bröder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

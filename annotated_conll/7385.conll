@@ -1,0 +1,9 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	voren	voren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	tempelbrand	tempelbrand	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:24
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:28
+7	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

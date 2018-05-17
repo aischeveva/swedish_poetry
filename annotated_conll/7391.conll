@@ -1,0 +1,13 @@
+1	stod	stå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	ej	ej	RG	RG	NOM	_	_	_	_	O	_	temp:0:5
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+4	förr	förr	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:17
+6	skidgård	skidgård	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+8	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:30
+9	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+10	hamradt	hamradt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+11	jern	jern	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:45
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

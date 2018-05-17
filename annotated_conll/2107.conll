@@ -1,0 +1,10 @@
+1	glömde	glömma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	måsarnas	måsarnas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:7
+3	skrik	skrik	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	havets	havets	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:27
+7	tunga	tunga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:34
+8	dyning	dyning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

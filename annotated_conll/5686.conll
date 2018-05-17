@@ -1,0 +1,7 @@
+1	utur	utur	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	såret	sår	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	upp	upp	PL	PL	_	_	_	_	_	O	_	temp:0:11
+4	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	sky	sky	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:22
+

@@ -1,0 +1,7 @@
+1	kringånga	kringånga	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:10
+3	grafhög	grafhög	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:23
+5	bäcken	bäcken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,8 @@
+1	Vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	kunde	kunna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	skonat	skonat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:12
+5	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:19
+6	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

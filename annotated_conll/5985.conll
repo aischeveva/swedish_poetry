@@ -1,0 +1,6 @@
+1	grönvirkad	grönvirkad	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:0
+2	pung	pung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+4	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	djuren	djuren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+

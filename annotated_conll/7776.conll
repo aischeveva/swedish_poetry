@@ -1,0 +1,13 @@
+1	Alfhem	alfhem	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	skådades	skådades	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:7
+3	der	der	NN	NN	AN	_	_	_	_	O	_	temp:0:16
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	Frejs	Frejs	PM	PM	NOM	_	_	_	_	B	person	temp:0:21
+6	borg	borg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:27
+7	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:32
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:36
+9	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+11	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:46
+12	nyfödd	nyfödd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:50
+

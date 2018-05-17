@@ -1,0 +1,6 @@
+1	ut	ut	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:3
+3	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:5
+4	yttersta	yttersta	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+5	rymdernas	rymdernas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:17
+

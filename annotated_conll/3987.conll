@@ -1,0 +1,7 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	svalkande	svalkande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+4	fri	fri	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	barmhärtighet	barmhärtighet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

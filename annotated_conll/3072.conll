@@ -1,0 +1,10 @@
+1	hela	hel	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:5
+3	själ	själ	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	tung	tung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:26
+7	dina	dina	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	fötter	fot	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

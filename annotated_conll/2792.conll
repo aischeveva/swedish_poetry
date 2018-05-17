@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+6	nå	nå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

@@ -1,0 +1,10 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	gott	god	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:12
+5	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:16
+6	våndas	våndas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:20
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+8	vämjes	vämjes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:31
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

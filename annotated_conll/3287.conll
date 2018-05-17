@@ -1,0 +1,5 @@
+1	Havsdövad	havsdövad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+3	bränningsbruset	bränningsbruset	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

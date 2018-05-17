@@ -1,0 +1,14 @@
+1	Hvart	hvart	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	hjerta	hjerta	UO	UO	_	_	_	_	_	O	_	temp:0:6
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+5	Balder	balder	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+
+1	Mins	mins	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:29
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:34
+3	än	än	KN	KN	_	_	_	_	_	O	_	temp:1:37
+4	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:40
+5	tid	tid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:44
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:47
+

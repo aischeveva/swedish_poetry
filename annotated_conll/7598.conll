@@ -1,0 +1,12 @@
+1	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+4	ock	ock	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	försonad	försonad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+6	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	ljuslockig	ljuslockig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:37
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:42
+

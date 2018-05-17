@@ -1,0 +1,6 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	rörde	röra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	hjeltens	hjeltens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:10
+4	sinne	sinne	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

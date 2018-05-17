@@ -1,0 +1,13 @@
+1	se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:2
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+4	hatar	hata	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:14
+6	allena	allena	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:18
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+8	ensamt	ensamt	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:26
+9	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:33
+10	förkastad	förkastad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+11	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:47
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:49
+

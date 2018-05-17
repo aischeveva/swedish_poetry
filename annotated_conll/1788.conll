@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	drack	drack	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:4
+3	kaffe	kaffe	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	pratade	prata	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:29
+8	timme	timme	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

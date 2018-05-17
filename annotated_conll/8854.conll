@@ -1,0 +1,11 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	nornans	nornans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:3
+3	bröst	bröst	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+5	säger	säga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+6	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:28
+8	skall	skall	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:31
+9	vika	vika	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:37
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

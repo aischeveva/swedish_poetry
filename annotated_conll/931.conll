@@ -1,0 +1,7 @@
+1	Dra	dra	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	skon	skon	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	fot	fot	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+

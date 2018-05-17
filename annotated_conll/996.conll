@@ -1,0 +1,8 @@
+1	Ja	ja	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:2
+3	ja	ja	IN	IN	_	_	_	_	_	O	_	temp:0:4
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+6	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+

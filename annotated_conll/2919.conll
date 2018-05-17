@@ -1,0 +1,6 @@
+1	Din	din	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mun	mun	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	allvarsam	allvarsam	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

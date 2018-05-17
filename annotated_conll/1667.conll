@@ -1,0 +1,6 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:2
+3	blickar	blickar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	brann	brann	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

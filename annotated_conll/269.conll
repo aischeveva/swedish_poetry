@@ -1,0 +1,9 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	framtidens	framtidens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	frön	frön	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	sina	sin	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:22
+6	bullrande	bullrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	vågor	vågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:37
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

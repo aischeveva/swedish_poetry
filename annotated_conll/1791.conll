@@ -1,0 +1,16 @@
+1	(	(	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:1
+3	kusin	kusin	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+6	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+7	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:17
+8	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+9	med	med	PL	PL	_	_	_	_	_	O	_	temp:0:25
+10	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:29
+11	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:33
+12	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:36
+13	åkte	åka	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:40
+14	källke	källke	AB	AB	AN	_	_	_	_	O	_	temp:0:45
+15	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:51
+

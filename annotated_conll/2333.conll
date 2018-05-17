@@ -1,0 +1,9 @@
+1	Jordbarn	jordbarn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:9
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:12
+5	regnet	regnet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+7	hårt	hårt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

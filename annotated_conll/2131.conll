@@ -1,0 +1,8 @@
+1	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	berg	berg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	utan	utan	KN	KN	_	_	_	_	_	O	_	temp:0:20
+7	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

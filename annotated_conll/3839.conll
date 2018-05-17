@@ -1,0 +1,9 @@
+1	sliter	sliter	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:7
+3	stjärna	stjärna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+5	lös	lös	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:26
+7	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

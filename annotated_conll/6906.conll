@@ -1,0 +1,12 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vänsäll	vänsäll	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:12
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:16
+5	trifves	trifves	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:29
+8	träd	träd	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:38
+10	lunden	lunden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:40
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

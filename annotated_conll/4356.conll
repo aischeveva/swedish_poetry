@@ -1,0 +1,8 @@
+1	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:6
+4	rot	rot	AB	AB	POS	_	_	_	_	O	_	temp:0:11
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+6	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+7	vore	vore	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+

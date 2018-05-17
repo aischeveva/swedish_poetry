@@ -1,0 +1,10 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	draken	draken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	Fafner	Fafner	PM	PM	NOM	_	_	_	_	B	person	temp:0:11
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:21
+6	guld	guld	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+8	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:32
+9	hvem	hvem	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+

@@ -1,0 +1,13 @@
+1	Mö	mö	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	fridlyst	fridlyst	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:6
+4	å	å	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	land	land	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+8	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+9	komma	komma	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:30
+10	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:36
+11	bord	bord	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+12	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

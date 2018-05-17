@@ -1,0 +1,14 @@
+1	Himmel	himmel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:7
+3	jord	jord	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	sjuka	sjuka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+
+1	Himmel	himmel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:27
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:1:34
+3	jord	jord	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:38
+4	skall	skall	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:43
+5	brista	brista	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:49
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:55
+

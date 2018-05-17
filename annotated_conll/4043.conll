@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	milda	mild	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	fästen	fästen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:23
+6	döda	döda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	timmarna	timme	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

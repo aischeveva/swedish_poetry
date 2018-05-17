@@ -1,0 +1,8 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:4
+3	havets	havets	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	våg	våg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:19
+6	fri	fri	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

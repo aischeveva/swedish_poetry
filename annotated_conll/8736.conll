@@ -1,0 +1,10 @@
+1	Vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	kärlek	kärlek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	stridde	stridde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+5	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:26
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:30
+8	går	går	AB	AB	_	_	_	_	_	O	_	temp:0:32
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

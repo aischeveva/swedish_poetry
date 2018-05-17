@@ -1,0 +1,12 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	Tiresias	tiresias	AB	AB	AN	_	_	_	_	O	_	temp:0:5
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:15
+6	gammal	gammal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+7	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:25
+8	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:29
+9	skrumpna	skrumpna	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+10	spenar	spenar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:42
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:48
+

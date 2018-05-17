@@ -1,0 +1,7 @@
+1	guld	guld	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	klippornas	klippornas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:10
+4	krön	krön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:26
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

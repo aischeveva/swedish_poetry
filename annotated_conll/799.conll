@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mytens	mytens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	vidunderskaror	vidunderskaror	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	födde	födde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:26
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:32
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

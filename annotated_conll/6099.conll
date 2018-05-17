@@ -1,0 +1,9 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	gör	göra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+4	snarare	snarare	AB	AB	KOM	_	_	_	_	O	_	temp:0:12
+5	harm	harm	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:25
+7	sorg	sorg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

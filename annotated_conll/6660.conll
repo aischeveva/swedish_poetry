@@ -1,0 +1,12 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	blåste	blåste	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	lur	lur	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	salen	sal	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+8	tyst	tyst	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	blef	blef	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+10	öfverallt	öfverallt	AB	AB	_	_	_	_	_	O	_	temp:0:37
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:4
+3	Vasco	vasco	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	da	Da	PM	PM	NOM	_	_	_	_	B	person	temp:0:14
+5	Gama	Gama	PM	PM	NOM	_	_	_	_	I	person	temp:0:17
+6	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	Indien	Indien	PM	PM	NOM	_	_	_	_	B	person	temp:0:26
+8	drog	drog	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:33
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

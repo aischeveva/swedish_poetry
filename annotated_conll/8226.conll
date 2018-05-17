@@ -1,0 +1,8 @@
+1	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	Ingborgs	ingborgs	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	bild	bild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	mörkblå	Mörkblå	PM	PM	NOM	_	_	_	_	B	place	temp:0:21
+6	duk	duk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	I	place	temp:0:29
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

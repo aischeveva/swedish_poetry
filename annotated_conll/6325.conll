@@ -1,0 +1,10 @@
+1	Eja	eja	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	hvad	hvad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	vildt	vildt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	hvad	hvad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+7	rysligt	rysligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	sken	sken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

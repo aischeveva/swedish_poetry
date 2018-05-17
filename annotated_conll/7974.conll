@@ -1,0 +1,8 @@
+1	förtälja	förtälja	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:9
+3	runsten	runsten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:20
+5	ätts	ätts	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	bedrifter	bedrifter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

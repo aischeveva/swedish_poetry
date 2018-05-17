@@ -1,0 +1,12 @@
+1	Där	där	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	vårt	vår	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+
+1	Där	där	AB	AB	_	_	_	_	_	O	_	temp:1:18
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:22
+3	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:1:25
+4	själ	själ	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:29
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:33
+

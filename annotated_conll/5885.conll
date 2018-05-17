@@ -1,0 +1,5 @@
+1	glasrutor	glasrutor	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	fönstren	fönstren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+3	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

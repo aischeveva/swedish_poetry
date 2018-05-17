@@ -1,0 +1,9 @@
+1	liksom	liksom	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	hafvet	hafvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	längtar	längta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:27
+6	trötta	trötta	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+7	floden	floden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:38
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

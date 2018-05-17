@@ -1,0 +1,7 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	frihet	frihet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	bodde	bo	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	hos	hos	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	friden	friden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	qvar	qvar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+

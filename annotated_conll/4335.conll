@@ -1,0 +1,18 @@
+1	Giv	giv	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	tron	tron	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:17
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:20
+8	önskar	önska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+10	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:31
+11	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:37
+12	kors	kors	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+14	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:47
+15	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:50
+16	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:53
+17	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

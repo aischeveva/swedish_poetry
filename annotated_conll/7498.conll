@@ -1,0 +1,8 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	gamla	gammal	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	nattens	nattens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:10
+4	krafter	krafter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+6	Midgårdsormen	Midgårdsormen	PM	PM	NOM	_	_	_	_	B	person	temp:0:27
+7	slog	slå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:41
+

@@ -1,0 +1,6 @@
+1	svingar	svingar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	barnslig	barnslig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:17
+4	djupen	djupen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

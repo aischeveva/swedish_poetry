@@ -1,0 +1,7 @@
+1	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	bortom	bortom	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	hank	hank	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	stör	stör	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	...	...	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

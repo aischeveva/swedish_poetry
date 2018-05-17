@@ -1,0 +1,13 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	jordens	jord	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:21
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:25
+3	sett	se	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:1:29
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:34
+5	syster	syster	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:38
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:44
+

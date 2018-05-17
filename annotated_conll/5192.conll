@@ -1,0 +1,6 @@
+1	Denna	denna	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	tjugofyra	tjugofyra	RG	RG	NOM	_	_	_	_	O	_	temp:0:15
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

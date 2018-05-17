@@ -1,0 +1,8 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	mensklig	mensklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	lycka	lycka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:19
+5	förgätna	förgätna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	gudar	gudar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:31
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

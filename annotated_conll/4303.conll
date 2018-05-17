@@ -1,0 +1,8 @@
+1	bidar	bidar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	dolt	dolt	AB	AB	POS	_	_	_	_	O	_	temp:0:10
+4	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	gudaborna	gudaborna	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:30
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

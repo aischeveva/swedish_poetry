@@ -1,0 +1,50 @@
+1	Mamma	mamma	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14455160:0:1
+2	och	och	KN	KN	_	_	_	_	_	O	_	265827-14455160:0:7
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14455160:0:11
+4	lagar	laga	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14455160:0:15
+5	lite	lite	AB	AB	POS	_	_	_	_	O	_	265827-14455160:0:21
+6	TOM	tom	UO	UO	_	_	_	_	_	O	_	265827-14455160:0:26
+7	KAH	Kah	UO	UO	_	_	_	_	_	B	person	265827-14455160:0:30
+8	SOUP	soup	UO	UO	_	_	_	_	_	O	_	265827-14455160:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14455160:0:38
+
+1	Mumsigt	mumsig	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14455160:1:40
+2	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14455160:1:47
+
+1	Ska	skola	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14455160:2:49
+2	plugga	plugga	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14455160:2:53
+3	lite	lite	AB	AB	POS	_	_	_	_	O	_	265827-14455160:2:60
+4	också	också	AB	AB	_	_	_	_	_	O	_	265827-14455160:2:65
+5	...	...	MAD	MAD	_	_	_	_	_	O	_	265827-14455160:2:70
+
+1	fysikprov	fysikprov	AB	AB	_	_	_	_	_	O	_	265827-14455160:3:74
+2	på	på	PP	PP	_	_	_	_	_	O	_	265827-14455160:3:84
+3	onsdag	onsdag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14455160:3:87
+4	känns	kännas	VB	VB	PRS|SFO	_	_	_	_	O	_	265827-14455160:3:94
+5	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	265827-14455160:3:100
+6	än	än	KN	KN	_	_	_	_	_	O	_	265827-14455160:3:104
+7	nådigt	nådig	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14455160:3:107
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14455160:3:113
+
+1	För	för	PP	PP	_	_	_	_	_	O	_	265827-14455160:4:117
+2	övrigt	övrig	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14455160:4:121
+3	känner	känna	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14455160:4:128
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14455160:4:135
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	265827-14455160:4:139
+6	ovanligt	ovanlig	AB	AB	POS	_	_	_	_	O	_	265827-14455160:4:143
+7	tom	tom	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	265827-14455160:4:152
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14455160:4:155
+
+1	Förstår	förstå	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14455160:5:157
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	265827-14455160:5:165
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-14455160:5:169
+4	på	på	PP	PP	_	_	_	_	_	O	_	265827-14455160:5:174
+5	människor	människa	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14455160:5:177
+6	ibland	ibland	AB	AB	_	_	_	_	_	O	_	265827-14455160:5:187
+7	,	,	MID	MID	_	_	_	_	_	O	_	265827-14455160:5:193
+8	vänner	vän	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14455160:5:195
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14455160:5:201
+
+1	Fasen	fas	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-14455160:6:203
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14455160:6:208
+

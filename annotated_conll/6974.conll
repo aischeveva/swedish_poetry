@@ -1,0 +1,10 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	före	före	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:11
+5	Valhall	Valhall	PM	PM	NOM	_	_	_	_	B	inst	temp:0:16
+6	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:24
+7	gamle	gamle	UO	UO	_	_	_	_	_	O	_	temp:0:27
+8	ile	ile	UO	UO	_	_	_	_	_	O	_	temp:0:33
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

@@ -1,0 +1,9 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:7
+4	gröna	gröna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	kullar	kullar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	styrer	styrer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	Balder	Balder	PM	PM	NOM	_	_	_	_	B	person	temp:0:30
+8	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:37
+

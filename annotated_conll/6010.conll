@@ -1,0 +1,8 @@
+1	gaf	gaf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	glädje	glädje	UO	UO	_	_	_	_	_	O	_	temp:0:4
+3	blott	blott	UO	UO	_	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	ej	ej	UO	UO	_	_	_	_	_	O	_	temp:0:18
+6	rus	rus	UO	UO	_	_	_	_	_	O	_	temp:0:21
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

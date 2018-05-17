@@ -1,0 +1,5 @@
+1	förr	förr	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	fann	fann	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	fager	fage	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+

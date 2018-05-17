@@ -1,0 +1,10 @@
+1	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	också	också	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	litet	liten	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:16
+5	dömma	dömma	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+6	lyster	lyster	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:33
+

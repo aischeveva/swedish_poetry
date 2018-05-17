@@ -1,0 +1,6 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	äro	äro	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	förbundets	förbundets	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	Iduna	Iduna	PM	PM	NOM	_	_	_	_	B	place	temp:0:18
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

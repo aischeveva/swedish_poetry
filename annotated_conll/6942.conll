@@ -1,0 +1,12 @@
+1	Helt	helt	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	lätt	lätt	AB	AB	POS	_	_	_	_	O	_	temp:0:5
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:10
+4	bättre	bra	AB	AB	KOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	Frithiof	frithiof	AB	AB	AN	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+8	fördrar	fördra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+9	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:40
+10	bäste	bäste	UO	UO	_	_	_	_	_	O	_	temp:0:44
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

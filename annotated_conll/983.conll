@@ -1,0 +1,9 @@
+1	Käre	käre	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:10
+5	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:14
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+7	ditt	ditt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	väsen	väsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+

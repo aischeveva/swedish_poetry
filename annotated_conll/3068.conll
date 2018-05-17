@@ -1,0 +1,8 @@
+1	ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	flykten	flykten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	glödande	glödande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:19
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:28
+6	sanden	sanden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

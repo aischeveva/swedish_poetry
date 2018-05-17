@@ -1,0 +1,16 @@
+1	striden	striden	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	hopp	hopp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+7	arm	arm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+9	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:31
+10	Angurvadel	Angurvadel	PM	PM	NOM	_	_	_	_	B	animal	temp:0:34
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:1:46
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:1:48
+3	hugg	hugg	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:52
+

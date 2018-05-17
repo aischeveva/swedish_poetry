@@ -1,0 +1,9 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	hårda	hårda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	hjertan	hjertan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	smälte	smälte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	stålbeklädda	stålbeklädda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	bröst	bröst	NN	NN	AN	_	_	_	_	O	_	temp:0:39
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

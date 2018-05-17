@@ -1,0 +1,9 @@
+1	Mycket	mycket	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	hemligt	hemligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	dunkelt	dunkelt	AB	AB	POS	_	_	_	_	O	_	temp:0:22
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+7	farligt	farligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

@@ -1,0 +1,11 @@
+1	Den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	ryckts	ryckts	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:16
+6	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:23
+7	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:28
+8	vreda	vreda	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+9	strömmen	strömmen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

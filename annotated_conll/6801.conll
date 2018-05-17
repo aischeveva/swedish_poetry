@@ -1,0 +1,13 @@
+1	skarp	skarp	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	svärdets	svärdets	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	tunga	tunga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	konung	konung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+8	talar	tala	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+9	icke	icke	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+10	fridens	fridens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:44
+11	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:52
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:55
+

@@ -1,0 +1,6 @@
+1	Ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:3
+3	Frithiof	Frithiof	PM	PM	NOM	_	_	_	_	B	person	temp:0:9
+4	dröjde	dröjde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

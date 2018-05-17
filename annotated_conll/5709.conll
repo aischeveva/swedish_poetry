@@ -1,0 +1,9 @@
+1	skepp	skepp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	bölja	bölja	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	berg	berg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+7	dal	dal	AB	AB	KOM	_	_	_	_	O	_	temp:0:26
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

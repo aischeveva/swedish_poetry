@@ -1,0 +1,12 @@
+1	liksom	liksom	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	bodde	bo	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:13
+4	ande	ande	UO	UO	_	_	_	_	_	O	_	temp:0:16
+5	deri	deri	UO	UO	_	_	_	_	_	O	_	temp:0:21
+6	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:27
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:31
+9	nalkades	nalkades	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:35
+10	stranden	stranden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:44
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

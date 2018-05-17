@@ -1,0 +1,10 @@
+1	Jollrande	jollrande	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hoppar	hoppar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:17
+4	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:20
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+6	ljuger	ljuge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:36
+8	komplimenterar	komplimenterar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:40
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:54
+

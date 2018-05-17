@@ -1,0 +1,9 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	gamle	gamle	UO	UO	_	_	_	_	_	O	_	temp:0:4
+3	Hilding	hilding	UO	UO	_	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:23
+7	silfverskägg	silfverskägg	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

@@ -1,0 +1,9 @@
+1	Med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	lösa	lösa	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	nycker	nycker	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	vins	vins	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:16
+5	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:21
+6	aktning	aktning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	ej	ej	RG	RG	NOM	_	_	_	_	O	_	temp:0:34
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

@@ -1,0 +1,6 @@
+1	delar	delar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:10
+4	glömmer	glömmer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	ingen	ingen	PN	PN	UTR|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:22
+

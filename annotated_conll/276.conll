@@ -1,0 +1,11 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	väggarna	väggarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	svarar	svara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+6	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	gångna	gångna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:31
+8	släktens	släktens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:38
+9	röster	röster	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:47
+10	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:53
+

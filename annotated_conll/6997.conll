@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	midnattsdaggen	midnattsdaggen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	faller	faller	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:26
+5	bautasten	bautasten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

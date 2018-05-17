@@ -1,0 +1,8 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	krafsar	krafsar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ständigt	ständigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:21
+5	brandgul	brandgul	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	klo	klo	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

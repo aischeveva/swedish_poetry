@@ -1,0 +1,19 @@
+1	Giv	giv	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	bjuder	bjuda	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	ej	ej	UO	UO	_	_	_	_	_	O	_	temp:0:21
+8	ro	ro	UO	UO	_	_	_	_	_	O	_	temp:0:24
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+10	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:28
+11	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+12	kamp	kamp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+14	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:42
+15	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:46
+16	ande	ande	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:50
+17	därtill	därtill	AB	AB	_	_	_	_	_	O	_	temp:0:55
+18	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:62
+

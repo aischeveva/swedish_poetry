@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	gaf	gaf	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	kung	kung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	Helge	helge	NN	NN	AN	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:23
+8	tecknen	tecknen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+9	skrämt	skrämt	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:35
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

@@ -1,0 +1,6 @@
+1	Till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	slut	slut	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	dock	dock	KN	KN	_	_	_	_	_	O	_	temp:0:10
+4	Frithiof	Frithiof	PM	PM	NOM	_	_	_	_	B	person	temp:0:15
+5	fälde	fälde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+

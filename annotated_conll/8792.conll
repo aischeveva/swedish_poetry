@@ -1,0 +1,13 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:2
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+5	omger	omge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+8	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+9	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:27
+10	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:31
+11	målsman	målsman	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

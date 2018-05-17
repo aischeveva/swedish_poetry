@@ -1,0 +1,15 @@
+1	ja	ja	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:3
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	heller	heller	AB	AB	_	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	sa	säga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:23
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:28
+10	tänk	tänka	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:32
+11	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:37
+12	stackars	stackars	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:40
+13	Albert	albert	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:49
+14	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:55
+

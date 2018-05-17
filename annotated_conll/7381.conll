@@ -1,0 +1,8 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	hvite	hvite	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	guden	guden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	blidkas	blidkas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:16
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+6	förlåter	förlåta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

@@ -1,0 +1,14 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	vandrar	vandra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	vandrar	vandra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+5	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	valv	valv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+8	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:33
+9	bågar	bågar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:45
+11	darrande	darrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:48
+12	ljus	ljus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:57
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:61
+

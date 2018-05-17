@@ -1,0 +1,6 @@
+1	lys	lys	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

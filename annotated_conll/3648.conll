@@ -1,0 +1,10 @@
+1	ting	ting	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+3	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:9
+4	anas	anas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:16
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+6	syns	syns	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:25
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+8	känns	känna	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

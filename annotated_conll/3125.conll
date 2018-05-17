@@ -1,0 +1,8 @@
+1	Alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:0
+2	livets	livets	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:5
+3	krafter	krafter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:24
+6	dövat	dövat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,5 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	oövervinnelig	oövervinnelig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	vore	vore	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+4	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+

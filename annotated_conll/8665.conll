@@ -1,0 +1,6 @@
+1	af	af	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	bleka	bleka	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	syskonstjernor	syskonstjernor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	ofvanfrån	ofvanfrån	AB	AB	AN	_	_	_	_	O	_	temp:0:24
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

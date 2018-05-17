@@ -1,0 +1,8 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	knoppen	knoppen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:17
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	drömmer	drömma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

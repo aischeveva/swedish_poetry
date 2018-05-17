@@ -1,0 +1,8 @@
+1	stod	stå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	tecknade	tecknade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+3	pa	pa	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+4	väggen	väggen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	stirrande	stirrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	gestalter	gestalter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:35
+

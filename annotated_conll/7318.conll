@@ -1,0 +1,11 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	faders	faders	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	grafhög	grafhög	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+
+1	Sofver	sofver	UO	UO	_	_	_	_	_	O	_	temp:1:27
+2	hjelten	hjelten	UO	UO	_	_	_	_	_	O	_	temp:1:34
+3	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:1:41
+

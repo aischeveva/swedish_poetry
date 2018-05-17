@@ -1,0 +1,6 @@
+1	framvällande	framvällande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:13
+3	atlasklädda	atlasklädda	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:16
+4	skrin	skrin	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+5	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

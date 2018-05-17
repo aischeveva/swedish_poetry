@@ -1,0 +1,6 @@
+1	Damyata	damyata	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:7
+3	båten	båten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	svarade	svara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+5	glatt	glatt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+

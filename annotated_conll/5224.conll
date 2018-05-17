@@ -1,0 +1,13 @@
+1	Dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	din	din	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:8
+4	artighet	artighet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	täck	täck	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:27
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+9	ditt	ditt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:35
+10	läspande	läspande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:40
+11	sött	sött	AB	AB	POS	_	_	_	_	O	_	temp:0:49
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:53
+

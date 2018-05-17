@@ -1,0 +1,9 @@
+1	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+3	hem	hem	PL	PL	_	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:16
+6	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+7	älskade	älskade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+8	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+

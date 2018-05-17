@@ -1,0 +1,8 @@
+1	än	än	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	dåra	dåra	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	jungfrur	jungfrur	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	Balders	balders	UO	UO	_	_	_	_	_	O	_	temp:0:21
+6	hage	hage	UO	UO	_	_	_	_	_	O	_	temp:0:29
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

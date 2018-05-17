@@ -1,0 +1,7 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	vandraren	vandraren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	kysser	kysse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+4	din	din	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+5	stam	stam	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

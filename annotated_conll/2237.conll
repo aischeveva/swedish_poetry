@@ -1,0 +1,5 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	vördnadsbjudande	vördnadsbjudande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	människohuvud	människohuvud	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+4	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,7 @@
+1	Våldet	våldet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	rånade	rånade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	jungfrun	jungfrun	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	gret	gret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

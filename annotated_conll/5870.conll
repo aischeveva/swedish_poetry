@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	törsten	törsten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	gör	göra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:16
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:24
+

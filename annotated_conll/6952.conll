@@ -1,0 +1,16 @@
+1	Dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	skall	skall	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	prisa	prisa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	Frithiof	frithiof	AB	AB	AN	_	_	_	_	O	_	temp:0:20
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+8	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:30
+9	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:32
+10	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:33
+11	bergad	bergad	UO	UO	_	_	_	_	_	O	_	temp:0:35
+12	sol	sol	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+13	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:46
+14	döljt	döljt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:50
+15	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:55
+

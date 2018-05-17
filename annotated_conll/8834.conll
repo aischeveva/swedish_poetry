@@ -1,0 +1,12 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+4	löst	löst	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:11
+5	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:16
+6	löfte	löfte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+8	fylt	fylt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+9	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:33
+10	fordran	fordran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:38
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

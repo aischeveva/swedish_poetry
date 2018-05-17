@@ -1,0 +1,5 @@
+1	besegrade	besegrade	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:10
+3	våg	våg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+

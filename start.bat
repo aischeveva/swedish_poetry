@@ -1,0 +1,1 @@
+java -Xmx8G -ea -jar stagger.jar -trainfile train_file.conll -modelfile models/sic.bin -lang sv -train

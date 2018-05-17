@@ -1,0 +1,10 @@
+1	vandrar	vandrar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+3	förbi	förbi	PL	PL	_	_	_	_	_	O	_	temp:0:11
+4	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	svingande	svingande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	rytm	rytm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

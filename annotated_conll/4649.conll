@@ -1,0 +1,6 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	denna	denna	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:3
+3	bullrande	bullrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	jord	jord	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

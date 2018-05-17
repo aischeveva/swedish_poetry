@@ -1,0 +1,8 @@
+1	öppna	öppen	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	famnen	famn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	stundande	stundande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:31
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,12 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	lätt	lätt	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	tvekan	tvekan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:26
+8	drottning	drottning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+9	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:40
+10	behag	behag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:50
+

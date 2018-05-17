@@ -1,0 +1,9 @@
+1	dans	dans	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	smycken	smycken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	dans	Dans	PM	PM	NOM	_	_	_	_	B	person	temp:0:16
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:21
+7	vapen	vapen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

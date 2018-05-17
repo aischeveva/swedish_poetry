@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	knakar	knakar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	köl	köl	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

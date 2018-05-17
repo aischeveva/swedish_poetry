@@ -1,0 +1,10 @@
+1	Var	vara	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	lund	lund	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	gul	gul	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+7	blomsterstängel	blomsterstängel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+8	brast	brista	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:39
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

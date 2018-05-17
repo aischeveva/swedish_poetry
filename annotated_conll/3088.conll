@@ -1,0 +1,6 @@
+1	Vågor	vågor	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	saltskum	Saltskum	PM	PM	NOM	_	_	_	_	B	person	temp:0:10
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

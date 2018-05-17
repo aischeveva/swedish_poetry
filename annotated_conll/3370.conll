@@ -1,0 +1,17 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:10
+5	Må	må	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+7	dö	dö	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:23
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:27
+3	hämnat	hämnat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:1:31
+4	Gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:1:38
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:41
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:2:42
+

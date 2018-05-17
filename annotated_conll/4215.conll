@@ -1,0 +1,10 @@
+1	dränka	dränka	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ruttnande	ruttnande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	lögn	lögn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:22
+5	fordom	fordom	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+6	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:33
+7	skonslöst	skonslöst	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:36
+8	gjorde	göra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:46
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:52
+

@@ -1,0 +1,11 @@
+1	der	der	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	mö	mö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	barm	barm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:25
+9	knoppas	knoppas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:29
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

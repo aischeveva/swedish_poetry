@@ -1,0 +1,6 @@
+1	Dygden	dygden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	hoppet	hoppet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	sinnesfriden	sinnesfriden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+

@@ -1,0 +1,12 @@
+1	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	förfrusne	förfrusne	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	hem	hem	AB	AB	_	_	_	_	_	O	_	temp:0:18
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:27
+7	gård	gård	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:36
+9	förplägade	förplägade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:40
+10	gästen	gästen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:51
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

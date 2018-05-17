@@ -1,0 +1,10 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	vinterkväll	vinterkväll	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	skydd	skydd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	stadens	stadens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:27
+8	gasverk	gasverk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

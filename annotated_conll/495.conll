@@ -1,0 +1,9 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	varligt	varligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:12
+4	stolt	stolt	AB	AB	POS	_	_	_	_	O	_	temp:0:16
+5	bär	bär	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:26
+7	finaste	finaste	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:29
+8	ljus	ljus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+

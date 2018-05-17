@@ -1,0 +1,4 @@
+1	spegla	spegla	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:7
+3	skymningshimmels	skymningshimmels	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+

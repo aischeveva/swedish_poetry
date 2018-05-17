@@ -1,0 +1,9 @@
+1	går	går	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	alstrande	alstrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	hav	hav	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+5	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	djup	djup	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	kristall	kristall	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

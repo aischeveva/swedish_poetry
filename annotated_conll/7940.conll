@@ -1,0 +1,8 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	gula	gula	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	fläsk	fläsk	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:19
+6	bruna	bruna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+7	mjöd	mjöd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

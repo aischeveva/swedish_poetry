@@ -1,0 +1,8 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	fredlig	fredlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	bragd	bragd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:18
+5	ungdoms	ungdoms	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	öfvermod	öfvermod	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

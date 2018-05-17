@@ -1,0 +1,7 @@
+1	dundret	dundret	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+3	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	öde	öde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+5	rum	rum	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

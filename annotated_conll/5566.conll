@@ -1,0 +1,9 @@
+1	skall	skall	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+3	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	hvart	hvart	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:14
+6	böljan	böljan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	bär	bär	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

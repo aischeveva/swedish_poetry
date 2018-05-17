@@ -1,0 +1,8 @@
+1	Var	vara	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:14
+6	många	mången	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+

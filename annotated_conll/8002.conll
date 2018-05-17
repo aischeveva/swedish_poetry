@@ -1,0 +1,15 @@
+1	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:6
+4	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+6	sad	sad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+7	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:16
+8	Frithiof	frithiof	UO	UO	_	_	_	_	_	O	_	temp:0:18
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+10	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:28
+11	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:29
+12	gammal	gammal	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+13	adel	adel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

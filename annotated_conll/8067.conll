@@ -1,0 +1,10 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	gått	gå	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	frö	frö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+8	vintrarna	vintrarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:24
+9	strö	strö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+

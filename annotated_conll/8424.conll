@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	spegla	spegla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:11
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	sköldarna	sköldarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+7	flyga	flyga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:31
+

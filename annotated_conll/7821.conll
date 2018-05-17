@@ -1,0 +1,14 @@
+1	Bele	bele	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hörde	höra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+3	dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:11
+4	först	först	AB	AB	_	_	_	_	_	O	_	temp:0:16
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:22
+6	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+8	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:31
+9	lät	låta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:35
+10	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:39
+11	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:43
+12	trollsång	trollsång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+13	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:55
+

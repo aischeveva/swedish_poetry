@@ -1,0 +1,5 @@
+1	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	överflöd	överflöd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

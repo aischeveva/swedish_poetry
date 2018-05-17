@@ -1,0 +1,8 @@
+1	Åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	sonen	son	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+5	odalbonde	odalbonde	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	ville	vilja	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+7	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:31
+

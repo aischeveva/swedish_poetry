@@ -1,0 +1,9 @@
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	ena	ena	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	skimrar	skimrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	naken	naken	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+7	sval	sval	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

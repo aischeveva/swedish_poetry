@@ -1,0 +1,10 @@
+1	Farväl	farväl	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:6
+
+1	Ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:1:8
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:1:13
+3	kyss	kyss	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:16
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:1:21
+5	pannan	panna	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:30
+

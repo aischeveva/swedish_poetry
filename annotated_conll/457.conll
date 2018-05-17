@@ -1,0 +1,6 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	summan	summan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:14
+5	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+

@@ -1,0 +1,5 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	viskande	viskande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	minne	minne	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+

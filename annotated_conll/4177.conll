@@ -1,0 +1,7 @@
+1	annat	annat	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:10
+4	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:17
+5	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

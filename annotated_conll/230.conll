@@ -1,0 +1,8 @@
+1	Den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	tacka	tacka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:15
+6	unnades	unnades	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:19
+7	läka	läka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+

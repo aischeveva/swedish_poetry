@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sol	sol	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:8
+4	stjärnor	stjärnor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	mörknade	mörknade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:30
+7	hast	hast	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

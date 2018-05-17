@@ -1,0 +1,8 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:9
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	drömska	drömska	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	blickar	blickar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+

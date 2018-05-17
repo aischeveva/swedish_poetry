@@ -1,0 +1,8 @@
+1	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	åter	åter	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	bjuda	bjuda	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	handen	hand	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	försoning	försoning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

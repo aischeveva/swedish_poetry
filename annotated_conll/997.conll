@@ -1,0 +1,11 @@
+1	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	fromhet	fromhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	lägger	lägge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:19
+5	ner	ner	PL	PL	_	_	_	_	_	O	_	temp:0:23
+6	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+8	fot	fot	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:39
+10	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

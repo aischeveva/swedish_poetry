@@ -1,0 +1,7 @@
+1	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	tvingar	tvinga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+4	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:14
+5	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:18
+6	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+

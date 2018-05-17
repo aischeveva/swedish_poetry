@@ -1,0 +1,5 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	helig	helig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	snörpning	snörpning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+

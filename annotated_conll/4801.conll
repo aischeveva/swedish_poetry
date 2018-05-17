@@ -1,0 +1,14 @@
+1	Kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	nordan	nordan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:10
+
+1	Klippan	klippan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:12
+2	skalv	skalv	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:20
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:25
+4	sjön	sjön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:27
+5	soptes	soptes	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:32
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:38
+7	stammen	stammen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:40
+8	brast	brista	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:48
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:53
+

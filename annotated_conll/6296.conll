@@ -1,0 +1,7 @@
+1	guldtand	guldtand	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:9
+3	tak	tak	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	sparrar	sparrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

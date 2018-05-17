@@ -1,0 +1,10 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	öm	öm	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:7
+5	vore	vore	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:16
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:20
+8	älskares	älskares	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

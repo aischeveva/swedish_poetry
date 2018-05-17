@@ -1,0 +1,9 @@
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	jordens	jord	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+5	vaggsång	vaggsång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	utur	utur	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	skyn	skyn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

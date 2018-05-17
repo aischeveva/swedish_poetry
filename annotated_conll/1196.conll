@@ -1,0 +1,5 @@
+1	Helgad	helgad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	handling	handling	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

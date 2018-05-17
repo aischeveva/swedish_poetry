@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vardag	vardag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	bringar	bringar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	mera	mera	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+5	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:24
+6	vinterkölden	vinterkölden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

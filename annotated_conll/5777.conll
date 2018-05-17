@@ -1,0 +1,5 @@
+1	svartskäggig	svartskäggig	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	berserk	berserk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+4	blodig	blodig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+

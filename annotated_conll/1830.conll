@@ -1,0 +1,11 @@
+1	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	blankt	blankt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+6	något	något	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:18
+7	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:24
+8	bär	bär	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:28
+9	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:32
+10	ryggen	rygg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+

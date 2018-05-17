@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	harpan	harpan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	slår	slår	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	guldet	guldet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	tvinnar	tvinnar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:37
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:39
+

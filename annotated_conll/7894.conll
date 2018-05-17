@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+4	med	med	PL	PL	_	_	_	_	_	O	_	temp:0:12
+5	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:16
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:20
+7	sköna	sköna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+8	syster	syster	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

@@ -1,0 +1,10 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	nickar	nickar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	sakta	sakta	AB	AB	POS	_	_	_	_	O	_	temp:0:10
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	tänker	tänka	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	gamla	gammal	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	ting	ting	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:36
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

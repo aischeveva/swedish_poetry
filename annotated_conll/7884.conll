@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	skalderna	skalderna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	prisa	prisa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:20
+5	ättartal	ättartal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

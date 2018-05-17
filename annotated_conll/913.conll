@@ -1,0 +1,5 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	några	någon	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	temp:0:4
+3	mörka	mörka	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	revor	revor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+

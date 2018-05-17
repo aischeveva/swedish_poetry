@@ -1,0 +1,10 @@
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+5	ängeln	ängeln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+6	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:20
+7	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:24
+8	flammande	flammande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:28
+9	svärdet	svärdet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:38
+

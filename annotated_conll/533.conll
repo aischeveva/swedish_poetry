@@ -1,0 +1,4 @@
+1	Vacker	vacker	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	arbetsdagen	arbetsdag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+

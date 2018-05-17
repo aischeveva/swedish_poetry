@@ -1,0 +1,5 @@
+1	hvad	hvad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	bäst	bra	AB	AB	SUV	_	_	_	_	O	_	temp:0:13
+

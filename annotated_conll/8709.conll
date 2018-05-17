@@ -1,0 +1,10 @@
+1	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	kämpa	kämpa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	faran	faran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:23
+7	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+8	ära	ära	AB	AB	KOM	_	_	_	_	O	_	temp:0:30
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

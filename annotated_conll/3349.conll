@@ -1,0 +1,12 @@
+1	Att	att	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	låna	låna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:17
+6	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	konst	konst	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:26
+8	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:32
+9	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:35
+10	annan	annan	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

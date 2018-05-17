@@ -1,0 +1,10 @@
+1	mäktig	mäktig	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	lik	lik	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:11
+4	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:24
+7	levande	levande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	alltet	alltet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

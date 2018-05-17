@@ -1,0 +1,7 @@
+1	Asarna	asarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	rår	rår	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	lösen	lösen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	strid	strid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+

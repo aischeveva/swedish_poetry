@@ -1,0 +1,7 @@
+1	Dom	dom	PN	PN	UTR/NEU|PLU|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	pratar	prata	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	mej	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:14
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	huset	hus	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+

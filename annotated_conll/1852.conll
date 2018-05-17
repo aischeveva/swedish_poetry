@@ -1,0 +1,9 @@
+1	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:0
+2	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+4	krafsar	krafsar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+5	honom	han	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+6	upp	upp	PL	PL	_	_	_	_	_	O	_	temp:0:25
+7	igen	igen	AB	AB	_	_	_	_	_	O	_	temp:0:29
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

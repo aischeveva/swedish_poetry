@@ -1,0 +1,5 @@
+1	Alferna	alferna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	gled	gled	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:13
+4	skuggor	skuggor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+

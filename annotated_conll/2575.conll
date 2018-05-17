@@ -1,0 +1,8 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	bryter	bryter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:14
+5	ditt	ditt	AB	AB	POS	_	_	_	_	O	_	temp:0:19
+6	skal	skal	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

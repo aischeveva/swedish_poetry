@@ -1,0 +1,8 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	går	går	AB	AB	_	_	_	_	_	O	_	temp:0:2
+3	likväl	likväl	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+5	redan	redan	AB	AB	_	_	_	_	_	O	_	temp:0:17
+6	tinget	tinget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	utlyst	utlyst	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:30
+

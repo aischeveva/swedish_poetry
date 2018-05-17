@@ -1,0 +1,8 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	blott	blott	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	fred	fred	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+6	beder	beder	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

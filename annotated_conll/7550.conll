@@ -1,0 +1,9 @@
+1	ohämnade	ohämnade	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dock	dock	KN	KN	_	_	_	_	_	O	_	temp:0:9
+3	icke	icke	AB	AB	_	_	_	_	_	O	_	temp:0:14
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	ty	ty	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+7	onda	onda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+8	dör	dör	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+

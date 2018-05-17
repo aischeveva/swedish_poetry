@@ -1,0 +1,11 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	konung	konung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	Ring	ring	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	gamle	gamle	UO	UO	_	_	_	_	_	O	_	temp:0:20
+6	sof	sof	UO	UO	_	_	_	_	_	O	_	temp:0:26
+7	hos	hos	PP	PP	_	_	_	_	_	O	_	temp:0:30
+8	skön	skön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	Ingeborg	ingeborg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

@@ -1,0 +1,10 @@
+1	Dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	hvarför	hvarför	AB	AB	_	_	_	_	_	O	_	temp:0:6
+4	också	också	AB	AB	_	_	_	_	_	O	_	temp:0:14
+5	hoppas	hoppas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:20
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+
+1	Valhalls	valhalls	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:28
+2	gudar	gudar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:37
+

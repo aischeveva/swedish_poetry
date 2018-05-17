@@ -1,0 +1,6 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	god	god	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	välfägnad	välfägnad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+

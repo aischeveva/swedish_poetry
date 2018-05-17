@@ -1,0 +1,11 @@
+1	blanka	blanka	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:7
+3	solens	solens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:11
+4	rund	rund	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	månens	månens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:29
+7	skifva	skifvara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:36
+8	af	af	NN	NN	NEU|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:43
+9	silfver	silfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:46
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:53
+

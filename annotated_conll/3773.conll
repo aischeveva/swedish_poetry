@@ -1,0 +1,7 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	stirrar	stirrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	aningsblek	aningsblek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:23
+5	vårens	vårens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:27
+6	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+

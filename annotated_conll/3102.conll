@@ -1,0 +1,7 @@
+1	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	ditt	ditt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	tomma	tomma	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	hus	hus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

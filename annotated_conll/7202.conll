@@ -1,0 +1,8 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Frithiof	Frithiof	PM	PM	NOM	_	_	_	_	B	person	temp:0:4
+3	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	tingets	tingets	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:21
+6	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,7 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	öknens	öknens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:12
+5	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

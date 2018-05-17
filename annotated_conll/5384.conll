@@ -1,0 +1,7 @@
+1	elfkungen	elfkungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:10
+3	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+4	drottning	drottning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	dansar	dansar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,6 @@
+1	runt	runt	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	blöt	blöt	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	svampmun	svampmun	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

@@ -1,0 +1,12 @@
+1	Dernäst	dernäst	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ypperst	ypperst	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+4	pris	pris	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:23
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:27
+7	armring	armring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+9	vida	vida	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:39
+10	beryktad	beryktad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

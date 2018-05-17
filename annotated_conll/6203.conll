@@ -1,0 +1,7 @@
+1	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	templet	templet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	skredo	skredo	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	långsam	långsam	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	färd	färd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

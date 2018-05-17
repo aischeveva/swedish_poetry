@@ -1,0 +1,9 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	undrans	undrans	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	lycka	lycka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	vilar	vilar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:26
+7	drag	drag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,6 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	fula	fula	NN	NN	UTR|SIN|IND|GEN	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	tarvliga	tarvliga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	bilder	bild	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+

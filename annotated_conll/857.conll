@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	trasar	trasar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	sönder	sönder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	spränger	spränge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:35
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

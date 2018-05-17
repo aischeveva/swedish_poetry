@@ -1,0 +1,11 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	Halfdan	Halfdan	PM	PM	NOM	_	_	_	_	B	place	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	glädtigt	glädtigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	sinne	sinne	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+7	vis	vis	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	mans	mans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	vinst	vinst	NN	NN	AN	_	_	_	_	O	_	temp:0:39
+10	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

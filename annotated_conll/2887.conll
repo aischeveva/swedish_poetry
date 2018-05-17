@@ -1,0 +1,12 @@
+1	Världar	världar	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	vaknar	vaknar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	nya	ny	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	solars	solars	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	guld	guld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:33
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:35
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:36
+

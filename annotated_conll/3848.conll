@@ -1,0 +1,7 @@
+1	lydande	lydande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	stolt	stolt	AB	AB	POS	_	_	_	_	O	_	temp:0:8
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+4	strängaste	strängaste	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	lag	lag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,8 @@
+1	Allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	förloradt	förloradt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:14
+
+1	Ur	ur	PP	PP	_	_	_	_	_	O	_	temp:1:16
+2	halfbränd	halfbränd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:19
+3	sal	sal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:29
+

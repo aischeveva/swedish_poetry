@@ -1,0 +1,5 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	gyllene	gyllene	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	grindarna	grindarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

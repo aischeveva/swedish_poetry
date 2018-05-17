@@ -1,0 +1,6 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	form	form	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+4	genomglödgas	genomglödgas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

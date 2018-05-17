@@ -1,0 +1,5 @@
+1	beständigast	beständigast	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+3	dyrkan	dyrkan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

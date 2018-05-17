@@ -1,0 +1,37 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	265827-14455131:0:1
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14455131:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14455131:0:7
+4	äntligen	äntligen	AB	AB	_	_	_	_	_	O	_	265827-14455131:0:11
+5	hemma	hemma	AB	AB	_	_	_	_	_	O	_	265827-14455131:0:20
+6	från	från	PP	PP	_	_	_	_	_	O	_	265827-14455131:0:26
+7	jobbet	jobb	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14455131:0:31
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14455131:0:37
+
+1	Gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14455131:1:39
+2	riktigt	riktigt	AB	AB	_	_	_	_	_	O	_	265827-14455131:1:44
+3	bra	bra	AB	AB	POS	_	_	_	_	O	_	265827-14455131:1:52
+4	för	för	PP	PP	_	_	_	_	_	O	_	265827-14455131:1:56
+5	att	att	IE	IE	_	_	_	_	_	O	_	265827-14455131:1:60
+6	vara	vara	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14455131:1:64
+7	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	265827-14455131:1:69
+8	första	första	RO	RO	NOM	_	_	_	_	O	_	265827-14455131:1:73
+9	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14455131:1:80
+10	-	-	MID	MID	_	_	_	_	_	O	_	265827-14455131:1:85
+11	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14455131:1:87
+12	bäst	bra	AB	AB	SUV	_	_	_	_	O	_	265827-14455131:1:92
+13	på	på	PP	PP	_	_	_	_	_	O	_	265827-14455131:1:97
+14	kontoret	kontor	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14455131:1:100
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14455131:1:108
+
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	265827-14455131:2:110
+2	ska	skola	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14455131:2:113
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14455131:2:117
+4	iväg	iväg	AB	AB	_	_	_	_	_	O	_	265827-14455131:2:121
+5	till	till	PP	PP	_	_	_	_	_	O	_	265827-14455131:2:126
+6	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	265827-14455131:2:131
+7	kompis	kompis	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14455131:2:135
+8	Josefina	Josefina	PM	PM	NOM	_	_	_	_	B	person	265827-14455131:2:142
+9	och	och	KN	KN	_	_	_	_	_	O	_	265827-14455131:2:151
+10	mysa	mysa	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14455131:2:155
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14455131:2:159
+

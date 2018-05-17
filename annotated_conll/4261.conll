@@ -1,0 +1,5 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	klara	klar	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	strömmar	strömmar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+

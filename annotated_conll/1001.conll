@@ -1,0 +1,5 @@
+1	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	långsamme	långsamme	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	store	store	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+

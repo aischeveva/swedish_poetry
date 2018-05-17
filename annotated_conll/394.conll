@@ -1,0 +1,8 @@
+1	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	märket	märket	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:17
+6	levande	levande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+

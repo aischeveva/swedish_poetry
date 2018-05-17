@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:8
+5	blommor	blomma	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+6	små	liten	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:18
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:23
+9	randen	randen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+

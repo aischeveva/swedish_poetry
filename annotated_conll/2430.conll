@@ -1,0 +1,5 @@
+1	rester	rester	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:7
+3	damm	damm	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

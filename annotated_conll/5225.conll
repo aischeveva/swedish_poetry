@@ -1,0 +1,12 @@
+1	Hylla	hylla	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	längre	längre	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:16
+5	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:23
+7	drottning	drottning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:37
+9	systrarna	systrarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:41
+10	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:51
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:55
+

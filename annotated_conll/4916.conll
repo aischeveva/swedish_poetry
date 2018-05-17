@@ -1,0 +1,5 @@
+1	Under	under	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dina	dina	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	tallars	tallars	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:11
+4	tak	tak	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+

@@ -1,0 +1,7 @@
+1	Spruckna	spruckna	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	naglar	naglar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:16
+4	smutsiga	smutsiga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+5	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

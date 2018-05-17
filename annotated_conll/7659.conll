@@ -1,0 +1,9 @@
+1	föll	föll	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	bilden	bild	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	ner	ner	PL	PL	_	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	krossade	krossade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:29
+7	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:33
+8	fall	fall	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+

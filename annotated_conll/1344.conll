@@ -1,0 +1,12 @@
+1	slungas	slungas	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+3	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	levande	levande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+8	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:36
+9	öde	öde	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+10	framtidstungt	framtidstungt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

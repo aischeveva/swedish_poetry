@@ -1,0 +1,18 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+5	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:12
+6	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:16
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+8	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+9	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:27
+10	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+11	lever	lever	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+12	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:40
+13	ny	ny	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+14	gestalt	gestalt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:52
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:53
+

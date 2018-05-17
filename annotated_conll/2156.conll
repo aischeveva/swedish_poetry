@@ -1,0 +1,12 @@
+1	Vem	vem	HP	HP	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	tredje	tredje	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:18
+6	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+7	bredvid	bredvid	PP	PP	_	_	_	_	_	O	_	temp:0:26
+8	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:34
+9	hela	hel	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:38
+10	tiden	tid	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:43
+11	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

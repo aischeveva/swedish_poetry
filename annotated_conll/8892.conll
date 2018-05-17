@@ -1,0 +1,7 @@
+1	offrad	offrad	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	af	af	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	bröder	bröder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:18
+

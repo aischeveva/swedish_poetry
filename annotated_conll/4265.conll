@@ -1,0 +1,5 @@
+1	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	tanke	tanke	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	somnar	somna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+

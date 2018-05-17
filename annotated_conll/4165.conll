@@ -1,0 +1,12 @@
+1	å	å	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Carolina	Carolina	PM	PM	NOM	_	_	_	_	B	place	temp:0:2
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:12
+5	vän	vän	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	bakom	bakom	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:21
+8	björkens	björkens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:27
+9	frostiga	frostiga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:36
+10	ris	ris	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:48
+

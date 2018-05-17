@@ -1,0 +1,8 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:13
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:17
+6	knappast	knappast	AB	AB	SUV	_	_	_	_	O	_	temp:0:21
+7	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:30
+

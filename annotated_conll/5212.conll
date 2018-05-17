@@ -1,0 +1,11 @@
+1	Låter	låta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	känslorna	känslorna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	ses	ses	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+6	röjer	röjer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:30
+8	tankarnas	tankarnas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:33
+9	växt	växt	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:43
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

@@ -1,0 +1,10 @@
+1	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	namnen	namnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:13
+5	grodde	grodde	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	björkens	björkens	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:26
+8	bark	bark	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

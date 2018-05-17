@@ -1,0 +1,7 @@
+1	Stjärnfall	stjärnfall	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:12
+4	natten	natt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	stänker	stänker	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

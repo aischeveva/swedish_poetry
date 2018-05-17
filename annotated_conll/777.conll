@@ -1,0 +1,7 @@
+1	skammens	skammens	JJ	JJ	POS|UTR/NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	kåpor	kåpor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+4	ärans	ärans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:19
+5	kransar	kransar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

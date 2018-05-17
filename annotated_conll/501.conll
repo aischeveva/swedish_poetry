@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	släppa	släppa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:11
+4	Job	job	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+7	plågas	plåga	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:26
+8	hög	hög	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

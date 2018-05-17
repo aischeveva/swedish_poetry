@@ -1,0 +1,8 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	bidar	bidar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	tystnad	tystnad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	tillit	tillit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:24
+7	skygg	skygg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+

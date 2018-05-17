@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	kallar	kallar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+6	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+7	beredd	beredd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:29
+9	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:33
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

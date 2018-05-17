@@ -1,0 +1,6 @@
+1	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:0
+2	känna	känna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:5
+3	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:11
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:14
+5	gröna	gröna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:17
+

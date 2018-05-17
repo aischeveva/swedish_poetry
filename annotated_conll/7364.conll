@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	högt	högt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	deri	deri	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	himmelsblåa	himmelsblåa	RG	RG	NOM	_	_	_	_	O	_	temp:0:19
+7	skrudar	skrudar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

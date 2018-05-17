@@ -1,0 +1,9 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	Nordlands	nordlands	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:8
+4	kungar	kungar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:26
+7	Asasöner	Asasöner	PM	PM	NOM	_	_	_	_	B	place	temp:0:29
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

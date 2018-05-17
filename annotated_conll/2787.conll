@@ -1,0 +1,7 @@
+1	skuggor	skuggor	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:11
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:16
+5	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:20
+6	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:25
+

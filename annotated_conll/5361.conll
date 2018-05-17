@@ -1,0 +1,9 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	ena	ena	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:8
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+5	ek	Ek	UO	UO	_	_	_	_	_	O	_	temp:0:15
+6	sköt	sköt	UO	UO	_	_	_	_	_	O	_	temp:0:18
+7	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:23
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

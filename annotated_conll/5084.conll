@@ -1,0 +1,10 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sanningen	sanningen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	lever	lever	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+
+1	Bland	bland	PP	PP	_	_	_	_	_	O	_	temp:1:21
+2	bilor	bilor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:1:27
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:1:33
+4	svärd	svärd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:37
+

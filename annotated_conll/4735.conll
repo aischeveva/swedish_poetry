@@ -1,0 +1,7 @@
+1	Man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:0
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	räkna	räkna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+6	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:23
+

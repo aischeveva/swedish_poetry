@@ -1,0 +1,12 @@
+1	Ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:6
+3	spets	spets	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+5	tropp	tropp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	nedstörte	nedstörte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:38
+9	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:42
+10	skyn	skyn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:47
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:51
+

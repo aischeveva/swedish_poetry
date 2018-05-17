@@ -1,0 +1,11 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	kämpar	kämpa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+6	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+8	brynjor	brynjor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:24
+9	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:32
+10	eld	eld	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+

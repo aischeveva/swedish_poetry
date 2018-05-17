@@ -1,0 +1,9 @@
+1	Blott	blott	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	mellan	mellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	fjällen	fjällen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+7	Sundet	Sundet	PM	PM	NOM	_	_	_	_	B	person	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

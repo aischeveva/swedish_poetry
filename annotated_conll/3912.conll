@@ -1,0 +1,9 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:1
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:5
+4	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:7
+5	hemliga	hemliga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+6	djupens	djupens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:18
+7	skog	skog	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

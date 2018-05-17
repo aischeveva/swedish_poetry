@@ -1,0 +1,7 @@
+1	Dödsblek	dödsblek	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Björn	Björn	PM	PM	NOM	_	_	_	_	B	place	temp:0:9
+3	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	porten	porten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+5	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

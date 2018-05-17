@@ -1,0 +1,14 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:13
+5	rädd	rädd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:1:22
+2	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:25
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:30
+4	:	:	MID	MID	_	_	_	_	_	O	_	temp:1:33
+5	Marie	Marie	PM	PM	NOM	_	_	_	_	B	place	temp:1:35
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:40
+

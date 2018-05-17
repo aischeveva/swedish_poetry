@@ -1,0 +1,15 @@
+1	likt	likt	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	trevande	trevande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	trött	trött	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	fågel	fågel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:30
+8	söker	söker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+9	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:40
+10	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:44
+11	skydd	skydd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+12	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:54
+13	natten	natt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:58
+14	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:64
+

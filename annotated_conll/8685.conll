@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	hviska	hviska	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:13
+5	öra	öra	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:26
+8	röst	röst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

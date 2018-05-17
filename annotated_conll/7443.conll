@@ -1,0 +1,11 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+4	sången	sången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	växte	växte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	höjde	höjde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:27
+8	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:33
+9	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:37
+10	själ	själ	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+

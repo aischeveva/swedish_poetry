@@ -1,0 +1,13 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	säg	säg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+4	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+6	hvar	hvar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+8	Ingeborg	ingeborg	PC	PC	PRF|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:24
+9	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:33
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:35
+

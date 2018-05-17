@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	friden	friden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	blomstra	blomstra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	inom	inom	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	å	å	KN	KN	_	_	_	_	_	O	_	temp:0:25
+6	hägnad	hägnad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	ort	ort	AB	AB	POS	_	_	_	_	O	_	temp:0:34
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

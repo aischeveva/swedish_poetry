@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	milda	mild	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	stjernor	stjernor	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	gudomlig	gudomlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	glans	glans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+

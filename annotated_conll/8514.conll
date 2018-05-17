@@ -1,0 +1,10 @@
+1	hvar	hvar	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	kind	kind	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	nyss	nyss	AB	AB	_	_	_	_	_	O	_	temp:0:11
+5	blossande	blossande	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+6	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	glad	glad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	förhoppning	förhoppning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

@@ -1,0 +1,14 @@
+1	Sköldeklang	sköldeklang	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:12
+3	pilregn	pilregn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+5	gubbe	gubbe	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+
+1	Midt	midt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:32
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:1:37
+3	hafvet	hafvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:39
+4	slaget	slag	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:46
+5	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:53
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:57
+

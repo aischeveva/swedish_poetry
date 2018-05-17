@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	undanslängda	undanslängda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	ben	ben	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:21
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:24
+6	lågt	lågt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	litet	liten	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	vindskontor	vindskontor	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:50
+

@@ -1,0 +1,6 @@
+1	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	återsken	återsken	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	snön	snön	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

@@ -1,0 +1,14 @@
+1	bära	bära	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	o	o	KN	KN	_	_	_	_	_	O	_	temp:0:7
+4	vore	vore	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+7	vore	vore	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:24
+9	blott	blott	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:28
+10	isfågeln	isfågeln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+12	där	där	HA	HA	_	_	_	_	_	O	_	temp:0:44
+13	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:48
+

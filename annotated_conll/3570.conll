@@ -1,0 +1,8 @@
+1	möter	möter	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	Fördärvaren	Fördärvaren	PM	PM	NOM	_	_	_	_	B	person	temp:0:10
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+5	annan	annan	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	gestalt	gestalt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

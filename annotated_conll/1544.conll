@@ -1,0 +1,8 @@
+1	språkens	språkens	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	språk	språk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	eviga	eviga	RG	RG	NOM	_	_	_	_	O	_	temp:0:18
+5	dova	dovara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+6	brus	brus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

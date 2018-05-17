@@ -1,0 +1,8 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	fyllig	fyllig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:10
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:14
+5	mognad	mognad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	ros	ros	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

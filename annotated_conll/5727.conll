@@ -1,0 +1,5 @@
+1	Tröttare	tröttare	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	ändå	ändå	AB	AB	_	_	_	_	_	O	_	temp:0:9
+3	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+4	färden	färden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+

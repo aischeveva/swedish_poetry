@@ -1,0 +1,8 @@
+1	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	altaret	altaret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+4	stödde	stödde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+5	sköldens	sköldens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:23
+6	gyllne	gyllne	UO	UO	_	_	_	_	_	O	_	temp:0:32
+7	rund	rund	UO	UO	_	_	_	_	_	O	_	temp:0:39
+

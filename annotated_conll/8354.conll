@@ -1,0 +1,8 @@
+1	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	öga	öga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	himmel	himmel	UO	UO	_	_	_	_	_	O	_	temp:0:17
+6	blått	blått	UO	UO	_	_	_	_	_	O	_	temp:0:24
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

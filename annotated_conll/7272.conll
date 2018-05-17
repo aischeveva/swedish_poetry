@@ -1,0 +1,11 @@
+1	Ack	ack	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:3
+
+1	samma	samma	IN	IN	_	_	_	_	_	O	_	temp:1:5
+2	blommor	blomma	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:1:11
+3	dofta	dofta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:19
+4	än	än	KN	KN	_	_	_	_	_	O	_	temp:1:25
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:1:28
+6	qvällen	qvällen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:37
+

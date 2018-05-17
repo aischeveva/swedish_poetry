@@ -1,0 +1,9 @@
+1	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	älskar	älska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:15
+5	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	kämpars	kämpars	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:22
+7	ärr	ärr	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

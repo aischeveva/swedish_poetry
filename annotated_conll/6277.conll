@@ -1,0 +1,6 @@
+1	Angurvadel	angurvadel	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+3	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+4	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+5	skuld	skuld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+

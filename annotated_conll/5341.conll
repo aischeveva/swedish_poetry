@@ -1,0 +1,8 @@
+1	Dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:8
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:11
+6	sagan	sagan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+7	lyssnar	lyssna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+

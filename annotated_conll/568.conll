@@ -1,0 +1,6 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	lång	lång	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	mörk	mörk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	höst	höst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+

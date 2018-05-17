@@ -1,0 +1,9 @@
+1	Därför	därför	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:7
+3	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:11
+4	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:14
+5	drabbades	drabbades	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:21
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:31
+7	renhet	renhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

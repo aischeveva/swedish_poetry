@@ -1,0 +1,14 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:1
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+4	intet	intet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+5	menskligt	menskligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	öga	öga	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+8	Odens	odens	UO	UO	_	_	_	_	_	O	_	temp:0:30
+9	öga	öga	UO	UO	_	_	_	_	_	O	_	temp:0:36
+10	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:40
+11	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:44
+12	visst	visst	IN	IN	_	_	_	_	_	O	_	temp:0:48
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:53
+

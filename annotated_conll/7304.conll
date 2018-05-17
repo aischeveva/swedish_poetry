@@ -1,0 +1,10 @@
+1	Bot	bot	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	tager	tage	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	mannen	man	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:18
+6	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:22
+7	fränder	fränder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+8	falla	falla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

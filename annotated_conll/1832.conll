@@ -1,0 +1,12 @@
+1	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	Hängde	hänga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:10
+
+1	Akta	akta	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:12
+2	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:1:17
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:1:20
+4	döden	döden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:24
+5	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:1:30
+6	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:36
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:42
+

@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:4
+3	greto	greto	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:16
+6	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:19
+7	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:23
+8	bruden	bruden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

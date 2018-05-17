@@ -1,0 +1,9 @@
+1	mannen	man	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+4	klagar	klaga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	likt	likt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:19
+6	qvidande	qvidande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	mö	mö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

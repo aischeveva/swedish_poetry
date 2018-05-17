@@ -1,0 +1,7 @@
+1	Färdiga	färdiga	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:7
+
+1	Bakom	bakom	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:10
+2	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:1:16
+3	blinkar	blinkar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:20
+

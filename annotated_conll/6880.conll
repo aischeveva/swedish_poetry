@@ -1,0 +1,9 @@
+1	Låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	styrkan	styrkan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	stå	stå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:16
+5	dörrsven	dörrsven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:29
+7	landets	landets	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:33
+8	port	port	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+

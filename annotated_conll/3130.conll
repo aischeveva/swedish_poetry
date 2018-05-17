@@ -1,0 +1,9 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	vars	vars	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	slutna	slutna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:7
+4	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:19
+6	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	förtvinar	förtvinar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

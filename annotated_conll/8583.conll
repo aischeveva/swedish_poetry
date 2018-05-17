@@ -1,0 +1,8 @@
+1	se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	ner	ner	PL	PL	_	_	_	_	_	O	_	temp:0:3
+3	derfrån	derfrån	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	varma	varm	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	sommarnätter	sommarnatt	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,8 @@
+1	Om	om	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:3
+3	räckt	räckt	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+4	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:13
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+6	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

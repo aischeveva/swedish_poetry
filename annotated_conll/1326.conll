@@ -1,0 +1,4 @@
+1	Runtomkring	runtomkring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:12
+3	ovädersmoln	ovädersmoln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+

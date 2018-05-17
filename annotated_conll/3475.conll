@@ -1,0 +1,8 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ge	ge	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:3
+3	ditt	ditt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	havet	havet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

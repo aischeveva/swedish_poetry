@@ -1,0 +1,8 @@
+1	Hjälp	hjälp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	o	o	KN	KN	_	_	_	_	_	O	_	temp:0:7
+4	hjälp	hjälp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+6	vilka	vilken	HD	HD	UTR/NEU|PLU|IND	_	_	_	_	O	_	temp:0:16
+7	hemliga	hemliga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+

@@ -1,0 +1,10 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	dalarna	dalarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:6
+4	vida	vida	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:14
+5	omkring	omkring	PL	PL	_	_	_	_	_	O	_	temp:0:19
+6	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	bette	bette	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:31
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:37
+9	grönskan	grönskan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+

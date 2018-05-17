@@ -1,0 +1,9 @@
+1	luta	luta	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+4	liljor	liljor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+5	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	strandbräddens	strandbräddens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:25
+7	rand	rand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

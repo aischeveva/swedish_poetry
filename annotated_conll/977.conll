@@ -1,0 +1,9 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:2
+3	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:4
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+5	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:12
+6	längtar	längta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+7	längre	längre	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

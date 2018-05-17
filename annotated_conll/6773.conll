@@ -1,0 +1,13 @@
+1	dyster	dyster	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	hopträngd	hopträngd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	mellan	mellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	bergen	bergen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+7	öfverskyggd	öfverskyggd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:45
+9	björk	björk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+10	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:54
+11	al	al	AB	AB	KOM	_	_	_	_	O	_	temp:0:58
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:60
+

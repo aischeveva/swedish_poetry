@@ -1,0 +1,10 @@
+1	Sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	fristad	fristad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:12
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	ditt	ditt	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	bröst	bröst	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:27
+8	fördold	fördold	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

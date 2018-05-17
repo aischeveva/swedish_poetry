@@ -1,0 +1,6 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	ler	ler	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	honom	han	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:11
+5	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:16
+

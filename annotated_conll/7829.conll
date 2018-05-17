@@ -1,0 +1,16 @@
+1	Viking	viking	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	(	(	PAD	PAD	_	_	_	_	_	O	_	temp:0:7
+3	sägs	sägs	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+5	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:0:16
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:18
+7	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+9	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:27
+10	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:31
+11	vände	vända	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:35
+12	tillbaka	tillbaka	PL	PL	_	_	_	_	_	O	_	temp:0:41
+13	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:50
+14	härtåg	härtåg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:55
+15	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:61
+

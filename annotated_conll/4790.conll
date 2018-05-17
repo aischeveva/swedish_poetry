@@ -1,0 +1,10 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	förfrusen	förfrusen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	strör	ströra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+6	liljor	liljor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:36
+8	fälten	fälten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:41
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:47
+

@@ -1,0 +1,7 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:7
+4	heliga	heliga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	härdarnas	härdarnas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:17
+6	glöd	glöd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+

@@ -1,0 +1,6 @@
+1	Din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hjältedikt	hjältedikt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

@@ -1,0 +1,64 @@
+1	DAMN	Damn	PM	PM	NOM	_	_	_	_	B	work	265827-14454798:0:1
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454798:0:5
+
+1	Helt	helt	AB	AB	POS	_	_	_	_	O	_	265827-14454798:1:7
+2	förjävligt	förjävlig	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14454798:1:12
+3	halt	halt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14454798:1:23
+4	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454798:1:27
+5	rådjuret	rådjur	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14454798:1:29
+6	på	på	PP	PP	_	_	_	_	_	O	_	265827-14454798:1:38
+7	is	is	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454798:1:41
+8	(	(	PAD	PAD	_	_	_	_	_	O	_	265827-14454798:1:44
+9	BAMBI	Bambi	PM	PM	NOM	_	_	_	_	B	work	265827-14454798:1:45
+10	)	)	PAD	PAD	_	_	_	_	_	O	_	265827-14454798:1:50
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454798:1:51
+
+1	Hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454798:2:56
+2	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	265827-14454798:2:61
+3	prov	prov	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14454798:2:66
+4	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454798:2:70
+5	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454798:2:72
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14454798:2:76
+7	känns	kännas	VB	VB	PRS|SFO	_	_	_	_	O	_	265827-14454798:2:80
+8	så	så	AB	AB	_	_	_	_	_	O	_	265827-14454798:2:86
+9	skönt	skönt	AB	AB	POS	_	_	_	_	O	_	265827-14454798:2:89
+10	att	att	SN	SN	_	_	_	_	_	O	_	265827-14454798:2:95
+11	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14454798:2:99
+12	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454798:2:103
+13	över	över	PL	PL	_	_	_	_	_	O	_	265827-14454798:2:106
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454798:2:110
+
+1	Vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454798:3:112
+2	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-14454798:3:116
+3	hur	hur	HA	HA	_	_	_	_	_	O	_	265827-14454798:3:121
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14454798:3:125
+5	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454798:3:129
+6	dock	dock	AB	AB	_	_	_	_	_	O	_	265827-14454798:3:134
+7	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454798:3:138
+8	väldigt	väldigt	AB	AB	POS	_	_	_	_	O	_	265827-14454798:3:140
+9	osäker	osäker	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454798:3:148
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454798:3:154
+
+1	Förresten	förresten	AB	AB	_	_	_	_	_	O	_	265827-14454798:4:158
+2	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454798:4:167
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454798:4:169
+4	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-14454798:4:173
+5	märkt	märka	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14454798:4:176
+6	att	att	SN	SN	_	_	_	_	_	O	_	265827-14454798:4:182
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454798:4:186
+8	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454798:4:190
+9	slutat	sluta	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14454798:4:194
+10	använda	använda	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14454798:4:201
+11	mascara	mascara	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454798:4:209
+12	?	?	MAD	MAD	_	_	_	_	_	O	_	265827-14454798:4:216
+
+1	På	på	PP	PP	_	_	_	_	_	O	_	265827-14454798:5:218
+2	över	över	PP	PP	_	_	_	_	_	O	_	265827-14454798:5:221
+3	tre	tre	RG	RG	NOM	_	_	_	_	O	_	265827-14454798:5:226
+4	veckor	vecka	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14454798:5:230
+5	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454798:5:237
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454798:5:241
+7	skippat	skippa	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14454798:5:245
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14454798:5:253
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454798:5:256
+

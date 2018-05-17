@@ -1,0 +1,19 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	265827-15246470:0:1
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15246470:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-15246470:0:7
+4	på	på	PP	PP	_	_	_	_	_	O	_	265827-15246470:0:11
+5	väg	väg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15246470:0:14
+6	,	,	MID	MID	_	_	_	_	_	O	_	265827-15246470:0:17
+7	hela	hel	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-15246470:0:19
+8	helgen	helg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-15246470:0:24
+9	spenderas	spendera	VB	VB	PRS|SFO	_	_	_	_	O	_	265827-15246470:0:31
+10	där	där	AB	AB	_	_	_	_	_	O	_	265827-15246470:0:41
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-15246470:0:44
+
+1	Tjingeling	tjingeling	IN	IN	_	_	_	_	_	O	_	265827-15246470:1:46
+2	(	(	PAD	PAD	_	_	_	_	_	O	_	265827-15246470:1:57
+3	poetisk	poetisk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15246470:1:58
+4	bild	bild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15246470:1:66
+5	osv	osv	AB	AB	AN	_	_	_	_	O	_	265827-15246470:1:71
+6	)	)	PAD	PAD	_	_	_	_	_	O	_	265827-15246470:1:74
+

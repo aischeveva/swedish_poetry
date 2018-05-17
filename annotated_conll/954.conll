@@ -1,0 +1,8 @@
+1	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:0
+2	fråga	fråga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	vilken	vilken	HD	HD	UTR|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	väg	väg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:21
+6	förs	förs	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

@@ -1,0 +1,7 @@
+1	lik	lik	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	tempelstammarnas	tempelstammarnas	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	drivande	drivande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:24
+5	sav	sav	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

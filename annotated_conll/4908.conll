@@ -1,0 +1,8 @@
+1	Kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	svan	svan	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	sydlig	sydlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	sjö	sjö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

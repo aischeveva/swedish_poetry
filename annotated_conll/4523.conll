@@ -1,0 +1,5 @@
+1	Ihärdigt	ihärdigt	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:9
+3	årens	årens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:15
+4	lopp	lopp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+

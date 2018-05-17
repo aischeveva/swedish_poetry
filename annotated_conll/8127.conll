@@ -1,0 +1,6 @@
+1	Silfver	silfver	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+3	hvarannan	hvarannan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	ruta	ruta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

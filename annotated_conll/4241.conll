@@ -1,0 +1,9 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:6
+4	spröd	spröd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+6	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:20
+7	känsligt	känsligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+8	vek	vek	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

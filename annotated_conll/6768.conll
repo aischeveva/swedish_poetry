@@ -1,0 +1,13 @@
+1	Ty	ty	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	hata	hata	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:6
+4	menskors	menskors	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:11
+5	ätter	ätter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	skåda	skåda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+8	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:33
+9	fröjd	fröjd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:45
+11	harm	harm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:49
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:53
+

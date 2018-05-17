@@ -1,0 +1,8 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	friska	frisk	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:10
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	Ingborgs	Ingborgs	PM	PM	NOM	_	_	_	_	B	inst	temp:0:17
+6	kind	kind	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

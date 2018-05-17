@@ -1,0 +1,8 @@
+1	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	löftesbarn	löftesbarn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	halm	halm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	strå	strå	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

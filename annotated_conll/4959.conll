@@ -1,0 +1,6 @@
+1	Vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	näktergalars	näktergalars	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

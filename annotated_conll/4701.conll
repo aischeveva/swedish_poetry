@@ -1,0 +1,6 @@
+1	virrig	virrig	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	frågor	fråga	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+

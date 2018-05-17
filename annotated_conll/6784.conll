@@ -1,0 +1,15 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	slumrar	slumrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	hör	hör	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	då	då	AB	AB	_	_	_	_	_	O	_	temp:1:22
+2	sjunger	sjunga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:25
+3	kolsvart	kolsvart	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:1:33
+4	fogel	fogel	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:42
+5	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:1:48
+6	qvist	qvist	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:54
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:1:59
+

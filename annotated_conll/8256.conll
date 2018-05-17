@@ -1,0 +1,8 @@
+1	vårt	vår	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	hjertas	hjertas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:5
+3	kärlek	kärlek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+5	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:23
+6	hud	hud	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

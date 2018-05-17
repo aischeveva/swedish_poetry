@@ -1,0 +1,6 @@
+1	Asar	asar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	alfer	alfer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	delar	delar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	makten	makten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+

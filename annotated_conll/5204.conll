@@ -1,0 +1,7 @@
+1	Intet	intet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	blåa	blåa	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	våg	våg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

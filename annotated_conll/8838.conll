@@ -1,0 +1,10 @@
+1	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	utaf	utaf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	Helge	Helge	PM	PM	NOM	_	_	_	_	B	person	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:15
+6	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	Nordens	Nordens	PM	PM	NOM	_	_	_	_	B	person	temp:0:22
+8	folk	folk	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:30
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

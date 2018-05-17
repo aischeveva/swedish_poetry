@@ -1,0 +1,9 @@
+1	Hvad	hvad	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	lofligt	lofligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	himlens	himlens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:26
+7	hvalf	hvalf	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

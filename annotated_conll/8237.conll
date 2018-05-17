@@ -1,0 +1,9 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	smärt	smärt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+4	stjelken	stjelken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:25
+7	lilja	lilja	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

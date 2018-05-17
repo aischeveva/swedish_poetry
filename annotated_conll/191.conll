@@ -1,0 +1,5 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	blidhyllta	blidhyllta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	fromma	fromma	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

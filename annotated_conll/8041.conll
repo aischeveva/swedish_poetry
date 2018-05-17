@@ -1,0 +1,5 @@
+1	styrt	styrt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Nordlands	nordlands	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	söner	son	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

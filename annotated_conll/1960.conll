@@ -1,0 +1,10 @@
+1	Brustet	brustet	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+3	flodens	flodens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:11
+4	tält	tält	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:25
+7	sista	sist	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	lövens	lövens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:34
+9	fingrar	fingrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:41
+

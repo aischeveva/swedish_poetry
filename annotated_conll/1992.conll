@@ -1,0 +1,8 @@
+1	they	they	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	wash	wash	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	their	their	UO	UO	_	_	_	_	_	O	_	temp:0:10
+4	feet	feet	UO	UO	_	_	_	_	_	O	_	temp:0:16
+5	in	in	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	soda	soda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	water	water	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+

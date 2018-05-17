@@ -1,0 +1,9 @@
+1	Väktare	väktare	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	dörren	dörr	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	all	all	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	börjans	börjans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:24
+7	herre	herre	UO	UO	_	_	_	_	_	O	_	temp:0:32
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

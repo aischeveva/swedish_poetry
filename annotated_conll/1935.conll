@@ -1,0 +1,14 @@
+1	Slår	slår	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:5
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:9
+4	an	an	PL	PL	_	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:18
+7	skyll	skyll	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+8	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:27
+9	själv	själv	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+11	sa	säga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:38
+12	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:41
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

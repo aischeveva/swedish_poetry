@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	dukar	dukar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	upp	upp	PL	PL	_	_	_	_	_	O	_	temp:0:10
+4	konserver	konserver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	burk	burk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

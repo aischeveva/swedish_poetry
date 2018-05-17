@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	jämte	jämte	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	honom	han	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:17
+6	fullvuxet	fullvuxet	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

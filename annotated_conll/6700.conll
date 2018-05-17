@@ -1,0 +1,12 @@
+1	Helt	helt	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	skarpt	skarpt	AB	AB	POS	_	_	_	_	O	_	temp:0:5
+3	blef	blef	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	der	der	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:21
+6	drucket	drucket	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:32
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:37
+9	det	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:39
+10	kungahus	kungahus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:51
+

@@ -1,0 +1,13 @@
+1	Våren	våren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	fogeln	fogeln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	qvittrar	qvittrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+7	skogen	skog	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+8	löfvas	löfvas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:38
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+10	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:46
+11	ler	ler	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:52
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:55
+

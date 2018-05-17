@@ -1,0 +1,8 @@
+1	in	in	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:3
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:7
+4	okänt	okänt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	hemmets	hemmets	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:17
+6	hav	hav	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

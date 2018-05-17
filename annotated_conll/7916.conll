@@ -1,0 +1,11 @@
+1	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	voro	voro	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	flugna	flugna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	höken	höken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+8	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:28
+9	skrämt	skrämt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

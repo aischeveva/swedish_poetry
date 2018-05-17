@@ -1,0 +1,15 @@
+1	Niding	niding	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+5	mörda	mörda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+6	sömnen	sömnen	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+
+1	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:30
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:35
+3	värnlös	värnlös	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:38
+4	gubbe	gubbe	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:46
+5	slå	slå	UO	UO	_	_	_	_	_	O	_	temp:1:52
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:1:55
+

@@ -1,0 +1,13 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	er	er	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	icke	icke	NN	NN	AN	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	nej	nej	IN	IN	_	_	_	_	_	O	_	temp:0:17
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+9	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+10	er	er	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:30
+11	icke	icke	NN	NN	AN	_	_	_	_	O	_	temp:0:33
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

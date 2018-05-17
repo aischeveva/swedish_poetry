@@ -1,0 +1,10 @@
+1	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:5
+4	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:9
+5	växlar	växlar	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+6	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+8	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

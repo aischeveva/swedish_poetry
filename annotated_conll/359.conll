@@ -1,0 +1,8 @@
+1	villig	villig	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:7
+3	tjäna	tjäna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	ropare	ropare	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

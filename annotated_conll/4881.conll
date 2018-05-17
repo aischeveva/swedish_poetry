@@ -1,0 +1,6 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	djup	djup	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+4	Oden	Oden	PM	PM	NOM	_	_	_	_	B	person	temp:0:12
+5	talar	tala	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+

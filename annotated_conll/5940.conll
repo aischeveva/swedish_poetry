@@ -1,0 +1,7 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	väld	väld	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:12
+5	dom	dom	PN	PN	UTR/NEU|PLU|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

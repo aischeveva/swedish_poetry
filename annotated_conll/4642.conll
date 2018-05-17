@@ -1,0 +1,6 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	bara	bara	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	enkla	enkla	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	själar	själar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:19
+

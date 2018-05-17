@@ -1,0 +1,15 @@
+1	kunde	kunna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	ej	ej	RG	RG	NOM	_	_	_	_	O	_	temp:0:6
+3	skura	skura	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:15
+5	fläckarna	fläckarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:28
+7	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:32
+8	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:34
+9	guld	guld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:43
+11	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:45
+12	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:49
+13	rånat	rånat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:53
+14	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:58
+

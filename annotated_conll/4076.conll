@@ -1,0 +1,4 @@
+1	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+

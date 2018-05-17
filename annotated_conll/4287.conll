@@ -1,0 +1,9 @@
+1	längtande	längtande	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:10
+3	möta	möta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:14
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+5	verklighet	verklighet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:34
+7	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

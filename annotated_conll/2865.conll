@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mörka	mörka	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	nornor	nornor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	gläds	gläds	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:17
+5	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:23
+6	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

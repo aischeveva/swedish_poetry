@@ -1,0 +1,9 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dina	dina	RG	RG	NOM	_	_	_	_	O	_	temp:0:4
+3	öar	öar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	diktade	diktade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	molnen	molnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

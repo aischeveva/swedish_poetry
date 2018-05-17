@@ -1,0 +1,11 @@
+1	bodde	bo	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	Ulleråker	ulleråker	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:19
+5	kung	kung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:31
+8	blomstrande	blomstrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:35
+9	dotter	dotter	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:53
+

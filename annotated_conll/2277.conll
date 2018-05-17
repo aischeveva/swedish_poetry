@@ -1,0 +1,12 @@
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:7
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:11
+5	nytt	ny	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:21
+8	tär	tär	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:29
+10	spränger	spränger	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:33
+11	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

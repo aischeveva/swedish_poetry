@@ -1,0 +1,10 @@
+1	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	minnen	minne	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:15
+5	draperas	draperas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:19
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:28
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:31
+8	välgörande	välgörande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:34
+9	spindel	spindel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+

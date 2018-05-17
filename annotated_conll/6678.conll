@@ -1,0 +1,14 @@
+1	Fyll	fyll	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	honom	han	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	hornet	hornet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	drottning	drottning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+7	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:30
+8	vin	vin	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:38
+10	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:42
+11	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:45
+12	bäst	bra	AB	AB	SUV	_	_	_	_	O	_	temp:0:49
+13	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:53
+

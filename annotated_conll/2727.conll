@@ -1,0 +1,7 @@
+1	Väl	väl	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+4	härdigt	härdigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	bär	bär	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

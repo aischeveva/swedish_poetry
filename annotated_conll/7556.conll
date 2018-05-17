@@ -1,0 +1,7 @@
+1	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	blomsterkrönta	blomsterkrönta	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	hufvud	hufvud	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+4	utur	utur	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+5	vågorna	vågorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:32
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

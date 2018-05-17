@@ -1,0 +1,8 @@
+1	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	bergsmun	bergsmun	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	frätta	frätta	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	tänder	tänder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+6	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:31
+7	spotta	spotta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:36
+

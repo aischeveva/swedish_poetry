@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	friden	friden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	betalte	betalte	UO	UO	_	_	_	_	_	O	_	temp:0:11
+4	hvart	hvart	UO	UO	_	_	_	_	_	O	_	temp:0:19
+5	år	år	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:28
+7	skuld	skuld	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

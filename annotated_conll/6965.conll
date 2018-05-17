@@ -1,0 +1,8 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	skalden	skalden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	varnat	varnat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:12
+4	sedan	sedan	AB	AB	_	_	_	_	_	O	_	temp:0:19
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	Havamal	havamal	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

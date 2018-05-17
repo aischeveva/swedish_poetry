@@ -1,0 +1,11 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	stormen	stormen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	flyger	flyger	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	häng	häng	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:25
+7	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:29
+8	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:33
+9	vingar	vingar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:38
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

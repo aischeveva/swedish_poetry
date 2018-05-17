@@ -1,0 +1,14 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	byggt	byggt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:12
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:18
+6	slott	slott	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:28
+8	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:31
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:35
+10	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+11	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:45
+12	land	land	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:53
+13	...	...	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

@@ -1,0 +1,5 @@
+1	Brinnande	brinnande	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:10
+3	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	fruktan	fruktan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+

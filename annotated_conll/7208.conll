@@ -1,0 +1,9 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	kungsson	kungsson	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+6	skipa	skipa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+7	lag	lag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

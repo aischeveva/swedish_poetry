@@ -1,0 +1,11 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:4
+3	sina	sin	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:9
+4	foglars	foglars	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:14
+5	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:28
+8	fridens	fridens	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	hem	hem	AB	AB	_	_	_	_	_	O	_	temp:0:40
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

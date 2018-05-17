@@ -1,0 +1,12 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	måste	måste	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	känna	känna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+6	bön	bön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+8	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:28
+9	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:32
+10	sjunker	sjunka	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:36
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

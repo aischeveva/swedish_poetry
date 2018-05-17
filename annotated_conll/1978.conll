@@ -1,0 +1,8 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	råtta	råtta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	kröp	krypa	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	försiktigt	försiktigt	AB	AB	POS	_	_	_	_	O	_	temp:0:14
+5	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	krattet	krattet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

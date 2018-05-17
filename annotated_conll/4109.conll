@@ -1,0 +1,7 @@
+1	trots	trots	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	ärr	ärr	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:10
+4	sår	sår	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	strålande	strålande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

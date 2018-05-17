@@ -1,0 +1,8 @@
+1	Lovar	lova	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	kyss	kyss	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:17
+6	giva	givara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

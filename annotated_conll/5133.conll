@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	säg	säg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+4	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:11
+5	Liten	liten	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+6	lever	lever	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+7	än	än	AB	AB	_	_	_	_	_	O	_	temp:0:25
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

@@ -1,0 +1,12 @@
+1	snart	snart	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	sjunker	sjunka	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:19
+6	gyllne	gyllne	UO	UO	_	_	_	_	_	O	_	temp:0:22
+7	sköld	sköld	UO	UO	_	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:36
+10	hafvet	hafvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:38
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

@@ -1,0 +1,6 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:16
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+

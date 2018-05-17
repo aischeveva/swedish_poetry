@@ -1,0 +1,5 @@
+1	inget	inget	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	rusande	rusande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	jubelbrus	jubelbrus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

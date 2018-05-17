@@ -1,0 +1,11 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	all	all	RG	RG	NOM	_	_	_	_	O	_	temp:0:4
+3	din	din	NN	NN	AN	_	_	_	_	O	_	temp:0:8
+4	ära	ära	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	framför	framför	PP	PP	_	_	_	_	_	O	_	temp:0:17
+7	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:25
+8	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:30
+9	skatten	skatt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

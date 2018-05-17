@@ -1,0 +1,7 @@
+1	Bind	bind	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:10
+5	krigare	krigare	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:13
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

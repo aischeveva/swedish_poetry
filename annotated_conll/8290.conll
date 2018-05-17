@@ -1,0 +1,14 @@
+1	(	(	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:1
+3	klart	klar	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+5	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:12
+6	härligt	härligt	AB	AB	POS	_	_	_	_	O	_	temp:0:16
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+8	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:27
+9	bloss	bloss	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+
+1	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:1:38
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:39
+

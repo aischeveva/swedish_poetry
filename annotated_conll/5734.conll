@@ -1,0 +1,7 @@
+1	sätter	sätta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:7
+3	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	brasans	brasans	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	brand	brand	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

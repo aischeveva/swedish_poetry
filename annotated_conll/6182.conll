@@ -1,0 +1,7 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	djupet	djupet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	bodde	bo	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	oändlig	oändlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	smärta	smärta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

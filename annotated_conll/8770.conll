@@ -1,0 +1,11 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	offret	offret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	Frithiof	frithiof	AB	AB	AN	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+7	nog	nog	AB	AB	_	_	_	_	_	O	_	temp:0:25
+8	tungt	tungt	AB	AB	POS	_	_	_	_	O	_	temp:0:29
+9	ändå	ändå	AB	AB	_	_	_	_	_	O	_	temp:0:35
+10	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

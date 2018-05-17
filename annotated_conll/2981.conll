@@ -1,0 +1,9 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	sett	se	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:15
+5	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	läkande	läkande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

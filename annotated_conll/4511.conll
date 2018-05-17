@@ -1,0 +1,9 @@
+1	Gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	hjälper	hjälpa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	Gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:20
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+7	stor	stor	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

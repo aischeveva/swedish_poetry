@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	värdet	värdet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	slikt	slikt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+6	ej	ej	AB	AB	_	_	_	_	_	O	_	temp:0:23
+7	stort	stor	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

@@ -1,0 +1,11 @@
+1	Över	över	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	skulden	skulden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+6	ont	ont	AB	AB	POS	_	_	_	_	O	_	temp:0:25
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:29
+8	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:33
+9	hindrades	hindrades	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:38
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

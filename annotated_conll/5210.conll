@@ -1,0 +1,11 @@
+1	All	all	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	olympiska	olympiska	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	ätt	ätt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	gracerna	gracerna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	talte	talte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:32
+8	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:38
+9	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:42
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

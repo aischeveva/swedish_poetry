@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:10
+4	gröna	gröna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	sidor	sidor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	sköld	sköld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:34
+9	sköld	sköld	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+

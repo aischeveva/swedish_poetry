@@ -1,0 +1,6 @@
+1	konstfullt	konstfullt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	utaf	utaf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+3	dvärgar	dvärgar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+4	gjord	gjord	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

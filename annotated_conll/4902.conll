@@ -1,0 +1,5 @@
+1	Liksom	liksom	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:7
+3	goda	god	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

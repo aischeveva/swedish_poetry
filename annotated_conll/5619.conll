@@ -1,0 +1,7 @@
+1	nu	nu	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:3
+3	sjö	sjö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:10
+5	fart	fart	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+

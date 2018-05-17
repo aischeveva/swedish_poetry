@@ -1,0 +1,8 @@
+1	inför	inför	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	friskhet	friskhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	vårlig	vårlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	morgon	morgon	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,5 @@
+1	Huru	huru	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	tornen	tornen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	bada	bada	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+4	sina	sin	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:17
+

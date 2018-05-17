@@ -1,0 +1,9 @@
+1	å	å	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	öde	öde	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	stigar	stigar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:18
+7	blomma	blomma	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+8	växer	växer	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+

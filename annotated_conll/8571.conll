@@ -1,0 +1,9 @@
+1	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	hjertas	hjertas	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	helgedom	helgedom	AB	AB	SUV	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+5	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:23
+6	väsens	väsens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:28
+7	blomkalk	blomkalk	UO	UO	_	_	_	_	_	O	_	temp:0:35
+8	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

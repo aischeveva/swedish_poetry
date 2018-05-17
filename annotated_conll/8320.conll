@@ -1,0 +1,8 @@
+1	hos	hos	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	maken	make	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:12
+5	varma	varm	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	bo	bo	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

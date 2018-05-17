@@ -1,0 +1,30 @@
+1	Nej	nej	IN	IN	_	_	_	_	_	O	_	265827-14922303:0:1
+2	,	,	MID	MID	_	_	_	_	_	O	_	265827-14922303:0:4
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-14922303:0:6
+4	idag	idag	AB	AB	_	_	_	_	_	O	_	265827-14922303:0:11
+5	heller	heller	AB	AB	_	_	_	_	_	O	_	265827-14922303:0:16
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14922303:0:22
+
+1	Antingen	antingen	KN	KN	_	_	_	_	_	O	_	265827-14922303:1:24
+2	skiter	skita	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14922303:1:33
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14922303:1:40
+4	i	i	PP	PP	_	_	_	_	_	O	_	265827-14922303:1:44
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14922303:1:46
+6	eller	eller	KN	KN	_	_	_	_	_	O	_	265827-14922303:1:50
+7	så	så	AB	AB	_	_	_	_	_	O	_	265827-14922303:1:56
+8	...	...	MAD	MAD	_	_	_	_	_	O	_	265827-14922303:1:58
+
+1	skiter	skita	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14922303:2:62
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14922303:2:69
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-14922303:2:73
+4	i	i	PP	PP	_	_	_	_	_	O	_	265827-14922303:2:78
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14922303:2:80
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14922303:2:83
+
+1	Första	första	RO	RO	NOM	_	_	_	_	O	_	265827-14922303:3:86
+2	alternativet	alternativ	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14922303:3:93
+3	känns	kännas	VB	VB	PRS|SFO	_	_	_	_	O	_	265827-14922303:3:106
+4	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	265827-14922303:3:112
+5	lockande	locka	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14922303:3:116
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14922303:3:124
+

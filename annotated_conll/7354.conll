@@ -1,0 +1,8 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	skimrar	skimrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	öfver	öfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:22
+6	skimrar	skimrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+7	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:34
+

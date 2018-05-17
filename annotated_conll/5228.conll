@@ -1,0 +1,11 @@
+1	Fötterna	fötterna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	röra	röra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+3	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:14
+4	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	takten	takten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	förnimma	förnimma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:29
+8	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:38
+9	ej	ej	AB	AB	KOM	_	_	_	_	O	_	temp:0:41
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

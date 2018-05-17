@@ -1,0 +1,10 @@
+1	Tag	tag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	henne	hon	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	vård	vård	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+8	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

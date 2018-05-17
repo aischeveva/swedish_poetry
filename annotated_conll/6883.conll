@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sköld	sköld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	smidd	smidd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	hänglås	hänglås	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:32
+8	bondens	bondens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:36
+9	lada	lada	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:44
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

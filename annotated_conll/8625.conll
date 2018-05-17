@@ -1,0 +1,13 @@
+1	Kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	skynda	skynda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:5
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:11
+
+1	hvarje	hvarje	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:13
+2	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:1:20
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:23
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:1:25
+5	talas	talas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:1:29
+6	än	än	AB	AB	_	_	_	_	_	O	_	temp:1:35
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:37
+

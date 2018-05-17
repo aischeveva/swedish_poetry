@@ -1,0 +1,6 @@
+1	Prester	prester	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	stodo	stodo	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	tempelvägg	tempelvägg	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

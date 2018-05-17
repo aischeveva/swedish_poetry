@@ -1,0 +1,4 @@
+1	Wien	wien	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	London	London	PM	PM	NOM	_	_	_	_	B	person	temp:0:6
+

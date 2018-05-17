@@ -1,0 +1,12 @@
+1	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:7
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	tills	tills	SN	SN	_	_	_	_	_	O	_	temp:0:10
+5	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:16
+6	dricker	dricka	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+7	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:27
+8	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:30
+9	innersta	innersta	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:33
+10	brunnarna	brunnarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:42
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+

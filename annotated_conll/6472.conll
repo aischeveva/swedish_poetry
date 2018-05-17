@@ -1,0 +1,10 @@
+1	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	svärd	svärd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+6	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+7	fiende	fiende	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+8	ej	ej	AB	AB	AN	_	_	_	_	O	_	temp:0:28
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,8 @@
+1	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	vreda	vreda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	norna	norna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	jämte	jämte	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	honom	han	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

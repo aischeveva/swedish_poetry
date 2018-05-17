@@ -1,0 +1,10 @@
+1	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	evigt	evigt	AB	AB	POS	_	_	_	_	O	_	temp:0:8
+4	vinkande	vinkande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+6	evigt	evigt	AB	AB	POS	_	_	_	_	O	_	temp:0:24
+7	vikande	vikande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	blå	blå	AB	AB	KOM	_	_	_	_	O	_	temp:0:38
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

@@ -1,0 +1,8 @@
+1	tänd	tänd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	blick	blick	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:22
+7	enda	enda	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+

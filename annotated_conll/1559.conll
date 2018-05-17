@@ -1,0 +1,11 @@
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	frågar	fråga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	människor	människa	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:33
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+8	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:38
+9	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:41
+10	era	era	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:46
+

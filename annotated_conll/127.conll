@@ -1,0 +1,7 @@
+1	Är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	detta	detta	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:9
+4	förmätet	förmätet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	sagt	sagd	PC	PC	PRF|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

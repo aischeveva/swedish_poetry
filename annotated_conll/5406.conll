@@ -1,0 +1,7 @@
+1	der	der	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	yngling	yngling	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	innan	innan	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	kort	kort	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+

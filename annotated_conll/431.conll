@@ -1,0 +1,5 @@
+1	profet	profet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	profet	profet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+

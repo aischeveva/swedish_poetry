@@ -1,0 +1,10 @@
+1	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	skullra	skullra	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	blicka	blicka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:31
+8	sjön	sjön	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

@@ -1,0 +1,9 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	tar	ta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	kraft	kraft	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	närande	närande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	jord	jord	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,13 @@
+1	Hjaltet	hjaltet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+3	hamradt	hamradt	AB	AB	SUV	_	_	_	_	O	_	temp:0:12
+4	af	af	UO	UO	_	_	_	_	_	O	_	temp:0:20
+5	guld	guld	UO	UO	_	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:29
+8	runor	runor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	syntes	synas	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:39
+10	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:46
+11	klingan	klingan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:49
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:56
+

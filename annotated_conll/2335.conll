@@ -1,0 +1,11 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	makt	makt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:8
+4	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:15
+7	skrämmer	skrämmer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+8	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:28
+9	svårt	svårt	AB	AB	POS	_	_	_	_	O	_	temp:0:32
+10	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

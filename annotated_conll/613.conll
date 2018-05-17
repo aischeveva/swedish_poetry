@@ -1,0 +1,5 @@
+1	bubbla	bubbla	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	kaos	kaos	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+

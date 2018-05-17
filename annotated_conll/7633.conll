@@ -1,0 +1,12 @@
+1	Gaf	gaf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:7
+4	sjelf	sjelf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+6	kraften	kraften	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+
+1	Knöt	knöt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:30
+2	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:35
+3	Asa-Thor	Asa-thor	PM	PM	NOM	_	_	_	_	B	person	temp:1:38
+

@@ -1,0 +1,11 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ljungar	ljungar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:15
+5	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:24
+7	främmande	främmande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:38
+9	hvasst	hvasst	AB	AB	SUV	_	_	_	_	O	_	temp:0:41
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:47
+

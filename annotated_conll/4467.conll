@@ -1,0 +1,7 @@
+1	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:6
+4	skilda	skilda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	håll	håll	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

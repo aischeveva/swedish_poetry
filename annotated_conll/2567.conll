@@ -1,0 +1,7 @@
+1	reder	reder	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	ibland	ibland	AB	AB	_	_	_	_	_	O	_	temp:0:10
+4	rätt	rätt	AB	AB	_	_	_	_	_	O	_	temp:0:17
+5	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

@@ -1,0 +1,8 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+5	dröm	drömma	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:15
+6	allenast	allenast	NN	NN	AN	_	_	_	_	O	_	temp:0:20
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

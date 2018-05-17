@@ -1,0 +1,10 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	lögn	lögn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+7	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:21
+8	sände	sände	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+9	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:31
+

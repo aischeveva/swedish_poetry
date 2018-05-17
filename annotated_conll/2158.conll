@@ -1,0 +1,10 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	upp	upp	PL	PL	_	_	_	_	_	O	_	temp:0:16
+6	längs	längs	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:20
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:26
+8	vita	vita	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+9	vägen	väg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,7 @@
+1	kämpande	kämpande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:9
+3	mörkret	mörker	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:21
+5	vinternätterna	vinternätterna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:23
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

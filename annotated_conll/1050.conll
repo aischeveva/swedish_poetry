@@ -1,0 +1,10 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	drömmen	drömmen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	gömmer	gömmer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+7	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+8	väckas	väckas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:34
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

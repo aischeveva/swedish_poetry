@@ -1,0 +1,8 @@
+1	Har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	ej	ej	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+4	skådat	skådat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:10
+5	berg	berg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+7	lunder	lunder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+

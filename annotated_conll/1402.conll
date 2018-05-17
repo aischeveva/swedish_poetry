@@ -1,0 +1,15 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	blommar	blomma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:13
+5	tanke	tanke	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:24
+8	blommar	blomma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:35
+10	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:37
+11	blod	blod	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+13	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:48
+14	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:52
+

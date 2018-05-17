@@ -1,0 +1,14 @@
+1	Hvarför	hvarför	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	smög	smög	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:21
+6	boning	boning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+8	djupt	djupt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:33
+9	förklädd	förklädd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:48
+11	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:52
+12	namn	namn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:57
+13	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:61
+

@@ -1,0 +1,10 @@
+1	Skammen	skammen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:8
+3	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+4	givit	givit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:15
+5	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:26
+8	lurades	lurades	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:30
+9	skam	skam	AB	AB	AN	_	_	_	_	O	_	temp:0:38
+

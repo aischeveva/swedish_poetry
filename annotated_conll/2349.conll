@@ -1,0 +1,5 @@
+1	allt	all	DT	DT	NEU|SIN|IND/DEF	_	_	_	_	O	_	temp:0:0
+2	detta	detta	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:5
+3	tunga	tunga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+

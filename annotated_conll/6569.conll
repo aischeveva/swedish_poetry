@@ -1,0 +1,9 @@
+1	fredlig	fredlig	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	kungen	kungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:20
+5	kosa	kosa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:29
+7	ställer	ställa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

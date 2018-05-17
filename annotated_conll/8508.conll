@@ -1,0 +1,13 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Balders	balders	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	fred	fred	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:21
+6	ej	ej	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+7	derför	derför	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+8	brutit	bryta	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:35
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:42
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:44
+

@@ -1,0 +1,7 @@
+1	Bor	bor	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	mö	mö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	vestersalar	vestersalar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

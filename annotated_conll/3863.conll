@@ -1,0 +1,12 @@
+1	Sval	sval	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	din	din	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	röst	röst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:17
+6	källors	källors	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	sorl	sorl	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:35
+10	ditt	ditt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:39
+11	väsen	väsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:44
+

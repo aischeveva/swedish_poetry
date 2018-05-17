@@ -1,0 +1,8 @@
+1	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	världen	värld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	väldig	väldig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	skön	skön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

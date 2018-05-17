@@ -1,0 +1,14 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:3
+3	Albert	Albert	PM	PM	NOM	_	_	_	_	B	person	temp:0:7
+4	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	hem	hem	PL	PL	_	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:26
+8	ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:29
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:32
+10	snygga	snygg	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:36
+11	opp	opp	AB	AB	POS	_	_	_	_	O	_	temp:0:43
+12	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:47
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

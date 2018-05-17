@@ -1,0 +1,7 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	märkte	märkte	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	Helge	helge	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	hennes	hennes	NN	NN	UTR|SIN|IND|GEN	_	_	_	_	O	_	temp:0:19
+6	arm	arm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+

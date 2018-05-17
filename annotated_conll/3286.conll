@@ -1,0 +1,10 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+4	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:11
+5	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+8	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

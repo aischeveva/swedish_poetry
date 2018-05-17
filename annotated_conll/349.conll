@@ -1,0 +1,10 @@
+1	Aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ska	ska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	lyfta	lyfta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:14
+5	våra	vår	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:20
+6	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+7	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:32
+8	handling	handling	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

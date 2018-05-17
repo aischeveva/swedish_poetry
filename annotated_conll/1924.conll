@@ -1,0 +1,13 @@
+1	Ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:3
+3	dom	dom	PN	PN	UTR/NEU|PLU|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+5	allihop	allihop	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+7	sätt	sätt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	in	in	PP	PP	_	_	_	_	_	O	_	temp:0:30
+9	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:33
+10	stilig	stilig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+11	gom	gom	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

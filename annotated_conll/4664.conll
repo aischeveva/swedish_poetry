@@ -1,0 +1,7 @@
+1	elektriska	elektriska	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	bälte	bälte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:17
+4	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+6	kraft	kraft	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+

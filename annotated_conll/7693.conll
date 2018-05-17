@@ -1,0 +1,13 @@
+1	riket	riket	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:12
+4	far	fara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:19
+6	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:21
+7	Frithiof	frithiof	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+9	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:35
+10	endaste	endaste	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:39
+11	sonen	son	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:47
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

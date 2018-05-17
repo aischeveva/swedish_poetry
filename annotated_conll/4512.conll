@@ -1,0 +1,10 @@
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:0
+2	Titta	titta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:2
+3	blott	blott	AB	AB	SUV	_	_	_	_	O	_	temp:0:8
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:17
+6	stjärna	stjärna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:31
+

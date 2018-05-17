@@ -1,0 +1,15 @@
+1	sömnen	sömnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	ej	ej	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	säker	säker	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+8	silfverlockar	silfverlockar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+9	reta	reta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:42
+10	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:47
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:51
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:53
+

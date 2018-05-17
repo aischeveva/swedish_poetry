@@ -1,0 +1,10 @@
+1	Låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	mången	mången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	veklig	veklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	bygd	bygd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+6	seders	seders	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:26
+7	prål	prål	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:33
+8	förljuva	förljuva	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

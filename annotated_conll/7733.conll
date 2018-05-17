@@ -1,0 +1,12 @@
+1	blixtrade	blixtrade	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	neder	neder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:16
+4	svärd	svärd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:27
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:31
+8	vinterqvällen	vinterqvällen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+9	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:47
+10	stjernskott	stjernskott	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:51
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:62
+

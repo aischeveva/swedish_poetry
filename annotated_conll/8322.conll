@@ -1,0 +1,7 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	dagen	dag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:17
+5	far	fara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

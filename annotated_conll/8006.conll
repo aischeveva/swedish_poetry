@@ -1,0 +1,15 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	ann	ann	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	'	'	AB	AB	_	_	_	_	_	O	_	temp:0:6
+4	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+5	ej	ej	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+6	komma	komma	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+7	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:22
+8	svärd	svärd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:33
+10	nära	nära	PP	PP	_	_	_	_	_	O	_	temp:0:37
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:42
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:44
+

@@ -1,0 +1,13 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:4
+3	panna	panna	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	klar	klar	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+8	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:28
+9	stämma	stämma	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+10	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:40
+11	hög	hög	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

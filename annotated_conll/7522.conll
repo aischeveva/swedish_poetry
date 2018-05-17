@@ -1,0 +1,12 @@
+1	föds	föds	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	blindt	blindt	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:13
+5	björnens	björnens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:17
+6	yngel	yngel	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	föds	föds	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:38
+10	natten	natt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:42
+11	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:49
+

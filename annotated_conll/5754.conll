@@ -1,0 +1,7 @@
+1	gaf	gaf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ock	ock	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	mjödet	mjödet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	akt	akt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

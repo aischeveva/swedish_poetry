@@ -1,0 +1,9 @@
+1	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	själv	själv	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:16
+6	handling	handling	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	tömma	tömma	NN	NN	AN	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

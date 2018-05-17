@@ -1,0 +1,8 @@
+1	Klokt	klokt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	gifte	gifte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+4	dej	dej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	slut	slut	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

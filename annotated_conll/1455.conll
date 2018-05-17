@@ -1,0 +1,8 @@
+1	pinar	pinar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	martall	martall	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	upp	upp	PL	PL	_	_	_	_	_	O	_	temp:0:18
+5	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	stenen	stenen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

@@ -1,0 +1,9 @@
+1	i	i	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	mörka	mörka	UO	UO	_	_	_	_	_	O	_	temp:0:2
+3	land	land	UO	UO	_	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:14
+6	jubel	jubel	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+8	klagan	klagan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+

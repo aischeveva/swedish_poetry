@@ -1,0 +1,10 @@
+1	Se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	mäktiga	mäktiga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+4	moln	moln	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	vilkas	vilkas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:20
+7	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:35
+9	toppar	toppar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:40
+

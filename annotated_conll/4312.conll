@@ -1,0 +1,9 @@
+1	Ont	ont	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	tänker	tänka	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	ont	ont	AB	AB	POS	_	_	_	_	O	_	temp:0:16
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:20
+7	handlar	handla	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

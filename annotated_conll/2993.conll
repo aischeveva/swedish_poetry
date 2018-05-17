@@ -1,0 +1,9 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	tigande	tigande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	gömt	gömt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:16
+5	hos	hos	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:25
+7	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:29
+8	sår	sår	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+

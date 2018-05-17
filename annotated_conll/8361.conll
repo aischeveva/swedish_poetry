@@ -1,0 +1,10 @@
+1	Sof	sof	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:8
+5	dröm	drömma	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:12
+6	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:17
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:20
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+9	vakna	vakna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+

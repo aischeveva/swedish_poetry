@@ -1,0 +1,7 @@
+1	Inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:5
+3	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:8
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:24
+

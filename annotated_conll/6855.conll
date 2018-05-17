@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	forntidsminnen	forntidsminnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:24
+5	hvalfven	hvalfven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+6	dväljas	dväljas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:35
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

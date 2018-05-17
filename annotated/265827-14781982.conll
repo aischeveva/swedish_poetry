@@ -1,0 +1,34 @@
+1	Hej	hej	IN	IN	_	_	_	_	_	O	_	265827-14781982:0:1
+2	på	på	PP	PP	_	_	_	_	_	O	_	265827-14781982:0:5
+3	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	265827-14781982:0:8
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14781982:0:10
+
+1	Jobbade	jobba	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14781982:1:12
+2	bara	bara	AB	AB	_	_	_	_	_	O	_	265827-14781982:1:20
+3	två	två	RG	RG	NOM	_	_	_	_	O	_	265827-14781982:1:25
+4	timmar	timme	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14781982:1:29
+5	idag	idag	AB	AB	_	_	_	_	_	O	_	265827-14781982:1:36
+6	,	,	MID	MID	_	_	_	_	_	O	_	265827-14781982:1:40
+7	mådde	må	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14781982:1:42
+8	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-14781982:1:48
+9	så	så	AB	AB	_	_	_	_	_	O	_	265827-14781982:1:53
+10	jättebra	jättebra	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14781982:1:56
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14781982:1:64
+
+1	Vaccinerade	vaccinera	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14781982:2:66
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	265827-14781982:2:78
+3	mot	mot	PP	PP	_	_	_	_	_	O	_	265827-14781982:2:82
+4	livmoderhalscancer	livmoderhalscancer	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14781982:2:86
+5	idag	idag	AB	AB	_	_	_	_	_	O	_	265827-14781982:2:105
+6	!!!	!!!	MAD	MAD	_	_	_	_	_	O	_	265827-14781982:2:109
+
+1	Visar	visa	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14781982:3:115
+2	stolt	stolt	AB	AB	POS	_	_	_	_	O	_	265827-14781982:3:121
+3	upp	upp	PL	PL	_	_	_	_	_	O	_	265827-14781982:3:127
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14781982:3:131
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14781982:3:134
+
+1	(	(	PAD	PAD	_	_	_	_	_	O	_	265827-14781982:4:141
+2	typ	typ	AB	AB	_	_	_	_	_	O	_	265827-14781982:4:142
+3	)	)	PAD	PAD	_	_	_	_	_	O	_	265827-14781982:4:145
+

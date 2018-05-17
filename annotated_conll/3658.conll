@@ -1,0 +1,10 @@
+1	Djupets	djupets	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	blomma	blomma	UO	UO	_	_	_	_	_	O	_	temp:0:8
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:16
+5	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:20
+6	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:27
+7	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:31
+8	rot	rot	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

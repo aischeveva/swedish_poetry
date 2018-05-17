@@ -1,0 +1,9 @@
+1	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	asar	asar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:8
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:13
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:17
+6	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+8	ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:29
+

@@ -1,0 +1,8 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:11
+5	senaste	sen	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:15
+6	mordet	mordet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

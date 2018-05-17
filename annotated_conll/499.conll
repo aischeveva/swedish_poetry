@@ -1,0 +1,9 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:3
+3	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:7
+4	förnimma	förnimma	AB	AB	_	_	_	_	_	O	_	temp:0:11
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:22
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:27
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+

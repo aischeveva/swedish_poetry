@@ -1,0 +1,11 @@
+1	Gods	gods	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	skiftas	skiftas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:8
+4	å	å	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	däck	däck	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:23
+7	tärning	tärning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:37
+9	lott	lott	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+10	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

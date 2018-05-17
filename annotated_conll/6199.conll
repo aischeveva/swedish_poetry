@@ -1,0 +1,8 @@
+1	kung	kung	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Beles	Bele	PM	PM	GEN	_	_	_	_	O	_	temp:0:5
+3	dotter	dotter	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	fordrar	fordra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:26
+6	sorg	sorg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

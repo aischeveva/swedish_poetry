@@ -1,0 +1,10 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ju	ju	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	bara	bara	AB	AB	_	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:17
+7	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:21
+8	genomtränger	genomtränge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+9	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:38
+

@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	dansen	dansen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	sjöngo	sjöngo	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:24
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:27
+7	helig	helig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+

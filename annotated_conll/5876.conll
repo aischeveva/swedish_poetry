@@ -1,0 +1,6 @@
+1	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	nakna	nakna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	väggar	vägg	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	der	der	AB	AB	AN	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+

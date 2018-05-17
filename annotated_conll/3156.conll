@@ -1,0 +1,10 @@
+1	Vart	vart	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	all	all	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	längtan	längtan	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:22
+7	når	når	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+8	ingenting	ingenting	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:30
+9	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

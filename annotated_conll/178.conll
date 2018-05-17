@@ -1,0 +1,22 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:1
+3	känns	känna	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:5
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+6	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:16
+7	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:20
+8	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+9	vingar	vingar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:28
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+11	då	då	HA	HA	_	_	_	_	_	O	_	temp:0:36
+12	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:39
+13	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:43
+14	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+15	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+16	säg	säg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:51
+17	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:54
+18	mor	mor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:56
+19	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:59
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:60
+

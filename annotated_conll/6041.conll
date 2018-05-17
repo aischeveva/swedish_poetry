@@ -1,0 +1,8 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	helsar	helsar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	näsen	näsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+6	helsar	helsar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+7	sunden	sunden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+

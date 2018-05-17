@@ -1,0 +1,7 @@
+1	Till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	himlen	himmel	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	mera	mera	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:17
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+

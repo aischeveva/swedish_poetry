@@ -1,0 +1,11 @@
+1	hvart	hvart	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	menskligt	menskligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	hjerta	hjerta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+4	anar	anar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:28
+6	ibland	ibland	AB	AB	_	_	_	_	_	O	_	temp:0:32
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:40
+9	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:44
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

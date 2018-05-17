@@ -1,0 +1,7 @@
+1	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	märkliga	märkliga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	ting	ting	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:17
+5	stundar	stundar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

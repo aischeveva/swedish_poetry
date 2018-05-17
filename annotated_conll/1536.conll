@@ -1,0 +1,7 @@
+1	svalt	svalt	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	lättuttalade	lättuttalade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+5	människoord	människoord	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

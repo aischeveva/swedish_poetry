@@ -1,0 +1,10 @@
+1	Också	också	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:10
+5	våndas	våndas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:14
+6	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:21
+7	allas	allas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:27
+8	klander	klander	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

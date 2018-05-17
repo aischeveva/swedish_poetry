@@ -1,0 +1,9 @@
+1	Gamlefar	gamlefar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+4	sett	se	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:17
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	sommarnattens	sommarnattens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:24
+7	ljus	ljus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

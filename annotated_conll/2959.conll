@@ -1,0 +1,7 @@
+1	ty	ty	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:3
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+4	blick	blick	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	log	log	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	segerglada	segerglada	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+

@@ -1,0 +1,13 @@
+1	Hela	hel	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ditt	ditt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:5
+3	väsen	väsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	varje	varje	DT	DT	UTR/NEU|SIN|IND	_	_	_	_	O	_	temp:0:25
+8	ditt	ditt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:31
+9	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:36
+10	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:40
+11	sonnett	sonnett	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

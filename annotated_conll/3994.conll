@@ -1,0 +1,9 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	pannan	panna	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	sköljd	sköljd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	himlarnas	himlarnas	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	högblåa	högblåa	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+7	vila	vila	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:39
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

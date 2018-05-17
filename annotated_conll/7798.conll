@@ -1,0 +1,12 @@
+1	Slutligen	slutligen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	taltes	taltes	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+4	om	om	AB	AB	_	_	_	_	_	O	_	temp:0:21
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:25
+7	Sote	sote	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:29
+8	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:34
+9	kusten	kusten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+10	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:44
+11	Bretland	Bretland	PM	PM	NOM	_	_	_	_	B	person	temp:0:47
+

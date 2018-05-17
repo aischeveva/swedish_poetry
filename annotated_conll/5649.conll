@@ -1,0 +1,7 @@
+1	Högre	högre	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dock	dock	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:11
+4	storm	storm	NN	NN	AN	_	_	_	_	O	_	temp:0:14
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	bölja	bölja	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+

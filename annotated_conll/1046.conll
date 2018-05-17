@@ -1,0 +1,10 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	träd	träd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	örter	örter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+5	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+7	växa	växa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+8	trevande	trevande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:32
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

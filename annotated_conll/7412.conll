@@ -1,0 +1,9 @@
+1	djuptänkta	djuptänkta	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+3	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	Vala	Vala	PM	PM	NOM	_	_	_	_	B	person	temp:0:18
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	Havamal	havamal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

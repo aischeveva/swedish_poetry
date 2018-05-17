@@ -1,0 +1,12 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	barnlek	barnlek	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	blott	blott	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	fromhet	fromhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	ej	ej	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	förent	förent	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:39
+10	kraft	kraft	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+11	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:48
+

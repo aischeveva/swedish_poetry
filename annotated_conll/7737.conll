@@ -1,0 +1,11 @@
+1	slog	slå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:5
+3	ögonen	öga	NN	NN	NEU|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	ned	ned	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	rodnade	rodnade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+7	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:31
+8	bilden	bild	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:40
+10	skölden	skölden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:42
+

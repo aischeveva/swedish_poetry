@@ -1,0 +1,11 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:3
+3	som	som	HA	HA	_	_	_	_	_	O	_	temp:0:9
+4	dagsljus	dagsljus	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:13
+5	skiner	skiner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:30
+8	stämma	stämma	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+9	ljudar	ljudar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:47
+

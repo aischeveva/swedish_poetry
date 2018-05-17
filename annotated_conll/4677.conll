@@ -1,0 +1,6 @@
+1	släck	släck	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	förintelsens	förintelsens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:11
+5	låga	låga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+

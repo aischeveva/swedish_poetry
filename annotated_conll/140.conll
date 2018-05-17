@@ -1,0 +1,7 @@
+1	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:3
+3	spränger	spränge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:16
+5	mått	må	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

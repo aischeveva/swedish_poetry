@@ -1,0 +1,11 @@
+1	ge	ge	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:3
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	salta	salta	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	runda	runda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	klangen	klangen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:35
+9	smaka	smaka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:39
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

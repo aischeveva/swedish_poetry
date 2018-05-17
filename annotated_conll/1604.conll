@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+5	försmäktade	försmäktade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	sanden	sanden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

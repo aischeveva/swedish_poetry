@@ -1,0 +1,6 @@
+1	vårt	vår	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	dagslivs	dagslivs	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	skum	Skum	PM	PM	NOM	_	_	_	_	B	person	temp:0:14
+4	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

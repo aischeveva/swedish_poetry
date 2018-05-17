@@ -1,0 +1,6 @@
+1	märken	märken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:9
+4	tärda	tärda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:14
+5	drag	drag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+

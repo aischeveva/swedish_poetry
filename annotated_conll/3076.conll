@@ -1,0 +1,10 @@
+1	tinget	tinget	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:7
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	ryckt	ryckt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:14
+5	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	sina	sin	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:25
+7	skälvande	skälvande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	rötter	rötter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:40
+9	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

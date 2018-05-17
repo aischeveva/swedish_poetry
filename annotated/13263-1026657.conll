@@ -1,0 +1,66 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-1026657:0:1
+2	verkar	verka	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1026657:0:5
+3	som	som	KN	KN	_	_	_	_	_	O	_	13263-1026657:0:12
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-1026657:0:16
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1026657:0:20
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	13263-1026657:0:23
+7	klipp-	klipp	NN	NN	NEU|-|-|SMS	_	_	_	_	O	_	13263-1026657:0:26
+8	och	och	KN	KN	_	_	_	_	_	O	_	13263-1026657:0:33
+9	klistradag	klistradag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1026657:0:37
+10	på	på	PP	PP	_	_	_	_	_	O	_	13263-1026657:0:48
+11	jobbet	jobb	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	13263-1026657:0:51
+12	idag	idag	AB	AB	_	_	_	_	_	O	_	13263-1026657:0:58
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1026657:0:62
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1026657:1:64
+2	skriver	skriva	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1026657:1:68
+3	ut	ut	PL	PL	_	_	_	_	_	O	_	13263-1026657:1:76
+4	saker	sak	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-1026657:1:79
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1026657:1:84
+
+1	Sen	sen	AB	AB	_	_	_	_	_	O	_	13263-1026657:2:86
+2	skär	skära	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1026657:2:90
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1026657:2:95
+4	ner	ner	PL	PL	_	_	_	_	_	O	_	13263-1026657:2:99
+5	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	13263-1026657:2:103
+6	och	och	KN	KN	_	_	_	_	_	O	_	13263-1026657:2:107
+7	sätter	sätta	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1026657:2:111
+8	upp	upp	PL	PL	_	_	_	_	_	O	_	13263-1026657:2:118
+9	på	på	PP	PP	_	_	_	_	_	O	_	13263-1026657:2:122
+10	pannåer	pannå	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-1026657:2:125
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1026657:2:132
+
+1	Sen	sen	AB	AB	_	_	_	_	_	O	_	13263-1026657:3:134
+2	skriver	skriva	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1026657:3:138
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1026657:3:146
+4	ut	ut	PL	PL	_	_	_	_	_	O	_	13263-1026657:3:150
+5	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	13263-1026657:3:153
+6	saker	sak	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-1026657:3:159
+7	,	,	MID	MID	_	_	_	_	_	O	_	13263-1026657:3:164
+8	skär	skära	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1026657:3:166
+9	igen	igen	PL	PL	_	_	_	_	_	O	_	13263-1026657:3:171
+10	och	och	KN	KN	_	_	_	_	_	O	_	13263-1026657:3:176
+11	viker	vika	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1026657:3:180
+12	ihop	ihop	PL	PL	_	_	_	_	_	O	_	13263-1026657:3:186
+13	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	13263-1026657:3:191
+14	till	till	PP	PP	_	_	_	_	_	O	_	13263-1026657:3:195
+15	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	13263-1026657:3:200
+16	dummy	dummy	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1026657:3:203
+17	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1026657:3:208
+
+1	Läs	läsa	VB	VB	IMP|AKT	_	_	_	_	O	_	13263-1026657:4:210
+2	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	13263-1026657:4:214
+3	bloggar	blogg	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-1026657:4:220
+4	om	om	PP	PP	_	_	_	_	_	O	_	13263-1026657:4:228
+5	klipp	klipp	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	13263-1026657:4:231
+6	,	,	MID	MID	_	_	_	_	_	O	_	13263-1026657:4:236
+7	klistra	klistra	VB	VB	INF|AKT	_	_	_	_	O	_	13263-1026657:4:238
+8	,	,	MID	MID	_	_	_	_	_	O	_	13263-1026657:4:245
+9	skära	skära	VB	VB	INF|AKT	_	_	_	_	O	_	13263-1026657:4:247
+10	,	,	MID	MID	_	_	_	_	_	O	_	13263-1026657:4:252
+11	skalpell	skalpell	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1026657:4:254
+12	,	,	MID	MID	_	_	_	_	_	O	_	13263-1026657:4:262
+13	jobb	jobb	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1026657:4:264
+14	,	,	MID	MID	_	_	_	_	_	O	_	13263-1026657:4:268
+15	dummy	dummy	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1026657:4:270
+

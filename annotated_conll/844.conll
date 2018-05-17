@@ -1,0 +1,5 @@
+1	hopträngt	hopträngt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+3	hjärtgestalt	hjärtgestalt	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

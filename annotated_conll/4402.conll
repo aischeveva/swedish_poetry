@@ -1,0 +1,6 @@
+1	Ditt	ditt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	finger	finge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	fingerring	fingerring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+

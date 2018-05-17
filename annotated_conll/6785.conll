@@ -1,0 +1,17 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Skynda	skynda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:1
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	Frithiof	Frithiof	PM	PM	NOM	_	_	_	_	B	place	temp:0:9
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	dräp	Dräp	PM	PM	NOM	_	_	_	_	B	person	temp:0:19
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:24
+8	gamle	gamle	UO	UO	_	_	_	_	_	O	_	temp:0:28
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+10	sluta	sluta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:35
+11	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:41
+12	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:44
+13	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+14	er	er	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:52
+15	tvist	tvist	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:55
+16	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:60
+

@@ -1,0 +1,12 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	frågar	fråga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:11
+4	säkert	säkert	AB	AB	POS	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:23
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:27
+8	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:30
+9	gjort	göra	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:34
+10	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:40
+11	pengarna	peng	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:44
+

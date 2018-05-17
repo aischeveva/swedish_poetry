@@ -1,0 +1,12 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	enligt	enligt	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	nornornas	nornornas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:11
+4	rådslag	rådslag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	skulle	ska	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:29
+6	föda	föda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:36
+7	Balders	balders	UO	UO	_	_	_	_	_	O	_	temp:0:41
+8	hämnare	hämnare	UO	UO	_	_	_	_	_	O	_	temp:0:49
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:56
+
+1	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:1:57
+

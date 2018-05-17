@@ -1,0 +1,8 @@
+1	bild	bild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	trycker	trycker	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	bild	bild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	bak	bak	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	ögats	ögats	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	lins	lins	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+

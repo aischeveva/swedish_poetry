@@ -1,0 +1,6 @@
+1	människors	människors	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vän	vän	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	järn	järn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	smidd	smidd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+

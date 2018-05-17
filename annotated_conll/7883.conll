@@ -1,0 +1,8 @@
+1	Wäl	wäl	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	klingar	klingar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	sången	sången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	Frithiofs	Frithiofs	PM	PM	NOM	_	_	_	_	B	place	temp:0:21
+6	sal	sal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	I	place	temp:0:31
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

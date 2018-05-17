@@ -1,0 +1,14 @@
+1	kände	känna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	Thorsten	thorsten	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:6
+3	igen	igen	AB	AB	_	_	_	_	_	O	_	temp:0:15
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:20
+5	lott	lott	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+
+1	För	för	PP	PP	_	_	_	_	_	O	_	temp:1:30
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:1:34
+3	stöt	stöt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:37
+4	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:42
+5	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:1:45
+6	jernlans	jernlans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:1:50
+

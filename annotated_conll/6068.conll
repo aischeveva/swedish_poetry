@@ -1,0 +1,8 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	finner	finner	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	icke	icke	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	Framnäs	Framnäs	PM	PM	NOM	_	_	_	_	B	person	temp:0:21
+6	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

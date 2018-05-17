@@ -1,0 +1,8 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	vigd	vigd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	vida	vida	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

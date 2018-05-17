@@ -1,0 +1,8 @@
+1	Dis	dis	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:5
+4	läker	läker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+5	brinnande	brinnande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:14
+6	sår	sår	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

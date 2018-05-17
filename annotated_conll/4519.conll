@@ -1,0 +1,8 @@
+1	Betlehems	betlehems	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	stjärna	stjärna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:10
+3	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+4	högt	högt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:23
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:28
+6	skyn	skyn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,11 @@
+1	Hornet	hornet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	smattrar	smattrar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:7
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+4	falken	falken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	stiger	stige	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+6	lodrätt	lodrätt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:31
+7	emot	emot	PP	PP	_	_	_	_	_	O	_	temp:0:39
+8	Odens	Oden	PM	PM	GEN	_	_	_	_	B	person	temp:0:44
+9	sal	sal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:50
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:53
+

@@ -1,0 +1,9 @@
+1	Ack	ack	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:3
+
+1	jordens	jord	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:1:5
+2	rund	rund	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:13
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:1:18
+4	himlens	himlens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:1:22
+5	båga	båga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:30
+

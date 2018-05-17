@@ -1,0 +1,8 @@
+1	än	än	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+4	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:11
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	målet	målet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

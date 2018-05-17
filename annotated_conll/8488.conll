@@ -1,0 +1,9 @@
+1	liksom	liksom	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:7
+3	solsken	solsken	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	slösadt	slösadt	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+5	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:27
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:32
+7	klippan	klippan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

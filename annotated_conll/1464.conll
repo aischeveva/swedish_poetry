@@ -1,0 +1,7 @@
+1	O	o	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:2
+3	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:6
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:9
+5	enda	enda	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:12
+6	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+

@@ -1,0 +1,13 @@
+1	Stannar	stannar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+3	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:11
+
+1	Går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:14
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:18
+3	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:1:21
+
+1	Vägen	väg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:2:24
+2	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:2:30
+3	mörk	mörk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:2:37
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:2:41
+

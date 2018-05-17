@@ -1,0 +1,7 @@
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	Valhalls	valhalls	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	mör	mör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	bordet	bordet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+6	bringa	bringa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,11 @@
+1	Raka	raka	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+3	smala	smala	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	streck	streck	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	sugs	sugs	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:22
+6	blommornas	blommornas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:27
+7	stänglar	stänglar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:38
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:47
+9	höjden	höjden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:49
+10	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:55
+

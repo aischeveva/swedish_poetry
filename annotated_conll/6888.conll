@@ -1,0 +1,8 @@
+1	På	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	pelarstoder	pelarstoder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	fyra	fyra	RG	RG	NOM	_	_	_	_	O	_	temp:0:15
+4	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+5	himlens	himlens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:25
+6	rund	rund	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

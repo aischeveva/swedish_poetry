@@ -1,0 +1,8 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:7
+4	borta	borta	PL	PL	_	_	_	_	_	O	_	temp:0:13
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	salen	sal	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

@@ -1,0 +1,10 @@
+1	Ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	minut	minut	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:15
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+7	eldporten	eldporten	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+8	sluten	sluten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

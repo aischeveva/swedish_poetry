@@ -1,0 +1,10 @@
+1	Likväl	likväl	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:7
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+6	ej	ej	JJ	JJ	SUV|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+7	blommors	blommors	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:20
+8	doft	doft	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+9	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,9 @@
+1	af	af	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	öar	öar	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+5	jarl	jarl	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+6	Angantyr	Angantyr	PM	PM	NOM	_	_	_	_	B	person	temp:0:17
+7	beherskar	beherskar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

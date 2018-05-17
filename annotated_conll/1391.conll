@@ -1,0 +1,11 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	delar	delar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+7	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:27
+9	räknar	räkna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

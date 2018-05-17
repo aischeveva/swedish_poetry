@@ -1,0 +1,8 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	sett	se	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:13
+5	vandra	vandra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:17
+6	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	tistlarna	tistlarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:30
+

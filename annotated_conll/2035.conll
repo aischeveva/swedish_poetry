@@ -1,0 +1,7 @@
+1	likgiltighet	likgiltighet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	tar	ta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:17
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:21
+5	välkomsthälsning	välkomsthälsning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

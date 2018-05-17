@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Nidhögg	nidhögg	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	bet	bet	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:12
+4	uppå	uppå	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:21
+6	rot	rot	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+8	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:31
+9	lossades	lossades	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,10 @@
+1	Bet	bet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:8
+4	svarte	svarte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+5	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:23
+7	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	fast	fast	KN	KN	_	_	_	_	_	O	_	temp:0:35
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

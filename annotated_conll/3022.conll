@@ -1,0 +1,9 @@
+1	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	skimret	skimret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:17
+6	fjärran	fjärran	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	världarna	världarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

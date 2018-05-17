@@ -1,0 +1,8 @@
+1	Hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	räknat	räknat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	stjärnornas	stjärnornas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:15
+5	vägar	vägar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:27
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:33
+7	år	år	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:37
+

@@ -1,0 +1,7 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	flik	flik	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	vårt	vår	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:11
+5	väsen	väsen	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

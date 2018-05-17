@@ -1,0 +1,7 @@
+1	nattliga	nattliga	JJ	JJ	POS|UTR/NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	viljor	viljor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+4	viljor	viljor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+5	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:27
+6	ljus	ljus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+

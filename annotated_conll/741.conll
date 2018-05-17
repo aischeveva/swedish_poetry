@@ -1,0 +1,8 @@
+1	Allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+3	hörs	hörs	AB	AB	SUV	_	_	_	_	O	_	temp:0:9
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+5	syns	syns	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:18
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+7	känns	känna	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:27
+

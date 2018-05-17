@@ -1,0 +1,10 @@
+1	Ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:6
+3	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	pannan	panna	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	kring	kring	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+6	skullran	skullran	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	bred	bred	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:42
+9	full	full	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+

@@ -1,0 +1,9 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sällsamt	sällsamt	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:17
+6	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:21
+7	enda	enda	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+8	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:30
+

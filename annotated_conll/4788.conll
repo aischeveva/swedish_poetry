@@ -1,0 +1,13 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	driva	driva	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:11
+5	skägg	skägg	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:23
+8	tallkrans	tallkrans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+9	kring	kring	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:36
+10	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:42
+11	hår	hår	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:50
+

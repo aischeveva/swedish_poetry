@@ -1,0 +1,12 @@
+1	blickade	blickade	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	stjernorna	stjernorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:9
+3	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:20
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:24
+6	himmelska	himmelska	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	vänner	vän	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:37
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:43
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:45
+10	salen	sal	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:47
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:52
+

@@ -1,0 +1,7 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mycket	mycket	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	större	stor	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+5	människan	människan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	själv	själv	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+

@@ -1,0 +1,14 @@
+1	Et	et	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	O	o	KN	KN	_	_	_	_	_	O	_	temp:0:3
+3	ces	ces	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:5
+4	voix	voix	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+5	d	d	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:14
+6	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:15
+7	enfants	enfants	UO	UO	_	_	_	_	_	O	_	temp:0:16
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+9	chantant	chantant	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+10	dans	dans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+11	la	lägga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:39
+12	coupole	coupole	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:42
+13	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

@@ -1,0 +1,6 @@
+1	bed	bed	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	tankar	tankar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+

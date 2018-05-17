@@ -1,0 +1,12 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	höj	höj	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:4
+3	era	era	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	röster	röster	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	tills	tills	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	gudarna	gudarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	vaknar	vaknar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+9	tills	tills	PP	PP	_	_	_	_	_	O	_	temp:0:41
+10	nya	ny	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:47
+11	gudar	gudar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:51
+

@@ -1,0 +1,8 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	lossnade	lossnade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	stöp	stöp	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+6	af	af	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	harm	harm	AB	AB	AN	_	_	_	_	O	_	temp:0:26
+

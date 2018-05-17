@@ -1,0 +1,10 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	tordes	tordes	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	nalkas	nalkas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	ty	ty	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:25
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:28
+8	sägen	sägen	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:37
+

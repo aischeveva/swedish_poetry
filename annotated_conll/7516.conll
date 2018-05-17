@@ -1,0 +1,10 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	lefde	lefde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	Balder	Balder	PM	PM	NOM	_	_	_	_	B	person	temp:0:9
+4	ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:16
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	rena	rena	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	själ	själ	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

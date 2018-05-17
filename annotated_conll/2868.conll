@@ -1,0 +1,17 @@
+1	bar	bära	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	börda	börda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:18
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+8	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+9	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+10	av	av	PL	PL	_	_	_	_	_	O	_	temp:0:31
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+12	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:35
+13	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:39
+14	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:43
+15	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:48
+16	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:51
+

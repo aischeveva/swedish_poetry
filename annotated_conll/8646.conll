@@ -1,0 +1,9 @@
+1	i	i	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	långsam	långsam	UO	UO	_	_	_	_	_	O	_	temp:0:2
+3	sorg	sorg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+6	kungadotterns	kungadotterns	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:19
+7	frihet	frihet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

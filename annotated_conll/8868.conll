@@ -1,0 +1,8 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:4
+3	goda	god	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	gudar	gudar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	följe	följe	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:26
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

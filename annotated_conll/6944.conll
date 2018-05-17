@@ -1,0 +1,13 @@
+1	Hög	hög	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	kraft	kraft	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	gudars	gudars	AB	AB	_	_	_	_	_	O	_	temp:0:13
+5	gåfva	gåfvara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:27
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+9	Frithiof	frithiof	AB	AB	AN	_	_	_	_	O	_	temp:0:32
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+11	mins	mins	AB	AB	AN	_	_	_	_	O	_	temp:0:42
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

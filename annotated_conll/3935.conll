@@ -1,0 +1,11 @@
+1	o	o	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:2
+3	slå	slå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+4	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:9
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+7	slå	slå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+8	skimrande	skimrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:20
+9	ut	ut	AB	AB	_	_	_	_	_	O	_	temp:0:30
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

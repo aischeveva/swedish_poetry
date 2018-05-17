@@ -1,0 +1,9 @@
+1	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	vakna	vakna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+3	öga	öga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	brinnande	brinnande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+7	tårlöst	tårlöst	AB	AB	AN	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

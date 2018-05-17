@@ -1,0 +1,12 @@
+1	Står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	jordens	jord	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:5
+3	årsbarn	årsbarn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+5	fura	fura	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:28
+8	ned	ned	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+9	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:36
+10	heden	heden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:41
+11	rycks	rycks	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+

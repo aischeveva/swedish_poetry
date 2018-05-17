@@ -1,0 +1,16 @@
+1	svärmande	svärmande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:16
+4	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:19
+5	nordiska	nordiska	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	haf	haf	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:31
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:34
+8	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:36
+9	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:38
+10	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:39
+11	fans	fans	UO	UO	_	_	_	_	_	O	_	temp:0:41
+12	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:46
+13	ej	ej	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:50
+14	åter	åter	AB	AB	_	_	_	_	_	O	_	temp:0:53
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

@@ -1,0 +1,12 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	gamle	gamle	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	högen	högen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	betänken	betänken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	eder	eder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:33
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:35
+

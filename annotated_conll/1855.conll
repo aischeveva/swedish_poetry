@@ -1,0 +1,10 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	stol	stol	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	lik	lik	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:24
+8	gyllne	gyllne	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	tron	tron	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+

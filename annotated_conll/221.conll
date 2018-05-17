@@ -1,0 +1,13 @@
+1	önskar	önska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:7
+3	lycka	lycka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:19
+6	framtid	framtid	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:34
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:35
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:37
+4	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:38
+

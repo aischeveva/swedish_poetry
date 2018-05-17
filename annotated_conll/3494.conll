@@ -1,0 +1,5 @@
+1	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	övertygelsens	övertygelsens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	skall	skall	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

@@ -1,0 +1,6 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vattenfogeln	vattenfogeln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:17
+4	såradt	såradt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	bröst	bröst	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+

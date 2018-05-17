@@ -1,0 +1,11 @@
+1	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	qvaft	qvaft	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:14
+5	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+6	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:26
+8	Hildings	Hildings	PM	PM	NOM	_	_	_	_	B	inst	temp:0:28
+9	dalar	dalar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:37
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

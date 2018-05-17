@@ -1,0 +1,12 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	jämrar	jämrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:10
+4	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+7	gråter	gråter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+8	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:30
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:35
+10	snyftar	snyfta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:39
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

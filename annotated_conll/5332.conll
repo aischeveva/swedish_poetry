@@ -1,0 +1,6 @@
+1	Blott	blott	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	falla	falla	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	kunde	kunna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

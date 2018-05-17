@@ -1,0 +1,7 @@
+1	Skål	skål	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	Ingeborg	Ingeborg	PM	PM	NOM	_	_	_	_	B	animal	temp:0:9
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:18
+

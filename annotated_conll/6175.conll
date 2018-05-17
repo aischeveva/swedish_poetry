@@ -1,0 +1,8 @@
+1	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	menskor	menskor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	rubba	rubba	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:18
+6	falla	falla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+7	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:27
+

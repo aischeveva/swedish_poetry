@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	trogen	trogen	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:11
+4	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:15
+5	barndomsminne	barndomsminne	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

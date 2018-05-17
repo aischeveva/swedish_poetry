@@ -1,0 +1,8 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	konung	konung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+6	sal	sal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

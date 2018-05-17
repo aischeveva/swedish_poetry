@@ -1,0 +1,12 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+4	kommen	kommen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:18
+7	ung	ung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+8	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:25
+9	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:29
+10	finnar	finne	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:33
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

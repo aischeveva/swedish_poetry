@@ -1,0 +1,8 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	Valhall	Valhall	PM	PM	NOM	_	_	_	_	B	person	temp:0:9
+4	skall	skall	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+5	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+6	blygas	blygas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:26
+7	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:33
+

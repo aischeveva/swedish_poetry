@@ -1,0 +1,7 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	oafvända	oafvända	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	hennes	hennes	AB	AB	SUV	_	_	_	_	O	_	temp:0:18
+5	gudaglans	gudaglans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:25
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

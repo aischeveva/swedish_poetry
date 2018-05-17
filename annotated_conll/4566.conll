@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	mun	mun	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:11
+5	rörde	röra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+6	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+7	tyst	tyst	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

@@ -1,0 +1,7 @@
+1	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	röken	röken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	stiger	stige	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	egen	egen	JJ	JJ	POS|UTR|SIN|IND/DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	härd	härd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+

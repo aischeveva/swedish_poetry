@@ -1,0 +1,5 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	vars	vars	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:7
+4	mörker	mörker	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+

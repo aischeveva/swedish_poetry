@@ -1,0 +1,8 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	droppe	droppe	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	torra	torra	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	lökar	lökar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

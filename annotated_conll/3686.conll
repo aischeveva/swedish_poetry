@@ -1,0 +1,6 @@
+1	driver	driver	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	marken	marken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	vinden	vinden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+

@@ -1,0 +1,13 @@
+1	Är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:3
+3	hindret	hindret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:15
+6	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+7	kraften	kraften	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:31
+9	brytas	bryta	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:35
+10	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:42
+11	hämmas	hämmas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:46
+12	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:52
+

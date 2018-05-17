@@ -1,0 +1,7 @@
+1	Hugger	hugger	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:7
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	stycken	stycken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	ringen	ringen	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

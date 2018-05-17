@@ -1,0 +1,13 @@
+1	Dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+5	hembygd	hembygd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+6	ger	ge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+7	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:25
+8	rikt	rikt	AB	AB	POS	_	_	_	_	O	_	temp:0:28
+9	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:33
+10	mödans	mödans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+11	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:43
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

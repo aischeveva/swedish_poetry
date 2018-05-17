@@ -1,0 +1,7 @@
+1	Ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	vågorna	vågorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	klippig	klippig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	strand	strand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

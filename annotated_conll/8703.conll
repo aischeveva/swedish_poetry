@@ -1,0 +1,8 @@
+1	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	skönt	skön	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:11
+5	evigt	evigt	AB	AB	POS	_	_	_	_	O	_	temp:0:15
+6	enahanda	enahanda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:30
+

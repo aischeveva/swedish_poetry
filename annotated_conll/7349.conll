@@ -1,0 +1,9 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	bild	bild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	framsusande	framsusande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	guld	guld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+7	lågor	lågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

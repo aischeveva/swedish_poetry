@@ -1,0 +1,11 @@
+1	utsträckt	utsträckt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:10
+3	botten	botten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:23
+6	smal	smal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	kanot	kanot	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:37
+

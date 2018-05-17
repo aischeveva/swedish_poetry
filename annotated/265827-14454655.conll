@@ -1,0 +1,76 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454655:0:1
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454655:0:5
+3	säkert	säkert	AB	AB	POS	_	_	_	_	O	_	265827-14454655:0:9
+4	berättat	berätta	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14454655:0:16
+5	förut	förut	AB	AB	_	_	_	_	_	O	_	265827-14454655:0:25
+6	att	att	SN	SN	_	_	_	_	_	O	_	265827-14454655:0:31
+7	söndagar	söndag	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14454655:0:35
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454655:0:44
+9	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	265827-14454655:0:47
+10	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454655:0:51
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454655:0:54
+
+1	Duschade	duscha	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454655:1:56
+2	länge	länge	AB	AB	POS	_	_	_	_	O	_	265827-14454655:1:65
+3	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454655:1:70
+4	skrubbade	skrubba	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454655:1:72
+5	kroppen	kropp	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-14454655:1:82
+6	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454655:1:90
+7	ansiktet	ansikte	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14454655:1:94
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454655:1:102
+
+1	Hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454655:2:104
+2	i	i	PP	PP	_	_	_	_	_	O	_	265827-14454655:2:109
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-14454655:2:111
+4	inpackning	inpackning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454655:2:114
+5	för	för	PP	PP	_	_	_	_	_	O	_	265827-14454655:2:125
+6	håret	hår	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14454655:2:129
+7	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454655:2:134
+8	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454655:2:136
+9	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-14454655:2:140
+10	lermask	lermask	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454655:2:143
+11	för	för	PP	PP	_	_	_	_	_	O	_	265827-14454655:2:151
+12	ansiktet	ansikte	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14454655:2:155
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454655:2:163
+
+1	Och	och	KN	KN	_	_	_	_	_	O	_	265827-14454655:3:165
+2	avslutningsvis	avslutningsvis	AB	AB	_	_	_	_	_	O	_	265827-14454655:3:169
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454655:3:184
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454655:3:188
+5	smörjt	smörja	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14454655:3:192
+6	in	in	PL	PL	_	_	_	_	_	O	_	265827-14454655:3:199
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	265827-14454655:3:202
+8	med	med	PP	PP	_	_	_	_	_	O	_	265827-14454655:3:206
+9	body	body	UO	UO	_	_	_	_	_	O	_	265827-14454655:3:210
+10	butter	butter	UO	UO	_	_	_	_	_	O	_	265827-14454655:3:215
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454655:3:221
+
+1	Underbart	underbar	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14454655:4:223
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454655:4:232
+
+1	Just	just	AB	AB	_	_	_	_	_	O	_	265827-14454655:5:237
+2	nu	nu	AB	AB	_	_	_	_	_	O	_	265827-14454655:5:242
+3	bäddar	bädda	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454655:5:245
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454655:5:252
+5	om	om	PP	PP	_	_	_	_	_	O	_	265827-14454655:5:256
+6	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	265827-14454655:5:259
+7	säng	säng	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454655:5:263
+8	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454655:5:267
+9	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454655:5:269
+10	sen	sen	AB	AB	_	_	_	_	_	O	_	265827-14454655:5:273
+11	ska	skola	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454655:5:277
+12	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454655:5:281
+13	plugga	plugga	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14454655:5:285
+14	lite	lite	AB	AB	POS	_	_	_	_	O	_	265827-14454655:5:292
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454655:5:296
+
+1	Kanske	kanske	AB	AB	_	_	_	_	_	O	_	265827-14454655:6:298
+2	städa	städa	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14454655:6:305
+3	rummet	rum	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14454655:6:311
+4	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454655:6:318
+5	plocka	plocka	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14454655:6:322
+6	fram	fram	PL	PL	_	_	_	_	_	O	_	265827-14454655:6:329
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-14454655:6:334
+8	resväska	resväska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454655:6:337
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454655:6:345
+

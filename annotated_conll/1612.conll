@@ -1,0 +1,8 @@
+1	dit	dit	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	dammiga	dammiga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	herdar	herdar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	leder	leder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	sina	sin	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:25
+6	hjordar	hjordar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

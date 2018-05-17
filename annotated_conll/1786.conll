@@ -1,0 +1,11 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:2
+3	regnskur	regnskur	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:15
+6	hejdade	hejdade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+7	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:26
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:30
+9	loggian	loggian	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,10 @@
+1	in	in	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:3
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+4	vintriga	vintriga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+5	värld	värld	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+7	din	din	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:28
+8	ljungeldsvilja	ljungeldsvilja	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:32
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

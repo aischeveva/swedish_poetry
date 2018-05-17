@@ -1,0 +1,8 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	Frithiof	frithiof	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	ridit	ridit	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	så	så	SN	SN	_	_	_	_	_	O	_	temp:0:19
+5	mången	mången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

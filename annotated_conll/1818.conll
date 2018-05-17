@@ -1,0 +1,11 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:8
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:11
+5	Ijusets	Ijusets	PM	PM	NOM	_	_	_	_	B	place	temp:0:13
+6	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	I	place	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:29
+9	tystnaden	tystnaden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

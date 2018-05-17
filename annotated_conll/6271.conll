@@ -1,0 +1,7 @@
+1	Blodet	blod	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	forsade	forsade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:15
+4	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	mund	mund	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

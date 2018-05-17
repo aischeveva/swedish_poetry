@@ -1,0 +1,8 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:7
+4	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:16
+6	födes	födes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:20
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

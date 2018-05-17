@@ -1,0 +1,10 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	dör	dör	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:8
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+5	stormvind	stormvind	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	öknen	öknen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:33
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

@@ -1,0 +1,12 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:1
+3	offer	offer	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+6	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:17
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+8	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:20
+9	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+10	ofta	ofta	AB	AB	POS	_	_	_	_	O	_	temp:0:29
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

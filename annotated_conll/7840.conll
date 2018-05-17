@@ -1,0 +1,14 @@
+1	hundrade	hundrade	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mil	mil	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:14
+5	hoppas	hoppas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:18
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:25
+7	visst	visst	IN	IN	_	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+9	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:36
+10	seglar	seglar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:40
+11	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:47
+12	afton	afton	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:49
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:54
+

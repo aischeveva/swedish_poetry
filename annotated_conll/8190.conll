@@ -1,0 +1,9 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	Dellings	Delling	PM	PM	GEN	_	_	_	_	O	_	temp:0:3
+3	son	son	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	hvi	hvi	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	dröjer	dröjer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:28
+8	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

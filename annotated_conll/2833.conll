@@ -1,0 +1,9 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	mörka	mörka	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	rösten	rösten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	svarade	svara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+6	skälvande	skälvande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	låg	ligga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:36
+8	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

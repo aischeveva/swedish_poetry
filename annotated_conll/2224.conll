@@ -1,0 +1,10 @@
+1	lyckas	lyckas	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+3	åtminstone	åtminstone	AB	AB	_	_	_	_	_	O	_	temp:0:11
+4	få	få	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+5	ordning	ordning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:33
+7	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:35
+8	land	land	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+9	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

@@ -1,0 +1,6 @@
+1	Ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	källvatten	källvatten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+4	rättvisan	rättvisan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

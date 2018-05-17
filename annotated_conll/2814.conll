@@ -1,0 +1,7 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	styr	styr	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:8
+4	jordens	jord	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:11
+5	ring	ring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

@@ -1,0 +1,16 @@
+1	Skön	skön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	vinter	vinter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	själv	själv	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:26
+2	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:30
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:33
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:35
+5	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:39
+6	ju	ju	AB	AB	_	_	_	_	_	O	_	temp:1:43
+7	hjälten	hjälten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:46
+8	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:1:53
+

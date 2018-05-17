@@ -1,0 +1,7 @@
+1	hyacintflickan	hyacintflickan	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kallades	kallades	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:15
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:24
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:28
+

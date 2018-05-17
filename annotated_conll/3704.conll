@@ -1,0 +1,7 @@
+1	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:4
+3	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:8
+4	många	mången	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	lärda	lärda	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

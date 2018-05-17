@@ -1,0 +1,10 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	oförklarlig	oförklarlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	glans	glans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:21
+5	joniskt	joniskt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	vitt	vitt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:37
+8	guld	guld	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

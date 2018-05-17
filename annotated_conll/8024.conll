@@ -1,0 +1,8 @@
+1	fridlysta	fridlysta	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	derstädes	derstädes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:10
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+5	rosorna	rosorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:25
+6	blomma	blomma	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,16 @@
+1	Hvarför	hvarför	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	slår	slår	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+4	ner	ner	PL	PL	_	_	_	_	_	O	_	temp:0:16
+5	ditt	ditt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:20
+6	öga	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:30
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:34
+3	också	också	AB	AB	_	_	_	_	_	O	_	temp:1:38
+4	ung	ung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:44
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:1:48
+6	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:51
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:1:55
+

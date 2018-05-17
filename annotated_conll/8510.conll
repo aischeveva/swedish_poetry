@@ -1,0 +1,11 @@
+1	flög	flyga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	tinget	tinget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:23
+8	stodo	stodo	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+9	närmast	närmast	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:33
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

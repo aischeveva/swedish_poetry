@@ -1,0 +1,10 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	all	all	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	kärlek	kärlek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:19
+6	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	Valhalls	Valhalls	PM	PM	NOM	_	_	_	_	B	inst	temp:0:28
+8	gudar	gudar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:37
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

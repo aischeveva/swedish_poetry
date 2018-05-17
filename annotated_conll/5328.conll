@@ -1,0 +1,7 @@
+1	Blott	blott	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:10
+4	rätta	rätta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:14
+5	varm	varm	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

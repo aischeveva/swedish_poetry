@@ -1,0 +1,11 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	snuddade	snuddade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	ytan	ytan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:22
+7	studsade	studsade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:34
+9	bågar	bågar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:36
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

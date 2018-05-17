@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	unga	unga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	stjernor	stjernor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	vandra	vandra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	gudomlig	gudomlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	glans	glans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+

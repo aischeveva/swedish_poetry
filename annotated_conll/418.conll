@@ -1,0 +1,7 @@
+1	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:5
+3	lycklig	lycklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	aftonbrunnen	aftonbrunnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

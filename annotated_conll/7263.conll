@@ -1,0 +1,9 @@
+1	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	milda	mild	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	stråle	stråle	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	gren	gren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+6	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:29
+7	gren	gren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

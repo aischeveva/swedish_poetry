@@ -1,0 +1,12 @@
+1	Gamle	gamle	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kungen	kungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:17
+5	följa	följa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+6	jagten	jagten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:33
+8	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:37
+9	flyger	flyge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:41
+10	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:48
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

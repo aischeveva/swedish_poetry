@@ -1,0 +1,8 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:3
+3	irrar	irrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	stranden	stranden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

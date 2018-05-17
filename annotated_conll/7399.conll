@@ -1,0 +1,11 @@
+1	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Norden	Norden	PM	PM	NOM	_	_	_	_	B	person	temp:0:4
+3	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	Valhall	valhall	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:28
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:30
+8	jordisk	jordisk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	bild	bild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

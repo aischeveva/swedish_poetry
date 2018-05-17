@@ -1,0 +1,10 @@
+1	Minnen	minne	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	ting	ting	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:16
+6	hände	hända	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:26
+8	går	går	AB	AB	_	_	_	_	_	O	_	temp:0:28
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

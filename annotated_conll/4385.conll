@@ -1,0 +1,6 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	föga	föga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	fröjder	fröjder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

@@ -1,0 +1,10 @@
+1	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	ångest	ångest	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	lyfte	lyfta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	tinnarna	tinnarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+
+1	Av	av	PP	PP	_	_	_	_	_	O	_	temp:1:28
+2	springbrunnen	springbrunnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:31
+3	skratt	skratt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:45
+

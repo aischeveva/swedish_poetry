@@ -1,0 +1,7 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	salig	salig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	tjusning	tjusning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	varann	varann	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

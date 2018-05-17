@@ -1,0 +1,8 @@
+1	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	folk	folk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	fritt	fritt	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:19
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:23
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	rymderna	rymderna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	svämmar	svämmar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	över	över	PL	PL	_	_	_	_	_	O	_	temp:0:21
+5	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:26
+6	heliga	heliga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:29
+7	floder	floder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:36
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

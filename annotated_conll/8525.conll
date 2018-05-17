@@ -1,0 +1,8 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:3
+3	Bele	Bele	PM	PM	NOM	_	_	_	_	B	person	temp:0:9
+4	lefde	lefde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+6	jarlen	jarlen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	gaf	gaf	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+

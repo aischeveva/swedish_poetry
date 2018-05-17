@@ -1,0 +1,12 @@
+1	Klart	klart	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:10
+4	uppe	uppe	AB	AB	_	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:20
+7	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+8	skönt	skön	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+9	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:34
+10	stå	stå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:38
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

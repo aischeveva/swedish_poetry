@@ -1,0 +1,11 @@
+1	ditt	ditt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	eget	eget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	hjertas	hjertas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:10
+4	vilda	vilda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+5	hat	hat	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	egen	egen	JJ	JJ	POS|UTR|SIN|IND/DEF|NOM	_	_	_	_	O	_	temp:0:33
+9	hämnd	hämnd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

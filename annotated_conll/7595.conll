@@ -1,0 +1,10 @@
+1	Med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	försonas	försonas	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	Balder	Balder	PM	PM	NOM	_	_	_	_	B	person	temp:0:18
+5	ej	Ej	PM	PM	NOM	_	_	_	_	I	person	temp:0:25
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	försoning	försoning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	bor	bor	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

@@ -1,0 +1,9 @@
+1	Oden	oden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	styre	styre	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	det	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	bästa	god	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:26
+

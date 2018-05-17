@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	språka	språka	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	öfver	öfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	vattnet	vatten	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	ting	ting	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:34
+9	stunda	stunda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

@@ -1,0 +1,7 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:13
+5	andra	annan	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	sidan	sida	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+

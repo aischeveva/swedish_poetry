@@ -1,0 +1,5 @@
+1	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	sakta	sakta	AB	AB	POS	_	_	_	_	O	_	temp:0:6
+3	susning	susning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+

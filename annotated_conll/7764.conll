@@ -1,0 +1,13 @@
+1	underbara	underbar	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+3	ej	Ej	PM	PM	NOM	_	_	_	_	B	person	temp:0:11
+4	kända	Kända	PM	PM	NOM	_	_	_	_	I	person	temp:0:14
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	Nord	Nord	PM	PM	NOM	_	_	_	_	B	inst	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+8	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:28
+9	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:32
+10	kändes	känna	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:35
+11	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:42
+12	solens	solens	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+

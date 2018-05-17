@@ -1,0 +1,14 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:1
+3	denna	denna	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:3
+4	strid	strid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:14
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+7	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:17
+8	talte	talte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+9	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:26
+10	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:30
+11	vänlig	vänlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+12	röst	röst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

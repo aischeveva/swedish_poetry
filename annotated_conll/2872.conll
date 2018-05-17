@@ -1,0 +1,4 @@
+1	Oden	oden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	Rind	Rind	PM	PM	NOM	_	_	_	_	B	person	temp:0:9
+

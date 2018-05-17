@@ -1,0 +1,11 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	kraft	kraft	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	förutan	förutan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	fromhet	fromhet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	tär	tvara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+6	ock	ock	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:30
+7	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:34
+8	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:39
+9	sjelf	sjelf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:48
+

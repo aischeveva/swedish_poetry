@@ -1,0 +1,6 @@
+1	Egennyttan	egennyttan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+3	avunden	avunden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+5	flärden	flärden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+

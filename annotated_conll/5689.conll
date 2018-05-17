@@ -1,0 +1,8 @@
+1	På	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:3
+3	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:11
+5	lansar	lansar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+6	springa	springa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

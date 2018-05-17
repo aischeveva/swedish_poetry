@@ -1,0 +1,10 @@
+1	Har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	grafven	grafven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+4	tunga	tunga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+
+1	För	för	PP	PP	_	_	_	_	_	O	_	temp:1:25
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:1:29
+3	klinga	klinga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:32
+

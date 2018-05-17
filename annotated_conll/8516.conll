@@ -1,0 +1,10 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	hemsk	hemsk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:10
+5	dyster	dyster	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:20
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:24
+8	döda	döda	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+9	valans	valans	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+

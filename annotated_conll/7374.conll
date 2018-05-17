@@ -1,0 +1,13 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	O	o	KN	KN	_	_	_	_	_	O	_	temp:0:1
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:2
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+5	förstår	förstå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+6	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:16
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+8	mör	mör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+9	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:24
+10	tidens	tidens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:29
+11	källa	källa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

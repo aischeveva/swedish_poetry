@@ -1,0 +1,11 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	harpoton	harpoton	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	andra	annan	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	klingande	klingande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:36
+8	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:40
+9	far	fara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:46
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:49
+

@@ -1,0 +1,6 @@
+1	Ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	midt	midt	AB	AB	SUV	_	_	_	_	O	_	temp:0:3
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	golfvet	golfvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	glöder	glöder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:19
+

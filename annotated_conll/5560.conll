@@ -1,0 +1,8 @@
+1	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:3
+3	lätt	lätt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:11
+5	trofast	trofast	AB	AB	SUV	_	_	_	_	O	_	temp:0:14
+6	ek	Ek	UO	UO	_	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

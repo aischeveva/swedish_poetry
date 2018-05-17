@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	givit	givit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:14
+5	henne	hon	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:20
+6	namn	namn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

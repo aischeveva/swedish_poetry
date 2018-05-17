@@ -1,0 +1,9 @@
+1	Kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	drick	drick	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+4	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:11
+5	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	månens	månens	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+7	skål	skål	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

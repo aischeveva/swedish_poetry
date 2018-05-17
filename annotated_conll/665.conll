@@ -1,0 +1,6 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	tag	tag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:8
+4	giv	giv	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:12
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

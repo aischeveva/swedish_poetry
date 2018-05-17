@@ -1,0 +1,7 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	steg	steg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	före	före	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:13
+5	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

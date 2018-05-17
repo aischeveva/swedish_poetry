@@ -1,0 +1,11 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+5	drog	drog	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+6	djärv	djärv	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+7	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:24
+8	fruset	fruset	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+9	Bält	bält	NN	NN	AN	_	_	_	_	O	_	temp:0:36
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

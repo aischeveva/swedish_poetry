@@ -1,0 +1,8 @@
+1	Kunde	kunna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	följa	följa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:16
+5	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:20
+6	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

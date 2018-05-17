@@ -1,0 +1,9 @@
+1	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	muntre	muntre	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	kung	kung	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	Halfdan	Halfdan	PM	PM	NOM	_	_	_	_	B	person	temp:0:15
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	gäst	gäst	AB	AB	SUV	_	_	_	_	O	_	temp:0:28
+7	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:33
+8	bad	be	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:37
+

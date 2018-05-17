@@ -1,0 +1,12 @@
+1	når	når	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	upp	upp	PL	PL	_	_	_	_	_	O	_	temp:0:4
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	Valhalls	Valhall	PM	PM	GEN	_	_	_	_	B	person	temp:0:13
+5	troner	troner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+7	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:30
+8	ger	ge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+9	stolthet	stolthet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:38
+10	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:47
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:49
+

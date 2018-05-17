@@ -1,0 +1,11 @@
+1	breder	breder	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	trädet	trädet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:14
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:17
+5	skugga	skugga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:27
+7	mjuk	mjuk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:35
+9	flor	flor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:39
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

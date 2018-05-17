@@ -1,0 +1,12 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	söndan	söndan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:11
+4	Albert	Albert	PM	PM	NOM	_	_	_	_	B	person	temp:0:14
+5	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+6	hem	hem	PL	PL	_	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+8	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:30
+9	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:33
+10	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:38
+11	nykokt	nykokt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+

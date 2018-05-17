@@ -1,0 +1,7 @@
+1	Där	där	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:11
+4	människobarn	människobarn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:28
+6	knä	knä	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+

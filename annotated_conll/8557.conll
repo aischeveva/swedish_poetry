@@ -1,0 +1,8 @@
+1	liksom	liksom	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	Bele	Bele	PM	PM	NOM	_	_	_	_	B	person	temp:0:10
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	kanske	kanske	AB	AB	_	_	_	_	_	O	_	temp:0:16
+6	gifver	gifver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+7	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,13 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	ting	ting	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	Frithiof	frithiof	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+9	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:31
+10	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:35
+11	dör	dör	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

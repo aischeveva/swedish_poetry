@@ -1,0 +1,111 @@
+1	Hey	Hey	UO	UO	_	_	_	_	_	O	_	265827-14701533:0:1
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14701533:0:4
+
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	265827-14701533:1:7
+2	gör	göra	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14701533:1:11
+3	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-14701533:1:15
+4	där	där	AB	AB	_	_	_	_	_	O	_	265827-14701533:1:18
+5	ute	ute	AB	AB	_	_	_	_	_	O	_	265827-14701533:1:22
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	265827-14701533:1:25
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14701533:2:27
+2	sitter	sitta	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14701533:2:31
+3	inne	inne	PL	PL	_	_	_	_	_	O	_	265827-14701533:2:38
+4	på	på	PP	PP	_	_	_	_	_	O	_	265827-14701533:2:43
+5	det	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	265827-14701533:2:46
+6	lilla	liten	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14701533:2:50
+7	kontoret	kontor	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14701533:2:56
+8	och	och	KN	KN	_	_	_	_	_	O	_	265827-14701533:2:65
+9	tänkte	tänka	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14701533:2:69
+10	plugga	plugga	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14701533:2:76
+11	fysik	fysik	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14701533:2:83
+12	för	för	PP	PP	_	_	_	_	_	O	_	265827-14701533:2:89
+13	att	att	IE	IE	_	_	_	_	_	O	_	265827-14701533:2:93
+14	fylla	fylla	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14701533:2:97
+15	ut	ut	PL	PL	_	_	_	_	_	O	_	265827-14701533:2:103
+16	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	265827-14701533:2:106
+17	håltimme	håltimme	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14701533:2:110
+18	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14701533:2:118
+
+1	Även	även	AB	AB	_	_	_	_	_	O	_	265827-14701533:3:120
+2	kollat	kolla	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14701533:3:125
+3	upp	upp	PL	PL	_	_	_	_	_	O	_	265827-14701533:3:132
+4	lite	lite	AB	AB	POS	_	_	_	_	O	_	265827-14701533:3:136
+5	tågresor	tågresa	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14701533:3:141
+6	till	till	PP	PP	_	_	_	_	_	O	_	265827-14701533:3:150
+7	Borlänge	Borlänge	PM	PM	NOM	_	_	_	_	B	place	265827-14701533:3:155
+8	i	i	PP	PP	_	_	_	_	_	O	_	265827-14701533:3:164
+9	sommar	sommar	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14701533:3:166
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14701533:3:172
+
+1	Förresten	förresten	AB	AB	_	_	_	_	_	O	_	265827-14701533:4:176
+2	,	,	MID	MID	_	_	_	_	_	O	_	265827-14701533:4:185
+3	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14701533:4:187
+4	sjukt	sjuk	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14701533:4:192
+5	glad	glad	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14701533:4:198
+6	igår	igår	AB	AB	_	_	_	_	_	O	_	265827-14701533:4:203
+7	när	när	HA	HA	_	_	_	_	_	O	_	265827-14701533:4:208
+8	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-14701533:4:212
+9	kompis	kompis	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14701533:4:215
+10	hörde	höra	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14701533:4:222
+11	av	av	PL	PL	_	_	_	_	_	O	_	265827-14701533:4:228
+12	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	265827-14701533:4:231
+13	som	som	HP	HP	-|-|-	_	_	_	_	O	_	265827-14701533:4:235
+14	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14701533:4:239
+15	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-14701533:4:243
+16	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14701533:4:248
+17	pratat	prata	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14701533:4:252
+18	med	med	PL	PL	_	_	_	_	_	O	_	265827-14701533:4:259
+19	på	på	PP	PP	_	_	_	_	_	O	_	265827-14701533:4:263
+20	länge	länge	AB	AB	POS	_	_	_	_	O	_	265827-14701533:4:266
+21	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14701533:4:271
+
+1	Vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-14701533:5:273
+2	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14701533:5:276
+3	liksom	liksom	AB	AB	_	_	_	_	_	O	_	265827-14701533:5:281
+4	,	,	MID	MID	_	_	_	_	_	O	_	265827-14701533:5:287
+5	glidit	glida	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14701533:5:289
+6	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	265827-14701533:5:296
+7	varandra	varandra	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	265827-14701533:5:302
+8	rätt	rätt	AB	AB	_	_	_	_	_	O	_	265827-14701533:5:311
+9	rejält	rejält	AB	AB	POS	_	_	_	_	O	_	265827-14701533:5:316
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14701533:5:322
+
+1	Men	men	KN	KN	_	_	_	_	_	O	_	265827-14701533:6:324
+2	nu	nu	AB	AB	_	_	_	_	_	O	_	265827-14701533:6:328
+3	känns	kännas	VB	VB	PRS|SFO	_	_	_	_	O	_	265827-14701533:6:331
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14701533:6:337
+5	som	som	KN	KN	_	_	_	_	_	O	_	265827-14701533:6:341
+6	vanligt	vanligt	AB	AB	POS	_	_	_	_	O	_	265827-14701533:6:345
+7	igen	igen	PL	PL	_	_	_	_	_	O	_	265827-14701533:6:353
+8	,	,	MID	MID	_	_	_	_	_	O	_	265827-14701533:6:357
+9	vilket	vilket	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	265827-14701533:6:359
+10	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14701533:6:366
+11	jätteskönt	jätteskön	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14701533:6:369
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14701533:6:379
+
+1	Lunch	lunch	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14701533:7:382
+2	om	om	PP	PP	_	_	_	_	_	O	_	265827-14701533:7:388
+3	några	någon	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	265827-14701533:7:391
+4	timmar	timme	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14701533:7:397
+5	med	med	PP	PP	_	_	_	_	_	O	_	265827-14701533:7:404
+6	Ronja	Ronja	PM	PM	NOM	_	_	_	_	B	place	265827-14701533:7:408
+7	!!!!!	!!!!!	MAD	MAD	_	_	_	_	_	O	_	265827-14701533:7:413
+
+1	Och	och	KN	KN	_	_	_	_	_	O	_	265827-14701533:8:419
+2	sen	sen	AB	AB	_	_	_	_	_	O	_	265827-14701533:8:423
+3	så	så	AB	AB	_	_	_	_	_	O	_	265827-14701533:8:427
+4	ska	skola	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14701533:8:430
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14701533:8:434
+6	,	,	MID	MID	_	_	_	_	_	O	_	265827-14701533:8:437
+7	Fanny	Fanny	PM	PM	NOM	_	_	_	_	B	person	265827-14701533:8:439
+8	och	och	KN	KN	_	_	_	_	_	O	_	265827-14701533:8:445
+9	Matilda	Matilda	PM	PM	NOM	_	_	_	_	B	person	265827-14701533:8:449
+10	jobba	jobba	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14701533:8:457
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14701533:8:462
+
+1	Blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14701533:9:464
+2	nog	nog	AB	AB	_	_	_	_	_	O	_	265827-14701533:9:469
+3	jättebra	jättebra	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14701533:9:473
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14701533:9:481
+

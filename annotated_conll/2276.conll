@@ -1,0 +1,8 @@
+1	Höljet	höljet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	ju	ju	AB	AB	_	_	_	_	_	O	_	temp:0:11
+4	knoppen	knoppen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	hela	hel	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	vintern	vinter	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

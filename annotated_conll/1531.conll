@@ -1,0 +1,6 @@
+1	Ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+4	inga	ingen	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	temp:0:9
+5	dödliga	dödliga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:14
+

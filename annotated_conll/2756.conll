@@ -1,0 +1,7 @@
+1	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	föddes	föddes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:4
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	rymdens	rymdens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:14
+5	famn	famn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

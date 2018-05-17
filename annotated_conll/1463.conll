@@ -1,0 +1,9 @@
+1	Går	går	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	stönande	stönande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:23
+6	rivna	rivna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	kronorna	krona	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:32
+8	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

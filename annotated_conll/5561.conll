@@ -1,0 +1,7 @@
+1	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	styret	styret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	sjelf	sjelf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	glädes	glädes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:26
+

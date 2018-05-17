@@ -1,0 +1,8 @@
+1	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	ej	ej	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+5	dårars	dårars	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	gamman	gamman	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

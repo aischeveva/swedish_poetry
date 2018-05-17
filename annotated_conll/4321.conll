@@ -1,0 +1,10 @@
+1	Saliga	saliga	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vandrade	vandrade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:16
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:22
+6	bävande	bävande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	mystisk	mystisk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	glans	glans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

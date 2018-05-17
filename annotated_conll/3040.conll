@@ -1,0 +1,8 @@
+1	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	luften	luften	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	skälver	skälver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	blek	blek	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	hunger	hunger	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+

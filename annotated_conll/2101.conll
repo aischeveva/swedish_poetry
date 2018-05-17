@@ -1,0 +1,13 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	lågor	lågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:9
+5	lågor	lågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+8	lågor	lågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+10	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:27
+11	lågor	lågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

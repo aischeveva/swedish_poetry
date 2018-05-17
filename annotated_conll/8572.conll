@@ -1,0 +1,10 @@
+1	Vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	Freja	Freja	PM	PM	NOM	_	_	_	_	B	place	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:11
+5	skall	skall	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+6	icke	icke	AB	AB	_	_	_	_	_	O	_	temp:0:21
+7	lyckas	lyckas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:26
+8	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:33
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

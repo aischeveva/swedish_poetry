@@ -1,0 +1,9 @@
+1	andades	andades	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+3	kände	känna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+5	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+7	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:24
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

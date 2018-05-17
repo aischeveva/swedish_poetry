@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	åter	åter	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	vankar	vankar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	rummet	rum	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+7	ensam	ensam	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

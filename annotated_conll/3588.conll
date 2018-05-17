@@ -1,0 +1,9 @@
+1	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	strålarna	strålarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	hoppade	hoppa	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+5	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:23
+6	skummet	skummet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	dansade	dansade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:35
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

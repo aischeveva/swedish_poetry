@@ -1,0 +1,11 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	blef	blef	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	gny	gny	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	tinget	tinget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+
+1	Tusen	tusen	RG	RG	NOM	_	_	_	_	O	_	temp:1:27
+2	svärd	svärd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:33
+

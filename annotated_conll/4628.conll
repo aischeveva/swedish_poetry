@@ -1,0 +1,11 @@
+1	Nej	nej	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:5
+4	vandrar	vandra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+7	örtagård	örtagård	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+8	lik	lik	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	himmelens	himmelens	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+10	sky	sky	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+

@@ -1,0 +1,9 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	kungens	kungens	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	gård	gård	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:16
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:20
+6	ringes	ringes	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	hydda	hydda	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

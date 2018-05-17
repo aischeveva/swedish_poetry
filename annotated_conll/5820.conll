@@ -1,0 +1,6 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	bägge	bägge	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:3
+3	storma	storma	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	an	an	PL	PL	_	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+

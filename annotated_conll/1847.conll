@@ -1,0 +1,13 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:3
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+4	med	med	PL	PL	_	_	_	_	_	O	_	temp:0:11
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:15
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+7	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:20
+8	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:24
+9	stred	stred	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:27
+10	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:33
+11	Mylae	Mylae	PM	PM	NOM	_	_	_	_	B	animal	temp:0:37
+12	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

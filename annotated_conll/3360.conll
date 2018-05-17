@@ -1,0 +1,11 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	böjer	böjer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:10
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	makten	makten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	ditt	ditt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:28
+8	furstliga	furstliga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:33
+9	skön	skön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

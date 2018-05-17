@@ -1,0 +1,9 @@
+1	Välkomna	välkomna	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	stjernor	stjernor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:19
+5	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+6	uppe	uppe	UO	UO	_	_	_	_	_	O	_	temp:0:27
+7	tågen	tåg	NN	NN	NEU|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:32
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

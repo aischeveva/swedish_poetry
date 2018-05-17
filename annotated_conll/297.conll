@@ -1,0 +1,6 @@
+1	gav	ge	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	tillbaka	tillbaka	AB	AB	_	_	_	_	_	O	_	temp:0:7
+4	tusenfalt	tusenfalt	AB	AB	POS	_	_	_	_	O	_	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

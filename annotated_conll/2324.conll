@@ -1,0 +1,8 @@
+1	Kaos	kaos	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:4
+3	oformliga	oformliga	UO	UO	_	_	_	_	_	O	_	temp:0:6
+4	sång	sång	UO	UO	_	_	_	_	_	O	_	temp:0:16
+5	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:21
+6	sjunga	sjunga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

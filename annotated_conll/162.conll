@@ -1,0 +1,11 @@
+1	Kör	köra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	(	(	PAD	PAD	_	_	_	_	_	O	_	temp:0:6
+4	bortdöende	bortdöende	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+5	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:0:17
+6	Kör	köra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+7	II	ii	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:36
+8	(	(	PAD	PAD	_	_	_	_	_	O	_	temp:0:39
+9	bortdöende	bortdöende	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:40
+10	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:0:50
+

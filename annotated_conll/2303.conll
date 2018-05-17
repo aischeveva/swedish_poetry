@@ -1,0 +1,13 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	så	så	SN	SN	_	_	_	_	_	O	_	temp:0:17
+6	aktsam	aktsam	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+8	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+9	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:38
+10	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:43
+11	darra	darra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:47
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:52
+

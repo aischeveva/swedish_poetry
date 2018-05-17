@@ -1,0 +1,13 @@
+1	refvade	refvade	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	seglet	seglet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:15
+4	sjelf	sjelf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+8	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+9	rördt	rördt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:34
+10	af	af	UO	UO	_	_	_	_	_	O	_	temp:0:40
+11	menniskohänder	menniskohänder	UO	UO	_	_	_	_	_	O	_	temp:0:43
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:57
+

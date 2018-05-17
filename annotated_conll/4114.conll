@@ -1,0 +1,6 @@
+1	Din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	oförvärvade	oförvärvade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+4	lyckliga	lyckliga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	adel	adel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+

@@ -1,0 +1,7 @@
+1	Kungsgård	kungsgård	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:10
+3	tända	tända	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+4	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	midnattstid	midnattstid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

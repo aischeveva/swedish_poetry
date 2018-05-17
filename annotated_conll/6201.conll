@@ -1,0 +1,8 @@
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	bröllopsdagen	bröllopsdag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:18
+4	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+5	(	(	PAD	PAD	_	_	_	_	_	O	_	temp:0:25
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:26
+7	dagen	dag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+

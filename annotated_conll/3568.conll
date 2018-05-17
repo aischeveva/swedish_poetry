@@ -1,0 +1,10 @@
+1	Kanske	kanske	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:7
+3	bortom	bortom	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:23
+7	eviga	eviga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:26
+8	källorna	källorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:32
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

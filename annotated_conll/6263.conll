@@ -1,0 +1,7 @@
+1	Blicka	blicka	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	dörren	dörr	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:20
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

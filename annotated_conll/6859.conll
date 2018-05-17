@@ -1,0 +1,10 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Valhall	valhall	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	skiner	skiner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	närmre	närmre	AB	AB	AN	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:27
+7	anar	anar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+8	döden	döden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

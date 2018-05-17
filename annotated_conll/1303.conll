@@ -1,0 +1,9 @@
+1	Frigörare	frigörare	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:10
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	gyllene	gyllene	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	hamrar	hamrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+6	bräcker	bräcker	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:33
+7	isar	isar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:41
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

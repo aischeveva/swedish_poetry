@@ -1,0 +1,8 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	stod	stå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	rök	rök	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+6	damm	damm	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:19
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

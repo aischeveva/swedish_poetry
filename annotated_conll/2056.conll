@@ -1,0 +1,8 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	fiskarna	fiskarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	middagsrast	middagsrast	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:17
+5	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:28
+6	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:30
+7	murarna	murarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:34
+

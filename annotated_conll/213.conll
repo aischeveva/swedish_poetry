@@ -1,0 +1,6 @@
+1	tvingas	tvingas	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mänskorna	mänskorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	bittert	bittert	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:18
+4	lära	lära	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+5	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

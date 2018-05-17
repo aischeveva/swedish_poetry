@@ -1,0 +1,11 @@
+1	Med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	ljuset	ljuset	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	tanke	tanke	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	svärdet	svärdet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:31
+8	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:38
+10	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

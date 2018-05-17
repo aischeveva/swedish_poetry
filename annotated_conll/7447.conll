@@ -1,0 +1,12 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	vårsol	vårsol	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	skiner	skiner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:23
+7	haf	haf	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:31
+9	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:34
+10	frid	frid	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

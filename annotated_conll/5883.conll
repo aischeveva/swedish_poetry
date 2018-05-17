@@ -1,0 +1,8 @@
+1	Ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	rök	rök	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	sal	sal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:13
+6	lade	lade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

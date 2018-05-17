@@ -1,0 +1,11 @@
+1	kring	kring	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Ingborgs	Ingborg	PM	PM	GEN	_	_	_	_	O	_	temp:0:6
+3	hals	hals	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:25
+6	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:29
+7	fästa	fästa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:33
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:39
+

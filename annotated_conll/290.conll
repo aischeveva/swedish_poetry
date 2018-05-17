@@ -1,0 +1,13 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	knyts	knyts	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:3
+3	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:9
+4	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	lekar	lekar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+7	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:29
+8	läxor	läxor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:41
+10	drömmar	drömmar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:45
+11	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:53
+12	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:54
+

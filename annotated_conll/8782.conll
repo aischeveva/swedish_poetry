@@ -1,0 +1,10 @@
+1	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	skymtar	skymta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:11
+4	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:22
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:26
+7	bleknad	bleknad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	bild	bild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+9	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

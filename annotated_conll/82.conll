@@ -1,0 +1,8 @@
+1	Vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:8
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:12
+6	bittra	bittra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+7	ödena	ödena	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+

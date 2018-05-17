@@ -1,0 +1,10 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	öm	öm	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+4	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:7
+5	trogen	trogen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:17
+7	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+8	Nanna	Nanna	PM	PM	NOM	_	_	_	_	B	person	temp:0:25
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,10 @@
+1	tills	tills	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	led	led	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	led	led	RG	RG	NOM	_	_	_	_	O	_	temp:0:16
+5	släpper	släpper	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:35
+8	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:39
+9	hållit	hållit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:42
+

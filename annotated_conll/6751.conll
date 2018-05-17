@@ -1,0 +1,13 @@
+1	hör	hör	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:10
+5	kära	kär	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+6	stämman	stämman	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+8	susande	susande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:28
+9	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:36
+10	vårens	vårens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:40
+11	vind	vind	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:47
+12	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+

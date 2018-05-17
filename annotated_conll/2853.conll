@@ -1,0 +1,8 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	dryck	dryck	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:10
+5	måste	måste	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+6	vinnas	vinnas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:20
+7	hårt	hårt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+

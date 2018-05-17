@@ -1,0 +1,10 @@
+1	Der	der	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+4	sjelf	sjelf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:18
+7	hoppet	hoppet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+8	skön	skön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,7 @@
+1	Låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:4
+3	solar	solar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	bliva	blivara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+5	kalla	kalla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

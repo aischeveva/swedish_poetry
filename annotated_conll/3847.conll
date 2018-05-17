@@ -1,0 +1,6 @@
+1	o	o	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:2
+3	smidigdansande	smidigdansande	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	klinga	klinga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

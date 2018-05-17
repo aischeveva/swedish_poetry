@@ -1,0 +1,7 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	luften	luften	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	böljar	böljar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	dina	dina	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+6	steg	steg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+

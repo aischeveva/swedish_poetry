@@ -1,0 +1,13 @@
+1	Se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:2
+3	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:4
+4	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:11
+6	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:15
+7	skogarnas	skogarnas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:18
+8	djup	djup	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+9	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:33
+10	oskapelig	oskapelig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+11	jätte	jätte	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:51
+

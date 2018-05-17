@@ -1,0 +1,12 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	ville	vilja	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	väckt	väckt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+6	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:23
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:28
+8	formlöshet	formlöshet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:42
+10	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:46
+11	formlös	formlös	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:49
+

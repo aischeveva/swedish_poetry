@@ -1,0 +1,8 @@
+1	vrida	vrida	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	kvidande	kvidande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	hit	hit	AB	AB	_	_	_	_	_	O	_	temp:0:19
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	dit	dit	AB	AB	_	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

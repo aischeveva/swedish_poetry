@@ -1,0 +1,11 @@
+1	lutade	lutade	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:7
+3	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:11
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+5	höll	höll	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+6	rummet	rum	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	sänkt	sänkt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:36
+9	tystnad	tystnad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

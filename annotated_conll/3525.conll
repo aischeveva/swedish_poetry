@@ -1,0 +1,12 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	högt	högt	AB	AB	SUV	_	_	_	_	O	_	temp:0:4
+3	flög	flyga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:19
+7	bara	bara	AB	AB	_	_	_	_	_	O	_	temp:0:23
+8	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:28
+9	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:32
+10	flykt	flykt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

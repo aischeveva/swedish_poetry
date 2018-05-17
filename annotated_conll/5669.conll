@@ -1,0 +1,9 @@
+1	skepna	skepna	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:6
+3	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:7
+4	lik	lik	UO	UO	_	_	_	_	_	O	_	temp:0:9
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:13
+6	hvita	hvita	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+7	björn	björn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

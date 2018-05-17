@@ -1,0 +1,12 @@
+1	Kung	kung	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Bele	Bele	PM	PM	NOM	_	_	_	_	B	place	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	stödd	stödd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	svärdet	svärdet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:29
+9	kungssal	kungssal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+10	stod	stå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:40
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

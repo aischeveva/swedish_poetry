@@ -1,0 +1,10 @@
+1	O	o	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:1
+3	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:3
+4	förtärda	förtärda	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:18
+7	förblödda	förblödda	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

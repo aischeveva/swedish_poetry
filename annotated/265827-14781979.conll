@@ -1,0 +1,26 @@
+1	Plockade	plocka	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14781979:0:1
+2	upp	upp	PL	PL	_	_	_	_	_	O	_	265827-14781979:0:10
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	265827-14781979:0:14
+4	där	där	AB	AB	_	_	_	_	_	O	_	265827-14781979:0:18
+5	kjolen	kjol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-14781979:0:22
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	265827-14781979:0:29
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14781979:0:33
+8	visade	visa	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14781979:0:37
+9	igår	igår	AB	AB	_	_	_	_	_	O	_	265827-14781979:0:44
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14781979:0:48
+
+1	And	And	UO	UO	_	_	_	_	_	O	_	265827-14781979:1:50
+2	...	...	MAD	MAD	_	_	_	_	_	O	_	265827-14781979:1:53
+
+1	I	i	UO	UO	_	_	_	_	_	O	_	265827-14781979:2:57
+2	LOVE	love	UO	UO	_	_	_	_	_	O	_	265827-14781979:2:59
+3	IT	it	UO	UO	_	_	_	_	_	O	_	265827-14781979:2:64
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14781979:2:66
+
+1	Vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14781979:3:68
+2	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14781979:3:73
+3	ännu	ännu	AB	AB	_	_	_	_	_	O	_	265827-14781979:3:76
+4	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	265827-14781979:3:81
+5	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	265827-14781979:3:85
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14781979:3:88
+

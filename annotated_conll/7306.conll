@@ -1,0 +1,11 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	sägs	sägs	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+7	mildaste	mildaste	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+8	af	af	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+9	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:32
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

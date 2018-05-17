@@ -1,0 +1,10 @@
+1	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	skrämsel	skrämsel	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	löser	löser	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	tvång	tvång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:33
+8	kramp	kramp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

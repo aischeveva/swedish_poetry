@@ -1,0 +1,10 @@
+1	Väl	väl	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	formar	formar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:11
+4	starke	starke	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	svärdet	svärdet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:34
+8	värld	värld	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

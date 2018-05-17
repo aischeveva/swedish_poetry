@@ -1,0 +1,13 @@
+1	Sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	enfald	enfald	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:11
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	plog	plog	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+8	frihet	frihet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:36
+10	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:40
+11	gruva	gruva	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+12	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

@@ -1,0 +1,9 @@
+1	höll	höll	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	blicken	blicken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	fäst	fäst	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	marken	marken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	framför	framför	PP	PP	_	_	_	_	_	O	_	temp:0:28
+7	fötterna	fötterna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:36
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

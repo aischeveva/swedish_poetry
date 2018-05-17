@@ -1,0 +1,13 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	jord	jord	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	haf	haf	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	himmel	himmel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	greto	greto	RG	RG	NOM	_	_	_	_	O	_	temp:0:28
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+
+1	Sången	sången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:35
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:42
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:45
+

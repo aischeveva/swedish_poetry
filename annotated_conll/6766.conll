@@ -1,0 +1,13 @@
+1	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	glömma	glömma	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:7
+4	Balders	balders	UO	UO	_	_	_	_	_	O	_	temp:0:14
+5	hage	hage	UO	UO	_	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+8	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:32
+9	glömma	glömma	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:35
+10	eden	eden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:42
+11	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:47
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

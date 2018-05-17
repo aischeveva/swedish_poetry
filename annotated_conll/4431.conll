@@ -1,0 +1,8 @@
+1	Hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:12
+5	Benvenuto	benvenuto	UO	UO	_	_	_	_	_	O	_	temp:0:16
+6	Cellini	cellini	UO	UO	_	_	_	_	_	O	_	temp:0:26
+7	log	log	UO	UO	_	_	_	_	_	O	_	temp:0:34
+

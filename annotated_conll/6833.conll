@@ -1,0 +1,14 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	nämnes	nämnes	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	skrika	skrika	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+6	barnen	barn	NN	NN	NEU|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+8	glädjen	glädjen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+9	flyr	flyr	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:39
+10	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:44
+11	gästfritt	gästfritt	AB	AB	POS	_	_	_	_	O	_	temp:0:47
+12	lag	lag	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:57
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:60
+

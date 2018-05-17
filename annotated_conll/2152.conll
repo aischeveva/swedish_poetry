@@ -1,0 +1,7 @@
+1	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	sorl	sorl	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

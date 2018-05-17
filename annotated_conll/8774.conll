@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	säkert	säkert	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	följer	följer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+5	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	Ingborgs	ingborgs	UO	UO	_	_	_	_	_	O	_	temp:0:26
+7	minne	minne	UO	UO	_	_	_	_	_	O	_	temp:0:35
+

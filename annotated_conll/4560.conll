@@ -1,0 +1,7 @@
+1	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	mötte	möta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	just	just	AB	AB	_	_	_	_	_	O	_	temp:0:10
+4	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:15
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

@@ -1,0 +1,11 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	smycke	smycke	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	sköna	sköna	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	tärna	tärna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:31
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:33
+

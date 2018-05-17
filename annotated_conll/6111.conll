@@ -1,0 +1,9 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	hölls	hölls	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+6	leken	leken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

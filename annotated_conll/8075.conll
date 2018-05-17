@@ -1,0 +1,14 @@
+1	Ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:2
+3	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:3
+4	guld	guld	UO	UO	_	_	_	_	_	O	_	temp:0:5
+5	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:10
+6	hvalfven	hvalfven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+8	ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+9	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:25
+10	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:26
+11	smycken	smycken	UO	UO	_	_	_	_	_	O	_	temp:0:28
+12	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:36
+13	brud	brud	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+

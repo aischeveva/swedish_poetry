@@ -1,0 +1,6 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:7
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:11
+5	inneboende	inneboende	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:14
+

@@ -1,0 +1,9 @@
+1	skälvande	skälvande	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+3	skälvande	skälvande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	lyss	lyss	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:26
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+7	tiger	tiger	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

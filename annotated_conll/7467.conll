@@ -1,0 +1,13 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	onda	onda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	viker	vika	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	icke	icke	AB	AB	_	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+6	sjelf	sjelf	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:27
+8	kraft	kraft	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+10	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:37
+11	kraft	kraft	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

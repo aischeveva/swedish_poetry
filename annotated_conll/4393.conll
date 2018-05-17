@@ -1,0 +1,5 @@
+1	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	gråa	gråa	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	gammelvals	gammelvals	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+

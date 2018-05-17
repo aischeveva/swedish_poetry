@@ -1,0 +1,7 @@
+1	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	fällt	fällt	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	korta	korta	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	vandring	vandring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+

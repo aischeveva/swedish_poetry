@@ -1,0 +1,9 @@
+1	Åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	människan	människan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	ensam	ensam	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	högst	högst	AB	AB	SUV	_	_	_	_	O	_	temp:0:20
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+7	lägst	lägst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

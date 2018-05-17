@@ -1,0 +1,7 @@
+1	På	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dina	dina	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	trappor	trappor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	undan	undan	PL	PL	_	_	_	_	_	O	_	temp:0:16
+5	mörkret	mörker	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	räddad	räddad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+

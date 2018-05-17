@@ -1,0 +1,8 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	ropar	ropa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:8
+
+1	Inom	inom	PP	PP	_	_	_	_	_	O	_	temp:1:11
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:1:16
+3	ekar	ekar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:20
+

@@ -1,0 +1,8 @@
+1	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	unga	unga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	dagars	dagars	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:8
+4	lätta	lätta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+5	ljusa	ljusa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+6	fruktblom	fruktblom	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

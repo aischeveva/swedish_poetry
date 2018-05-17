@@ -1,0 +1,5 @@
+1	hyste	hyste	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:6
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:13
+4	längtan	längtan	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+

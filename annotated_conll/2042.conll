@@ -1,0 +1,12 @@
+1	Hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	spegeln	spegeln	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	där	där	HA	HA	_	_	_	_	_	O	_	temp:0:19
+7	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:23
+8	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:31
+10	vankar	vankar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

@@ -1,0 +1,8 @@
+1	Genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	mörkret	mörker	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	lyser	lyse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	lågors	lågors	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:24
+6	prakt	prakt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

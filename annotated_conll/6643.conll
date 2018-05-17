@@ -1,0 +1,15 @@
+1	förklädd	förklädd	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	trifs	trifs	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+3	glädjen	glädjen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+4	icke	icke	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:23
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:29
+7	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+8	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:38
+9	glädje	glädje	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:41
+10	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:48
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:52
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:54
+

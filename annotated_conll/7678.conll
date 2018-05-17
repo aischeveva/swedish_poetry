@@ -1,0 +1,10 @@
+1	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	kraftigt	kraftigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	handslag	handslag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+5	trofast	trofast	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	såsom	såsom	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+7	fjällens	fjällens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:37
+8	grund	grund	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+

@@ -1,0 +1,11 @@
+1	Står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	gyllne	gyllne	UO	UO	_	_	_	_	_	O	_	temp:0:11
+4	moln	moln	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:23
+6	stad	stad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:1:32
+2	fester	fester	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:36
+

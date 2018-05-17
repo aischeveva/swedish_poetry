@@ -1,0 +1,13 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	sista	sist	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+5	bjuds	bjuds	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+6	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:25
+7	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:29
+8	försoning	försoning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:44
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:46
+

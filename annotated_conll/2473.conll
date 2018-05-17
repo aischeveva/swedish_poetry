@@ -1,0 +1,6 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	frihet	frihet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	val	val	RG	RG	NOM	_	_	_	_	O	_	temp:0:14
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+

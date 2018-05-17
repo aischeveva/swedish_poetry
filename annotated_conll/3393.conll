@@ -1,0 +1,7 @@
+1	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	lysande	lysande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	kallt	kall	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	guld	guld	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

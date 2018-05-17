@@ -1,0 +1,15 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14955364:0:1
+2	här	här	AB	AB	_	_	_	_	_	O	_	265827-14955364:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14955364:0:9
+4	fan	fan	IN	IN	_	_	_	_	_	O	_	265827-14955364:0:12
+5	det	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	265827-14955364:0:16
+6	bästa	god	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	265827-14955364:0:20
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	265827-14955364:0:26
+8	någonsin	någonsin	AB	AB	_	_	_	_	_	O	_	265827-14955364:0:30
+9	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14955364:0:39
+10	skrivits	skriva	VB	VB	SUP|SFO	_	_	_	_	O	_	265827-14955364:0:43
+11	på	på	PP	PP	_	_	_	_	_	O	_	265827-14955364:0:52
+12	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	265827-14955364:0:55
+13	blogg	blogg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14955364:0:59
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14955364:0:64
+

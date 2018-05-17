@@ -1,0 +1,11 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+5	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:11
+6	lågorna	lågorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:15
+7	sjunger	sjunga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+8	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:31
+9	bön	bön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

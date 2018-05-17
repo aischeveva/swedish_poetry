@@ -1,0 +1,9 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	arme	arme	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	Frithiof	frithiof	UO	UO	_	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	nornan	nornan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	viker	vika	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+7	ej	ej	AB	AB	AN	_	_	_	_	O	_	temp:0:31
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,14 @@
+1	andra	andra	PN	PN	UTR/NEU|PLU|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	hålla	hålla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:16
+5	framme	framme	AB	AB	_	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	fast	fast	SN	SN	_	_	_	_	_	O	_	temp:0:28
+8	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:33
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+
+1	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:1:36
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:41
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:44
+

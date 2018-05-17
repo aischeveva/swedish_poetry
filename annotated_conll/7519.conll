@@ -1,0 +1,12 @@
+1	igen	igen	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:5
+3	rof	rof	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:15
+6	ofta	ofta	AB	AB	POS	_	_	_	_	O	_	temp:0:18
+7	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:23
+8	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:27
+9	menska	menska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+10	föds	föds	AB	AB	_	_	_	_	_	O	_	temp:0:37
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

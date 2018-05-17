@@ -1,0 +1,7 @@
+1	verldsmodern	verldsmodern	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:13
+3	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:17
+4	mörka	mörka	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:20
+5	hår	hår	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:26
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

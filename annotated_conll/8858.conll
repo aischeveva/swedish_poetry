@@ -1,0 +1,6 @@
+1	Ditt	ditt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	öppna	öppen	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	hjeltesinne	hjeltesinne	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	fattar	fatta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+5	ej	ej	AB	AB	AN	_	_	_	_	O	_	temp:0:30
+

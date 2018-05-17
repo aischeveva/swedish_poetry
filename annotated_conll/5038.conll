@@ -1,0 +1,12 @@
+1	Skin	skin	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	glatt	glatt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:5
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	stadens	stadens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:14
+5	torn	torn	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:28
+8	sjö	sjö	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:35
+10	lunder	lunder	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

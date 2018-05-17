@@ -1,0 +1,9 @@
+1	Leende	leende	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	trotsig	trotsig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+4	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:19
+5	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	rymderna	rymderna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:30
+7	bryter	bryter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:39
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

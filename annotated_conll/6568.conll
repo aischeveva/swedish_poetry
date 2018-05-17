@@ -1,0 +1,10 @@
+1	Nämn	nämn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	ej	ej	AB	AB	SUV	_	_	_	_	O	_	temp:0:9
+4	mordbrand	mordbrand	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	tänk	tänka	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:26
+7	ej	ej	AB	AB	SUV	_	_	_	_	O	_	temp:0:31
+8	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:34
+9	krig	krig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+

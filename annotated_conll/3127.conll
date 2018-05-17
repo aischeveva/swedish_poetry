@@ -1,0 +1,10 @@
+1	dröm	drömma	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	dåd	dåd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+6	knappast	knappast	AB	AB	SUV	_	_	_	_	O	_	temp:0:18
+7	vingen	vingen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	prövat	prövat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

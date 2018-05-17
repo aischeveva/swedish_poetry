@@ -1,0 +1,13 @@
+1	Väl	väl	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	eder	eder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:10
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+6	jagar	jagar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+7	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:23
+8	hvar	hvar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+9	sky	sky	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+11	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:38
+12	hängt	hängt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+

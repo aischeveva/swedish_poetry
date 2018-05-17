@@ -1,0 +1,9 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	vände	vända	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	åter	åter	AB	AB	_	_	_	_	_	O	_	temp:0:12
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	kungsgård	kungsgård	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:32
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,10 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:3
+3	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	minnen	minne	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:21
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:24
+7	lätta	lätta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+8	fingeravtryck	fingeravtryck	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

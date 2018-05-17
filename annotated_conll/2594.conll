@@ -1,0 +1,10 @@
+1	resa	resa	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:5
+3	rös	rös	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+6	gärdar	gärdar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+7	ägornas	ägornas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:25
+8	gräns	gräns	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:33
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

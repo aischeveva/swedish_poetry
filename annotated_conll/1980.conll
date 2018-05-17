@@ -1,0 +1,7 @@
+1	medan	medan	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	fiskade	fiskade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	kanalens	kanalens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:20
+6	grums	grums	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

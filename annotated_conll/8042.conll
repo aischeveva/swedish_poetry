@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	gått	gå	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:10
+4	missnöjd	missnöjd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	hem	hem	PL	PL	_	_	_	_	_	O	_	temp:0:24
+6	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:28
+7	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:33
+8	tjäll	tjäll	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

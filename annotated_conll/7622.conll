@@ -1,0 +1,12 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	Allfader	Allfader	PM	PM	NOM	_	_	_	_	B	person	temp:0:6
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	fastän	fastän	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	fler	fler	JJ	JJ	POS|UTR/NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:28
+8	sändebud	sändebud	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:43
+

@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:15
+5	klockspelet	klockspelet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	klingat	klingat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:31
+7	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:39
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

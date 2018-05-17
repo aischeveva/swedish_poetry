@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	betyder	betyder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	döden	döden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	säger	säga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+7	sagan	sagan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

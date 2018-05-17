@@ -1,0 +1,7 @@
+1	Solo	solo	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	(	(	PAD	PAD	_	_	_	_	_	O	_	temp:0:5
+3	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:6
+4	Kör	köra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+5	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+6	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:0:14
+

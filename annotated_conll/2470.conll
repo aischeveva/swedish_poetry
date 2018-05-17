@@ -1,0 +1,7 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	vårtid	vårtid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+5	groddtid	groddtid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

@@ -1,0 +1,9 @@
+1	Kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	sopa	sopa	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	smedja	smedja	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:14
+6	tom	tom	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+8	ren	ren	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

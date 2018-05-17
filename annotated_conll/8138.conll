@@ -1,0 +1,11 @@
+1	Björn	björn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:5
+
+1	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:7
+2	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:1:10
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:13
+4	kung	kung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:16
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:1:21
+6	fara	fara	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:23
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:27
+

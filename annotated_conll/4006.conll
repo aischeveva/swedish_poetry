@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sågo	sågo	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	slutna	slutna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+7	Endes	endes	UO	UO	_	_	_	_	_	O	_	temp:0:29
+8	glans	glans	UO	UO	_	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

@@ -1,0 +1,7 @@
+1	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	världen	värld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

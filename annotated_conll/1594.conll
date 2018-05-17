@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	innerligt	innerligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	ljus	ljus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:20
+6	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:24
+7	tar	ta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+8	emot	emot	AB	AB	_	_	_	_	_	O	_	temp:0:32
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

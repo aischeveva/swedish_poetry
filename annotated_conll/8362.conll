@@ -1,0 +1,8 @@
+1	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	middag	middag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:12
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	trogen	trogen	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	själ	själ	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+

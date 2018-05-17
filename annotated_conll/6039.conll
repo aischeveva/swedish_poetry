@@ -1,0 +1,9 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	forsar	forsar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	skummigt	skummigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	larm	larm	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

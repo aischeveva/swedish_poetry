@@ -1,0 +1,9 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	hemskt	hemsk	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	talte	talte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+5	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:20
+6	Landsflykt	landsflykt	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:32
+8	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+

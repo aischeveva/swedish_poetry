@@ -1,0 +1,15 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	hvem	hvem	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	vårdar	vårdar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	späda	späda	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:27
+2	jord	jord	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:30
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:34
+4	gif	gif	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:36
+5	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:40
+6	must	must	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:44
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:48
+

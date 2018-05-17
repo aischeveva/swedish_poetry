@@ -1,0 +1,6 @@
+1	skockades	skockades	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+3	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:18
+4	Himavant	himavant	RG	RG	NOM	_	_	_	_	O	_	temp:0:23
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

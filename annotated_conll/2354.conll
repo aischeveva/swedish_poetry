@@ -1,0 +1,15 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	vunnit	vunnit	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:12
+
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:15
+2	vila	vila	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:18
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:22
+
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:2:25
+2	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:2:29
+3	kronor	krona	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:2:35
+4	lysa	lysa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:2:42
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:2:46
+

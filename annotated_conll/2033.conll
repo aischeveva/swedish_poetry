@@ -1,0 +1,7 @@
+1	trevande	trevande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+3	möter	möter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+4	inget	inget	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:22
+5	motstånd	motstånd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

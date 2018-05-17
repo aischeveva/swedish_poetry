@@ -1,0 +1,10 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	gav	ge	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:11
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+6	dröm	drömma	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:18
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+8	strid	strid	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

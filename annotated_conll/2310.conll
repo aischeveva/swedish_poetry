@@ -1,0 +1,7 @@
+1	Blod	blod	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	ge	ge	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:6
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+5	saft	saft	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+

@@ -1,0 +1,12 @@
+1	Hvad	hvad	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+6	värde	värde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:28
+9	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+10	begrafvet	begrafvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+11	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

@@ -1,0 +1,13 @@
+1	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	fyra	fyra	RG	RG	NOM	_	_	_	_	O	_	temp:0:5
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+5	sex	sex	RG	RG	NOM	_	_	_	_	O	_	temp:0:11
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:15
+7	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:17
+8	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+9	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:24
+10	vara	vara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+11	åter	åter	AB	AB	_	_	_	_	_	O	_	temp:0:32
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

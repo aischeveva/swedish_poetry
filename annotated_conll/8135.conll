@@ -1,0 +1,5 @@
+1	Tidningarna	tidningarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	äro	äro	UO	UO	_	_	_	_	_	O	_	temp:0:12
+3	onde	onde	UO	UO	_	_	_	_	_	O	_	temp:0:16
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

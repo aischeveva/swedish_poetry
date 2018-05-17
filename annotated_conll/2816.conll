@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	synliga	synliga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	tecken	tecken	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+5	ting	ting	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:23
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

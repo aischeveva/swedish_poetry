@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+5	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+7	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:24
+8	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:29
+9	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:33
+10	ger	ge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:36
+

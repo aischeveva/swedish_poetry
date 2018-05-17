@@ -1,0 +1,15 @@
+1	seglade	seglade	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	längs	längs	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:18
+5	strand	strand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:28
+7	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:30
+8	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:33
+9	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:37
+10	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:41
+11	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:44
+12	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:48
+13	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:51
+14	skeppsvrak	skeppsvrak	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:55
+

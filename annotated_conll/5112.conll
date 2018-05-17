@@ -1,0 +1,10 @@
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	tiden	tid	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:10
+4	gav	ge	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+5	må	må	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+6	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:21
+7	ge	ge	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+8	igen	igen	AB	AB	_	_	_	_	_	O	_	temp:0:27
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

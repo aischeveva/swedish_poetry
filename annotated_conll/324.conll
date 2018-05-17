@@ -1,0 +1,11 @@
+1	Djupt	djupt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	måste	måste	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	själen	själen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	böjas	böjas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:19
+5	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:25
+6	stiga	stiga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:29
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:35
+8	riket	riket	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+9	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:43
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

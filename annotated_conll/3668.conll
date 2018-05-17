@@ -1,0 +1,7 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dåd	dåd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	tanke	tanke	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	fri	fri	NN	NN	AN	_	_	_	_	O	_	temp:0:19
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

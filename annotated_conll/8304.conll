@@ -1,0 +1,8 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	lyser	lyse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ur	ur	PL	PL	_	_	_	_	_	O	_	temp:0:10
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+5	dödas	dödas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:16
+6	land	land	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

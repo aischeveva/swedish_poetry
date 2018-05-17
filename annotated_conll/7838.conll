@@ -1,0 +1,17 @@
+1	Dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:6
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+5	bjöds	bjöds	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+6	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	värden	värden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:30
+9	sängs	sängs	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+11	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:42
+12	log	log	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:45
+13	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:49
+14	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:53
+15	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:57
+16	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:61
+

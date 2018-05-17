@@ -1,0 +1,14 @@
+1	pröfva	pröfva	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+3	vådliga	vådliga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	färd	färd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:25
+7	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:29
+8	slut	slut	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:39
+10	Bele	Bele	PM	PM	NOM	_	_	_	_	B	person	temp:0:43
+11	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:48
+12	stålhjelm	stålhjelm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:52
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:61
+

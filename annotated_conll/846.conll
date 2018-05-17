@@ -1,0 +1,8 @@
+1	Ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	rikedomar	rikedomar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	gräns	gräns	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+6	botten	botten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

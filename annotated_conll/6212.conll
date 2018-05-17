@@ -1,0 +1,9 @@
+1	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	Lofn	Lofn	PM	PM	NOM	_	_	_	_	B	place	temp:0:3
+3	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	löfte	löfte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	säker	säker	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	ton	ton	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

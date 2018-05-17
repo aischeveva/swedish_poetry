@@ -1,0 +1,9 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	vilken	vilken	HP	HP	UTR|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	naturen	naturen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	icke	icke	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+5	skapade	skapade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+6	någon	någon	PN	PN	UTR|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:33
+7	dryck	dryck	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

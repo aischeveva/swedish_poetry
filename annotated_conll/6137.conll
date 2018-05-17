@@ -1,0 +1,9 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	stammar	stammar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	vuxna	vuxna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	rot	rot	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	tillsamman	tillsamman	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

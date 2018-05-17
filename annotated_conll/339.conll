@@ -1,0 +1,8 @@
+1	törstande	törstande	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+3	dvala	dvala	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	källornas	källornas	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

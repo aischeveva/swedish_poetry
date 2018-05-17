@@ -1,0 +1,6 @@
+1	vågorna	vågorna	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	äntring	äntring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

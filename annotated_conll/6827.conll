@@ -1,0 +1,14 @@
+1	O	o	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:2
+3	dåre	dåre	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:10
+
+1	halfsläckt	halfsläckt	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:1:12
+2	låga	låga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:1:23
+3	tände	tände	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:28
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:34
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:1:38
+6	nytt	ny	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:41
+7	igen	igen	AB	AB	_	_	_	_	_	O	_	temp:1:46
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:50
+

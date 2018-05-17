@@ -1,0 +1,6 @@
+1	Der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	växte	växte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	Hildings	Hildings	PM	PM	NOM	_	_	_	_	B	inst	temp:0:14
+5	gård	gård	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+

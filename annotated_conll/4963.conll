@@ -1,0 +1,9 @@
+1	Varför	varför	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	icke	icke	UO	UO	_	_	_	_	_	O	_	temp:0:7
+3	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:11
+
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:1:13
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:17
+3	verkligheten	verklighet	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:20
+4	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:1:32
+

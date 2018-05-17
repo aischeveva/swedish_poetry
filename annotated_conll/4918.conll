@@ -1,0 +1,8 @@
+1	Utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	regel	regel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	konst	konst	NN	NN	UTR|SIN|IND|GEN	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+6	smak	smak	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

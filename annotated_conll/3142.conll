@@ -1,0 +1,6 @@
+1	Låg	ligga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	vaken	vaken	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	natten	natt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+

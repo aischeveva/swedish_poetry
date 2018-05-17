@@ -1,0 +1,10 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	dömd	dömd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+5	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:13
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:17
+7	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+8	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:25
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

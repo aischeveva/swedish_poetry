@@ -1,0 +1,9 @@
+1	Drag	drag	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	öfver	öfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	böljan	böljan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	hän	hän	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	indrif	indrif	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	skatten	skatt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

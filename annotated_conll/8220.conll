@@ -1,0 +1,7 @@
+1	lik	lik	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Saga	Saga	PM	PM	NOM	_	_	_	_	B	place	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:11
+5	bröllopsgård	bröllopsgård	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

@@ -1,0 +1,10 @@
+1	Närmare	nära	AB	AB	KOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+3	starkare	stark	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+
+1	Starkare	stark	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:1:19
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:27
+3	klarare	klarare	AB	AB	KOM	_	_	_	_	O	_	temp:1:29
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:36
+

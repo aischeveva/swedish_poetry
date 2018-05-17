@@ -1,0 +1,9 @@
+1	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:0
+2	längtar	längta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:12
+4	bära	bära	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+5	tårar	tårar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:27
+

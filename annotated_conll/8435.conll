@@ -1,0 +1,8 @@
+1	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	mantel	mantel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:16
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+7	likafullt	likafullt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+

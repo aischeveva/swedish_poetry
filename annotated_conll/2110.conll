@@ -1,0 +1,13 @@
+1	sög	sög	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	viskande	viskande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	köttet	köttet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:23
+6	ben	ben	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:1:33
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:37
+3	steg	steg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:41
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:1:46
+

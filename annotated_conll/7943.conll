@@ -1,0 +1,10 @@
+1	Sant	sant	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	nog	nog	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:10
+5	gångaren	gångaren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+6	stampar	stampar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:31
+8	spilt	spilt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

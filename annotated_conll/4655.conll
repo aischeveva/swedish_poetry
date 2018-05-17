@@ -1,0 +1,7 @@
+1	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	vattnet	vatten	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	Vinga	Vinga	PM	PM	NOM	_	_	_	_	B	person	temp:0:16
+5	fyr	Fyr	PM	PM	NOM	_	_	_	_	I	person	temp:0:22
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

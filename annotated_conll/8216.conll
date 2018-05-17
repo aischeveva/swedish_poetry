@@ -1,0 +1,9 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	hvitt	hvitt	NN	NN	UTR|SIN|IND|GEN	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:10
+4	rödt	rödt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:14
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+6	krökta	krökta	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	stig	stig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

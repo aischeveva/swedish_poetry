@@ -1,0 +1,9 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	söker	söker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	tanke	tanke	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	förgäves	förgäves	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:28
+7	brunn	brunn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

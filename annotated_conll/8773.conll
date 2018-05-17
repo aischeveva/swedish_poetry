@@ -1,0 +1,11 @@
+1	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:5
+3	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:7
+4	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:8
+5	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:10
+6	väsen	väsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+7	började	börja	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+8	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:29
+9	dagas	dagas	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:33
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

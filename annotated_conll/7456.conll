@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ned	ned	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	bältestaden	bältestad	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	flöt	flyta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+6	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:30
+7	silfverskägg	silfverskägg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

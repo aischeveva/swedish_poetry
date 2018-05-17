@@ -1,0 +1,9 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	stiger	stige	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	blomsterkrönt	blomsterkrönt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:11
+4	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:25
+5	isars	isars	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:28
+6	vagga	vagga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:34
+7	opp	opp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

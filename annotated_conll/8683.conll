@@ -1,0 +1,14 @@
+1	Hvem	hvem	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:10
+5	svag	svag	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:19
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+8	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+
+1	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:1:27
+2	barndoms	barndoms	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:31
+3	drömmar	drömmar	NN	NN	AN	_	_	_	_	O	_	temp:1:40
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:47
+

@@ -1,0 +1,10 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:7
+4	snäckan	snäckan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	dväljes	dväljes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:19
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	slutet	slutet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	skal	skal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

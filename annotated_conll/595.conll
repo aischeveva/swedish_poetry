@@ -1,0 +1,6 @@
+1	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	världen	värld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:11
+4	förödes	förödes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+

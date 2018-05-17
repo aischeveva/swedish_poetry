@@ -1,0 +1,10 @@
+1	Världen	värld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	strömmar	strömmar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:17
+4	smuts	smuts	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+6	tomhet	tomhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	fyller	fyller	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+8	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:41
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

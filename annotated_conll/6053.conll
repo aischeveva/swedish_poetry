@@ -1,0 +1,8 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	flaxar	flaxar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ständigt	ständigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	hvita	hvita	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+6	vingen	vingen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

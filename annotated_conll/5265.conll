@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	själva	själv	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	dikten	dikten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+
+1	Dess	dess	AB	AB	_	_	_	_	_	O	_	temp:1:19
+2	lindansarmöda	lindansarmöda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:1:24
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:37
+

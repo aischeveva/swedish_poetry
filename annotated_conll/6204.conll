@@ -1,0 +1,8 @@
+1	hvitklädda	hvitklädda	JJ	JJ	POS|UTR/NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	jungfrur	jungfrur	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+4	män	män	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:28
+6	svärd	svärd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

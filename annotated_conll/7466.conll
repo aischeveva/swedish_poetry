@@ -1,0 +1,8 @@
+1	Utgårda-Loke	utgårda-loke	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sitter	sitta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:20
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:23
+5	tron	tron	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+6	ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:32
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

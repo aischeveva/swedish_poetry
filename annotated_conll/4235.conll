@@ -1,0 +1,4 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	rodnad	rodnad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	svävar	svävar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+

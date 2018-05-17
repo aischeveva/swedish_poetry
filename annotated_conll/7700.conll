@@ -1,0 +1,11 @@
+1	höllo	höllo	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	skogarna	skogarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	opp	opp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	hvars	hvars	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	djup	djup	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:32
+9	höghornade	höghornade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:37
+10	elgar	elgar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:48
+

@@ -1,0 +1,9 @@
+1	der	der	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	fädernesland	fädernesland	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+6	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:29
+7	graf	graf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

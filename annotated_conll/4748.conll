@@ -1,0 +1,9 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	klättrat	klättrat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:17
+5	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:20
+6	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:26
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:30
+8	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+

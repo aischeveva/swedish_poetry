@@ -1,0 +1,9 @@
+1	Beställsam	beställsam	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	träder	träder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+3	Loke	Loke	PM	PM	NOM	_	_	_	_	B	person	temp:0:18
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+5	frestarn	frestarn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+7	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:34
+8	alltjämt	alltjämt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+

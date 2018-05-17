@@ -1,0 +1,10 @@
+1	hvart	hvart	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	anletsdrag	anletsdrag	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+4	ädelt	ädelt	AB	AB	POS	_	_	_	_	O	_	temp:0:21
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+6	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:28
+7	vekligt	vekligt	AB	AB	POS	_	_	_	_	O	_	temp:0:32
+8	än	än	AB	AB	_	_	_	_	_	O	_	temp:0:40
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

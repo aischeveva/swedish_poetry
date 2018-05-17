@@ -1,0 +1,9 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	nornor	nornor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	låt	låt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:20
+7	rädda	rädda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+8	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:30
+

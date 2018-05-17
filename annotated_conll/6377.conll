@@ -1,0 +1,10 @@
+1	bön	bön	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	Valhallabarn	valhallabarn	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+7	bleknades	bleknades	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:29
+8	röst	röst	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

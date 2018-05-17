@@ -1,0 +1,8 @@
+1	din	din	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	brudsång	brudsång	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	ny	ny	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	hvarje	hvarje	UO	UO	_	_	_	_	_	O	_	temp:0:20
+6	qväll	qväll	UO	UO	_	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

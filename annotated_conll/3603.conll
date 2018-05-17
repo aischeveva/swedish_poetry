@@ -1,0 +1,5 @@
+1	gärningar	gärningar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:10
+3	handen	hand	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

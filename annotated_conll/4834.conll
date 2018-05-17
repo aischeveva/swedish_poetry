@@ -1,0 +1,11 @@
+1	Står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	fast	fast	SN	SN	_	_	_	_	_	O	_	temp:0:5
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:10
+4	klippan	klippan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:23
+7	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:27
+8	skatter	skatter	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	bo	bo	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

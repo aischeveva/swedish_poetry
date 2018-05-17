@@ -1,0 +1,15 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Först	först	AB	AB	_	_	_	_	_	O	_	temp:0:1
+3	kröker	kröker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	ryggen	rygg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:24
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+8	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:29
+9	växer	växer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+10	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:39
+11	bred	bred	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+12	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:47
+13	stor	stor	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:51
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:55
+

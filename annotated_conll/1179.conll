@@ -1,0 +1,8 @@
+1	Blonda	blonda	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:0
+2	morgon	morgon	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	lägg	lägg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	ditt	ditt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:20
+6	lena	lena	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:25
+7	hår	hår	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:30
+

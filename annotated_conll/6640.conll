@@ -1,0 +1,15 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:1
+3	illa	illa	AB	AB	_	_	_	_	_	O	_	temp:0:4
+4	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:8
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+6	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+7	kungen	kungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+9	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:24
+10	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:25
+11	lägger	lägge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+12	dina	dina	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:35
+13	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:40
+14	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

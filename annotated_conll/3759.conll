@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:4
+3	vredgat	vredgat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	omkring	omkring	PL	PL	_	_	_	_	_	O	_	temp:0:16
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:24
+6	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:28
+7	stormarnas	stormarnas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:31
+8	brus	brus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+9	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:47
+

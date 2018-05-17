@@ -1,0 +1,8 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	lycklig	lycklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	Valhall	Valhall	PM	PM	NOM	_	_	_	_	B	place	temp:0:21
+6	ginge	ginge	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	I	place	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,7 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	kungason	kungason	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:14
+5	liten	liten	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:23
+

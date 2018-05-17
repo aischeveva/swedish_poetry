@@ -1,0 +1,10 @@
+1	Ja	ja	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	visst	visst	IN	IN	_	_	_	_	_	O	_	temp:0:3
+3	gör	göra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+5	ont	ont	AB	AB	POS	_	_	_	_	O	_	temp:0:17
+6	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:21
+7	knoppar	knoppar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+8	brister	brister	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

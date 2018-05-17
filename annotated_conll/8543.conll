@@ -1,0 +1,10 @@
+1	Är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:6
+4	ära	ära	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	bunden	bunden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+6	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:21
+7	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:25
+8	fordran	fordran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+9	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

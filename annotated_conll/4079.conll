@@ -1,0 +1,8 @@
+1	Livet	liv	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	annan	annan	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	färgton	färgton	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

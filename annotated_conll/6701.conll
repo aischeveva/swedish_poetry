@@ -1,0 +1,10 @@
+1	hvar	hvar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	enda	enda	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	kämpe	kämpe	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+5	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:20
+6	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:24
+7	årligt	årligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	julerus	julerus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

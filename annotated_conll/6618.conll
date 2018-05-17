@@ -1,0 +1,9 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	hofmän	hofmän	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	logo	logo	UO	UO	_	_	_	_	_	O	_	temp:0:10
+4	smädligt	smädligt	UO	UO	_	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+6	sågo	sågo	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:28
+7	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:33
+8	hvarann	hvarann	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:38
+

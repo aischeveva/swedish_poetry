@@ -1,0 +1,6 @@
+1	Oskadd	oskadd	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	rök	rök	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+5	brand	brand	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+

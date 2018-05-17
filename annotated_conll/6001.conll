@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Hejd	hejd	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	Ham	ham	AB	AB	AN	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+7	rädes	rädes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:22
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

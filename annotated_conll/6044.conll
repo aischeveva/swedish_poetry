@@ -1,0 +1,8 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	glade	glade	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	svärmarn	svärmarn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	Ingborg	Ingborg	PM	PM	NOM	_	_	_	_	B	person	temp:0:23
+6	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:31
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

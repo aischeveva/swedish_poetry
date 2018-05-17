@@ -1,0 +1,10 @@
+1	Blott	blott	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:6
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:17
+7	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:21
+8	nattens	nattens	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+9	frid	frid	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

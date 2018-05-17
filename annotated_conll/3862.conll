@@ -1,0 +1,7 @@
+1	dansande	dansande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	svärd	svärd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	härdat	härdat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:18
+5	stål	stål	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	märk	märk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:10
+5	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:14
+6	handlade	handla	PC	PC	PRF|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+7	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:26
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

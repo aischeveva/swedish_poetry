@@ -1,0 +1,13 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:1
+3	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:4
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:8
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:12
+6	sjelf	sjelf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:23
+9	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:27
+10	fader	fader	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+11	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:37
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

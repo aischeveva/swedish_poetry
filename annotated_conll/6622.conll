@@ -1,0 +1,11 @@
+1	helt	helt	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	varligen	varligen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+4	vände	vända	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:24
+6	hofman	hofman	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+7	upp	upp	PL	PL	_	_	_	_	_	O	_	temp:0:35
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:39
+9	ned	ned	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+10	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

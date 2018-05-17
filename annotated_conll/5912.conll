@@ -1,0 +1,6 @@
+1	bjöd	bjöd	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	handen	hand	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	gäst	gäst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+

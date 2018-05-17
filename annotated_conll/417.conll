@@ -1,0 +1,8 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	mannen	man	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:11
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+6	smala	smala	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	munnen	munnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+

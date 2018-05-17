@@ -1,0 +1,9 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:2
+3	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:4
+4	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+5	rädsla	rädsla	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	längre	längre	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	håller	hålla	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

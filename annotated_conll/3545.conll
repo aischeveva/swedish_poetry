@@ -1,0 +1,6 @@
+1	världens	värld	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:0
+2	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:16
+4	eld	eld	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

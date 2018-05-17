@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mångt	mångt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:10
+4	vandrat	vandrat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:14
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	natten	natt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+

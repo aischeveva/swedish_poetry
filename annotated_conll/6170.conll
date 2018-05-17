@@ -1,0 +1,10 @@
+1	sad	sad	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	gamle	gamle	UO	UO	_	_	_	_	_	O	_	temp:0:5
+4	Hilding	hilding	UO	UO	_	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:20
+7	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:21
+8	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:25
+9	behöfver	behöfver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+

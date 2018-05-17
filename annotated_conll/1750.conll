@@ -1,0 +1,7 @@
+1	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:3
+3	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:7
+4	lågan	lågan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	lyser	lyser	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

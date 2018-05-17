@@ -1,0 +1,9 @@
+1	Med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	skummig	skummig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	bölja	bölja	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	hän	hän	NN	NN	AN	_	_	_	_	O	_	temp:0:18
+5	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	skilda	skilda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	kanter	kanter	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

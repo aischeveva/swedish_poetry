@@ -1,0 +1,11 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	rik	rik	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:11
+5	all	all	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	gammal	gammal	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+7	vånda	vånda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:25
+8	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:31
+9	väckt	väckt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

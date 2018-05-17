@@ -1,0 +1,8 @@
+1	Ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	läsligt	läsligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	märke	märke	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	Guds	Guds	PM	PM	NOM	_	_	_	_	B	inst	temp:0:21
+6	finger	finge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+7	skrivet	skrivet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+

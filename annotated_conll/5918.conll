@@ -1,0 +1,8 @@
+1	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sitte	sitte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:22
+

@@ -1,0 +1,12 @@
+1	Tag	tag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:4
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	börda	börda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:20
+7	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+8	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:28
+9	ej	ej	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+10	bära	bära	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:35
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,10 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	hvar	hvar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	sida	sida	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	fjärden	fjärden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	bölja	bölja	RG	RG	NOM	_	_	_	_	O	_	temp:0:29
+8	blå	blå	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

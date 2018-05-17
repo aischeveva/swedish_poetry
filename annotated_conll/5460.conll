@@ -1,0 +1,9 @@
+1	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	rodnar	rodnar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:15
+6	glädes	glädes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:19
+7	äfven	äfven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

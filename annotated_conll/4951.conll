@@ -1,0 +1,11 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	kraftigt	kraftigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:21
+7	kallt	kall	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:30
+9	Norden	norden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

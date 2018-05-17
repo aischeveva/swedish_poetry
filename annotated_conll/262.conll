@@ -1,0 +1,11 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:4
+3	trappor	trappor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:19
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+7	nötta	nötta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+8	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:32
+9	släktleds	släktleds	RG	RG	NOM	_	_	_	_	O	_	temp:0:35
+10	fötter	fot	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:45
+

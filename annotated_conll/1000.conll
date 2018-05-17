@@ -1,0 +1,8 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	kunde	kunna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	finnas	finnas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:13
+5	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

@@ -1,0 +1,12 @@
+1	Ryktet	ryktet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	talte	talte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+3	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:16
+5	Frithiof	frithiof	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	menniskors	menniskors	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:40
+9	gudars	gudars	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:44
+10	skräck	skräck	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:51
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:57
+

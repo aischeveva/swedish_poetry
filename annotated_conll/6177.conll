@@ -1,0 +1,8 @@
+1	Väl	väl	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	hörde	höra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	ädlas	ädlas	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	klagan	klagan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

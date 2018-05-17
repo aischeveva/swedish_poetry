@@ -1,0 +1,8 @@
+1	vilket	vilket	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:7
+3	skall	skall	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	hittas	hittas	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:27
+6	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:29
+7	dödsruna	dödsruna	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

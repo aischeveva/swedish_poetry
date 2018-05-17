@@ -1,0 +1,6 @@
+1	höll	höll	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	midt	midt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:5
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	hugget	hugget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	inne	inne	AB	AB	_	_	_	_	_	O	_	temp:0:19
+

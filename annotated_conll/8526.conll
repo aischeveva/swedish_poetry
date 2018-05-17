@@ -1,0 +1,13 @@
+1	hvart	hvart	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	år	år	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	skatt	skatt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+7	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:22
+8	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:23
+9	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+10	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:29
+11	uteblifvit	uteblifvit	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

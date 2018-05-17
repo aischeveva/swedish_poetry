@@ -1,0 +1,10 @@
+1	Har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	inget	ingen	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:7
+4	bruk	bruk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+7	fattiga	fattiga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+8	själ	själ	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

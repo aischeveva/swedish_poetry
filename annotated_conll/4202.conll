@@ -1,0 +1,8 @@
+1	Månn	månn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	blygsamheten	blygsamheten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	växer	växer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:24
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:29
+6	åren	år	NN	NN	NEU|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:33
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

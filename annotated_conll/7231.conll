@@ -1,0 +1,6 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	slut	slut	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	lång	lång	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+

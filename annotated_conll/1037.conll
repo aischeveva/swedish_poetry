@@ -1,0 +1,8 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mött	mött	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	andarna	andarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	annat	annat	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+6	slag	slag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

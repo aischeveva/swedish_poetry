@@ -1,0 +1,11 @@
+1	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	blott	blott	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:5
+3	ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	afsked	afsked	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:24
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:28
+8	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+9	kär	kär	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

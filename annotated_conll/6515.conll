@@ -1,0 +1,15 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	tre	tre	RG	RG	NOM	_	_	_	_	O	_	temp:0:4
+3	år	år	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+5	förgått	förgått	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+8	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:25
+9	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:26
+10	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:28
+11	skådat	skådat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:32
+12	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:39
+13	land	land	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+14	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:48
+

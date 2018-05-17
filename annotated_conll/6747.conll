@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	lätta	lätta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	purpurhatten	purpurhatten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	vaja	vaja	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+6	högt	högt	AB	AB	SUV	_	_	_	_	O	_	temp:0:33
+7	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:38
+8	fjädrar	fjädra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:41
+9	blå	blå	NN	NN	UTR|-|-|-	_	_	_	_	O	_	temp:0:49
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:52
+

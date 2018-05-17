@@ -1,0 +1,8 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	klibbiga	klibbiga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	buken	buken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	släpade	släpade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+5	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:27
+6	banken	banken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

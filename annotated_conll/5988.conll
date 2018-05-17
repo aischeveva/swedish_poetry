@@ -1,0 +1,7 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	sjö	sjö	RG	RG	NOM	_	_	_	_	O	_	temp:0:3
+3	af	af	NN	NN	AN	_	_	_	_	O	_	temp:0:7
+4	segel	segel	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+5	full	full	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

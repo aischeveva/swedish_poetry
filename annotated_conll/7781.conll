@@ -1,0 +1,12 @@
+1	skrifven	skrifven	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:9
+3	grönskande	grönskande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	fält	fält	AB	AB	POS	_	_	_	_	O	_	temp:0:23
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:28
+6	blommor	blomma	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:32
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:40
+8	stället	ställe	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:42
+9	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:50
+10	runor	runor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:54
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:59
+

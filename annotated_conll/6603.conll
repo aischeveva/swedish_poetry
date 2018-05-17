@@ -1,0 +1,11 @@
+1	Stupar	stupar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	stridsbror	stridsbror	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:23
+7	hämnar	hämnar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+8	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:34
+9	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:38
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

@@ -1,0 +1,11 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	suckade	suckade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	djupt	djupt	AB	AB	POS	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+7	talte	talte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:33
+9	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:37
+10	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

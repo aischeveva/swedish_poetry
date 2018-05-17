@@ -1,0 +1,12 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	icke	icke	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+
+1	Detta	detta	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:19
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:25
+3	ej	ej	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:1:28
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:31
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:34
+

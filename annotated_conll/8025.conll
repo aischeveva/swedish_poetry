@@ -1,0 +1,11 @@
+1	Rättvisan	rättvisan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+3	ensam	ensam	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+5	båd	båd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:25
+7	sträng	sträng	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:34
+9	huld	huld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

@@ -1,0 +1,22 @@
+1	Läs	läsa	VB	VB	IMP|AKT	_	_	_	_	O	_	13263-604748:0:1
+2	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	13263-604748:0:5
+3	bloggar	blogg	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-604748:0:11
+4	om	om	PP	PP	_	_	_	_	_	O	_	13263-604748:0:19
+5	Black	Black	PM	PM	NOM	_	_	_	_	B	person	13263-604748:0:22
+6	Swan	Swan	PM	PM	NOM	_	_	_	_	I	person	13263-604748:0:28
+7	,	,	MID	MID	_	_	_	_	_	O	_	13263-604748:0:32
+8	Darren	Darren	PM	PM	NOM	_	_	_	_	B	person	13263-604748:0:34
+9	Aronofsky	Aronofsky	PM	PM	NOM	_	_	_	_	I	person	13263-604748:0:41
+10	,	,	MID	MID	_	_	_	_	_	O	_	13263-604748:0:50
+11	Natalie	Natalie	PM	PM	NOM	_	_	_	_	B	person	13263-604748:0:52
+12	Portman	Portman	PM	PM	NOM	_	_	_	_	I	person	13263-604748:0:60
+13	,	,	MID	MID	_	_	_	_	_	O	_	13263-604748:0:67
+14	Vincent	Vincent	PM	PM	NOM	_	_	_	_	B	person	13263-604748:0:69
+15	Cassel	Cassel	PM	PM	NOM	_	_	_	_	I	person	13263-604748:0:77
+16	,	,	MID	MID	_	_	_	_	_	O	_	13263-604748:0:83
+17	Mila	Mila	PM	PM	NOM	_	_	_	_	B	person	13263-604748:0:85
+18	Kunis	Kunis	PM	PM	NOM	_	_	_	_	I	person	13263-604748:0:90
+19	,	,	MID	MID	_	_	_	_	_	O	_	13263-604748:0:95
+20	Winona	Winona	PM	PM	NOM	_	_	_	_	B	person	13263-604748:0:97
+21	Ryder	Ryder	PM	PM	NOM	_	_	_	_	I	person	13263-604748:0:104
+

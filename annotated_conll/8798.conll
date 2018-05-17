@@ -1,0 +1,10 @@
+1	Ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	lunden	lunden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	der	der	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+8	mången	mången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+9	stam	stam	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+

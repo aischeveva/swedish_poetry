@@ -1,0 +1,5 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	andens	andens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:3
+3	asket	asket	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

@@ -1,0 +1,12 @@
+1	brinner	brinner	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:12
+4	nynnande	nynnande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:19
+5	lågor	lågor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:34
+7	djup	djup	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+9	hemlig	hemlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+10	helg	helg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:50
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:54
+

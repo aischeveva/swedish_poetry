@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ingenting	ingenting	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	resans	resans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	mål	mål	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

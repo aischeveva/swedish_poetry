@@ -1,0 +1,10 @@
+1	Der	der	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	Ingeborg	ingeborg	AB	AB	AN	_	_	_	_	O	_	temp:0:5
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+6	bygga	bygga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+7	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:25
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:28
+9	vågen	vågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+

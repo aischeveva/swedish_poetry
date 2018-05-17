@@ -1,0 +1,7 @@
+1	Livet	liv	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	skimrar	skimrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:14
+4	djupt	djupt	AB	AB	POS	_	_	_	_	O	_	temp:0:17
+5	dyrbart	dyrbart	AB	AB	POS	_	_	_	_	O	_	temp:0:23
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

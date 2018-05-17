@@ -1,0 +1,8 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	grymme	grymme	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	Nidhögg	nidhögg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	mörkrets	mörkrets	NN	NN	NEU|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:25
+6	verld	verld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

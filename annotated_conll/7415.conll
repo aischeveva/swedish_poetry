@@ -1,0 +1,11 @@
+1	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	fromhetsgudens	fromhetsgudens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:5
+3	silfverbild	silfverbild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:33
+6	blid	blid	AB	AB	_	_	_	_	_	O	_	temp:0:36
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+8	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:42
+9	mild	mild	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

@@ -1,0 +1,7 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Torkel	torkel	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	grep	grep	UO	UO	_	_	_	_	_	O	_	temp:0:11
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	kniv	kniv	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

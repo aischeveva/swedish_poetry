@@ -1,0 +1,8 @@
+1	Mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	öde	öde	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	hvilar	hvilar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	andras	andras	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:20
+6	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

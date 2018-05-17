@@ -1,0 +1,7 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	kunde	kunna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	ju	ju	AB	AB	_	_	_	_	_	O	_	temp:0:10
+4	vara	vara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:18
+6	brukspatron	brukspatron	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+

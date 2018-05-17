@@ -1,0 +1,9 @@
+1	trygg	trygg	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	somnar	somna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:26
+7	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:30
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

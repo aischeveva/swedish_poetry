@@ -1,0 +1,7 @@
+1	faller	faller	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	havet	havet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:15
+5	upplösas	upplösas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

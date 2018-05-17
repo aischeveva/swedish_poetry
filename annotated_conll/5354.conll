@@ -1,0 +1,6 @@
+1	Historien	historien	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dit	dit	HA	HA	_	_	_	_	_	O	_	temp:0:10
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+4	lär	lära	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

@@ -1,0 +1,74 @@
+1	Ja	ja	IN	IN	_	_	_	_	_	O	_	265827-14454566:0:1
+2	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454566:0:3
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454566:0:5
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454566:0:9
+5	väl	väl	AB	AB	POS	_	_	_	_	O	_	265827-14454566:0:12
+6	medveten	medveten	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454566:0:16
+7	om	om	PP	PP	_	_	_	_	_	O	_	265827-14454566:0:25
+8	att	att	SN	SN	_	_	_	_	_	O	_	265827-14454566:0:28
+9	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454566:0:32
+10	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454566:0:36
+11	ut	ut	PL	PL	_	_	_	_	_	O	_	265827-14454566:0:40
+12	som	som	KN	KN	_	_	_	_	_	O	_	265827-14454566:0:43
+13	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-14454566:0:47
+14	tjock	tjock	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454566:0:50
+15	asiat	asiat	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454566:0:56
+16	på	på	PP	PP	_	_	_	_	_	O	_	265827-14454566:0:62
+17	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	265827-14454566:0:65
+18	nedre	nedre	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14454566:0:69
+19	bilden	bild	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-14454566:0:75
+20	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454566:0:81
+
+1	Dock	dock	AB	AB	_	_	_	_	_	O	_	265827-14454566:1:83
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454566:1:88
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454566:1:92
+4	med	med	PP	PP	_	_	_	_	_	O	_	265827-14454566:1:96
+5	säkerhet	säkerhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454566:1:100
+6	säga	säga	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14454566:1:109
+7	att	att	SN	SN	_	_	_	_	_	O	_	265827-14454566:1:114
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454566:1:118
+9	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-14454566:1:122
+10	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454566:1:127
+11	ut	ut	PL	PL	_	_	_	_	_	O	_	265827-14454566:1:131
+12	så	så	AB	AB	_	_	_	_	_	O	_	265827-14454566:1:134
+13	där	där	AB	AB	_	_	_	_	_	O	_	265827-14454566:1:137
+14	på	på	PP	PP	_	_	_	_	_	O	_	265827-14454566:1:141
+15	riktigt	riktig	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14454566:1:144
+16	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454566:1:151
+
+1	I	i	PP	PP	_	_	_	_	_	O	_	265827-14454566:2:153
+2	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	265827-14454566:2:155
+3	fall	fall	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	265827-14454566:2:160
+4	-	-	MID	MID	_	_	_	_	_	O	_	265827-14454566:2:165
+5	jobbade	jobba	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454566:2:167
+6	16-21	16-21	RG	RG	NOM	_	_	_	_	O	_	265827-14454566:2:175
+7	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454566:2:181
+8	sen	sen	AB	AB	_	_	_	_	_	O	_	265827-14454566:2:185
+9	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454566:2:189
+10	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454566:2:193
+11	suttit	sitta	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14454566:2:197
+12	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454566:2:204
+13	pluggat	plugga	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14454566:2:208
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454566:2:215
+
+1	Fun	fun	UO	UO	_	_	_	_	_	O	_	265827-14454566:3:217
+2	_		MID	MID	_	_	_	_	_	O	_	265827-14454566:3:220
+3	life	life	UO	UO	_	_	_	_	_	O	_	265827-14454566:3:221
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454566:3:225
+
+1	Helg	helg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454566:4:229
+2	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454566:4:233
+3	var	var	HA	HA	_	_	_	_	_	O	_	265827-14454566:4:235
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454566:4:239
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454566:4:242
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	265827-14454566:4:244
+
+1	Kanske	kanske	AB	AB	_	_	_	_	_	O	_	265827-14454566:5:251
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454566:5:258
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-14454566:5:261
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454566:5:266
+5	så	så	AB	AB	_	_	_	_	_	O	_	265827-14454566:5:269
+6	stor	stor	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454566:5:272
+7	skillnad	skillnad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454566:5:277
+8	..?	..?	MAD	MAD	_	_	_	_	_	O	_	265827-14454566:5:285
+

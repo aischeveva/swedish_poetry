@@ -1,0 +1,8 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:3
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	räknat	räknat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:11
+5	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+6	allen	allen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

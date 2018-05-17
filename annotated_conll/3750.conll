@@ -1,0 +1,12 @@
+1	stolta	stolta	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	skimrande	skimrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	resa	resa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+5	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	vita	vita	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:33
+9	vit	vit	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+10	snö	snö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

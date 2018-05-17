@@ -1,0 +1,9 @@
+1	borta	borta	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:12
+5	lämna	lämna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+7	adress	adress	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

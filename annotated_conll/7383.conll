@@ -1,0 +1,10 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+4	åter	åter	AB	AB	_	_	_	_	_	O	_	temp:0:11
+5	glad	glad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+7	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:24
+8	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

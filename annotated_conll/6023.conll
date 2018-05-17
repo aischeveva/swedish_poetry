@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Ägirs	ägirs	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	döttrar	döttrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	slöjor	slöjor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	blå	blå	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

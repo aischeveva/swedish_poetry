@@ -1,0 +1,11 @@
+1	Våra	vår	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	flytande	flytande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	vikande	vikande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	själar	själar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:30
+7	skygga	skygga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:33
+8	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:40
+9	älska	älska	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:44
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:49
+

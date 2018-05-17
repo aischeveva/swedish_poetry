@@ -1,0 +1,12 @@
+1	frisk	frisk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	frisk	frisk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	växte	växte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:19
+6	lugnt	lugnt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:22
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:28
+8	sol	sol	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:34
+10	regn	regn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+11	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

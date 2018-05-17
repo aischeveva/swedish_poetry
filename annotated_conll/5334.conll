@@ -1,0 +1,8 @@
+1	På	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	graven	graven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:10
+4	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+5	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:18
+6	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:19
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	stå	stå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:7
+4	ensamma	ensamma	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+5	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	spillror	spillror	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

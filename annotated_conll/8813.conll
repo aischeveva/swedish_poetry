@@ -1,0 +1,10 @@
+1	tills	tills	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:6
+3	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	våren	våren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	väft	väft	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:20
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+7	duk	duk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:33
+9	sömmar	sömmar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:37
+

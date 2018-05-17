@@ -1,0 +1,12 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:4
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+5	små	liten	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+7	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:23
+8	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:27
+9	besök	besök	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+10	hos	hos	PP	PP	_	_	_	_	_	O	_	temp:0:36
+11	ärkehertigen	ärkehertigen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:40
+

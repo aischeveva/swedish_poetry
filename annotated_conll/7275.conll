@@ -1,0 +1,9 @@
+1	o	o	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:1
+3	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:7
+5	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:11
+6	gungat	gungat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:18
+7	deruppå	deruppå	AB	AB	_	_	_	_	_	O	_	temp:0:25
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

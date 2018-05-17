@@ -1,0 +1,15 @@
+1	sist	sist	AB	AB	SUV	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	gräseligt	gräseligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	skri	skri	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:25
+7	blef	blef	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:28
+8	tyst	tyst	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+
+1	Ut	ut	AB	AB	_	_	_	_	_	O	_	temp:1:39
+2	störtade	störtade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:42
+3	Thorsten	Thorsten	PM	PM	NOM	_	_	_	_	B	person	temp:1:51
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:59
+

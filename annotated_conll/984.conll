@@ -1,0 +1,6 @@
+1	något	något	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:6
+3	renar	renar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	klart	klar	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

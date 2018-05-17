@@ -1,0 +1,9 @@
+1	Lägg	lägg	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dit	dit	AB	AB	_	_	_	_	_	O	_	temp:0:5
+3	vårt	vår	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	heliga	heliga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	högmod	högmod	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	Gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:29
+8	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

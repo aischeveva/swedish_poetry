@@ -1,0 +1,11 @@
+1	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:3
+3	gropen	gropen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	kind	kind	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+8	falskaste	falskaste	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+9	grop	grop	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

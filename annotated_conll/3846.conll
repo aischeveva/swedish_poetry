@@ -1,0 +1,6 @@
+1	sviktande	sviktande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	böjlig	böjlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+4	stark	stark	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

@@ -1,0 +1,9 @@
+1	O	o	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	dröm	drömma	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:2
+3	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:6
+
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:9
+2	flyger	flyge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:13
+3	än	än	KN	KN	_	_	_	_	_	O	_	temp:1:20
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:22
+

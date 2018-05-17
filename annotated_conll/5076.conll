@@ -1,0 +1,10 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Norden	norden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	blive	blive	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:20
+7	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:24
+8	bleve	bleve	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:28
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,9 @@
+1	Utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:5
+3	känna	känna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	väg	väg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+7	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:27
+8	rike	rike	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+

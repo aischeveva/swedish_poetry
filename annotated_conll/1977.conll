@@ -1,0 +1,10 @@
+1	skrammel	skrammel	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:9
+3	knotor	knotor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:23
+6	kluckande	kluckande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	förvridet	förvridet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+8	grin	grin	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+

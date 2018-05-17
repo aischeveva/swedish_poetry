@@ -1,0 +1,15 @@
+1	Språk	språk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	de	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:10
+4	stammande	stammande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	gjort	göra	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+7	vart	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:30
+8	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:39
+10	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:42
+11	embryon	embryon	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+12	hos	hos	PP	PP	_	_	_	_	_	O	_	temp:0:54
+13	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:58
+14	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:61
+

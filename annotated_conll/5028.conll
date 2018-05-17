@@ -1,0 +1,9 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:3
+3	bryts	bryts	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:9
+4	icke	icke	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+5	förbundet	förbundet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:30
+7	lätt	lätt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

@@ -1,0 +1,12 @@
+1	Mellan	mellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:7
+3	spriddes	spriddes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:11
+4	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:20
+5	hit	hit	AB	AB	_	_	_	_	_	O	_	temp:0:23
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+7	än	än	AB	AB	_	_	_	_	_	O	_	temp:0:31
+8	dit	dit	AB	AB	_	_	_	_	_	O	_	temp:0:34
+9	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:38
+10	oräknelig	oräknelig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+11	skara	Skara	PM	PM	NOM	_	_	_	_	B	place	temp:0:51
+

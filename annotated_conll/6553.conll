@@ -1,0 +1,8 @@
+1	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ibland	ibland	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	klippor	klippor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	ödslig	ödslig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	strand	strand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

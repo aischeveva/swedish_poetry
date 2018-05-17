@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	märker	märka	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	knappt	knappt	AB	AB	POS	_	_	_	_	O	_	temp:0:11
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:18
+5	älskaren	älskaren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+7	borta	borta	PL	PL	_	_	_	_	_	O	_	temp:0:34
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

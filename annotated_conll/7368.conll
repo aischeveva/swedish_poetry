@@ -1,0 +1,8 @@
+1	tre	tre	RG	RG	NOM	_	_	_	_	O	_	temp:0:0
+2	rosenknoppar	rosenknoppar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:17
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:19
+5	urna	urna	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	födda	födda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

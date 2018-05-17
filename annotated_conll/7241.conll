@@ -1,0 +1,8 @@
+1	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	sköna	sköna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	mor	mor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:14
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:15
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:17
+

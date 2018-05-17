@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:4
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	drapa	drapa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	klinga	klinga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+6	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:25
+7	slag	slag	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:35
+9	stranden	stranden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

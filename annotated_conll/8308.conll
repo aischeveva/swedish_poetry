@@ -1,0 +1,10 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:9
+5	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:13
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+7	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:18
+8	Ingeborg	ingeborg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

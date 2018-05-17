@@ -1,0 +1,8 @@
+1	skulle	ska	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	styrt	styrt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	stum	stum	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	vink	vink	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

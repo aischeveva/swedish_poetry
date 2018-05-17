@@ -1,0 +1,9 @@
+1	O	o	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Herre	herre	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	Gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	förfärlige	förfärlige	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+7	Gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

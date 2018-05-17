@@ -1,0 +1,7 @@
+1	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	svarta	svart	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	knotiga	knotiga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

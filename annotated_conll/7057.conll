@@ -1,0 +1,10 @@
+1	sköldar	sköldar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	sjön	sjön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	bleknat	bleknat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:24
+8	dervid	dervid	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

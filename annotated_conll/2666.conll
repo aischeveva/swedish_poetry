@@ -1,0 +1,14 @@
+1	Luften	luften	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	tunn	tunn	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	där	där	HA	HA	_	_	_	_	_	O	_	temp:0:16
+6	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:20
+7	glider	glider	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:24
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:32
+10	svår	svår	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+11	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:41
+12	andas	andas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:45
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

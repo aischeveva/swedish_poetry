@@ -1,0 +1,12 @@
+1	Dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	äfven	äfven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+4	lifvet	lifvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	eger	ege	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:24
+7	försoning	försoning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	re	re	NN	NN	AN	_	_	_	_	O	_	temp:0:38
+9	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:40
+10	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:41
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

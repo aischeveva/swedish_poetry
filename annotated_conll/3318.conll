@@ -1,0 +1,8 @@
+1	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	rände	rände	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	byn	by	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	nöd	nöd	RG	RG	NOM	_	_	_	_	O	_	temp:0:20
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

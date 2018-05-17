@@ -1,0 +1,10 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:6
+4	lugna	lugna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+7	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+8	väg	väg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

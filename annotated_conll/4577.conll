@@ -1,0 +1,8 @@
+1	Hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	liksom	liksom	AB	AB	_	_	_	_	_	O	_	temp:0:14
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:21
+6	öde	öde	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	slätt	slätt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+

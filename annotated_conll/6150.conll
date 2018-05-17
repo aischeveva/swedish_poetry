@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sanning	sanning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	fins	fins	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+4	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:17
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	mensklig	mensklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	panna	panna	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

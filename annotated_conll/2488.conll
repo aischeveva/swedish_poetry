@@ -1,0 +1,9 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Vem	vem	HP	HP	UTR|SIN|IND	_	_	_	_	O	_	temp:0:1
+3	lyser	lyse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+6	främmande	främmande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+7	stjärna	stjärna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:25
+8	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

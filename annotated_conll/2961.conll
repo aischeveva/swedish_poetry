@@ -1,0 +1,9 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:3
+3	ro	ro	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:9
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:12
+2	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:16
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:1:21
+

@@ -1,0 +1,9 @@
+1	Armarna	armarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	slingrar	slingrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:17
+4	hårt	hårt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:20
+5	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	våra	vår	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:28
+7	knän	knän	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

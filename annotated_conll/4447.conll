@@ -1,0 +1,8 @@
+1	Ondska	ondska	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:7
+3	blod	blod	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	följt	följt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:20
+6	henne	hon	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:26
+7	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:32
+

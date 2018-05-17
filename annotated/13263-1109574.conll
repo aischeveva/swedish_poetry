@@ -1,0 +1,72 @@
+1	Återigen	återigen	AB	AB	_	_	_	_	_	O	_	13263-1109574:0:1
+2	jinxade	jinxade	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-1109574:0:10
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1109574:0:18
+4	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	13263-1109574:0:22
+5	själv	själv	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1109574:0:26
+6	igår	igår	AB	AB	_	_	_	_	_	O	_	13263-1109574:0:32
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1109574:0:36
+
+1	Och	och	KN	KN	_	_	_	_	_	O	_	13263-1109574:1:38
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-1109574:1:42
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1109574:1:46
+4	ju	ju	AB	AB	_	_	_	_	_	O	_	13263-1109574:1:49
+5	dumt	dum	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1109574:1:52
+6	,	,	MID	MID	_	_	_	_	_	O	_	13263-1109574:1:56
+7	men	men	KN	KN	_	_	_	_	_	O	_	13263-1109574:1:58
+8	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	13263-1109574:1:62
+9	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1109574:1:66
+10	inte	inte	AB	AB	_	_	_	_	_	O	_	13263-1109574:1:70
+11	göra	göra	VB	VB	INF|AKT	_	_	_	_	O	_	13263-1109574:1:75
+12	något	något	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	13263-1109574:1:80
+13	åt	åt	PL	PL	_	_	_	_	_	O	_	13263-1109574:1:86
+14	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-1109574:1:89
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1109574:1:92
+
+1	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	13263-1109574:2:94
+2	kollega	kollega	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1109574:2:98
+3	och	och	KN	KN	_	_	_	_	_	O	_	13263-1109574:2:106
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1109574:2:110
+5	pratade	prata	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-1109574:2:114
+6	om	om	PP	PP	_	_	_	_	_	O	_	13263-1109574:2:122
+7	att	att	SN	SN	_	_	_	_	_	O	_	13263-1109574:2:125
+8	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1109574:2:129
+9	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-1109574:2:133
+10	svårt	svårt	AB	AB	POS	_	_	_	_	O	_	13263-1109574:2:138
+11	att	att	IE	IE	_	_	_	_	_	O	_	13263-1109574:2:144
+12	somna	somna	VB	VB	INF|AKT	_	_	_	_	O	_	13263-1109574:2:148
+13	på	på	PP	PP	_	_	_	_	_	O	_	13263-1109574:2:154
+14	kvällarna	kväll	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	13263-1109574:2:157
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1109574:2:166
+
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-1109574:3:168
+2	brukar	bruka	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1109574:3:172
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	13263-1109574:3:179
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1109574:3:184
+5	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	13263-1109574:3:188
+6	,	,	MID	MID	_	_	_	_	_	O	_	13263-1109574:3:190
+7	vilket	vilket	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	13263-1109574:3:192
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1109574:3:199
+9	självklart	självklart	AB	AB	POS	_	_	_	_	O	_	13263-1109574:3:203
+10	berättade	berätta	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-1109574:3:214
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1109574:3:223
+
+1	Fast	fast	KN	KN	_	_	_	_	_	O	_	13263-1109574:4:225
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-1109574:4:230
+3	skulle	skola	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-1109574:4:234
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1109574:4:241
+5	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	13263-1109574:4:245
+6	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	13263-1109574:4:252
+7	gjort	göra	VB	VB	SUP|AKT	_	_	_	_	O	_	13263-1109574:4:255
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1109574:4:260
+
+1	Istället	istället	AB	AB	_	_	_	_	_	O	_	13263-1109574:5:262
+2	för	för	PP	PP	_	_	_	_	_	O	_	13263-1109574:5:271
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	13263-1109574:5:275
+4	sedvanliga	sedvanlig	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	13263-1109574:5:279
+5	insomningen	insomningen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1109574:5:290
+6	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-1109574:5:302
+7	[	[	PAD	PAD	_	_	_	_	_	O	_	13263-1109574:5:307
+8	...	...	MAD	MAD	_	_	_	_	_	O	_	13263-1109574:5:308
+
+1	]	]	PAD	PAD	_	_	_	_	_	O	_	13263-1109574:6:311
+

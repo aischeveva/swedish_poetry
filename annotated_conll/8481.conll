@@ -1,0 +1,11 @@
+1	gif	gif	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	honom	han	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	Ingeborg	ingeborg	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:10
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:19
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:21
+3	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:1:23
+4	fosterfader	fosterfader	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:27
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:38
+

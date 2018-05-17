@@ -1,0 +1,11 @@
+1	Ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	minut	minut	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:15
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+7	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:21
+8	hopp	hopp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+9	ute	ute	AB	AB	_	_	_	_	_	O	_	temp:0:31
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

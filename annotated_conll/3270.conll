@@ -1,0 +1,12 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	hörnet	hörnet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:25
+8	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+9	långsamt	långsamt	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+10	vända	vända	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:48
+

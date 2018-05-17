@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	djup	djup	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:13
+5	evighet	evighet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	...	...	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

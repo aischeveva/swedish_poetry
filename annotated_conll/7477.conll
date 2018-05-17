@@ -1,0 +1,8 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	vilda	vilda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	vattnen	vattnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	äro	äro	UO	UO	_	_	_	_	_	O	_	temp:0:17
+5	ådrorna	ådrorna	UO	UO	_	_	_	_	_	O	_	temp:0:21
+6	deri	deri	UO	UO	_	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,8 @@
+1	Pärlemorluft	pärlemorluft	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:13
+3	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:25
+5	blek	blek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+6	opal	opal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

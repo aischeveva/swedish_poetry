@@ -1,0 +1,11 @@
+1	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	lemnat	lemnat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:11
+4	dotter	dotter	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+8	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:29
+9	val	val	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

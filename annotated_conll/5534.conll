@@ -1,0 +1,4 @@
+1	Mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	Ellidas	Ellida	PM	PM	GEN	_	_	_	_	B	person	temp:0:4
+3	stam	stam	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+

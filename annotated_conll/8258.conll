@@ -1,0 +1,8 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	evig	evig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	trohet	trohet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:18
+6	barm	barm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

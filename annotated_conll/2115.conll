@@ -1,0 +1,11 @@
+1	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:3
+3	vrider	vrida	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	ratten	ratten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+6	vänder	vända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+7	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:32
+8	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:36
+9	vinden	vinden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:40
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

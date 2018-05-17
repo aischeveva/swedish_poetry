@@ -1,0 +1,8 @@
+1	Över	över	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	murens	murens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:5
+3	krön	krön	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	vajar	vajar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	friska	frisk	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:23
+6	trän	trän	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

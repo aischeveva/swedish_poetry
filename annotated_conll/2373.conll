@@ -1,0 +1,7 @@
+1	spegla	spegla	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ljus	ljus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+3	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	stjärnornas	stjärnornas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:17
+5	hem	hem	PL	PL	_	_	_	_	_	O	_	temp:0:29
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

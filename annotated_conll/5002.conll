@@ -1,0 +1,10 @@
+1	Var	vara	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:4
+3	helst	gärna	AB	AB	SUV	_	_	_	_	O	_	temp:0:8
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+5	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:20
+7	ödet	ödet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	ställas	ställas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:28
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

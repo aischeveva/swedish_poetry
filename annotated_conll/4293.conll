@@ -1,0 +1,10 @@
+1	luften	luften	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dallrar	dallrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	mättad	mättad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:22
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:25
+6	skönhet	skönhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:36
+8	like	like	RG	RG	NOM	_	_	_	_	O	_	temp:0:41
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

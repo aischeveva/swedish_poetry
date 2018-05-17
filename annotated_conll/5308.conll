@@ -1,0 +1,10 @@
+1	Friskt	friskt	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	mod	mod	UO	UO	_	_	_	_	_	O	_	temp:0:7
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	gossar	gossar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	blå	blå	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:21
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:25
+

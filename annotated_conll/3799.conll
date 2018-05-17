@@ -1,0 +1,5 @@
+1	Djupt	djupt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	skalv	skalv	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

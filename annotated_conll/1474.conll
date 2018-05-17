@@ -1,0 +1,5 @@
+1	Detta	detta	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	mödrar	mödrar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

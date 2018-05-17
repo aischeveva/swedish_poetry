@@ -1,0 +1,7 @@
+1	högt	högt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:5
+3	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	himlen	himmel	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	blossar	blossar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

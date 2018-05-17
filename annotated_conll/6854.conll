@@ -1,0 +1,8 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	visdomsrunor	visdomsrunor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	många	mången	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:23
+5	muren	muren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+6	täljas	täljas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:32
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

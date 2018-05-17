@@ -1,0 +1,11 @@
+1	(	(	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:1
+3	stormen	stormen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+4	trifs	trifs	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:12
+5	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	der	der	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:0:24
+8	förbi	förbi	PL	PL	_	_	_	_	_	O	_	temp:0:26
+9	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:32
+10	ö	ö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+

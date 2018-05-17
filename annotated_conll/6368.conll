@@ -1,0 +1,9 @@
+1	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	faller	faller	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	beklaga	beklaga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+6	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:27
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,8 @@
+1	hastigt	hastigt	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+3	laddning	laddning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	glödande	glödande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:25
+6	Söder	Söder	PM	PM	NOM	_	_	_	_	B	person	temp:0:34
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

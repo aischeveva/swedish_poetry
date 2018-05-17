@@ -1,0 +1,8 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	kärlek	kärlek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:11
+4	ej	ej	NN	NN	AN	_	_	_	_	O	_	temp:0:17
+5	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	mod	mod	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

@@ -1,0 +1,5 @@
+1	skymtade	skymtade	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:17
+4	Järnskogsmörkret	järnskogsmörkret	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+

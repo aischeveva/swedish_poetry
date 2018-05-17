@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	klippan	klippan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	blottar	blotta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:20
+5	marmorbarm	marmorbarm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

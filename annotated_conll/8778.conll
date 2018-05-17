@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	törs	törs	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	sätta	sätta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	kämpens	kämpens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:25
+8	bänk	bänk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

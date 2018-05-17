@@ -1,0 +1,7 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	svåra	svåra	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	växten	växten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	verklighet	verklighet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

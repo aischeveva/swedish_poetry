@@ -1,0 +1,10 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	vakt	vakt	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	gudens	gudens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:21
+7	nya	ny	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	helgedom	helgedom	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

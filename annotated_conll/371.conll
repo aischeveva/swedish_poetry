@@ -1,0 +1,9 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	hann	hinna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	få	få	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	växa	växa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:17
+6	samman	samman	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:28
+8	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:33
+

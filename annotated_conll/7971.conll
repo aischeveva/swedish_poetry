@@ -1,0 +1,12 @@
+1	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	far	fara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	ej	ej	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:12
+5	konung	konung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	jarl	jarl	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+9	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:31
+10	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

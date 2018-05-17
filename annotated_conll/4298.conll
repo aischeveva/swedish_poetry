@@ -1,0 +1,9 @@
+1	vandrar	vandrar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	omkring	omkring	PL	PL	_	_	_	_	_	O	_	temp:0:8
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+4	overklig	overklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:26
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:30
+7	drömmen	drömmen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,6 @@
+1	Folket	folket	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	trängdes	trängdes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:7
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+4	kyrkorna	kyrkorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

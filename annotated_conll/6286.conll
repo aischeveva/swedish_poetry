@@ -1,0 +1,8 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	förlof	förlof	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+6	stulen	stulen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

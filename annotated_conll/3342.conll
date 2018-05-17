@@ -1,0 +1,15 @@
+1	O	o	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mästare	mästare	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	gudomlig	gudomlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+7	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:24
+8	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:28
+9	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+10	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:38
+11	gjort	göra	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:41
+12	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:47
+

@@ -1,0 +1,6 @@
+1	käns	käns	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Thorstens	Thorsten	PM	PM	GEN	_	_	_	_	O	_	temp:0:5
+3	son	son	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	igen	igen	AB	AB	_	_	_	_	_	O	_	temp:0:19
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

@@ -1,0 +1,13 @@
+1	ve	ve	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+5	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:12
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:20
+8	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+9	skilja	skilja	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:29
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:36
+

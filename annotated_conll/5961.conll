@@ -1,0 +1,6 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	jarlen	jarlen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	tåligt	tåligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	hörde	höra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

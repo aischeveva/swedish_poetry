@@ -1,0 +1,9 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	väger	väge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	våg	våg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:21
+7	skipa	skipa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:25
+8	rätt	rätt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+

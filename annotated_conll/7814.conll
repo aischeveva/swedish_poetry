@@ -1,0 +1,16 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:1
+3	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:4
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+5	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+6	fädernas	fädernas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:15
+7	sed	sed	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+9	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:29
+10	kämpar	kämpa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+11	väl	väl	AB	AB	POS	_	_	_	_	O	_	temp:0:40
+12	ensam	ensam	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:49
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:50
+

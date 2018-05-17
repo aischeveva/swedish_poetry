@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	beslut	beslut	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	fattadt	fattadt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:28
+8	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+9	qvar	qvar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:37
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

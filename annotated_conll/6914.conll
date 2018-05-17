@@ -1,0 +1,11 @@
+1	Med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	humle	humle	UO	UO	_	_	_	_	_	O	_	temp:0:4
+3	brygges	brygges	UO	UO	_	_	_	_	_	O	_	temp:0:10
+4	mjödet	mjödet	UO	UO	_	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+6	ej	ej	UO	UO	_	_	_	_	_	O	_	temp:0:26
+7	blott	blott	UO	UO	_	_	_	_	_	O	_	temp:0:29
+8	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:35
+9	honung	honung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

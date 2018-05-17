@@ -1,0 +1,38 @@
+1	Piren	pir	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-698155:0:1
+2	hemma	hemma	AB	AB	_	_	_	_	_	O	_	13263-698155:0:7
+3	i	i	PP	PP	_	_	_	_	_	O	_	13263-698155:0:13
+4	byn	by	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-698155:0:15
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-698155:0:18
+
+1	I	i	PP	PP	_	_	_	_	_	O	_	13263-698155:1:20
+2	söndags	söndag	NN	NN	UTR|SIN|IND|GEN	_	_	_	_	O	_	13263-698155:1:22
+3	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-698155:1:30
+4	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	13263-698155:1:35
+5	ut	ut	PL	PL	_	_	_	_	_	O	_	13263-698155:1:38
+6	och	och	KN	KN	_	_	_	_	_	O	_	13263-698155:1:41
+7	rundade	runda	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-698155:1:45
+8	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-698155:1:53
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-698155:1:56
+
+1	Sen	sen	AB	AB	_	_	_	_	_	O	_	13263-698155:2:58
+2	vände	vända	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-698155:2:62
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	13263-698155:2:68
+4	och	och	KN	KN	_	_	_	_	_	O	_	13263-698155:2:71
+5	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-698155:2:75
+6	tillbaka	tillbaka	PL	PL	_	_	_	_	_	O	_	13263-698155:2:80
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-698155:2:88
+
+1	Läs	läsa	VB	VB	IMP|AKT	_	_	_	_	O	_	13263-698155:3:90
+2	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	13263-698155:3:94
+3	bloggar	blogg	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-698155:3:100
+4	om	om	PP	PP	_	_	_	_	_	O	_	13263-698155:3:108
+5	pir	pir	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-698155:3:111
+6	,	,	MID	MID	_	_	_	_	_	O	_	13263-698155:3:114
+7	vadstena	Vadstena	PM	PM	NOM	_	_	_	_	B	place	13263-698155:3:116
+8	,	,	MID	MID	_	_	_	_	_	O	_	13263-698155:3:124
+9	random	Random	PM	PM	NOM	_	_	_	_	B	place	13263-698155:3:126
+10	,	,	MID	MID	_	_	_	_	_	O	_	13263-698155:3:132
+11	bild	bild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-698155:3:134
+12	,	,	MID	MID	_	_	_	_	_	O	_	13263-698155:3:138
+13	foto	foto	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-698155:3:140
+

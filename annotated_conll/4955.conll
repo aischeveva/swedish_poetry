@@ -1,0 +1,8 @@
+1	Dit	dit	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	grönklädd	grönklädd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	maj	maj	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	mognad	mognad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	sommar	sommar	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,7 @@
+1	gryningar	gryningar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	öppnar	öppnar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+3	sakta	sakta	AB	AB	POS	_	_	_	_	O	_	temp:0:17
+4	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:23
+5	musselskal	musselskal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

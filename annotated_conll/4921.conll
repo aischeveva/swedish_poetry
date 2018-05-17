@@ -1,0 +1,9 @@
+1	Lär	lära	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	sjunga	sjunga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:16
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+7	saken	saken	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

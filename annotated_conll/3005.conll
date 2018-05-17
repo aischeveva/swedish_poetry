@@ -1,0 +1,4 @@
+1	Vilan	vilan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	väntar	vänta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+

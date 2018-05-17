@@ -1,0 +1,11 @@
+1	ej	ej	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	Frithiof	frithiof	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+5	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+6	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	hvad	hvad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+8	skalden	skalden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+9	qväder	qväder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:37
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

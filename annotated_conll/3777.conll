@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	genomlyst	genomlyst	PC	PC	PRF|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+5	eld	eld	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:26
+8	förmått	förmått	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+

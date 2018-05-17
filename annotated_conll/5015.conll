@@ -1,0 +1,9 @@
+1	Linnæi	linnæi	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	system	system	UO	UO	_	_	_	_	_	O	_	temp:0:7
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:15
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:23
+7	tyder	tyder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+8	ut	ut	AB	AB	_	_	_	_	_	O	_	temp:0:33
+

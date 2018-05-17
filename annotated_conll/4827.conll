@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	segrande	segrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:5
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+5	lia	lia	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:22
+7	svärd	svärd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

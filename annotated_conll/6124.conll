@@ -1,0 +1,7 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	qvinnoskepnad	qvinnoskepnad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:16
+4	jordens	jord	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:21
+5	män	män	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

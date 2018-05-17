@@ -1,0 +1,12 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	hela	hel	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	hof	hof	UO	UO	_	_	_	_	_	O	_	temp:0:13
+5	församlas	församlas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	vimlande	vimlande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:37
+9	brokig	brokig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	prakt	prakt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+

@@ -1,0 +1,10 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	mins	mins	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	ej	ej	UO	UO	_	_	_	_	_	O	_	temp:0:9
+4	bragd	bragd	UO	UO	_	_	_	_	_	O	_	temp:0:12
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:18
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+7	tänkt	tänka	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:26
+8	uppå	uppå	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

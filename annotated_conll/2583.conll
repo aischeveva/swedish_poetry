@@ -1,0 +1,8 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	vissnande	vissnande	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	skugga	skugga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:24
+6	grå	grå	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

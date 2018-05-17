@@ -1,0 +1,10 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Klockspelet	klockspelet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:1
+3	klingar	klingar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	staden	stad	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	lyssnar	lyssna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+8	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:41
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

@@ -1,0 +1,8 @@
+1	Se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:3
+3	mej	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+5	maskarnas	maskarnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:11
+6	like	like	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

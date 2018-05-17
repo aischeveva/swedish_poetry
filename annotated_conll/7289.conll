@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	derutöfver	derutöfver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+4	gått	gå	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:19
+5	svärd	svärd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+7	brand	brand	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,10 @@
+1	Dessa	denna	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	bilder	bild	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:13
+4	många	mången	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:29
+8	betecknade	betecknade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:33
+9	ljusets	ljusets	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+

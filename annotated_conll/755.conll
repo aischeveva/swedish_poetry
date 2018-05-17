@@ -1,0 +1,9 @@
+1	skalvet	skalvet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:11
+4	innersta	innersta	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	elden	eld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:30
+7	brinner	brinner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

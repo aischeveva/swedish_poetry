@@ -1,0 +1,18 @@
+1	Om	om	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	Albert	albert	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:10
+4	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	låta	låta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+6	bli	bli	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+7	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+9	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:33
+10	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:36
+11	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:40
+12	ju	ju	AB	AB	_	_	_	_	_	O	_	temp:0:44
+13	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:47
+14	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+15	sa	säga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:51
+16	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:54
+17	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:57
+

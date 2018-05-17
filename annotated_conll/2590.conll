@@ -1,0 +1,7 @@
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	plogen	plogen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	strävar	strävar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	fåran	fåran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

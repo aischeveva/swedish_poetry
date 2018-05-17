@@ -1,0 +1,8 @@
+1	Hell	hell	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	Glädje	Glädje	PM	PM	NOM	_	_	_	_	B	place	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	Glädje	Glädje	PM	PM	NOM	_	_	_	_	B	place	temp:0:18
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

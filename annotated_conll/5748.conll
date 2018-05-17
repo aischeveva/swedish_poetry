@@ -1,0 +1,7 @@
+1	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:4
+3	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	blånad	blånad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	ban	ban	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

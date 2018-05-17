@@ -1,0 +1,5 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	upptäcktsfärd	upptäcktsfärd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

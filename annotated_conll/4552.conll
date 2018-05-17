@@ -1,0 +1,7 @@
+1	hennes	hennes	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:7
+3	blänkte	blänkte	UO	UO	_	_	_	_	_	O	_	temp:0:12
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:20
+5	gråt	gråt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

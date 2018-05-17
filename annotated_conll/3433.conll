@@ -1,0 +1,7 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	henne	hon	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:2
+3	bor	bor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:12
+5	värde	värde	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+

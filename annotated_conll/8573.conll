@@ -1,0 +1,10 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	usel	usel	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	träl	träl	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+5	bunden	bunden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:23
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:27
+8	torfva	torfva	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

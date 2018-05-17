@@ -1,0 +1,10 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	reste	reste	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:9
+4	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:13
+5	marmorslott	marmorslott	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:29
+7	skimrande	skimrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:31
+8	ståt	ståt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

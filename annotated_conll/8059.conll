@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	barnens	barn	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:13
+5	moder	moder	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	begära	begära	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

@@ -1,0 +1,12 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	sköna	sköna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+5	bildar	bildar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+8	mera	mera	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:25
+9	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:30
+10	stoft	stoft	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

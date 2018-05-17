@@ -1,0 +1,10 @@
+1	fosterbröder	fosterbröder	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:13
+3	nordmanna	nordmanna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:16
+4	sätt	sätt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:32
+7	svurit	svurit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:36
+8	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:43
+9	lefva	lefvara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:47
+

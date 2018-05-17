@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vidare	vitt	AB	AB	KOM	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	weekend	weekend	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	Metropol	Metropol	PM	PM	NOM	_	_	_	_	B	animal	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

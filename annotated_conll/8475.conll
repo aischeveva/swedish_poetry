@@ -1,0 +1,8 @@
+1	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	bifall	bifall	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	hamrade	hamrade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	tusen	tusen	RG	RG	NOM	_	_	_	_	O	_	temp:0:23
+6	sköldar	sköldar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

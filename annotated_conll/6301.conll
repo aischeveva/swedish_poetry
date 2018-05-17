@@ -1,0 +1,8 @@
+1	Templet	templet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	brinner	brinner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+4	gjut	gjut	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+7	gjut	gjut	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+

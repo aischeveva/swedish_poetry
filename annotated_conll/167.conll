@@ -1,0 +1,8 @@
+1	skall	skall	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:6
+3	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:10
+4	lita	lita	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:17
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

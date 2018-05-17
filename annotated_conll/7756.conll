@@ -1,0 +1,14 @@
+1	bet	bet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:7
+4	skalle	skalle	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	jern	jern	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:28
+9	derför	derför	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+10	nämndes	nämndes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:39
+11	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:47
+12	Jernhös	jernhös	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:51
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:58
+

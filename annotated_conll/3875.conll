@@ -1,0 +1,8 @@
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	morgonens	morgonens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	sol	sol	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	rutan	rutan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+6	smyger	smyger	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

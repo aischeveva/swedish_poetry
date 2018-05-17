@@ -1,0 +1,8 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	vandrarn	vandrarn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:14
+4	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	svarta	svart	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	svedjeland	svedjeland	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

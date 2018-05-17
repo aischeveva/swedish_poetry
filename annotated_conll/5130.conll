@@ -1,0 +1,10 @@
+1	Har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+5	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:14
+6	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:19
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:23
+8	försvunnit	försvunnit	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

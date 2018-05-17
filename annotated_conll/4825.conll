@@ -1,0 +1,11 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	lugnt	lugnt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:4
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	massa	massa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+7	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:24
+8	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+9	fosterbygd	fosterbygd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

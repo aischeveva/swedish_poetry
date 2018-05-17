@@ -1,0 +1,9 @@
+1	Är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	kainsmärket	kainsmärket	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+4	inbränt	inbränt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:16
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	panna	panna	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

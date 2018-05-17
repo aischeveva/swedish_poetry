@@ -1,0 +1,6 @@
+1	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	stora	stor	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	buller	buller	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

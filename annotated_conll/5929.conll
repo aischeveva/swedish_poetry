@@ -1,0 +1,5 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	velska	velska	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	toner	toner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	rullar	rullar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+

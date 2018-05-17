@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:4
+3	älskandes	älskandes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:8
+4	hviskning	hviskning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+6	källornas	källornas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:31
+7	sorl	sorl	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

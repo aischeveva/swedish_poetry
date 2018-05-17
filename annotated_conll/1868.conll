@@ -1,0 +1,9 @@
+1	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	fläktarna	fläktarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	fönstret	fönstret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	steg	steg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:27
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:32
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+8	närande	närande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:36
+

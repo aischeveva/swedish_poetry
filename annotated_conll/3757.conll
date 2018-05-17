@@ -1,0 +1,9 @@
+1	Vore	vore	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:9
+4	förunnat	förunnat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:13
+5	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:22
+6	högtidsstolt	högtidsstolt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:39
+8	dessa	denna	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:43
+

@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	öfvermod	öfvermod	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	o	o	KN	KN	_	_	_	_	_	O	_	temp:0:14
+5	Frithiof	frithiof	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+8	fallets	fallets	NN	NN	NEU|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:29
+9	far	fara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:37
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

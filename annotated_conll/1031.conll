@@ -1,0 +1,10 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	lätt	lätt	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:28
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+9	värt	värt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+

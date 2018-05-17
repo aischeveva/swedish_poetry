@@ -1,0 +1,10 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	viljan	viljan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:12
+5	stängdes	stängdes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:16
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	lågande	lågande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	bröst	bröst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

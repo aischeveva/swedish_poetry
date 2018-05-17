@@ -1,0 +1,13 @@
+1	Se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	hit	hit	AB	AB	_	_	_	_	_	O	_	temp:0:3
+3	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:6
+
+1	Mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:1:9
+2	öga	öga	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:14
+3	glimmar	glimmar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:18
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:1:26
+5	elden	eld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:29
+6	från	från	PP	PP	_	_	_	_	_	O	_	temp:1:35
+7	ovan	ovan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:40
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:44
+

@@ -1,0 +1,9 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	lever	lever	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	grovt	grovt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	tungt	tungt	AB	AB	POS	_	_	_	_	O	_	temp:0:20
+7	urtidskol	urtidskol	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,10 @@
+1	För	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	många	mången	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	gånger	gång	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:21
+6	gått	gå	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:25
+7	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:30
+8	porten	porten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

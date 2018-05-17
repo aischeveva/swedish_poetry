@@ -1,0 +1,8 @@
+1	alldeles	alldeles	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	full	full	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+5	enda	enda	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	önskan	önskan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

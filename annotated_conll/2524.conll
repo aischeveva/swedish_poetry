@@ -1,0 +1,8 @@
+1	Stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:7
+3	blek	blek	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:18
+6	bleka	bleka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	gloria	gloria	AB	AB	AN	_	_	_	_	O	_	temp:0:28
+

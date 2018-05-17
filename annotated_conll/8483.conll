@@ -1,0 +1,11 @@
+1	steg	steg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:5
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:10
+4	höll	höll	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:19
+6	tal	tal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	vishet	vishet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+9	fullt	fullt	AB	AB	POS	_	_	_	_	O	_	temp:0:37
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

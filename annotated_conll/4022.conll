@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vämjas	vämjas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:4
+3	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:15
+5	själv	själv	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+7	hata	hata	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:29
+8	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:34
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:38
+10	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

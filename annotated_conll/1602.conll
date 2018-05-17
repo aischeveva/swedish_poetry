@@ -1,0 +1,8 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	led	led	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:7
+4	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:10
+5	pärlsydda	pärlsydda	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	bälte	bälte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

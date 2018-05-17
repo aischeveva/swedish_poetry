@@ -1,0 +1,14 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:1
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+4	dagen	dag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+5	gryr	gryr	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:16
+2	Nej	nej	IN	IN	_	_	_	_	_	O	_	temp:1:18
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:21
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:23
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:27
+6	flamman	flamman	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:30
+

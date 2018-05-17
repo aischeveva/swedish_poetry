@@ -1,0 +1,6 @@
+1	lika	lika	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+3	avhuggna	avhuggna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	hundar	hundar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

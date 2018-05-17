@@ -1,0 +1,6 @@
+1	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	medan	medan	SN	SN	_	_	_	_	_	O	_	temp:0:5
+3	Gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:11
+4	förlåter	förlåter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

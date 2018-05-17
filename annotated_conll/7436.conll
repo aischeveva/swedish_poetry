@@ -1,0 +1,12 @@
+1	förbi	förbi	PL	PL	_	_	_	_	_	O	_	temp:0:0
+2	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:6
+3	syn	syn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:16
+6	lustigt	lustigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	folk	folk	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+9	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:34
+10	oskuldsfullt	oskuldsfullt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

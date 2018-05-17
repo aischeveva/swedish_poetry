@@ -1,0 +1,10 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	vandrar	vandra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	skogen	skog	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+6	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+7	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:29
+8	månen	måne	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

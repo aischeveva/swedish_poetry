@@ -1,0 +1,9 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	möter	möter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	nytt	ny	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	nya	ny	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	vägar	vägar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,5 @@
+1	Ögat	öga	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:5
+3	lyckte	lyckte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+

@@ -1,0 +1,10 @@
+1	blef	blef	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	plundrad	plundrad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	båd	båd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	'	'	NN	NN	AN	_	_	_	_	O	_	temp:0:17
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	ägg	ägg	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+8	ungar	ungar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:30
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,15 @@
+1	Se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:6
+4	de	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:9
+5	ögons	ögons	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:12
+6	himmel	himmel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+8	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+9	ej	ej	AB	AB	SUV	_	_	_	_	O	_	temp:0:29
+10	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:32
+11	de	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:35
+12	lockars	lockars	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+13	gull	gull	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:46
+14	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

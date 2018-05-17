@@ -1,0 +1,10 @@
+1	Tusen	tusen	RG	RG	NOM	_	_	_	_	O	_	temp:0:0
+2	dadlar	dadlar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	köper	köpa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:19
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:26
+7	liten	liten	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	pärla	pärla	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

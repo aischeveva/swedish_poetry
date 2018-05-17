@@ -1,0 +1,10 @@
+1	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	slungades	slungades	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:3
+3	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	degeln	degeln	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:23
+6	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:27
+7	enda	enda	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:31
+8	väsen	väsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

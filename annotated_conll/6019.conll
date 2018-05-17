@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	glädtigt	glädtigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	skjuter	skjuta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:21
+5	svarta	svart	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+6	svan	svan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+

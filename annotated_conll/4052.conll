@@ -1,0 +1,4 @@
+1	Halvvaken	halvvaken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ruvar	ruvar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+3	sommarnatten	sommarnatt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+

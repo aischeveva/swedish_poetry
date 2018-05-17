@@ -1,0 +1,12 @@
+1	hårt	hårt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	hårt	hårt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+5	så	så	KN	KN	_	_	_	_	_	O	_	temp:0:12
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+7	kände	känna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+8	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+9	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:29
+10	handen	hand	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,12 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:5
+4	vars	vars	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+5	väsen	väsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+6	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:18
+7	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:21
+8	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+9	någon	någon	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:30
+10	del	del	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

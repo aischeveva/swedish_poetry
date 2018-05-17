@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	uppe	uppe	UO	UO	_	_	_	_	_	O	_	temp:0:8
+4	dröjer	dröjer	UO	UO	_	_	_	_	_	O	_	temp:0:13
+5	all	all	UO	UO	_	_	_	_	_	O	_	temp:0:20
+6	dagens	dag	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:24
+7	prakt	prakt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

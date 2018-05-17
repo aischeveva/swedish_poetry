@@ -1,0 +1,11 @@
+1	Om	om	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	icke	icke	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	Frithiof	Frithiof	PM	PM	NOM	_	_	_	_	B	place	temp:0:9
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+8	hvar	hvar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+9	mans	mans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:30
+10	niding	niding	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+

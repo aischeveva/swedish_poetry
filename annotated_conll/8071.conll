@@ -1,0 +1,6 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	hvitt	hvitt	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	håren	håren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+

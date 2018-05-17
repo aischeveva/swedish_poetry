@@ -1,0 +1,11 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	lever	lever	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	lugnt	lugnt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+7	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:25
+8	växer	växer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+9	still	still	PL	PL	_	_	_	_	_	O	_	temp:0:35
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

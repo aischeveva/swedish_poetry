@@ -1,0 +1,15 @@
+1	Ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+6	gammal	gammal	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+7	vorden	vorden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+9	stiger	stige	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:30
+10	snart	snart	AB	AB	POS	_	_	_	_	O	_	temp:0:37
+11	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:43
+12	högen	högen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:45
+13	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:51
+14	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:53
+

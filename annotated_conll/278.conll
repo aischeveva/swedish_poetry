@@ -1,0 +1,13 @@
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	samlat	samlat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:7
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	rön	rön	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+7	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:22
+8	dröm	drömma	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:25
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+10	hopp	hopp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+11	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:39
+12	vilja	vilja	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:43
+

@@ -1,0 +1,5 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ensamt	ensamt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	läker	läker	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	världens	värld	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:17
+

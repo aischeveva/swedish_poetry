@@ -1,0 +1,6 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	guldhof	guldhof	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	lyft	lyft	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:12
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:17
+5	springa	springa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+

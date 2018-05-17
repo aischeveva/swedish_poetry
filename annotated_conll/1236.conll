@@ -1,0 +1,11 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:3
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:12
+5	kärlek	kärlek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:23
+7	sluten	sluten	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:38
+10	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

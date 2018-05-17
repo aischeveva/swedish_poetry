@@ -1,0 +1,10 @@
+1	somnade	somna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:8
+3	lugnt	lugnt	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:17
+5	hjelten	hjelten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	somnar	somna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+7	efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:36
+8	stridens	stridens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:42
+9	larm	larm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:51
+

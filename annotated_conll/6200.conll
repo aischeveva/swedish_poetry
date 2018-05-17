@@ -1,0 +1,10 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	helsa	helsa	AB	AB	SUV	_	_	_	_	O	_	temp:0:4
+3	Frithiof	Frithiof	PM	PM	NOM	_	_	_	_	B	person	temp:0:10
+4	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	Ingeborg	Ingeborg	PM	PM	NOM	_	_	_	_	B	place	temp:0:24
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:33
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:35
+

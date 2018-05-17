@@ -1,0 +1,10 @@
+1	Tolfmannakraft	tolfmannakraft	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+3	björnen	björnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+5	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:31
+7	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:34
+8	slagen	slagen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:38
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

@@ -1,0 +1,6 @@
+1	jordens	jord	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:0
+2	tröghet	tröghet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	hånande	hånande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:16
+4	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:24
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

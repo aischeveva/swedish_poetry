@@ -1,0 +1,11 @@
+1	Hårt	hårt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:6
+4	erövraren	erövraren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	hövs	hövs	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	ljuder	ljuder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+8	ditt	ditt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:33
+9	härskareord	härskareord	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:49
+

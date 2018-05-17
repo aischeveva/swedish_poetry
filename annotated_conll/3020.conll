@@ -1,0 +1,10 @@
+1	Kära	kär	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:9
+4	båda	båda	PN	PN	UTR/NEU|PLU|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+5	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+6	slätten	slätten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+8	skyn	skyn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

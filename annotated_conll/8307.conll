@@ -1,0 +1,7 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	verlden	verlden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	ville	vilja	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+5	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:22
+6	skåda	skåda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+

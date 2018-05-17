@@ -1,0 +1,6 @@
+1	livsförnyad	livsförnyad	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+3	ljuset	ljuset	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+4	fram	fram	AB	AB	_	_	_	_	_	O	_	temp:0:21
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

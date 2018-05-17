@@ -1,0 +1,7 @@
+1	svalor	svalor	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:7
+3	jagar	jagar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	vattnet	vatten	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

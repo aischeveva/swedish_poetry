@@ -1,0 +1,10 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:2
+3	violblå	violblå	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+4	timmen	timmen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:22
+7	rygg	rygg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+9	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:34
+

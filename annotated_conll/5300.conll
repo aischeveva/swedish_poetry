@@ -1,0 +1,11 @@
+1	Får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	kanske	kanske	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+5	fader	fader	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:25
+8	bortom	Bortom	PM	PM	NOM	_	_	_	_	B	person	temp:0:27
+9	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

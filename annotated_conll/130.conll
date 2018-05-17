@@ -1,0 +1,7 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	gräs	gräs	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	tätt	tätt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:9
+4	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

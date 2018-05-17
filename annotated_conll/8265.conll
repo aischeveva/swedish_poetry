@@ -1,0 +1,11 @@
+1	Böj	böj	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	knä	knä	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:12
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+
+1	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:17
+2	bättre	bra	AB	AB	KOM	_	_	_	_	O	_	temp:1:20
+3	gåfva	gåfvara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:27
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:32
+

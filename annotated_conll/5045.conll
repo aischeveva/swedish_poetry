@@ -1,0 +1,10 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	stjärnbeströdda	stjärnbeströdda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+4	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:21
+5	all	all	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+6	split	split	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	tar	ta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:35
+8	slut	slut	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:39
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

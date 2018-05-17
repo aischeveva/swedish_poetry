@@ -1,0 +1,13 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:4
+3	verkligen	verkligen	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+5	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:26
+8	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:30
+9	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:34
+10	bara	bara	AB	AB	_	_	_	_	_	O	_	temp:0:41
+11	hämma	hämma	AB	AB	_	_	_	_	_	O	_	temp:0:46
+12	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+

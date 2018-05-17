@@ -1,0 +1,7 @@
+1	Allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	spritt	spritt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	delat	delat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:23
+

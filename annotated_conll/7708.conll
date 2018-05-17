@@ -1,0 +1,10 @@
+1	stampande	stampande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	stodo	stodo	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+4	spiltornas	spiltornas	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	rad	rad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:33
+7	tuggade	tuggade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:37
+8	vallhö	vallhö	AB	AB	AN	_	_	_	_	O	_	temp:0:45
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:51
+

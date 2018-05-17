@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	följen	följen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	skalder	skalder	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:23
+8	harpoljud	harpoljud	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

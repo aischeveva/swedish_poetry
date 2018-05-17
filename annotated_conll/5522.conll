@@ -1,0 +1,8 @@
+1	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:4
+3	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+5	blodig	blodig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	rand	rand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

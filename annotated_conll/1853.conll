@@ -1,0 +1,15 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:3
+
+1	hypocrite	hypocrite	UO	UO	_	_	_	_	_	O	_	temp:1:5
+2	lecteur	lecteur	UO	UO	_	_	_	_	_	O	_	temp:1:15
+3	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:1:23
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:2:25
+2	mon	mon	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:2:26
+3	semblable-mon	semblable-mon	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:2:30
+4	frère	frère	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:2:44
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:2:49
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:3:50
+

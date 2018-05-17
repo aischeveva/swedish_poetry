@@ -1,0 +1,9 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:3
+3	din	din	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:12
+6	levde	leva	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+7	rak	rak	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

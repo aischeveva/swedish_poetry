@@ -1,0 +1,13 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:1
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+4	nervös	nervös	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+5	ikväll	ikväll	AB	AB	_	_	_	_	_	O	_	temp:0:15
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+
+1	Å	å	KN	KN	_	_	_	_	_	O	_	temp:1:23
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:24
+3	stanna	stanna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:26
+4	kvar	kvar	PL	PL	_	_	_	_	_	O	_	temp:1:33
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:37
+

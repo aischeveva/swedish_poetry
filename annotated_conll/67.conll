@@ -1,0 +1,6 @@
+1	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	flöt	flyta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+4	rikligt	rikligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+

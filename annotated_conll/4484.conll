@@ -1,0 +1,10 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+4	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:10
+5	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:15
+6	emellan	emellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	människornas	människornas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:29
+8	hus	hus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

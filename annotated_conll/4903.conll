@@ -1,0 +1,6 @@
+1	På	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:3
+3	ättehög	ättehög	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	Bälten	bälten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+

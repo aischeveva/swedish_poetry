@@ -1,0 +1,6 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Bringen	bringen	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:1
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:9
+4	hornet	hornet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+

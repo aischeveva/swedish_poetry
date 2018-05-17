@@ -1,0 +1,8 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	högt	högt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:11
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	buskens	buskens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:18
+7	topp	topp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+

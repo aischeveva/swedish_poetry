@@ -1,0 +1,11 @@
+1	Jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	tyvärr	tyvärr	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:14
+
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:16
+2	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:19
+3	qvinnor	qvinnor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:1:22
+4	full	full	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:30
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:34
+

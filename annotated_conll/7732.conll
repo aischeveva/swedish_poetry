@@ -1,0 +1,13 @@
+1	brynja	brynja	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:7
+3	hjelm	hjelm	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	hvarann	hvarann	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+8	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:34
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:38
+10	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:42
+11	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:46
+12	emellan	emellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:50
+

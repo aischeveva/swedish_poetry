@@ -1,0 +1,9 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	taltes	taltes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:3
+3	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:14
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+6	glada	glad	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	dar	dar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

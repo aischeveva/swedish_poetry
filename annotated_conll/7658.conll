@@ -1,0 +1,11 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	multna	multna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	stammar	stammar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:22
+7	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:30
+9	rysligt	rysligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+10	brak	brak	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+

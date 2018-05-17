@@ -1,0 +1,8 @@
+1	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	sorgfria	sorgfria	RG	RG	NOM	_	_	_	_	O	_	temp:0:3
+3	dagar	dag	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:22
+6	dukade	dukade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:27
+7	bord	bord	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,13 @@
+1	skägget	skägget	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hvitt	hvitt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:15
+5	vågornas	vågornas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:19
+6	skum	skum	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+8	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:34
+9	håret	hår	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:38
+10	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:44
+11	sjögrönt	sjögrönt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:56
+

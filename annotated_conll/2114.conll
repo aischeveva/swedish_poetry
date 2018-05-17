@@ -1,0 +1,5 @@
+1	Hedning	hedning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:8
+3	jude	jude	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+

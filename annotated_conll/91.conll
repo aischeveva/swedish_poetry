@@ -1,0 +1,14 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	anade	anade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	nog	nog	AB	AB	_	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:15
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:19
+7	nåd	nåd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:26
+9	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:30
+10	goda	god	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:34
+11	livet	liv	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+12	gav	ge	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:45
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

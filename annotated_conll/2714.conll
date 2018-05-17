@@ -1,0 +1,6 @@
+1	mellan	mellan	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	piskande	piskande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	vingars	vingars	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:16
+4	dån	dån	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

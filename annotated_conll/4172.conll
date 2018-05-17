@@ -1,0 +1,5 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	gammal	gammal	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	mans	mans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+

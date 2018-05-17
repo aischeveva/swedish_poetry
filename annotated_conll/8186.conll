@@ -1,0 +1,8 @@
+1	af	af	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:0
+2	längtan	längtan	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	evig	evig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	längtan	längtan	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	tärd	tärd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

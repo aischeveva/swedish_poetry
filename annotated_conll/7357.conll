@@ -1,0 +1,11 @@
+1	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	templet	templet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	stått	stått	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:19
+6	sjelf	sjelf	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+7	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:28
+8	tempel	tempel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	vorden	vorden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

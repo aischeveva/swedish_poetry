@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	glömme	glömme	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:17
+5	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:21
+6	fordom	fordom	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	fanns	finnas	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:32
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

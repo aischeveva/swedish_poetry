@@ -1,0 +1,8 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:4
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	suttit	sitta	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:12
+5	invid	invid	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	Tebes	Tebes	PM	PM	NOM	_	_	_	_	B	person	temp:0:25
+7	murar	murar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+

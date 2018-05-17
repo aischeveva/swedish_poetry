@@ -1,0 +1,9 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	blixt	blixt	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	af	af	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	hjeltevrede	hjeltevrede	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+5	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:24
+6	anlet	anlet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+7	öfverflög	öfverflyga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:35
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

@@ -1,0 +1,11 @@
+1	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	hedna	hedna	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	gudar	gudar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	vigda	vigda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:22
+7	halft	halft	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:31
+9	grus	grus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+10	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

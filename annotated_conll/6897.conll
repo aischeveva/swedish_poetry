@@ -1,0 +1,12 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	flärd	flärd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	mången	mången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	runa	runa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:26
+8	skärs	skärs	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+9	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:36
+10	balk	balk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+11	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

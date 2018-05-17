@@ -1,0 +1,10 @@
+1	Vis	vis	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:7
+4	Oden	oden	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:17
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:21
+8	Urdas	Urda	PM	PM	GEN	_	_	_	_	B	person	temp:0:23
+9	silfvervåg	silfvervåg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

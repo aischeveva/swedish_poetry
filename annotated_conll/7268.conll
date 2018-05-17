@@ -1,0 +1,10 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	snart	snart	AB	AB	POS	_	_	_	_	O	_	temp:0:10
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:16
+6	hela	hel	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	land	land	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	begrafvet	begrafvet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

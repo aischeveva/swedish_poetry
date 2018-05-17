@@ -1,0 +1,6 @@
+1	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	mjuk	mjuk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	förgänglig	förgänglig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	våg	våg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

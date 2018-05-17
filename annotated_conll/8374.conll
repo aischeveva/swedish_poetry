@@ -1,0 +1,13 @@
+1	Ack	ack	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:3
+
+1	mannen	man	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:5
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:12
+3	dock	dock	AB	AB	_	_	_	_	_	O	_	temp:1:15
+4	hård	hård	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:20
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:24
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:1:26
+7	för	för	PP	PP	_	_	_	_	_	O	_	temp:1:30
+8	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:1:34
+9	ära	ära	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:38
+

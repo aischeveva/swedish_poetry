@@ -1,0 +1,13 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:3
+3	gör	göra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	inget	inget	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:11
+5	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+7	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:24
+8	Gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:28
+9	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:32
+10	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:36
+11	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

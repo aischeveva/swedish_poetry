@@ -1,0 +1,10 @@
+1	Snart	snart	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	nog	nog	AB	AB	_	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:11
+5	våra	vår	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:15
+6	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+8	vuxit	vuxit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:29
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

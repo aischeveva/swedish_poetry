@@ -1,0 +1,8 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:4
+3	inget	ingen	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	bara	bara	AB	AB	_	_	_	_	_	O	_	temp:0:27
+7	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+

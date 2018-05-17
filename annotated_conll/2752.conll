@@ -1,0 +1,7 @@
+1	skall	skall	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Ödet	ödet	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	slå	slå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	dörr	dörr	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+

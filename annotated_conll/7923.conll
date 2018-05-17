@@ -1,0 +1,8 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	sutto	sutto	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	hviskande	hviskande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	dagen	dag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	om	om	PL	PL	_	_	_	_	_	O	_	temp:0:28
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

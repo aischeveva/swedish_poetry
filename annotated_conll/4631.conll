@@ -1,0 +1,8 @@
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:0
+2	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:2
+3	mjuk	mjuk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:10
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:14
+6	drömmande	drömmande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+7	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:27
+

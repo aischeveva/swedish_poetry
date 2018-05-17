@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	uppe	uppe	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:11
+5	djupnande	djupnande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+6	himmelen	himmelen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:34
+8	ljust	ljust	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+9	skymningsmoln	skymningsmoln	AB	AB	AN	_	_	_	_	O	_	temp:0:44
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:57
+

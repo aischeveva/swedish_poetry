@@ -1,0 +1,9 @@
+1	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:6
+4	famn	famn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+6	hvila	hvila	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	der	der	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

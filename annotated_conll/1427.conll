@@ -1,0 +1,5 @@
+1	Stor	stor	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	tystnad	tystnad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	rör	röra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:17
+

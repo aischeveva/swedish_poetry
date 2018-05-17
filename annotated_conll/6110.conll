@@ -1,0 +1,9 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	glad	glad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+7	lärospånen	lärospånen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

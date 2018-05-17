@@ -1,0 +1,9 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	stiger	stige	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	vilande	vila	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	vinge	vinge	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	spänd	spänd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,12 @@
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	stormar	stormar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	makt	makt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	hissa	hissa	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+8	seglen	seglen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:39
+10	topp	topp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

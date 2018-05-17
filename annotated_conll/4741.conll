@@ -1,0 +1,6 @@
+1	hundarna	hundarna	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hörde	höra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+4	yla	yla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+

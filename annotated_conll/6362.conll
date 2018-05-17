@@ -1,0 +1,9 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:5
+3	söfvande	söfvande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	raglar	raglar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+6	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:26
+7	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:29
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

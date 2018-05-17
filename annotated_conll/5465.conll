@@ -1,0 +1,7 @@
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	dagen	dag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	uppå	uppå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	fästet	fästet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

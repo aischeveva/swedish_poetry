@@ -1,0 +1,10 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	eldig	eldig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	blick	blick	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:17
+6	ber	ber	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+8	hoppas	hoppas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:29
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

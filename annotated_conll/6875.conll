@@ -1,0 +1,9 @@
+1	emellan	emellan	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	rosig	rosig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	morgon	morgon	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+5	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:30
+7	skogen	skog	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

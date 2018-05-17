@@ -1,0 +1,9 @@
+1	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	nya	ny	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	släkten	släkt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:25
+

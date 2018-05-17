@@ -1,0 +1,10 @@
+1	än	än	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+5	bleknar	bleknar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+6	öfver	öfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	dessa	denna	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:26
+8	snöberg	snöberg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

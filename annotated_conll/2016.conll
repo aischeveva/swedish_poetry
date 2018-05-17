@@ -1,0 +1,6 @@
+1	Solens	solens	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sista	sist	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	strålar	strålar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	snuddar	snuddar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

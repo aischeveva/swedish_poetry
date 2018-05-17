@@ -1,0 +1,9 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	skall	skall	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	sitta	sitta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:21
+7	jungfrubur	jungfrubur	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,5 @@
+1	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	samma	samma	DT	DT	UTR/NEU|SIN/PLU|IND	_	_	_	_	O	_	temp:0:3
+3	anor	anor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+

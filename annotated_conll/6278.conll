@@ -1,0 +1,7 @@
+1	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:0
+2	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	fällt	fällt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	like	like	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

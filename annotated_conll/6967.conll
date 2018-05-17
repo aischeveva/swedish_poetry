@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	djupt	djupt	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	kumlen	kumlen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	hviska	hviska	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:27
+7	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:30
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:33
+9	Norden	norden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

@@ -1,0 +1,5 @@
+1	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	sällsamma	sällsamma	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:6
+3	drag	drag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

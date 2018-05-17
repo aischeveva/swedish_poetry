@@ -1,0 +1,11 @@
+1	Skeppet	skeppet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Ellida	Ellida	PM	PM	NOM	_	_	_	_	B	place	temp:0:8
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	slut	slut	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:29
+7	af	af	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	slägtens	slägtens	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	klenoder	klenoder	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:52
+

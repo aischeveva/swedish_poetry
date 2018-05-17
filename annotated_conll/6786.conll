@@ -1,0 +1,17 @@
+1	Tag	tag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:4
+3	drottning	drottning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+
+1	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:1:20
+2	tillhör	tillhör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:24
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:32
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:35
+5	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:1:37
+6	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:41
+7	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:45
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:1:49
+9	brudgum	brudgum	UO	UO	_	_	_	_	_	O	_	temp:1:53
+10	kysst	kysst	UO	UO	_	_	_	_	_	O	_	temp:1:61
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:66
+

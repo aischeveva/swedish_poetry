@@ -1,0 +1,7 @@
+1	smyger	smyger	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:7
+3	pestgift	pestgift	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	sinnena	sinnena	RG	RG	NOM	_	_	_	_	O	_	temp:0:25
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

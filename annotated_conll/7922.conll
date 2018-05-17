@@ -1,0 +1,12 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	vänlig	vänlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	runa	runa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:14
+
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:16
+2	märker	märka	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:20
+3	ingen	ingen	PN	PN	UTR|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:1:27
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:32
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:2:33
+

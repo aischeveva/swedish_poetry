@@ -1,0 +1,9 @@
+1	Nyss	nyss	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	slog	slå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	skogens	skogens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:14
+5	kung	kung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	så	så	SN	SN	_	_	_	_	_	O	_	temp:0:27
+7	luden	luden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

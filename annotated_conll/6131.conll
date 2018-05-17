@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:10
+5	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+6	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+7	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:22
+8	hjerta	hjerta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	kär	kär	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

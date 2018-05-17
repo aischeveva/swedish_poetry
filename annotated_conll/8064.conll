@@ -1,0 +1,6 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	morgonrodnad	morgonrodnad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:17
+4	kinden	kinden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

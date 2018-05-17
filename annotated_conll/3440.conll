@@ -1,0 +1,5 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	skurarnas	skurarnas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:2
+3	ström	ström	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+

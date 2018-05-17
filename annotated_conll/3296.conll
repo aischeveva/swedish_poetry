@@ -1,0 +1,7 @@
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dråp	dråp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	lyst	lyst	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:9
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	akt	akt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+

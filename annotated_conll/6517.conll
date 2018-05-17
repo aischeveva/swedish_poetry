@@ -1,0 +1,9 @@
+1	stå	stå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	härliga	härliga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	fjällen	fjällen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	himlen	himmel	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:32
+8	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

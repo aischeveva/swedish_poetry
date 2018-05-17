@@ -1,0 +1,13 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	rister	rister	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:11
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:15
+5	brister	brister	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	revben	revben	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:36
+9	kotor	kotor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:40
+10	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:46
+11	märg	märg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:50
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:54
+

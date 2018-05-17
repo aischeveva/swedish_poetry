@@ -1,0 +1,8 @@
+1	spärrade	spärrade	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+3	spända	spända	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	girig	girig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	ångest	ångest	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

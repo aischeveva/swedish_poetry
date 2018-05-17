@@ -1,0 +1,11 @@
+1	Den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+4	tro	tro	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+7	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+8	fin	fin	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:26
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

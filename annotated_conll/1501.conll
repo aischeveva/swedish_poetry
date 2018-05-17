@@ -1,0 +1,8 @@
+1	Ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	hävstång	hävstång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	bänder	bänder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+4	upp	upp	PL	PL	_	_	_	_	_	O	_	temp:0:22
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:26
+6	käkarna	käkarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

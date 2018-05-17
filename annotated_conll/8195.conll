@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	flyger	flyge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	ditt	ditt	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	bröst	bröst	AB	AB	SUV	_	_	_	_	O	_	temp:0:21
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+7	talar	tala	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+

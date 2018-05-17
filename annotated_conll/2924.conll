@@ -1,0 +1,14 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	drömde	drömde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:11
+4	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+6	fager	fager	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:29
+8	god	god	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:38
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:39
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:40
+

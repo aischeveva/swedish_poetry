@@ -1,0 +1,7 @@
+1	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	lägga	lägga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	de	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:9
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	land	land	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+

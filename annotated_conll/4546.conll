@@ -1,0 +1,8 @@
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	halvfjärdings	halvfjärdings	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	väg	väg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	dej	dej	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

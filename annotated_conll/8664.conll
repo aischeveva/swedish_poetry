@@ -1,0 +1,9 @@
+1	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	växten	växten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:11
+4	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:14
+5	värde	värde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	lånar	lånar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+8	färgen	färgen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+

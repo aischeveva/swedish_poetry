@@ -1,0 +1,8 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	kungens	kungens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:5
+3	söner	son	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:19
+5	styrde	styra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:23
+6	färden	färden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

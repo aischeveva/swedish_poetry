@@ -1,0 +1,11 @@
+1	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	älskade	älskade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	fjärransedda	fjärransedda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+5	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:25
+6	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:28
+7	hem	hem	AB	AB	_	_	_	_	_	O	_	temp:0:33
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:37
+9	aningen	aningen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

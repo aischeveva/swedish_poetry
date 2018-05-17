@@ -1,0 +1,12 @@
+1	Räck	räck	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+
+1	Vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:1:20
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:23
+3	härdarnas	härdarnas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:1:26
+4	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:36
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:40
+

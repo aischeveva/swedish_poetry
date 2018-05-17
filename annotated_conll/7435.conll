@@ -1,0 +1,9 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dansen	dansen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:11
+5	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:15
+6	barndomsminnen	barndomsminnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	trängde	trängde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:35
+8	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:43
+

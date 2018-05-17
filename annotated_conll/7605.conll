@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	palmer	palmer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+6	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:30
+7	graf	graf	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:35
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:40
+9	ljus	ljus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

@@ -1,0 +1,9 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	första	första	RO	RO	NOM	_	_	_	_	O	_	temp:0:4
+3	smultron	smultron	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:21
+6	blef	blef	UO	UO	_	_	_	_	_	O	_	temp:0:25
+7	rödt	rödt	UO	UO	_	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

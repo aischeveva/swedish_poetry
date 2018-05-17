@@ -1,0 +1,12 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	kortlek	kortlek	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	handen	hand	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:1:22
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:25
+3	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:27
+4	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:32
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:35
+

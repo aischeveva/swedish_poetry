@@ -1,0 +1,8 @@
+1	härdar	härdar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:7
+3	ljusa	ljusa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	hem	hem	PL	PL	_	_	_	_	_	O	_	temp:0:17
+5	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:21
+6	bygga	bygga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

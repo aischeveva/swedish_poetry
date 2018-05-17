@@ -1,0 +1,9 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ack	ack	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	förruttnelse	förruttnelse	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+6	livets	livets	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+7	anda	anda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:32
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

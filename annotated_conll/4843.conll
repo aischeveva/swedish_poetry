@@ -1,0 +1,13 @@
+1	Din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	höghet	höghet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	själ	själ	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+8	enfald	enfald	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+9	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:36
+10	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:40
+11	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:48
+

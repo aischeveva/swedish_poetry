@@ -1,0 +1,9 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	litet	liten	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	känner	känna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:17
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:20
+6	mörke	mörke	UO	UO	_	_	_	_	_	O	_	temp:0:24
+7	broder	broder	UO	UO	_	_	_	_	_	O	_	temp:0:30
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

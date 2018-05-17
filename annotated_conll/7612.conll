@@ -1,0 +1,13 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:9
+5	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:17
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+8	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+9	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:29
+10	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:33
+11	viftar	vifta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:37
+12	lätt	lätt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+

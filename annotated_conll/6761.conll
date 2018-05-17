@@ -1,0 +1,14 @@
+1	Sorgen	sorgen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	trifs	trifs	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:7
+3	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	rätt	rätt	AB	AB	_	_	_	_	_	O	_	temp:0:16
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	vågen	vågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+8	blåser	blåse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+9	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:38
+10	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:43
+11	himlens	himlens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:47
+12	vind	vind	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:55
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:59
+

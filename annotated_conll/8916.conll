@@ -1,0 +1,6 @@
+1	Frithiof	frithiof	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:10
+4	gråter	gråter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

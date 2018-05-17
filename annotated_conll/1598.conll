@@ -1,0 +1,12 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	Allah	Allah	PM	PM	NOM	_	_	_	_	B	person	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	Allah	Allah	PM	PM	NOM	_	_	_	_	B	place	temp:0:15
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+7	välsignat	välsignat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:22
+8	vare	vare	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:32
+9	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:37
+10	namn	namn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

@@ -1,0 +1,17 @@
+1	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	eger	eger	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	fader	fader	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:14
+
+1	O	o	KN	KN	_	_	_	_	_	O	_	temp:1:16
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:17
+3	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:1:19
+4	arm	arm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:23
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:27
+6	döden	döden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:30
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:1:35
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:2:36
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:2:38
+

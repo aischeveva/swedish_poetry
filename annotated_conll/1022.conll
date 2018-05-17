@@ -1,0 +1,6 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	tvang	tvang	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	form	form	NN	NN	AN	_	_	_	_	O	_	temp:0:10
+4	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	kaos	kaos	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+

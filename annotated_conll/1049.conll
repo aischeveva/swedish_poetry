@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	grenar	grenar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	tvina	tvina	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	förstörd	förstörd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	kraft	kraft	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

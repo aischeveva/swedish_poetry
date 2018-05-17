@@ -1,0 +1,5 @@
+1	Där	där	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	slagrutan	slagrutan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	sänker	sänker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+

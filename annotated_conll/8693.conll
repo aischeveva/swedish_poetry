@@ -1,0 +1,9 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	skulle	ska	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	brännas	brännas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:11
+4	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+6	heta	heta	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

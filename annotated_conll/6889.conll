@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	tronen	tronen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	hvilar	hvilar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	endast	endast	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	lagens	lagens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:28
+7	grund	grund	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

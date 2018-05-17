@@ -1,0 +1,8 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	grönt	grönt	PC	PC	PRF|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+6	fädernedal	fädernedal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

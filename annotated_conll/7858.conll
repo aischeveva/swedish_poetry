@@ -1,0 +1,14 @@
+1	slog	slå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:5
+3	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	väldiga	väldiga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	stjert	stjert	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:28
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:30
+8	ringel	ringel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+10	fjällig	fjällig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+11	af	af	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:49
+12	silfver	silfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:52
+13	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:59
+

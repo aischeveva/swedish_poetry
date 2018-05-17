@@ -1,0 +1,15 @@
+1	mellan	mellan	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:7
+3	Oden	oden	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+5	Frej	Frej	PM	PM	NOM	_	_	_	_	B	person	temp:0:21
+6	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:27
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+9	Thors	thors	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+10	plats	plats	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+11	uppe	uppe	AB	AB	_	_	_	_	_	O	_	temp:0:46
+12	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:51
+13	Valhall	valhall	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:53
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:60
+

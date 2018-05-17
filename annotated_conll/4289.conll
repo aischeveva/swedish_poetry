@@ -1,0 +1,9 @@
+1	flyter	flyter	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:7
+3	speglande	speglande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	flod	flod	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	osedd	osedd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	källa	källa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

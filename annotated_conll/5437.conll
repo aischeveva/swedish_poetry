@@ -1,0 +1,7 @@
+1	Hvi	hvi	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	prisas	prisas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:4
+3	Gerdas	Gerdas	PM	PM	NOM	_	_	_	_	B	person	temp:0:11
+4	kinder	kinder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:25
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

@@ -1,0 +1,10 @@
+1	Hell	hell	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	ditt	ditt	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	lekande	lekande	UO	UO	_	_	_	_	_	O	_	temp:0:10
+4	lugn	lugn	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+6	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	vårliga	vårliga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	hälsa	hälsa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

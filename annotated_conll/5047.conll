@@ -1,0 +1,8 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	rådslag	rådslag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:11
+4	beslut	beslut	PC	PC	PRF|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	landets	landets	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:35
+

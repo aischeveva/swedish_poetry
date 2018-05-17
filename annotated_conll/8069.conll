@@ -1,0 +1,7 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	kungens	kungens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:2
+3	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:10
+4	glesnade	glesnade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+5	lockar	lockar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

@@ -1,0 +1,5 @@
+1	din	din	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	fader	fader	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	sitter	sitta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+

@@ -1,0 +1,5 @@
+1	Allting	allting	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	nått	något	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:8
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:13
+4	färdigt	färdigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+

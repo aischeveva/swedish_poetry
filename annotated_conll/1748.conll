@@ -1,0 +1,7 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	ursprungs	ursprungs	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:9
+4	ursprung	ursprung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	hyser	hyser	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

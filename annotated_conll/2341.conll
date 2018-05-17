@@ -1,0 +1,7 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	stormande	stormande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+6	höst	höst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

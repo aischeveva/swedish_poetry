@@ -1,0 +1,9 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	enkel	enkel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	klädd	klädd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+7	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+8	självmedvetenhet	självmedvetenhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+

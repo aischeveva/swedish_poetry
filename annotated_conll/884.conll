@@ -1,0 +1,11 @@
+1	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	tanke	tanke	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	förnekar	förnekar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	undret	undret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:1:28
+2	hjärtat	hjärta	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:32
+3	tror	tro	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:40
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:44
+

@@ -1,0 +1,13 @@
+1	Är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:3
+3	Hvite	Hvite	PM	PM	NOM	_	_	_	_	B	person	temp:0:7
+4	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:13
+5	vred	vred	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+8	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:26
+9	taga	taga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:30
+10	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:35
+11	svärd	svärd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

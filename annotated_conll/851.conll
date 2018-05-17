@@ -1,0 +1,9 @@
+1	tills	tills	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	allting	allting	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+4	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:21
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+6	tätnat	tätnat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+8	slutet	slutet	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+

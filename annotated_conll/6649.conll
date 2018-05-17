@@ -1,0 +1,9 @@
+1	i	i	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	handsbredt	handsbredt	UO	UO	_	_	_	_	_	O	_	temp:0:2
+3	silfverbälte	silfverbälte	UO	UO	_	_	_	_	_	O	_	temp:0:13
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:26
+5	skogens	skogens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:30
+6	djur	djur	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:38
+7	uppå	uppå	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:43
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

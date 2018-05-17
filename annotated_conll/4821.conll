@@ -1,0 +1,7 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	flykten	flykten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	slog	slå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:15
+5	örnars	örnars	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:20
+6	legion	legion	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+

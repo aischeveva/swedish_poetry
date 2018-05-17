@@ -1,0 +1,8 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	någon	någon	PN	PN	UTR|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:11
+4	talat	talat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:17
+5	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	förr	förr	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

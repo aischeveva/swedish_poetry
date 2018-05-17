@@ -1,0 +1,13 @@
+1	flockvis	flockvis	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	spridda	spridda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:17
+4	himmelens	himmelens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:20
+5	hvalf	hvalf	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:30
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+7	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:37
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:41
+9	blåser	blåse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:45
+10	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:52
+11	våren	våren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:55
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:60
+

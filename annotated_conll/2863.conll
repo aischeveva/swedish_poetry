@@ -1,0 +1,9 @@
+1	Ju	ju	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:3
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:7
+4	stark	stark	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+6	lida	lida	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+7	ont	ont	AB	AB	POS	_	_	_	_	O	_	temp:0:25
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

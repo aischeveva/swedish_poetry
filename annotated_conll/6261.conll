@@ -1,0 +1,8 @@
+1	Första	första	RO	RO	NOM	_	_	_	_	O	_	temp:0:0
+2	hugget	hugget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+4	kung	kung	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:23
+6	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

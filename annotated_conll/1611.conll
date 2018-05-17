@@ -1,0 +1,12 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	väl	väl	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:12
+5	ringa	ringa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+7	för	för	KN	KN	_	_	_	_	_	O	_	temp:0:22
+8	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:26
+9	avsides	avsides	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:29
+10	brunnarna	brunnarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:37
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

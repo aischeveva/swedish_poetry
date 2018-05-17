@@ -1,0 +1,12 @@
+1	Vistas	vistas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	höjdernas	höjdernas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:10
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:20
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+6	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:24
+7	åskan	åskan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:34
+9	stormarna	stormarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:38
+10	tala	tala	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:48
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

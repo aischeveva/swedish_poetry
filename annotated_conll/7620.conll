@@ -1,0 +1,9 @@
+1	Förakten	förakten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	likväl	likväl	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+3	icke	icke	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+4	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:26
+7	redligt	redligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	sökt	sökt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+

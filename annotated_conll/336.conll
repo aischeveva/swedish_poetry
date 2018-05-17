@@ -1,0 +1,9 @@
+1	Av	av	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	vårt	vår	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:3
+3	eget	eget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:25
+7	uteglömda	uteglömda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

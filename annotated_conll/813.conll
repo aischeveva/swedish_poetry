@@ -1,0 +1,10 @@
+1	Din	din	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dyrkan	dyrkan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	fyller	fyller	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+6	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:26
+7	utöver	utöver	PP	PP	_	_	_	_	_	O	_	temp:0:32
+8	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:39
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

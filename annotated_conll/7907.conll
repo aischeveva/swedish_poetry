@@ -1,0 +1,11 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:1
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+4	ej	ej	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:9
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:12
+6	trefligt	trefligt	AB	AB	POS	_	_	_	_	O	_	temp:0:15
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:24
+8	kungens	kungens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:26
+9	gård	gård	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

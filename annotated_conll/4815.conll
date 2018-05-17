@@ -1,0 +1,10 @@
+1	Ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	speglad	speglad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:11
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	insjöns	insjöns	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	lugn	lugn	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+8	vars	vars	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:31
+9	brädd	brädd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+

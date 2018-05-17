@@ -1,0 +1,8 @@
+1	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:5
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+5	heliga	heliga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+6	säden	säden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	växer	växer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+

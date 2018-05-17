@@ -1,0 +1,9 @@
+1	Stel	stel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	kall	kall	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+6	slutna	slutna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,10 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	steg	steg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	mjältsjuk	mjältsjuk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	svartalf	svartalf	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+6	upp	upp	PL	PL	_	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:35
+9	plötsligt	plötsligt	AB	AB	POS	_	_	_	_	O	_	temp:0:39
+

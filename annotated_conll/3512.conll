@@ -1,0 +1,7 @@
+1	onåelig	onåelig	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	nöd	nöd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	skam	skam	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

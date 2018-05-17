@@ -1,0 +1,7 @@
+1	Ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	summa	summa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	världens	värld	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:15
+5	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

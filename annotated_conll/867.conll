@@ -1,0 +1,14 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	vaknar	vaknar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	natten	natt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+8	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:30
+9	vaknar	vaknar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+10	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:40
+11	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:44
+12	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:46
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

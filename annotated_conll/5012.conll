@@ -1,0 +1,10 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	hjälten	hjälten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:13
+5	blödde	blödde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	Lützens	Lützen	PM	PM	GEN	_	_	_	_	B	person	temp:0:27
+8	fält	fält	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

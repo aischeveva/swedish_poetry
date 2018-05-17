@@ -1,0 +1,6 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	många	mången	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	gryningen	gryningen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+

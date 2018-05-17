@@ -1,0 +1,6 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	prest	prest	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:10
+4	vala	vala	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:18
+

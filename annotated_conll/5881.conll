@@ -1,0 +1,6 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	emot	emot	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	vägg	vägg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:14
+5	stöder	stöder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+

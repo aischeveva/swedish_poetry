@@ -1,0 +1,14 @@
+1	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:0
+2	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+6	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:16
+7	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:20
+8	droppar	droppar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+9	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:33
+10	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+11	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:41
+12	gråt	gråt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:49
+

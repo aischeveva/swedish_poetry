@@ -1,0 +1,7 @@
+1	faller	faller	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	glitter	glitter	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	kvistens	kvistens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:21
+6	droppar	droppar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:30
+

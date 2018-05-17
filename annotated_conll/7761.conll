@@ -1,0 +1,18 @@
+1	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:5
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	Frithiof	Frithiof	PM	PM	NOM	_	_	_	_	B	person	temp:0:14
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	arf	arf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:28
+8	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:30
+9	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:34
+10	drog	drog	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:38
+11	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:43
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+13	sken	sken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:48
+14	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:53
+15	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:57
+16	salen	sal	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:59
+17	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:64
+

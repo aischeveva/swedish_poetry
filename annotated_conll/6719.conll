@@ -1,0 +1,11 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	far	fara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+4	förbi	förbi	PL	PL	_	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:19
+7	snart	snart	AB	AB	POS	_	_	_	_	O	_	temp:0:22
+8	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:28
+9	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:32
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

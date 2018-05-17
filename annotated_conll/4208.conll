@@ -1,0 +1,5 @@
+1	Mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	fyller	fyller	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	bister	bister	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	törst	törst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+

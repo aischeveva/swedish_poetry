@@ -1,0 +1,9 @@
+1	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	Nordens	nordens	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	stjerna	stjerna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	hvilken	hvilken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+7	alltjämt	alltjämt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:34
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

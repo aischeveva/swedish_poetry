@@ -1,0 +1,8 @@
+1	Derefter	derefter	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	syntes	synas	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:9
+3	Halfdan	Halfdan	PM	PM	NOM	_	_	_	_	B	person	temp:0:16
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+5	ljuslockig	ljuslockig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	sven	sven	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

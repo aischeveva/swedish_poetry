@@ -1,0 +1,8 @@
+1	tills	tills	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	drogs	drogs	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:16
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	virveln	virveln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

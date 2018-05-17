@@ -1,0 +1,6 @@
+1	kunskap	kunskap	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+3	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:12
+4	fångas	fångas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

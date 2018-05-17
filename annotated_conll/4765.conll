@@ -1,0 +1,10 @@
+1	Mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	öra	öra	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	längtar	längta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:17
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	dina	dina	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:25
+7	ekos	ekos	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:30
+8	röst	röst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

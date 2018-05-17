@@ -1,0 +1,14 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	hjelpe	hjelpe	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	Frej	Frej	PM	PM	NOM	_	_	_	_	B	person	temp:0:10
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	Oden	Oden	PM	PM	NOM	_	_	_	_	B	person	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	derhos	Derhos	PM	PM	NOM	_	_	_	_	B	person	temp:0:25
+8	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:32
+9	starke	starke	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+10	Thor	Thor	PM	PM	NOM	_	_	_	_	B	place	temp:0:43
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:48
+

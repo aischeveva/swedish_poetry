@@ -1,0 +1,8 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	hjelmen	hjelmen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	passar	passar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	pannan	panna	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

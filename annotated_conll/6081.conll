@@ -1,0 +1,8 @@
+1	Mjölkhvite	mjölkhvite	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	gångarn	gångarn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:19
+4	guld	guld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:28
+6	manen	manen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

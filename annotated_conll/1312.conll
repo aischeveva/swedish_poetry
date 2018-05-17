@@ -1,0 +1,11 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	vandrande	vandrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	vajande	vajande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	växt	växt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:26
+6	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:31
+7	himmelsvind	himmelsvind	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+8	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:47
+9	pannan	panna	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:50
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:56
+

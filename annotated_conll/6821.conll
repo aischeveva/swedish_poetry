@@ -1,0 +1,18 @@
+1	tag	tag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	rike	rike	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	o	o	KN	KN	_	_	_	_	_	O	_	temp:0:18
+7	yngling	yngling	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+
+1	tag	tag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:29
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:1:33
+3	drottning	drottning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:37
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:46
+5	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:48
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:52
+7	din	din	NN	NN	UTR|-|-|-	_	_	_	_	O	_	temp:1:55
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:58
+

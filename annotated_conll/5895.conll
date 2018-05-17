@@ -1,0 +1,6 @@
+1	Bak	bak	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kämpens	kämpens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	stol	stol	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:17
+5	tärna	tärna	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+

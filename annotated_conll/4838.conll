@@ -1,0 +1,11 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	fröjd	fröjd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:10
+4	hälsa	hälsa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	blott	blott	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+7	sminkat	sminkat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:29
+8	edra	edra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:37
+9	kinder	kinder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:42
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

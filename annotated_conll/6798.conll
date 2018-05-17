@@ -1,0 +1,19 @@
+1	Dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	hvar	hvar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+5	ditt	ditt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	svärd	svärd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+8	o	o	KN	KN	_	_	_	_	_	O	_	temp:0:26
+9	främling	främling	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+10	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+
+1	blixtens	blixtens	UO	UO	_	_	_	_	_	O	_	temp:1:38
+2	broder	broder	UO	UO	_	_	_	_	_	O	_	temp:1:47
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:53
+4	hvar	hvar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:1:55
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:60
+6	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:63
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:1:66
+

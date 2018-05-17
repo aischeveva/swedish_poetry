@@ -1,0 +1,8 @@
+1	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	skjutit	skjutit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+4	gren	gren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	nytt	ny	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

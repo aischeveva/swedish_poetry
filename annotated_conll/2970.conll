@@ -1,0 +1,7 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	morgon	morgon	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:9
+4	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:15
+5	ingenting	ingenting	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:19
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

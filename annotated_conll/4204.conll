@@ -1,0 +1,9 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	skönast	skönast	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:15
+5	stå	stå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:23
+7	smärtans	smärtans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	valplats	valplats	AB	AB	AN	_	_	_	_	O	_	temp:0:35
+

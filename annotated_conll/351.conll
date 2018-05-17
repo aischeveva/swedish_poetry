@@ -1,0 +1,10 @@
+1	Vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	vårt	vår	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	hjärtas	hjärtas	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	murar	murar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+6	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:28
+7	vänta	vänta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:31
+8	förvandling	förvandling	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

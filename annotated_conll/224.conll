@@ -1,0 +1,4 @@
+1	Pestårhundraden	pestårhundraden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+3	farsotstider	farsotstider	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+

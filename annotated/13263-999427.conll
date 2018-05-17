@@ -1,0 +1,75 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-999427:0:1
+2	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-999427:0:5
+3	så	så	AB	AB	_	_	_	_	_	O	_	13263-999427:0:10
+4	sjukt	sjuk	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-999427:0:13
+5	sugen	suga	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-999427:0:19
+6	på	på	PP	PP	_	_	_	_	_	O	_	13263-999427:0:25
+7	Mums-mums	Mums-mums	PM	PM	NOM	_	_	_	_	B	place	13263-999427:0:28
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-999427:0:37
+
+1	För	för	PP	PP	_	_	_	_	_	O	_	13263-999427:1:39
+2	typ	typ	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-999427:1:43
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	13263-999427:1:47
+4	månad	månad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-999427:1:50
+5	sedan	sedan	AB	AB	_	_	_	_	_	O	_	13263-999427:1:56
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-999427:1:61
+
+1	Sen	sen	PP	PP	_	_	_	_	_	O	_	13263-999427:2:63
+2	dess	dess	AB	AB	_	_	_	_	_	O	_	13263-999427:2:67
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-999427:2:72
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-999427:2:76
+5	tänkt	tänka	VB	VB	SUP|AKT	_	_	_	_	O	_	13263-999427:2:80
+6	att	att	SN	SN	_	_	_	_	_	O	_	13263-999427:2:86
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-999427:2:90
+8	skulle	skola	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-999427:2:94
+9	köpa	köpa	VB	VB	INF|AKT	_	_	_	_	O	_	13263-999427:2:101
+10	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	13263-999427:2:106
+11	paket	paket	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-999427:2:110
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-999427:2:115
+
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-999427:3:117
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-999427:3:121
+3	minnen	minne	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	13263-999427:3:124
+4	från	från	PP	PP	_	_	_	_	_	O	_	13263-999427:3:131
+5	någonstans	någonstans	AB	AB	_	_	_	_	_	O	_	13263-999427:3:136
+6	i	i	PP	PP	_	_	_	_	_	O	_	13263-999427:3:147
+7	barndomen	barndom	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-999427:3:149
+8	där	där	HA	HA	_	_	_	_	_	O	_	13263-999427:3:159
+9	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	13263-999427:3:163
+10	glufsades	glufsa	VB	VB	PRT|SFO	_	_	_	_	O	_	13263-999427:3:166
+11	i	i	PP	PP	_	_	_	_	_	O	_	13263-999427:3:176
+12	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	13263-999427:3:178
+13	nafs	nafs	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-999427:3:182
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-999427:3:186
+
+1	Men	men	KN	KN	_	_	_	_	_	O	_	13263-999427:4:188
+2	av	av	PP	PP	_	_	_	_	_	O	_	13263-999427:4:192
+3	någon	någon	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	13263-999427:4:195
+4	konstig	konstig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-999427:4:201
+5	anledning	anledning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-999427:4:209
+6	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-999427:4:219
+7	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-999427:4:224
+8	inte	inte	AB	AB	_	_	_	_	_	O	_	13263-999427:4:228
+9	att	att	SN	SN	_	_	_	_	_	O	_	13263-999427:4:233
+10	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-999427:4:237
+11	köpte	köpa	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-999427:4:241
+12	några	några	PN	PN	UTR/NEU|PLU|IND|SUB/OBJ	_	_	_	_	O	_	13263-999427:4:247
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-999427:4:252
+
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-999427:5:254
+2	kändes	kännas	VB	VB	PRT|SFO	_	_	_	_	O	_	13263-999427:5:258
+3	så	så	AB	AB	_	_	_	_	_	O	_	13263-999427:5:265
+4	slabbigt	slabbig	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-999427:5:268
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-999427:5:276
+
+1	Tills	tills	PP	PP	_	_	_	_	_	O	_	13263-999427:6:278
+2	idag	idag	AB	AB	_	_	_	_	_	O	_	13263-999427:6:284
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-999427:6:288
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-999427:7:290
+2	tänkte	tänka	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-999427:7:294
+3	[	[	PAD	PAD	_	_	_	_	_	O	_	13263-999427:7:301
+4	...	...	MAD	MAD	_	_	_	_	_	O	_	13263-999427:7:302
+
+1	]	]	PAD	PAD	_	_	_	_	_	O	_	13263-999427:8:305
+

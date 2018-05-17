@@ -1,0 +1,8 @@
+1	Rädda	rädd	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	rädda	rädd	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	seende	seende	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+6	gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

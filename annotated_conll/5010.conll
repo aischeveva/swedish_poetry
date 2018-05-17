@@ -1,0 +1,9 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	ättgode	ättgode	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	män	män	UO	UO	_	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:16
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:20
+7	kungsstol	kungsstol	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	ställt	ställt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,8 @@
+1	släpar	släpar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:7
+3	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:10
+4	innanmäte	innanmäte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	kassen	kasse	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

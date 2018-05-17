@@ -1,0 +1,9 @@
+1	brudsmyckad	brudsmyckad	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+3	hermlinsmantlad	hermlinsmantlad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+5	utaf	utaf	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+6	tärnor	tärnor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:35
+7	följd	följd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:47
+

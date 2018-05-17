@@ -1,0 +1,6 @@
+1	slå	slå	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	tätt	tätt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:4
+3	emot	emot	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	hvarann	hvarann	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

@@ -1,0 +1,9 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	ned	ned	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:14
+6	vaggande	vaggande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:18
+7	blå	blå	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

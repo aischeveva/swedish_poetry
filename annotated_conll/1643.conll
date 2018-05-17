@@ -1,0 +1,6 @@
+1	böjde	böjde	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	knä	knä	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	fruktan	fruktan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+

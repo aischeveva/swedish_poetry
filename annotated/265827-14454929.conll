@@ -1,0 +1,75 @@
+1	Satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454929:0:1
+2	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454929:0:6
+3	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454929:0:10
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	265827-14454929:0:15
+5	sista	sist	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	265827-14454929:0:19
+6	fika	fika	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454929:0:25
+7	med	med	PP	PP	_	_	_	_	_	O	_	265827-14454929:0:30
+8	Matilda	Matilda	PM	PM	NOM	_	_	_	_	B	person	265827-14454929:0:34
+9	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454929:0:42
+10	Fanny	Fanny	PM	PM	NOM	_	_	_	_	B	person	265827-14454929:0:46
+11	idag	idag	AB	AB	_	_	_	_	_	O	_	265827-14454929:0:52
+12	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454929:0:56
+13	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-14454929:0:58
+14	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454929:0:61
+15	haft	ha	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14454929:0:65
+16	samma	samma	DT	DT	UTR/NEU|SIN/PLU|IND	_	_	_	_	O	_	265827-14454929:0:70
+17	hål	hål	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14454929:0:76
+18	i	i	PP	PP	_	_	_	_	_	O	_	265827-14454929:0:80
+19	elva	elva	RG	RG	NOM	_	_	_	_	O	_	265827-14454929:0:82
+20	veckor	vecka	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14454929:0:87
+21	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454929:0:93
+
+1	Hursomhelt	hursomhelt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454929:1:95
+2	-	-	MID	MID	_	_	_	_	_	O	_	265827-14454929:1:106
+3	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454929:1:108
+4	in	in	PP	PP	_	_	_	_	_	O	_	265827-14454929:1:112
+5	på	på	PP	PP	_	_	_	_	_	O	_	265827-14454929:1:115
+6	facebook	facebook	PM	PM	NOM	_	_	_	_	B	place	265827-14454929:1:118
+7	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454929:1:127
+8	möts	möta	VB	VB	PRS|SFO	_	_	_	_	O	_	265827-14454929:1:131
+9	av	av	PP	PP	_	_	_	_	_	O	_	265827-14454929:1:136
+10	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14454929:1:139
+11	här	här	AB	AB	_	_	_	_	_	O	_	265827-14454929:1:143
+12	:	:	MAD	MAD	_	_	_	_	_	O	_	265827-14454929:1:146
+
+1	Helt	helt	AB	AB	POS	_	_	_	_	O	_	265827-14454929:2:153
+2	enkelt	enkelt	AB	AB	POS	_	_	_	_	O	_	265827-14454929:2:158
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454929:2:164
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454929:3:166
+2	fattar	fatta	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454929:3:170
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-14454929:3:177
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454929:3:181
+
+1	I	i	PP	PP	_	_	_	_	_	O	_	265827-14454929:4:185
+2	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	265827-14454929:4:187
+3	fall	fall	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	265827-14454929:4:192
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14454929:4:196
+
+1	Har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454929:5:198
+2	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-14454929:5:202
+3	sett	se	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14454929:5:205
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	265827-14454929:5:210
+5	nya	ny	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14454929:5:214
+6	header	header	UO	UO	_	_	_	_	_	O	_	265827-14454929:5:218
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	265827-14454929:5:224
+
+1	(	(	PAD	PAD	_	_	_	_	_	O	_	265827-14454929:6:226
+2	om	om	SN	SN	_	_	_	_	_	O	_	265827-14454929:6:227
+3	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-14454929:6:230
+4	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-14454929:6:233
+5	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454929:6:238
+6	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14454929:6:242
+7	-	-	MID	MID	_	_	_	_	_	O	_	265827-14454929:6:245
+8	uppdatera	uppdatera	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14454929:6:247
+9	sidan	sida	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-14454929:6:257
+10	)	)	PAD	PAD	_	_	_	_	_	O	_	265827-14454929:6:262
+11	Och	och	KN	KN	_	_	_	_	_	O	_	265827-14454929:6:264
+12	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	265827-14454929:6:268
+13	tycker	tycka	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454929:6:272
+14	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-14454929:6:279
+15	?	?	MAD	MAD	_	_	_	_	_	O	_	265827-14454929:6:281
+
+1	:)	:)	LE	LE	_	_	_	_	_	O	_	265827-14454929:7:283
+

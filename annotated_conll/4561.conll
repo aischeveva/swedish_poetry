@@ -1,0 +1,9 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	ihåg	ihåg	PL	PL	_	_	_	_	_	O	_	temp:0:15
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:20
+6	par	par	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	trötta	trötta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+8	grå	grå	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+

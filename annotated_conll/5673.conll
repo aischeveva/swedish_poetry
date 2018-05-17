@@ -1,0 +1,6 @@
+1	visa	visa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:6
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+5	gömmer	gömmer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+

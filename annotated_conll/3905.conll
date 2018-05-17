@@ -1,0 +1,8 @@
+1	Hör	hör	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	hemska	hemsk	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	suset	suset	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:21
+6	uppe	uppe	AB	AB	_	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

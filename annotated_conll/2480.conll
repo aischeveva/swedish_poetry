@@ -1,0 +1,7 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	stammens	stammens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	sav	sav	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	bitter	bitter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	smak	smak	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+

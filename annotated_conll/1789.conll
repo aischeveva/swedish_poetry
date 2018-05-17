@@ -1,0 +1,14 @@
+1	Bin	bin	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	gar	gar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	keine	keine	UO	UO	_	_	_	_	_	O	_	temp:0:8
+4	Russin	russin	UO	UO	_	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	stamm	stamm	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:27
+8	aus	aus	UO	UO	_	_	_	_	_	O	_	temp:0:29
+9	Litauen	litauen	UO	UO	_	_	_	_	_	O	_	temp:0:33
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+11	echt	echt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:42
+12	deutsch	deutsch	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:54
+

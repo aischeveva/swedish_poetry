@@ -1,0 +1,10 @@
+1	Vänta	vänta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+7	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+8	tålamod	tålamod	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

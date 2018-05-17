@@ -1,0 +1,5 @@
+1	Hvad	hvad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	menniskokraft	menniskokraft	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	emot	emot	PP	PP	_	_	_	_	_	O	_	temp:0:22
+

@@ -1,0 +1,8 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	ville	vilja	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	måla	måla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:15
+5	träsked	träsked	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

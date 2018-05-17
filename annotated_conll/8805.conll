@@ -1,0 +1,10 @@
+1	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	fråga	fråga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	endast	endast	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:10
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:21
+6	suck	suck	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:29
+8	stranden	stranden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

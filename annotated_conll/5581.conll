@@ -1,0 +1,8 @@
+1	tumlande	tumlande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:9
+3	med	med	AB	AB	_	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:17
+6	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:20
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

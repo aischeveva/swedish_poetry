@@ -1,0 +1,5 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	restes	restes	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	forntidshärdarna	forntidshärdarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:15
+

@@ -1,0 +1,7 @@
+1	bad	be	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	samma	samma	DT	DT	UTR/NEU|SIN/PLU|IND	_	_	_	_	O	_	temp:0:4
+3	bön	bön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	förskoning	förskoning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

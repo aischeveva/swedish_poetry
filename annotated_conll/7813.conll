@@ -1,0 +1,15 @@
+1	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:0
+2	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	ande	ande	UO	UO	_	_	_	_	_	O	_	temp:0:11
+5	af	af	UO	UO	_	_	_	_	_	O	_	temp:0:16
+6	eld	eld	UO	UO	_	_	_	_	_	O	_	temp:0:19
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:23
+2	Men	men	KN	KN	_	_	_	_	_	O	_	temp:1:25
+3	halfvred	halfvred	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:29
+4	svarade	svara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:38
+5	Thorsten	Thorsten	PM	PM	NOM	_	_	_	_	B	animal	temp:1:46
+6	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:1:54
+

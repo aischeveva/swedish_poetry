@@ -1,0 +1,9 @@
+1	Den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:7
+4	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:11
+5	luta	luta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:20
+7	varma	varm	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:24
+8	kind	kind	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+

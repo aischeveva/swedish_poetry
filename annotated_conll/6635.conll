@@ -1,0 +1,12 @@
+1	sjelf	sjelf	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	gammal	gammal	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:13
+5	vorden	vorden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+7	bränner	bränner	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+8	salt	salt	AB	AB	POS	_	_	_	_	O	_	temp:0:39
+9	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:44
+10	strand	strand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:54
+

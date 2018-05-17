@@ -1,0 +1,6 @@
+1	Valven	valven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	skälver	skälver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	levande	levande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	andar	andar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+

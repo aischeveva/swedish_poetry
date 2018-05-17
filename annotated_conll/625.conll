@@ -1,0 +1,7 @@
+1	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	tom	tom	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	rök	rök	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:13
+5	vind	vind	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

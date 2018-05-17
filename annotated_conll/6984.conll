@@ -1,0 +1,10 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	helsen	helsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	dotter	dotter	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:28
+8	rosenknopp	rosenknopp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

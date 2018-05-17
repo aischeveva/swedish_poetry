@@ -1,0 +1,9 @@
+1	Var	vara	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	jordens	jord	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+5	full	full	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	ont	ont	AB	AB	POS	_	_	_	_	O	_	temp:0:28
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

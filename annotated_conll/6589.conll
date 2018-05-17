@@ -1,0 +1,10 @@
+1	Freja	freja	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	himmelska	himmelska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	känner	känna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:29
+8	ej	ej	AB	AB	KOM	_	_	_	_	O	_	temp:0:32
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

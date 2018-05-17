@@ -1,0 +1,8 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	blicken	blicken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:12
+4	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:21
+6	tiggarblick	tiggarblick	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

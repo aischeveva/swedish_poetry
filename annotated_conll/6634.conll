@@ -1,0 +1,10 @@
+1	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	förlamad	förlamad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	frusen	frusen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	jämte	jämte	PP	PP	_	_	_	_	_	O	_	temp:0:34
+8	land	land	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

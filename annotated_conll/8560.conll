@@ -1,0 +1,11 @@
+1	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+5	hänger	hänge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+6	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:20
+7	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:24
+8	venstra	venstra	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+9	sida	sida	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

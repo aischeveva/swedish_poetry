@@ -1,0 +1,8 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	glad	glad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	hågen	hågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

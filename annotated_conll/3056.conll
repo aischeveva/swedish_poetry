@@ -1,0 +1,5 @@
+1	Av	av	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	ismurar	ismurar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:11
+4	istystnad	istystnad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+

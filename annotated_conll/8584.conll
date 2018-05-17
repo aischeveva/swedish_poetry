@@ -1,0 +1,8 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	lagerlundar	lagerlundar	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:17
+5	troget	troget	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	par	par	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

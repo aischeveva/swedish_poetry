@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ner	ner	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	luften	luften	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	hängde	hänga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+6	torn	torn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+

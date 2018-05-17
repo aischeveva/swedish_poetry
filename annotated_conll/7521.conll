@@ -1,0 +1,11 @@
+1	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	blinde	blinde	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	broder	broder	UO	UO	_	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	nattens	nattens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:20
+6	Höder	Höder	PM	PM	NOM	_	_	_	_	B	person	temp:0:28
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:33
+8	ty	Ty	PM	PM	NOM	_	_	_	_	B	person	temp:0:35
+9	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:38
+10	ondt	ondt	AB	AB	POS	_	_	_	_	O	_	temp:0:43
+

@@ -1,0 +1,50 @@
+1	Aha	aha	IN	IN	_	_	_	_	_	O	_	13263-813010:0:1
+2	,	,	MID	MID	_	_	_	_	_	O	_	13263-813010:0:4
+3	då	då	AB	AB	_	_	_	_	_	O	_	13263-813010:0:6
+4	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-813010:0:9
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-813010:0:13
+6	fredag	fredag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-813010:0:17
+7	igen	igen	AB	AB	_	_	_	_	_	O	_	13263-813010:0:24
+8	och	och	KN	KN	_	_	_	_	_	O	_	13263-813010:0:29
+9	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-813010:0:33
+10	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-813010:0:37
+11	ju	ju	AB	AB	_	_	_	_	_	O	_	13263-813010:0:40
+12	skönt	skön	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-813010:0:43
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-813010:0:48
+
+1	Första	första	RO	RO	NOM	_	_	_	_	O	_	13263-813010:1:50
+2	arbetsveckan	arbetsvecka	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-813010:1:57
+3	efter	efter	PP	PP	_	_	_	_	_	O	_	13263-813010:1:70
+4	julledigheten	julledighet	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-813010:1:76
+5	närmar	närma	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-813010:1:90
+6	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	13263-813010:1:97
+7	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	13263-813010:1:101
+8	slut	slut	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-813010:1:106
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-813010:1:110
+
+1	Men	men	KN	KN	_	_	_	_	_	O	_	13263-813010:2:112
+2	först	först	AB	AB	_	_	_	_	_	O	_	13263-813010:2:116
+3	ska	skola	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-813010:2:122
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-813010:2:126
+5	på	på	PP	PP	_	_	_	_	_	O	_	13263-813010:2:130
+6	kundmöte	kundmöte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-813010:2:133
+7	och	och	KN	KN	_	_	_	_	_	O	_	13263-813010:2:142
+8	jobba	jobba	VB	VB	INF|AKT	_	_	_	_	O	_	13263-813010:2:146
+9	klart	klart	AB	AB	POS	_	_	_	_	O	_	13263-813010:2:152
+10	dagen	dag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-813010:2:158
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-813010:2:163
+
+1	Läs	läsa	VB	VB	IMP|AKT	_	_	_	_	O	_	13263-813010:3:165
+2	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	13263-813010:3:169
+3	bloggar	blogg	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-813010:3:175
+4	om	om	PP	PP	_	_	_	_	_	O	_	13263-813010:3:183
+5	fredag	fredag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-813010:3:186
+6	,	,	MID	MID	_	_	_	_	_	O	_	13263-813010:3:192
+7	arbetsvecka	arbetsvecka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-813010:3:194
+8	,	,	MID	MID	_	_	_	_	_	O	_	13263-813010:3:205
+9	julledig	julledig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-813010:3:207
+10	,	,	MID	MID	_	_	_	_	_	O	_	13263-813010:3:215
+11	kundmöte	kundmöte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-813010:3:217
+12	,	,	MID	MID	_	_	_	_	_	O	_	13263-813010:3:225
+13	jobba	jobba	VB	VB	INF|AKT	_	_	_	_	O	_	13263-813010:3:227
+

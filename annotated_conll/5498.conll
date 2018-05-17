@@ -1,0 +1,8 @@
+1	går	går	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	nedåt	nedåt	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:12
+5	dödas	dödas	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+6	dal	dal	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

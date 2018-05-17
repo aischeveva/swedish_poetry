@@ -1,0 +1,5 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	skapa	skapa	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	friden	friden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+

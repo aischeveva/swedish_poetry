@@ -1,0 +1,9 @@
+1	Hjärtat	hjärta	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kallt	kall	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	ratten	ratten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

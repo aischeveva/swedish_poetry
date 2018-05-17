@@ -1,0 +1,83 @@
+1	Pajade	paja	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454531:0:1
+2	foten	fot	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-14454531:0:8
+3	på	på	PP	PP	_	_	_	_	_	O	_	265827-14454531:0:14
+4	matchen	match	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-14454531:0:17
+5	idag	idag	AB	AB	_	_	_	_	_	O	_	265827-14454531:0:25
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454531:0:29
+
+1	Vilket	vilket	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	265827-14454531:1:31
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454531:1:38
+3	mindre	liten	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14454531:1:41
+4	bra	bra	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14454531:1:48
+5	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454531:1:51
+6	med	med	PP	PP	_	_	_	_	_	O	_	265827-14454531:1:53
+7	tanke	tanke	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454531:1:57
+8	på	på	PP	PP	_	_	_	_	_	O	_	265827-14454531:1:63
+9	att	att	SN	SN	_	_	_	_	_	O	_	265827-14454531:1:66
+10	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454531:1:70
+11	åker	åka	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454531:1:74
+12	till	till	PP	PP	_	_	_	_	_	O	_	265827-14454531:1:79
+13	Trysil	Trysil	PM	PM	NOM	_	_	_	_	B	place	265827-14454531:1:84
+14	om	om	PP	PP	_	_	_	_	_	O	_	265827-14454531:1:91
+15	exakt	exakt	AB	AB	POS	_	_	_	_	O	_	265827-14454531:1:94
+16	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-14454531:1:100
+17	vecka	vecka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454531:1:103
+18	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14454531:1:108
+
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14454531:2:110
+2	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454531:2:114
+3	funka	funka	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14454531:2:118
+4	i	i	PP	PP	_	_	_	_	_	O	_	265827-14454531:2:124
+5	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	265827-14454531:2:126
+6	fall	fall	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	265827-14454531:2:131
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454531:2:135
+
+1	Så	så	AB	AB	_	_	_	_	_	O	_	265827-14454531:3:137
+2	taggad	tagga	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14454531:3:140
+3	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454531:3:146
+4	älskar	älska	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14454531:3:148
+5	att	att	IE	IE	_	_	_	_	_	O	_	265827-14454531:3:155
+6	åka	åka	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14454531:3:159
+7	skidor	skida	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14454531:3:163
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14454531:3:169
+
+1	Tyckte	tycka	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454531:4:171
+2	att	att	SN	SN	_	_	_	_	_	O	_	265827-14454531:4:178
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-14454531:4:182
+4	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454531:4:185
+5	sjukt	sjuk	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14454531:4:189
+6	grymma	grym	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14454531:4:195
+7	idag	idag	AB	AB	_	_	_	_	_	O	_	265827-14454531:4:202
+8	hur	hur	HA	HA	_	_	_	_	_	O	_	265827-14454531:4:207
+9	som	som	KN	KN	_	_	_	_	_	O	_	265827-14454531:4:211
+10	helst	gärna	AB	AB	SUV	_	_	_	_	O	_	265827-14454531:4:215
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454531:4:220
+
+1	Igår	igår	AB	AB	_	_	_	_	_	O	_	265827-14454531:5:225
+2	myste	mysa	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454531:5:230
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14454531:5:236
+4	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454531:5:240
+5	Josefina	Josefina	PM	PM	NOM	_	_	_	_	B	person	265827-14454531:5:244
+6	till	till	PP	PP	_	_	_	_	_	O	_	265827-14454531:5:253
+7	det	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	265827-14454531:5:258
+8	rejält	rejält	AB	AB	POS	_	_	_	_	O	_	265827-14454531:5:262
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454531:5:268
+
+1	Vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-14454531:6:270
+2	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454531:6:273
+3	så	så	AB	AB	_	_	_	_	_	O	_	265827-14454531:6:278
+4	mycket	mycken	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14454531:6:281
+5	godis	godis	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14454531:6:288
+6	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454531:6:294
+7	chips	chips	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	265827-14454531:6:298
+8	,	,	MID	MID	_	_	_	_	_	O	_	265827-14454531:6:303
+9	och	och	KN	KN	_	_	_	_	_	O	_	265827-14454531:6:305
+10	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-14454531:6:309
+11	åt	äta	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14454531:6:312
+12	nästan	nästan	AB	AB	_	_	_	_	_	O	_	265827-14454531:6:315
+13	inget	inget	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	265827-14454531:6:322
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14454531:6:327
+
+1	Haha	haha	IN	IN	_	_	_	_	_	O	_	265827-14454531:7:329
+2	...	...	MAD	MAD	_	_	_	_	_	O	_	265827-14454531:7:333
+

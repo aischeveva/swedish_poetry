@@ -1,0 +1,12 @@
+1	Var	vara	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	ej	ej	UO	UO	_	_	_	_	_	O	_	temp:0:8
+4	konungason	konungason	UO	UO	_	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	likväl	likväl	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:30
+8	sinne	sinne	VB	VB	KON|PRS|AKT	_	_	_	_	O	_	temp:0:35
+9	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:41
+10	kungligt	kungligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:53
+

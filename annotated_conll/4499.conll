@@ -1,0 +1,8 @@
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:0
+2	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:2
+3	kunde	kunna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+4	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:12
+5	nästan	nästan	AB	AB	_	_	_	_	_	O	_	temp:0:16
+6	tänka	tänka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

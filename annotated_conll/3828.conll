@@ -1,0 +1,6 @@
+1	Sällsamma	sällsamma	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	gåtfullhet	gåtfullhet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+3	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:21
+4	tingen	tingen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

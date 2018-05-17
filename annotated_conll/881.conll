@@ -1,0 +1,14 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:13
+6	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:17
+7	säger	säga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:28
+9	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:31
+10	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+11	tid	tid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+12	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:41
+13	kort	kort	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+

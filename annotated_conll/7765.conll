@@ -1,0 +1,15 @@
+1	portar	portar	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	fäderna	fäderna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	bott	bo	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	förr	förr	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:30
+9	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:31
+10	Asarna	asarna	UO	UO	_	_	_	_	_	O	_	temp:0:33
+11	förde	förde	UO	UO	_	_	_	_	_	O	_	temp:0:40
+12	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:46
+13	hitupp	hitupp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:50
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:56
+

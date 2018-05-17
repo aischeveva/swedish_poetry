@@ -1,0 +1,8 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:1
+3	drottning	drottning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	sitter	sitta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	Folkvangs	Folkvangs	PM	PM	NOM	_	_	_	_	B	inst	temp:0:24
+7	loft	loft	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,8 @@
+1	Son	son	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	Frithiof	frithiof	UO	UO	_	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	ålderdomen	ålderdomen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+6	hviskat	hviskat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:29
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:37
+

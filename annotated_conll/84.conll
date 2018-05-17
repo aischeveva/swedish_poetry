@@ -1,0 +1,8 @@
+1	Vem	vem	HP	HP	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	säger	säga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	floden	floden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	lidande	lidande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

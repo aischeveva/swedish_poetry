@@ -1,0 +1,8 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:3
+3	förtvivlan	förtvivlan	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+6	kraft	kraft	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

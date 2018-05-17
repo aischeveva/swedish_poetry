@@ -1,0 +1,7 @@
+1	djupen	djupen	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:7
+3	höjderna	höjderna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	tänder	tänder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+5	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:27
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

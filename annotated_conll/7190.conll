@@ -1,0 +1,8 @@
+1	Sist	sist	AB	AB	SUV	_	_	_	_	O	_	temp:0:0
+2	tar	ta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	sköldens	sköldens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:13
+5	runda	runda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	värn	värn	NN	NN	AN	_	_	_	_	O	_	temp:0:28
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

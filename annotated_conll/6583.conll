@@ -1,0 +1,9 @@
+1	röda	röda	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+3	rosor	rosor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	spaka	spaka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:25
+7	lam	lam	NN	NN	AN	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

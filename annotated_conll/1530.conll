@@ -1,0 +1,9 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	urnamn	urnamn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	åldrar	åldrar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	åldrar	åldra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+7	tillbaka	tillbaka	PL	PL	_	_	_	_	_	O	_	temp:0:34
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

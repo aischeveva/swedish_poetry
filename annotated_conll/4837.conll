@@ -1,0 +1,11 @@
+1	Från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	himlen	himmel	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	er	er	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+5	krets	krets	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	steg	steg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:23
+7	vitklädd	vitklädd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	oskuld	oskuld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+9	ner	ner	PL	PL	_	_	_	_	_	O	_	temp:0:44
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:47
+

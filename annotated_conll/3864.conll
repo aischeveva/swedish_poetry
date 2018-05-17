@@ -1,0 +1,8 @@
+1	syrligt	syrligt	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	friskt	friskt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:15
+4	höstens	höstens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:19
+5	doftande	doftande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:27
+6	frukter	frukter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:36
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

@@ -1,0 +1,5 @@
+1	vaxet	vaxet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:9
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:11
+

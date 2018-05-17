@@ -1,0 +1,8 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	onda	onda	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	röstens	röstens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:17
+6	hån	hån	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

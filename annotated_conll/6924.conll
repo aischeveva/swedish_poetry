@@ -1,0 +1,10 @@
+1	Välj	välj	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	icke	icke	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	förtrogen	förtrogen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	hvem	hvem	UO	UO	_	_	_	_	_	O	_	temp:0:25
+6	helst	gärna	AB	AB	SUV	_	_	_	_	O	_	temp:0:30
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:36
+8	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:40
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

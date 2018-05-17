@@ -1,0 +1,11 @@
+1	uppå	uppå	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	ditt	ditt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	brott	brott	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:21
+7	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+8	vara	vara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:30
+9	mild	mild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

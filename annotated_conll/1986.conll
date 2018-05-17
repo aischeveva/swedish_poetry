@@ -1,0 +1,10 @@
+1	störda	störda	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	bara	bara	AB	AB	_	_	_	_	_	O	_	temp:0:7
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	råttor	råttor	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	år	år	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:30
+8	år	år	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

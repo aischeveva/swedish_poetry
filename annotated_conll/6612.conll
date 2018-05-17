@@ -1,0 +1,10 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	trädde	trädde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	salen	sal	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:20
+6	okänd	okänd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	gubbe	gubbe	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	in	in	AB	AB	_	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

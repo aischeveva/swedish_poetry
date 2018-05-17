@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vore	vore	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:9
+4	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	for	for	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+6	högens	högens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:20
+7	fred	fred	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

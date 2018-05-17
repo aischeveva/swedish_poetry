@@ -1,0 +1,5 @@
+1	mannen	man	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	nåd	nåd	RG	RG	NOM	_	_	_	_	O	_	temp:0:12
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

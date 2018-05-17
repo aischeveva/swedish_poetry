@@ -1,0 +1,10 @@
+1	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	portarna	portarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	välver	välver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:20
+5	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	glasgrönt	glasgrönt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+8	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:44
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

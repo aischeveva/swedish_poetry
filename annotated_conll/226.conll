@@ -1,0 +1,10 @@
+1	Giv	giv	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:5
+4	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:9
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+6	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+7	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+8	bestånda	bestånda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

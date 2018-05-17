@@ -1,0 +1,5 @@
+1	djärv	djärv	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	sina	sin	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:12
+4	djärva	djärvara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:17
+

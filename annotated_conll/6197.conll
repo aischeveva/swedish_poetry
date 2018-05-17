@@ -1,0 +1,9 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	säg	säg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:18
+6	svagas	svagas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:22
+7	strider	strider	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

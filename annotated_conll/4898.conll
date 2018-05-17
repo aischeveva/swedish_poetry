@@ -1,0 +1,5 @@
+1	Uppå	uppå	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:5
+3	hjässa	hjässa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

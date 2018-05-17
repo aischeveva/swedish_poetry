@@ -1,0 +1,12 @@
+1	Dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	glans	glans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	svart	svart	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:22
+2	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:26
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:1:30
+4	källa	källa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:33
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:38
+

@@ -1,0 +1,7 @@
+1	Världen	värld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:11
+4	väldigt	väldigt	AB	AB	POS	_	_	_	_	O	_	temp:0:15
+5	skal	skal	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

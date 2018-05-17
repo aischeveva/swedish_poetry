@@ -1,0 +1,6 @@
+1	knappast	knappast	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+4	skänkas	skänkas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:17
+5	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:25
+

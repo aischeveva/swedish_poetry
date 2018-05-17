@@ -1,0 +1,7 @@
+1	Livet	liv	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	öppet	öppet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

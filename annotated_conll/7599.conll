@@ -1,0 +1,11 @@
+1	I	i	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	Södern	södern	UO	UO	_	_	_	_	_	O	_	temp:0:2
+3	talas	talas	UO	UO	_	_	_	_	_	O	_	temp:0:9
+4	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:18
+6	Balder	balder	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+8	jungfruns	jungfruns	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:29
+9	son	son	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

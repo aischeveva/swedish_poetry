@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+4	växer	växer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:19
+6	vilda	vilda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+7	träd	träd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:34
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

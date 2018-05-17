@@ -1,0 +1,7 @@
+1	svetten	svetten	JJ	JJ	POS|UTR/NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	torr	torr	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:13
+4	fötterna	fötterna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:26
+6	sanden	sanden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+

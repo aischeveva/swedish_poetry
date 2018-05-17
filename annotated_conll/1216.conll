@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:4
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	skildes	skildes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	visste	veta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+7	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:27
+8	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:30
+9	längre	längre	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+

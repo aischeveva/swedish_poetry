@@ -1,0 +1,7 @@
+1	II	ii	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:2
+
+1	ETT	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:1:4
+2	PARTI	parti	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:8
+3	SCHACK	schack	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:14
+

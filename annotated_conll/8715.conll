@@ -1,0 +1,9 @@
+1	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	skaldens	skaldens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:3
+3	sånger	sånger	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	icke	icke	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:25
+7	skall	skall	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:29
+8	släcka	släcka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:35
+

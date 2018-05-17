@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	enda	enda	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	snavar	snavar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	faller	faller	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,5 @@
+1	Ångest	ångest	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	kastat	kastat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:11
+4	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+

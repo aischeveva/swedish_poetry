@@ -1,0 +1,73 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1065775:0:1
+2	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1065775:0:5
+3	att	att	SN	SN	_	_	_	_	_	O	_	13263-1065775:0:9
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-1065775:0:13
+5	fortfarande	fortfarande	AB	AB	_	_	_	_	_	O	_	13263-1065775:0:17
+6	bara	bara	AB	AB	_	_	_	_	_	O	_	13263-1065775:0:29
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1065775:0:34
+8	januari	januari	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1065775:0:37
+9	och	och	KN	KN	_	_	_	_	_	O	_	13263-1065775:0:45
+10	att	att	SN	SN	_	_	_	_	_	O	_	13263-1065775:0:49
+11	vintern	vinter	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1065775:0:53
+12	brukar	bruka	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1065775:0:61
+13	hålla	hålla	VB	VB	INF|AKT	_	_	_	_	O	_	13263-1065775:0:68
+14	på	på	PL	PL	_	_	_	_	_	O	_	13263-1065775:0:74
+15	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	13263-1065775:0:77
+16	ända	ända	AB	AB	_	_	_	_	_	O	_	13263-1065775:0:81
+17	in	in	PL	PL	_	_	_	_	_	O	_	13263-1065775:0:86
+18	i	i	PP	PP	_	_	_	_	_	O	_	13263-1065775:0:89
+19	mars	mars	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1065775:0:91
+20	,	,	MID	MID	_	_	_	_	_	O	_	13263-1065775:0:95
+21	till	till	AB	AB	_	_	_	_	_	O	_	13263-1065775:0:97
+22	och	och	KN	KN	_	_	_	_	_	O	_	13263-1065775:0:102
+23	med	med	AB	AB	_	_	_	_	_	O	_	13263-1065775:0:106
+24	april	april	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1065775:0:110
+25	ibland	ibland	AB	AB	_	_	_	_	_	O	_	13263-1065775:0:116
+26	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1065775:0:122
+
+1	Men	men	KN	KN	_	_	_	_	_	O	_	13263-1065775:1:124
+2	,	,	MID	MID	_	_	_	_	_	O	_	13263-1065775:1:127
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1065775:1:129
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1065775:1:133
+5	så	så	AB	AB	_	_	_	_	_	O	_	13263-1065775:1:136
+6	fruktansvärt	fruktansvärt	AB	AB	POS	_	_	_	_	O	_	13263-1065775:1:139
+7	trött	trött	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1065775:1:152
+8	på	på	PP	PP	_	_	_	_	_	O	_	13263-1065775:1:158
+9	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-1065775:1:161
+10	nu	nu	AB	AB	_	_	_	_	_	O	_	13263-1065775:1:165
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1065775:1:167
+
+1	Så	så	AB	AB	_	_	_	_	_	O	_	13263-1065775:2:169
+2	in	in	AB	AB	_	_	_	_	_	O	_	13263-1065775:2:172
+3	i	i	PP	PP	_	_	_	_	_	O	_	13263-1065775:2:175
+4	helvete	helvete	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1065775:2:177
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1065775:2:184
+
+1	Mest	mycket	AB	AB	SUV	_	_	_	_	O	_	13263-1065775:3:186
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1065775:3:191
+3	det	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	13263-1065775:3:194
+4	nog	nog	AB	AB	_	_	_	_	_	O	_	13263-1065775:3:198
+5	mörkret	mörker	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	13263-1065775:3:202
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1065775:3:210
+7	inte	inte	AB	AB	_	_	_	_	_	O	_	13263-1065775:3:214
+8	klarar	klara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1065775:3:219
+9	av	av	PL	PL	_	_	_	_	_	O	_	13263-1065775:3:226
+10	,	,	MID	MID	_	_	_	_	_	O	_	13263-1065775:3:228
+11	för	för	KN	KN	_	_	_	_	_	O	_	13263-1065775:3:230
+12	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-1065775:3:234
+13	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1065775:3:238
+14	skitjobbigt	skitjobbig	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1065775:3:241
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1065775:3:252
+
+1	Sen	sen	AB	AB	_	_	_	_	_	O	_	13263-1065775:4:254
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1065775:4:258
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-1065775:4:261
+4	kylan	kyla	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1065775:4:265
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1065775:4:270
+
+1	Idag	idag	AB	AB	_	_	_	_	_	O	_	13263-1065775:5:272
+2	[	[	PAD	PAD	_	_	_	_	_	O	_	13263-1065775:5:277
+3	...	...	MAD	MAD	_	_	_	_	_	O	_	13263-1065775:5:278
+
+1	]	]	PAD	PAD	_	_	_	_	_	O	_	13263-1065775:6:281
+

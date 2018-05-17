@@ -1,0 +1,11 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	svensk	svensk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	därtill	därtill	AB	AB	_	_	_	_	_	O	_	temp:0:14
+5	gör	göra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+6	tio	tio	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:31
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:32
+

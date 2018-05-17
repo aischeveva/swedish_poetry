@@ -1,0 +1,11 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Med	med	PP	PP	_	_	_	_	_	O	_	temp:0:1
+3	rygg	rygg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:10
+5	rygg	rygg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:19
+7	stodo	stodo	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:29
+10	hvarifrån	hvarifrån	AB	AB	_	_	_	_	_	O	_	temp:0:33
+

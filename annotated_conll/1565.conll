@@ -1,0 +1,9 @@
+1	reser	reser	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	vidunder	vidunder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	väckta	väckta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	värmen	värmen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

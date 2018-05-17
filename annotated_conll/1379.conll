@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	bågen	bågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:20
+6	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+

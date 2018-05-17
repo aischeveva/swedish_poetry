@@ -1,0 +1,5 @@
+1	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:0
+2	hafvets	hafvets	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:5
+3	foglar	foglar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	jaga	jaga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+

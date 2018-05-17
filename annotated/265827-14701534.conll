@@ -1,0 +1,77 @@
+1	Martan	Marta	PM	PM	NOM	_	_	_	_	B	person	265827-14701534:0:1
+2	-	-	MID	MID	_	_	_	_	_	O	_	265827-14701534:0:8
+3	för	för	PP	PP	_	_	_	_	_	O	_	265827-14701534:0:10
+4	fan	fan	IN	IN	_	_	_	_	_	O	_	265827-14701534:0:14
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14701534:0:17
+
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14701534:1:19
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14701534:1:23
+3	snart	snart	AB	AB	POS	_	_	_	_	O	_	265827-14701534:1:26
+4	dags	dag	NN	NN	UTR|SIN|IND|GEN	_	_	_	_	O	_	265827-14701534:1:32
+5	,	,	MID	MID	_	_	_	_	_	O	_	265827-14701534:1:36
+6	sådär	sådär	AB	AB	_	_	_	_	_	O	_	265827-14701534:1:38
+7	90	90	RG	RG	NOM	_	_	_	_	O	_	265827-14701534:1:44
+8	dagar	dag	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14701534:1:47
+9	innan	innan	AB	AB	_	_	_	_	_	O	_	265827-14701534:1:53
+10	brukar	bruka	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14701534:1:59
+11	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14701534:1:66
+12	vara	vara	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14701534:1:70
+13	svinbilligt	svinbillig	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14701534:1:75
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14701534:1:86
+
+1	Så	så	AB	AB	_	_	_	_	_	O	_	265827-14701534:2:88
+2	på	på	PP	PP	_	_	_	_	_	O	_	265827-14701534:2:91
+3	torsdag	torsdag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14701534:2:94
+4	nästa	nästa	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14701534:2:102
+5	vecka	vecka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14701534:2:108
+6	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14701534:2:114
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14701534:2:121
+8	boka	boka	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14701534:2:125
+9	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	265827-14701534:2:130
+10	dit-resa	dit-resa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14701534:2:134
+11	i	i	PP	PP	_	_	_	_	_	O	_	265827-14701534:2:143
+12	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	265827-14701534:2:145
+13	fall	fall	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	265827-14701534:2:150
+14	,	,	MID	MID	_	_	_	_	_	O	_	265827-14701534:2:154
+15	och	och	KN	KN	_	_	_	_	_	O	_	265827-14701534:2:156
+16	hemresa	hemresa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14701534:2:160
+17	bokar	boka	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14701534:2:168
+18	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14701534:2:174
+19	några	någon	DT	DT	UTR/NEU|PLU|IND	_	_	_	_	O	_	265827-14701534:2:178
+20	dagar	dag	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14701534:2:184
+21	senare	senare	AB	AB	KOM	_	_	_	_	O	_	265827-14701534:2:190
+22	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14701534:2:196
+
+1	DOCK	dock	KN	KN	_	_	_	_	_	O	_	265827-14701534:3:198
+2	så	så	AB	AB	_	_	_	_	_	O	_	265827-14701534:3:203
+3	bokade	boka	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14701534:3:206
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14701534:3:213
+5	både	både	KN	KN	_	_	_	_	_	O	_	265827-14701534:3:217
+6	dit-	dit	AB	AB	SMS	_	_	_	_	O	_	265827-14701534:3:222
+7	och	och	KN	KN	_	_	_	_	_	O	_	265827-14701534:3:227
+8	hemresa	hemresa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14701534:3:231
+9	samtidigt	samtidigt	AB	AB	_	_	_	_	_	O	_	265827-14701534:3:239
+10	förra	förra	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14701534:3:249
+11	året	år	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14701534:3:255
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14701534:3:259
+
+1	Och	och	KN	KN	_	_	_	_	_	O	_	265827-14701534:4:261
+2	då	då	AB	AB	_	_	_	_	_	O	_	265827-14701534:4:265
+3	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14701534:4:268
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14701534:4:272
+5	undan	undan	PL	PL	_	_	_	_	_	O	_	265827-14701534:4:276
+6	på	på	PP	PP	_	_	_	_	_	O	_	265827-14701534:4:282
+7	ca	ca	AB	AB	AN	_	_	_	_	O	_	265827-14701534:4:285
+8	300	300	RG	RG	NOM	_	_	_	_	O	_	265827-14701534:4:288
+9	spänn	spänn	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14701534:4:292
+10	(	(	PAD	PAD	_	_	_	_	_	O	_	265827-14701534:4:298
+11	!!!	!!!	MAD	MAD	_	_	_	_	_	O	_	265827-14701534:4:299
+
+1	)	)	PAD	PAD	_	_	_	_	_	O	_	265827-14701534:5:302
+
+1	Randoms	randoms	UO	UO	_	_	_	_	_	O	_	265827-14701534:6:307
+2	på	på	PP	PP	_	_	_	_	_	O	_	265827-14701534:6:315
+3	Kings	Kings	PM	PM	NOM	_	_	_	_	O	_	265827-14701534:6:318
+4	of	of	PM	PM	NOM	_	_	_	_	O	_	265827-14701534:6:324
+5	Leon	Leon	PM	PM	NOM	_	_	_	_	O	_	265827-14701534:6:327
+

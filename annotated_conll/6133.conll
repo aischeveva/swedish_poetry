@@ -1,0 +1,9 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:8
+4	minnas	minnas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:11
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:18
+6	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:21
+7	tillbaka	tillbaka	AB	AB	_	_	_	_	_	O	_	temp:0:27
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

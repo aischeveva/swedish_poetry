@@ -1,0 +1,6 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	mörka	mörka	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	gåtans	gåtans	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	svar	svar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+

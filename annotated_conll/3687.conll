@@ -1,0 +1,7 @@
+1	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	kraft	kraft	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:11
+4	rotas	rotas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+6	gro	gro	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

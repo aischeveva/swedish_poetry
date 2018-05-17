@@ -1,0 +1,6 @@
+1	Skumt	skumt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:13
+4	land	land	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

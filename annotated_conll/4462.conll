@@ -1,0 +1,7 @@
+1	Hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	sitter	sitta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	instrument	instrument	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+6	bestick	bestick	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+

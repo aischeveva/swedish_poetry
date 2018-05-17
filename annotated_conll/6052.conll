@@ -1,0 +1,10 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	Frithiofs	Frithiof	PM	PM	GEN	_	_	_	_	B	person	temp:0:3
+3	axel	axel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:19
+6	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+7	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:26
+8	sed	sed	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

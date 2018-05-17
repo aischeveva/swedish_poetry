@@ -1,0 +1,10 @@
+1	likt	likt	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	bil	bil	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:13
+6	flämtar	flämta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+8	väntar	vänta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

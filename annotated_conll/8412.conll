@@ -1,0 +1,8 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	frukten	frukten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	sätter	sätta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+5	omkring	omkring	PL	PL	_	_	_	_	_	O	_	temp:0:23
+6	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:31
+7	kärna	kärna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,8 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	blommorna	blommorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	känslas	känslas	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	röst	röst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

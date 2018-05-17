@@ -1,0 +1,9 @@
+1	makten	makten	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:7
+3	älska	älska	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	gränser	gränser	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+6	ädla	ädla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:29
+7	mått	må	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:34
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

@@ -1,0 +1,7 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	djerfve	djerfve	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	ville	vilja	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+4	björnen	björnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	tvinga	tvinga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

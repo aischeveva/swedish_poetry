@@ -1,0 +1,6 @@
+1	trappsteg	trappsteg	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:10
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	dåd	dåd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

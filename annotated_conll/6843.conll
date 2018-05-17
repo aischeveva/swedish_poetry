@@ -1,0 +1,13 @@
+1	flyg	flyg	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:5
+3	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:8
+4	som	som	HA	HA	_	_	_	_	_	O	_	temp:0:14
+5	stjernan	stjernan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	leder	leder	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:34
+9	besegrad	besegrad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+10	bölja	bölja	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:47
+11	bär	bär	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:53
+12	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:56
+

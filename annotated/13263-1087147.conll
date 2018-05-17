@@ -1,0 +1,57 @@
+1	Månen	måne	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1087147:0:1
+2	(	(	PAD	PAD	_	_	_	_	_	O	_	13263-1087147:0:7
+3	Luna	Luna	PM	PM	NOM	_	_	_	_	B	work	13263-1087147:0:8
+4	)	)	PAD	PAD	_	_	_	_	_	O	_	13263-1087147:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1087147:0:13
+
+1	Naturlig	naturlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1087147:1:15
+2	satellit	satellit	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1087147:1:24
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	13263-1087147:1:33
+4	kretsar	kretsa	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1087147:1:37
+5	runt	runt	PP	PP	_	_	_	_	_	O	_	13263-1087147:1:45
+6	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1087147:1:50
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1087147:1:56
+
+1	Månen	måne	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1087147:2:58
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1087147:2:64
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	13263-1087147:2:68
+4	diameter	diameter	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1087147:2:71
+5	på	på	PP	PP	_	_	_	_	_	O	_	13263-1087147:2:80
+6	3.476	3.476	RG	RG	NOM	_	_	_	_	O	_	13263-1087147:2:83
+7	km	km	NN	NN	AN	_	_	_	_	O	_	13263-1087147:2:89
+8	,	,	MID	MID	_	_	_	_	_	O	_	13263-1087147:2:91
+9	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	13263-1087147:2:93
+10	omloppstid	omloppstid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1087147:2:96
+11	på	på	PP	PP	_	_	_	_	_	O	_	13263-1087147:2:107
+12	27,3	27,3	RG	RG	NOM	_	_	_	_	O	_	13263-1087147:2:110
+13	dagar	dag	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-1087147:2:115
+14	och	och	KN	KN	_	_	_	_	_	O	_	13263-1087147:2:121
+15	befinner	befinna	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1087147:2:125
+16	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	13263-1087147:2:134
+17	384.392	384.392	RG	RG	NOM	_	_	_	_	O	_	13263-1087147:2:138
+18	km	km	NN	NN	AN	_	_	_	_	O	_	13263-1087147:2:146
+19	från	från	PP	PP	_	_	_	_	_	O	_	13263-1087147:2:149
+20	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	13263-1087147:2:154
+21	planet	planet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1087147:2:158
+22	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1087147:2:164
+
+1	Läs	läsa	VB	VB	IMP|AKT	_	_	_	_	O	_	13263-1087147:3:166
+2	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	13263-1087147:3:170
+3	bloggar	blogg	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-1087147:3:176
+4	om	om	PP	PP	_	_	_	_	_	O	_	13263-1087147:3:184
+5	Foto	foto	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1087147:3:187
+6	,	,	MID	MID	_	_	_	_	_	O	_	13263-1087147:3:191
+7	bild	bild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1087147:3:193
+8	,	,	MID	MID	_	_	_	_	_	O	_	13263-1087147:3:197
+9	måne	måne	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1087147:3:199
+10	,	,	MID	MID	_	_	_	_	_	O	_	13263-1087147:3:203
+11	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1087147:3:205
+12	,	,	MID	MID	_	_	_	_	_	O	_	13263-1087147:3:211
+13	diameter	diameter	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1087147:3:213
+14	,	,	MID	MID	_	_	_	_	_	O	_	13263-1087147:3:221
+15	avstånd	avstånd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1087147:3:223
+16	,	,	MID	MID	_	_	_	_	_	O	_	13263-1087147:3:230
+17	omloppstid	omloppstid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1087147:3:232
+18	,	,	MID	MID	_	_	_	_	_	O	_	13263-1087147:3:242
+19	planet	plan	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	13263-1087147:3:244
+

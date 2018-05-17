@@ -1,0 +1,6 @@
+1	böj	böj	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:8
+4	tillbed	tillbed	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+

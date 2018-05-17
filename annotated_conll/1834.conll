@@ -1,0 +1,12 @@
+1	Tack	tack	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:5
+3	mycket	mycket	AB	AB	POS	_	_	_	_	O	_	temp:0:8
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:14
+
+1	Träffar	träffa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:16
+2	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:1:24
+3	lilla	liten	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:27
+4	mrs	mrs	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:33
+5	Equitone	Equitone	PM	PM	NOM	_	_	_	_	B	person	temp:1:37
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:45
+

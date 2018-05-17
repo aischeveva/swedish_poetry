@@ -1,0 +1,11 @@
+1	Allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:5
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+5	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:17
+6	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:23
+7	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:30
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:34
+10	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

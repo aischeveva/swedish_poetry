@@ -1,0 +1,12 @@
+1	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	qvar	qvar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+5	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:13
+6	tvenne	tvenne	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:16
+7	tag	tag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+8	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:27
+9	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:30
+10	ena	ena	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:34
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

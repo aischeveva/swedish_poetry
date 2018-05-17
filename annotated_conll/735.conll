@@ -1,0 +1,5 @@
+1	Knappast	knappast	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+4	nyttjas	nyttjas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:17
+

@@ -1,0 +1,10 @@
+1	vinn	vinn	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	männer	männer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	handkraft	handkraft	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+6	qvinnor	qvinnor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:38
+8	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:42
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

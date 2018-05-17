@@ -1,0 +1,6 @@
+1	mördarens	mördarens	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kniv	kniv	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+4	funnen	funnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

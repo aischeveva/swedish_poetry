@@ -1,0 +1,7 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	lever	lever	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	ibland	ibland	AB	AB	_	_	_	_	_	O	_	temp:0:14
+5	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

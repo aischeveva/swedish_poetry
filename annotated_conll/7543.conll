@@ -1,0 +1,10 @@
+1	På	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	försonarn	försonarn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+7	heter	heta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+8	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

@@ -1,0 +1,10 @@
+1	frodades	frodades	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	gyllene	gyllene	UO	UO	_	_	_	_	_	O	_	temp:0:9
+3	korn	korn	UO	UO	_	_	_	_	_	O	_	temp:0:17
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	manshög	manshög	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	vaggade	vaggade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:35
+8	rågen	rågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:43
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

@@ -1,0 +1,7 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	söker	söker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	kvalets	kvalets	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:9
+4	heta	heta	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

@@ -1,0 +1,12 @@
+1	Vart	vart	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	all	all	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:19
+7	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+8	kvävd	kvävd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:34
+10	innestängd	innestängd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+11	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

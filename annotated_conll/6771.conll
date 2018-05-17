@@ -1,0 +1,16 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:4
+3	kalla	kalla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	ande	ande	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+5	kläder	kläder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	knopp	knopp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:33
+8	blad	blad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:42
+10	stjelk	stjelk	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+11	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:53
+12	is	is	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:57
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:59
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:60
+

@@ -1,0 +1,5 @@
+1	Allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:5
+3	vackrast	vackrast	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:9
+4	ville	vilja	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+

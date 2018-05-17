@@ -1,0 +1,8 @@
+1	alltför	alltför	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	djup	djup	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:17
+5	tanken	tanke	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

@@ -1,0 +1,9 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	hof	hof	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	sadeln	sadeln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:18
+6	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	lilja	lilja	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,12 @@
+1	Allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+4	förr	förr	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:18
+7	likväl	likväl	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+9	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:30
+10	förbytt	förbytt	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

@@ -1,0 +1,8 @@
+1	hela	hel	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hafvet	hafvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	deröfver	deröfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:21
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:23
+

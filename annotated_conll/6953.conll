@@ -1,0 +1,15 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	öl	öl	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:8
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:12
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+7	drucket	drucket	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:28
+10	råd	råd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+12	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:37
+13	följdt	följdt	NN	NN	AN	_	_	_	_	O	_	temp:0:41
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

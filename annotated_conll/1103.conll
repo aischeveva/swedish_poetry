@@ -1,0 +1,11 @@
+1	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	smärta	smärta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+6	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:21
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:29
+9	liknar	liknar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+10	mest	mycket	AB	AB	SUV	_	_	_	_	O	_	temp:0:40
+

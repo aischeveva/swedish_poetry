@@ -1,0 +1,8 @@
+1	Oden	oden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	timrade	timrade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+4	själv	själv	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	världen	värld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

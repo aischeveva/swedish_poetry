@@ -1,0 +1,8 @@
+1	Kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	sången	sången	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	bli	bli	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+6	samma	samma	DT	DT	UTR/NEU|SIN/PLU|IND	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

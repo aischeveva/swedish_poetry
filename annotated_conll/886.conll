@@ -1,0 +1,10 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	ljus	ljus	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:11
+5	mörker	mörker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	dubbel	dubbel	RG	RG	NOM	_	_	_	_	O	_	temp:0:24
+8	skål	skål	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

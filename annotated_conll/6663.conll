@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	fyra	fyra	RG	RG	NOM	_	_	_	_	O	_	temp:0:4
+3	knän	knän	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+5	böjde	böjde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	silfverfatets	silfverfatets	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	rund	rund	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

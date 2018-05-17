@@ -1,0 +1,8 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	mina	min	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:4
+3	nornor	nornor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	der	der	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:19
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:21
+7	stå	stå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+

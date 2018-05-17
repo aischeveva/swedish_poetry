@@ -1,0 +1,13 @@
+1	Själv	själv	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:13
+5	tom	tom	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	så	så	KN	KN	_	_	_	_	_	O	_	temp:0:21
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:24
+9	svider	svider	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:28
+10	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:35
+11	värker	värker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:39
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

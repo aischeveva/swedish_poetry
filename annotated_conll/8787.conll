@@ -1,0 +1,9 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	blickar	blickar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	sorgligt	sorgligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+6	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+7	hviska	hviska	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+8	honom	han	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:35
+

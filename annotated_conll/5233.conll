@@ -1,0 +1,13 @@
+1	Frisk	frisk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	starklemmad	starklemmad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+5	grov	grov	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:29
+8	jungfru	jungfru	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	fostrad	fostrad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+10	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:48
+11	skogen	skog	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:50
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:56
+

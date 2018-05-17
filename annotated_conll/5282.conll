@@ -1,0 +1,11 @@
+1	Grav	grav	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	muras	muras	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:5
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	marmorn	marmorn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	ställs	ställs	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:36
+9	vakt	vakt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

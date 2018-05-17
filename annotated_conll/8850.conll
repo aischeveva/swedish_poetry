@@ -1,0 +1,6 @@
+1	(	(	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Går	går	AB	AB	_	_	_	_	_	O	_	temp:0:1
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:4
+
+1	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:1:5
+

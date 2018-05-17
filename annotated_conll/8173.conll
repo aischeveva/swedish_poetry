@@ -1,0 +1,6 @@
+1	Kung	kung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	Beles	beles	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	söner	son	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	gerna	gerna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	drage	drage	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+

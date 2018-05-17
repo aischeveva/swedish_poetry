@@ -1,0 +1,8 @@
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	evigt	evigt	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	vantrofylda	vantrofylda	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	stranden	stranden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

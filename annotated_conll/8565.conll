@@ -1,0 +1,7 @@
+1	Ellidas	ellidas	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	segel	segel	RG	RG	NOM	_	_	_	_	O	_	temp:0:8
+3	öfver	öfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	okänd	okänd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	våg	våg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

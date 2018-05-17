@@ -1,0 +1,67 @@
+1	Hallå	hallå	IN	IN	_	_	_	_	_	O	_	265827-14989915:0:1
+2	kära	kär	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14989915:0:7
+3	ni	Ni	PM	PM	NOM	_	_	_	_	B	place	265827-14989915:0:12
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14989915:0:14
+
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	265827-14989915:1:16
+2	tänkte	tänka	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14989915:1:19
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14989915:1:26
+4	krypa	krypa	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14989915:1:30
+5	till	till	PP	PP	_	_	_	_	_	O	_	265827-14989915:1:36
+6	kojs	koj	NN	NN	UTR|SIN|IND|GEN	_	_	_	_	O	_	265827-14989915:1:41
+7	och	och	KN	KN	_	_	_	_	_	O	_	265827-14989915:1:46
+8	läsa	läsa	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14989915:1:50
+9	lite	lite	AB	AB	POS	_	_	_	_	O	_	265827-14989915:1:55
+10	Lapidus	Lapidus	PM	PM	NOM	_	_	_	_	B	person	265827-14989915:1:60
+11	,	,	MID	MID	_	_	_	_	_	O	_	265827-14989915:1:67
+12	imorgon	imorgon	AB	AB	_	_	_	_	_	O	_	265827-14989915:1:69
+13	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14989915:1:77
+14	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-14989915:1:80
+15	ny	ny	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14989915:1:83
+16	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14989915:1:86
+17	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14989915:1:89
+
+1	Börjar	börja	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14989915:2:91
+2	egentligen	egentligen	AB	AB	_	_	_	_	_	O	_	265827-14989915:2:98
+3	11.35	11.35	RG	RG	NOM	_	_	_	_	O	_	265827-14989915:2:109
+4	,	,	MID	MID	_	_	_	_	_	O	_	265827-14989915:2:114
+5	men	men	KN	KN	_	_	_	_	_	O	_	265827-14989915:2:116
+6	ska	skola	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14989915:2:120
+7	flanka	flanka	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14989915:2:124
+8	på	på	PP	PP	_	_	_	_	_	O	_	265827-14989915:2:131
+9	treornas	trea	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	265827-14989915:2:134
+10	musiklektion	musiklektion	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14989915:2:143
+11	då	då	AB	AB	_	_	_	_	_	O	_	265827-14989915:2:156
+12	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14989915:2:159
+13	missar	missa	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14989915:2:163
+14	nästa	nästa	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14989915:2:170
+15	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14989915:2:176
+16	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14989915:2:180
+
+1	Har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14989915:3:182
+2	kanske	kanske	AB	AB	_	_	_	_	_	O	_	265827-14989915:3:186
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-14989915:3:193
+4	berättat	berätta	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14989915:3:198
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14989915:3:207
+6	,	,	MID	MID	_	_	_	_	_	O	_	265827-14989915:3:210
+7	men	men	KN	KN	_	_	_	_	_	O	_	265827-14989915:3:212
+8	på	på	PP	PP	_	_	_	_	_	O	_	265827-14989915:3:216
+9	torsdag	torsdag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14989915:3:219
+10	åker	åka	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14989915:3:227
+11	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14989915:3:232
+12	till	till	PP	PP	_	_	_	_	_	O	_	265827-14989915:3:236
+13	Norrköping	Norrköping	PM	PM	NOM	_	_	_	_	B	place	265827-14989915:3:241
+14	för	för	PP	PP	_	_	_	_	_	O	_	265827-14989915:3:252
+15	att	att	IE	IE	_	_	_	_	_	O	_	265827-14989915:3:256
+16	spela	spela	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14989915:3:260
+17	cup	cup	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14989915:3:266
+18	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14989915:3:269
+
+1	Dvs	dvs	AB	AB	AN	_	_	_	_	O	_	265827-14989915:4:271
+2	,	,	MID	MID	_	_	_	_	_	O	_	265827-14989915:4:274
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14989915:4:276
+4	börjar	börja	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14989915:4:280
+5	9	9	RG	RG	NOM	_	_	_	_	O	_	265827-14989915:4:287
+6	imorgon	imorgon	AB	AB	_	_	_	_	_	O	_	265827-14989915:4:289
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14989915:4:296
+

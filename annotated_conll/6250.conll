@@ -1,0 +1,7 @@
+1	klyf	klyf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:5
+3	hufvudskalle	hufvudskalle	UO	UO	_	_	_	_	_	O	_	temp:0:10
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:23
+

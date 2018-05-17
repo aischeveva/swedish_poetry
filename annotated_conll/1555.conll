@@ -1,0 +1,12 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	obotfärdiga	obotfärdiga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	ropar	ropa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:22
+2	själva	själv	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:25
+3	skulle	ska	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:32
+4	växa	växa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:39
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:1:44
+6	jättar	jätta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:49
+

@@ -1,0 +1,10 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	dagen	dag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:12
+5	natten	natt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:23
+7	dubbel	dubbel	RG	RG	NOM	_	_	_	_	O	_	temp:0:25
+8	skål	skål	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

@@ -1,0 +1,14 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:8
+5	ingenting	ingenting	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:12
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:25
+8	tar	ta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+9	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:33
+10	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:36
+11	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:40
+12	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:44
+13	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

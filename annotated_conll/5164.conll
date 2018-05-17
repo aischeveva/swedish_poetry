@@ -1,0 +1,7 @@
+1	Låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	stjärnorna	stjärnorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	fästet	fästet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+5	falla	falla	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

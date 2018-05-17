@@ -1,0 +1,6 @@
+1	Sänkt	sänkt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:8
+4	susande	susande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	vågor	vågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+

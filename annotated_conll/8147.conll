@@ -1,0 +1,8 @@
+1	Tornet	tornet	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:12
+4	svårt	svårt	AB	AB	POS	_	_	_	_	O	_	temp:0:16
+5	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:22
+6	taga	taga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,9 @@
+1	ty	ty	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	kraft	kraft	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:10
+5	kungahöghet	kungahöghet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+6	osvikligt	osvikligt	AB	AB	POS	_	_	_	_	O	_	temp:0:27
+7	sluten	sluten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:43
+

@@ -1,0 +1,7 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	lunch	lunch	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	Cannon	Cannon	PM	PM	NOM	_	_	_	_	B	person	temp:0:12
+5	Street	Street	PM	PM	NOM	_	_	_	_	I	person	temp:0:19
+6	Hotel	Hotel	PM	PM	NOM	_	_	_	_	I	person	temp:0:26
+

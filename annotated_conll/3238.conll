@@ -1,0 +1,12 @@
+1	fast	fast	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:5
+3	skam	skam	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	ströks	ströks	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+5	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:21
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:26
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:29
+8	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:37
+10	sval	sval	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

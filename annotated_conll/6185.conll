@@ -1,0 +1,8 @@
+1	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	dagen	dag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	icke	icke	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	såret	sår	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	glöder	glöder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

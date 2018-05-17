@@ -1,0 +1,9 @@
+1	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:0
+2	lågor	lågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:12
+5	ber	ber	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+7	tigger	tigge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+8	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:31
+

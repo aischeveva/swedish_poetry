@@ -1,0 +1,11 @@
+1	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	bjöd	bjöd	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	henne	hon	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:13
+5	gladt	gladt	AB	AB	POS	_	_	_	_	O	_	temp:0:19
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+7	troget	troget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:37
+

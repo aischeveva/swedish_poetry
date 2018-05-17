@@ -1,0 +1,7 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	bunden	bunden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

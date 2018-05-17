@@ -1,0 +1,8 @@
+1	Stig	stig	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	blod	blod	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+7	blomma	blomma	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+

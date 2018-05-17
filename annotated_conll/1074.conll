@@ -1,0 +1,8 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	mening	mening	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	allt	all	DT	DT	NEU|SIN|IND/DEF	_	_	_	_	O	_	temp:0:14
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:19
+6	tomma	tomma	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

@@ -1,0 +1,9 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+4	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:10
+5	ej	ej	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:13
+6	skaptas	skaptas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:16
+7	uppenbarelse	uppenbarelse	UO	UO	_	_	_	_	_	O	_	temp:0:24
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

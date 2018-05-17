@@ -1,0 +1,7 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	mäktig	mäktig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	tystnad	tystnad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	gled	gled	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:26
+

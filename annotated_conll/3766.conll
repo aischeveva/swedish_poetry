@@ -1,0 +1,10 @@
+1	Från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	spröda	spröda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	kalkar	kalkar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	sprids	sprids	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:26
+6	doft	doft	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:34
+8	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:37
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

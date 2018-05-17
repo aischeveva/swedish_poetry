@@ -1,0 +1,11 @@
+1	Ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	bud	bud	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+6	bragt	bragt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:19
+7	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:25
+8	tidningen	tidningen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+9	härom	härom	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

@@ -1,0 +1,8 @@
+1	fulla	full	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	kvidan	kvidan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	flämtande	flämtande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	valv	valv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

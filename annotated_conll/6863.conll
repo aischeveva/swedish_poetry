@@ -1,0 +1,15 @@
+1	förr	förr	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:4
+3	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:5
+4	orden	orden	UO	UO	_	_	_	_	_	O	_	temp:0:7
+5	somnat	somna	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:13
+6	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:20
+7	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:25
+8	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+9	mans	mans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+10	tunga	tunga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:37
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:43
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:45
+

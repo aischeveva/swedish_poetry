@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	drakarna	drakarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	simma	simma	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	igen	igen	AB	AB	_	_	_	_	_	O	_	temp:0:19
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	sjön	sjön	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

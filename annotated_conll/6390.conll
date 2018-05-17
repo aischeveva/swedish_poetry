@@ -1,0 +1,7 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	trifves	trifves	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+5	ofvanuppå	ofvanuppå	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

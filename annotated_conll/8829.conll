@@ -1,0 +1,12 @@
+1	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	skiljas	skiljas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:5
+3	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:23
+7	ej	ej	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:30
+9	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:35
+10	hopp	hopp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+11	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

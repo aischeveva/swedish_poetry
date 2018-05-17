@@ -1,0 +1,5 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	löser	löse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	korsordsgåta	korsordsgåta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+

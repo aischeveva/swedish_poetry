@@ -1,0 +1,11 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	stället	ställe	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	högge	högge	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+5	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	svartekung	svartekung	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+9	ned	ned	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

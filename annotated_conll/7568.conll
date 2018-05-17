@@ -1,0 +1,11 @@
+1	Ack	ack	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:3
+
+1	allt	all	DT	DT	NEU|SIN|IND/DEF	_	_	_	_	O	_	temp:1:5
+2	det	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:1:10
+3	bästa	god	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:1:14
+4	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:20
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:1:27
+6	hinsidan	hinsida	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:30
+7	om	om	PP	PP	_	_	_	_	_	O	_	temp:1:39
+

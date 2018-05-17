@@ -1,0 +1,5 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	emellan	emellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	skeppets	skeppets	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	stammar	stammar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+

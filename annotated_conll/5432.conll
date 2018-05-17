@@ -1,0 +1,6 @@
+1	ljusalfer	ljusalfer	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:10
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	rosenknoppar	rosenknoppar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

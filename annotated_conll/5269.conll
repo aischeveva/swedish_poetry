@@ -1,0 +1,10 @@
+1	Dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	människosläkte	människosläkte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+4	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:20
+5	bör	böra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:28
+7	dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:32
+8	prisa	prisa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:37
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

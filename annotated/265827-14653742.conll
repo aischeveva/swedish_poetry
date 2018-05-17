@@ -1,0 +1,10 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14653742:0:1
+2	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	265827-14653742:0:5
+3	förresten	förresten	AB	AB	_	_	_	_	_	O	_	265827-14653742:0:11
+4	på	på	PP	PP	_	_	_	_	_	O	_	265827-14653742:0:21
+5	påse	påse	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14653742:0:24
+6	nu	nu	AB	AB	_	_	_	_	_	O	_	265827-14653742:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	265827-14653742:0:31
+8	------->	------->	MID	MID	_	_	_	_	_	O	_	265827-14653742:0:33
+9	www.pacemakers.blogg.se	www.pacemakers.blogg.se	UO	UO	_	_	_	_	_	O	_	265827-14653742:0:42
+

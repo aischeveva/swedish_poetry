@@ -1,0 +1,16 @@
+1	Tre	tre	RG	RG	NOM	_	_	_	_	O	_	temp:0:0
+2	mark	mark	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	höll	höll	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	vigt	vigt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:26
+9	arbetad	arbetad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+10	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:38
+11	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:42
+12	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:46
+13	rent	rent	AB	AB	POS	_	_	_	_	O	_	temp:0:49
+14	guld	guld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:54
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:58
+

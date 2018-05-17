@@ -1,0 +1,11 @@
+1	Många	många	PN	PN	UTR/NEU|PLU|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	klenoder	klenoder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	jämväl	jämväl	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	der	der	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+5	gömdes	gömdes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:26
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+7	byten	byten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+8	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:40
+9	segern	segern	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:43
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

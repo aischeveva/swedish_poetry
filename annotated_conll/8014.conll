@@ -1,0 +1,11 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	segla	seglägga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	hem	hem	PL	PL	_	_	_	_	_	O	_	temp:0:12
+5	öfver	öfver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+6	mörkblå	mörkblå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+7	vågor	vågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:36
+

@@ -1,0 +1,8 @@
+1	utöfver	utöfver	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	pannan	panna	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+4	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+5	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	stranden	stranden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

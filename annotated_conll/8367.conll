@@ -1,0 +1,10 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	Beles	beles	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	hög	hög	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+6	platsen	platsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+7	valdes	valdes	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:26
+8	rätt	rätt	AB	AB	_	_	_	_	_	O	_	temp:0:33
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

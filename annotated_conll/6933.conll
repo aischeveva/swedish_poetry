@@ -1,0 +1,11 @@
+1	i	i	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	örat	örat	UO	UO	_	_	_	_	_	O	_	temp:0:2
+3	mången	mången	UO	UO	_	_	_	_	_	O	_	temp:0:7
+4	varning	varning	UO	UO	_	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+7	ger	ge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:31
+9	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:35
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

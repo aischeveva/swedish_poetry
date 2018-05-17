@@ -1,0 +1,12 @@
+1	dock	dock	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	glad	glad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:18
+7	lefver	lefver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:29
+9	ditt	ditt	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+10	hjerta	hjerta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

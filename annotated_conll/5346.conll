@@ -1,0 +1,6 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	höge	höge	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	anden	anden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	kvar	kvar	PL	PL	_	_	_	_	_	O	_	temp:0:15
+5	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:19
+

@@ -1,0 +1,9 @@
+1	Salig	salig	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:14
+6	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:18
+7	klara	klara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+8	skepnad	skepnad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

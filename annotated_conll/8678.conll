@@ -1,0 +1,9 @@
+1	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	lydigt	lydigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	offer	offer	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:21
+6	broders	broders	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	altar	alta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

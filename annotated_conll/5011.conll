@@ -1,0 +1,7 @@
+1	Kring	kring	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	bordet	bordet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	Valhalla	Valhalla	PM	PM	NOM	_	_	_	_	B	person	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

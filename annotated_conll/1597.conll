@@ -1,0 +1,9 @@
+1	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	inför	inför	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	kadin	kadin	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:18
+6	dömer	dömer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:22
+7	brottslingar	brottslingar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

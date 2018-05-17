@@ -1,0 +1,6 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	ädla	ädla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	brödrafolken	brödrafolken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	leve	leve	UO	UO	_	_	_	_	_	O	_	temp:0:21
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

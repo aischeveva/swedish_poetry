@@ -1,0 +1,7 @@
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	snillet	snillet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	smaken	smake	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

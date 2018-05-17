@@ -1,0 +1,11 @@
+1	Från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	släkte	släkte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	släkte	Släkte	PM	PM	NOM	_	_	_	_	B	person	temp:0:17
+5	sparade	sparade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+6	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:32
+7	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:35
+8	dårskaps	dårskaps	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+9	hopp	hopp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:52
+

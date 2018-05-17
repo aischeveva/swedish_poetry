@@ -1,0 +1,11 @@
+1	ditt	ditt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	namn	namn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:19
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:23
+8	gåta	gåta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+9	skum	skum	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

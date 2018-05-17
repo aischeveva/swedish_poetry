@@ -1,0 +1,11 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	hatar	hata	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	Beles	beles	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	söner	son	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	Hvarför	hvarför	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:22
+2	hatar	hata	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:30
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:36
+4	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:1:38
+

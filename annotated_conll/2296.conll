@@ -1,0 +1,8 @@
+1	känner	känna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:7
+3	sekund	sekund	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+5	största	stor	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	trygghet	trygghet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

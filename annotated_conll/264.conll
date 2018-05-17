@@ -1,0 +1,9 @@
+1	Vilken	vilken	HD	HD	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	ström	ström	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+4	runnit	runnit	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:17
+5	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:24
+6	mellan	mellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+7	skolornas	skolornas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:36
+8	murar	murar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:46
+

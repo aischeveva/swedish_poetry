@@ -1,0 +1,16 @@
+1	Hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	levde	leva	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:11
+5	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+7	skrev	skrev	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+8	böcker	bok	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:26
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+10	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:34
+11	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:38
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+13	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:43
+14	gammal	gammal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+15	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:54
+

@@ -1,0 +1,10 @@
+1	Till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	Asar	Asar	PM	PM	NOM	_	_	_	_	B	place	temp:0:5
+3	blotar	blota	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	hopen	hopen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+6	leder	leder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+7	gångarn	gångarn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:38
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

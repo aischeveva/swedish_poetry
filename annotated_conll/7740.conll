@@ -1,0 +1,10 @@
+1	fylda	fylda	JJ	JJ	POS|UTR/NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	källrar	källrar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:14
+4	proppade	proppade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+5	skåp	skåp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:32
+7	rågade	rågade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:36
+8	visthus	visthus	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:43
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

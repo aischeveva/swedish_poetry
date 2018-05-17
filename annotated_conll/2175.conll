@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	gned	gned	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:9
+4	viskande	viskande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	musik	musik	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:29
+7	strängarna	strängarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:32
+

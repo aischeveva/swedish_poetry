@@ -1,0 +1,7 @@
+1	stiger	stiger	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	anden	anden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:13
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:17
+5	gnista	gnista	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

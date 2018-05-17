@@ -1,0 +1,8 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	släpade	släpade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	stenar	stenar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	sömnlös	sömnlös	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:21
+6	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

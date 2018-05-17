@@ -1,0 +1,9 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	hviskade	hviska	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:18
+6	qvällen	qvällen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

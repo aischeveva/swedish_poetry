@@ -1,0 +1,15 @@
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	segrat	segrat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+6	nöjd	nöjd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+
+1	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:25
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:1:29
+3	beder	beder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:33
+4	om	om	PP	PP	_	_	_	_	_	O	_	temp:1:39
+5	frid	frid	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:42
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:46
+

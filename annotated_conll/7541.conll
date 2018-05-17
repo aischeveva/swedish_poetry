@@ -1,0 +1,12 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	försonas	försonas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:8
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+
+1	Vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:18
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:22
+3	hvad	hvad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:25
+4	försoning	försoning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:30
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:40
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:1:42
+

@@ -1,0 +1,6 @@
+1	kroppens	kroppens	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	fina	fin	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:9
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	vördnadsvärda	vördnadsvärda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

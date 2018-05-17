@@ -1,0 +1,11 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	ljusa	ljusa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	lockar	lockar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	flöto	flöto	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+5	liksom	liksom	AB	AB	_	_	_	_	_	O	_	temp:0:22
+6	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:29
+7	svall	svall	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+9	gull	gull	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

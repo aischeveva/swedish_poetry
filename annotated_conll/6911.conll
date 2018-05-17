@@ -1,0 +1,10 @@
+1	Stark	stark	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	ström	ström	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	egna	egna	RG	RG	NOM	_	_	_	_	O	_	temp:0:16
+5	vågor	vågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+7	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:31
+8	hafvet	hafvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

@@ -1,0 +1,10 @@
+1	akta	akta	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	väck	väck	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+5	ej	ej	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:18
+7	evigas	evigas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:22
+8	harm	harm	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:29
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

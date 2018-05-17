@@ -1,0 +1,11 @@
+1	Björkskog	björkskog	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	krönte	krönte	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+3	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:17
+4	kullarnas	kullarnas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:20
+5	topp	topp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+7	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:36
+8	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:40
+9	sluttande	sluttande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:43
+10	sidor	sidor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:53
+

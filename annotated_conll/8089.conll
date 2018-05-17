@@ -1,0 +1,8 @@
+1	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:3
+3	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+4	ville	vilja	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+5	å	å	KN	KN	_	_	_	_	_	O	_	temp:0:15
+6	färde	färde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

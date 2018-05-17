@@ -1,0 +1,8 @@
+1	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	skullran	skullran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	lockar	lockar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:21
+5	trogne	trogne	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+6	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:32
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

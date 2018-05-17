@@ -1,0 +1,9 @@
+1	London	london	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Bridge	bridge	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	is	is	UO	UO	_	_	_	_	_	O	_	temp:0:14
+4	falling	falling	UO	UO	_	_	_	_	_	O	_	temp:0:17
+5	down	down	UO	UO	_	_	_	_	_	O	_	temp:0:25
+6	falling	falling	UO	UO	_	_	_	_	_	O	_	temp:0:30
+7	down	down	UO	UO	_	_	_	_	_	O	_	temp:0:38
+8	falling	falling	UO	UO	_	_	_	_	_	O	_	temp:0:43
+

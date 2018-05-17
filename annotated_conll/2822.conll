@@ -1,0 +1,6 @@
+1	Alfen	alfen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	sjunger	sjunga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	Oden	oden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+

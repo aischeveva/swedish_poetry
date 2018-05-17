@@ -1,0 +1,7 @@
+1	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	ödes	ödes	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	ljus	ljus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	evighet	evighet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

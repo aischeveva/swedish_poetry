@@ -1,0 +1,6 @@
+1	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	fosterfader	fosterfader	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:17
+4	silfverhår	silfverhår	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

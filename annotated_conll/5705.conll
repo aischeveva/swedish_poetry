@@ -1,0 +1,6 @@
+1	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	nära	nära	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	ön	ön	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

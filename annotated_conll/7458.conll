@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	örnevingarna	örnevingarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:17
+4	hjelmen	hjelmen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+5	sänktes	sänktes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:28
+6	djupt	djupt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+

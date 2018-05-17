@@ -1,0 +1,8 @@
+1	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	lögnen	lögnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:15
+5	måttlös	måttlös	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	sorg	sorg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,13 @@
+1	ör	ör	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	hör	hör	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:12
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+7	förr	förr	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+8	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:21
+9	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:22
+10	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:24
+11	svarar	svara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+12	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

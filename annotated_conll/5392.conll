@@ -1,0 +1,8 @@
+1	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	klappar	klapp	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	små	liten	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	hvita	hvita	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

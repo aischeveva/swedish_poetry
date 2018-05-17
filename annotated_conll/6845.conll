@@ -1,0 +1,15 @@
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	dånar	dånar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	rundt	rundt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:14
+5	omkring	omkring	PL	PL	_	_	_	_	_	O	_	temp:0:20
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:28
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+8	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:33
+9	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:36
+10	lugn	lugn	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+11	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:44
+12	Frithiofs	Frithiof	PM	PM	GEN	_	_	_	_	B	person	temp:0:46
+13	bröst	bröst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:56
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:61
+

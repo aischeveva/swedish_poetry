@@ -1,0 +1,11 @@
+1	frid	frid	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	menskors	menskors	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:20
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	höge	höge	UO	UO	_	_	_	_	_	O	_	temp:0:26
+8	gudars	gudars	UO	UO	_	_	_	_	_	O	_	temp:0:31
+9	barm	barm	UO	UO	_	_	_	_	_	O	_	temp:0:38
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

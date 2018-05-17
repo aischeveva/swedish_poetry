@@ -1,0 +1,7 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	bed	bed	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	del	del	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	våndan	våndan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+

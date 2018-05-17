@@ -1,0 +1,8 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	fromme	fromme	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:10
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	dina	dina	RG	RG	NOM	_	_	_	_	O	_	temp:0:18
+6	månskensblickar	månskensblickar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

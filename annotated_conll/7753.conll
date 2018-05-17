@@ -1,0 +1,13 @@
+1	högre	högre	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	växten	växten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	menniskors	menniskors	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:21
+6	ätt	ätt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:37
+9	luden	luden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:41
+10	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:47
+11	vildsint	vildsint	PC	PC	PRF|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:51
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:59
+

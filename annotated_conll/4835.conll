@@ -1,0 +1,16 @@
+1	Ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:2
+3	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:3
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+5	möjor	möjor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:7
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:13
+7	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+8	bygd	bygd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+10	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:26
+11	krans	krans	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+12	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:36
+13	landsman	landsman	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+14	binder	binder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:48
+15	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:54
+

@@ -1,0 +1,9 @@
+1	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	handen	hand	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	griper	griper	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	väldigt	väldigt	AB	AB	POS	_	_	_	_	O	_	temp:0:18
+5	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:26
+6	strängens	strängens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:30
+7	guld	guld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

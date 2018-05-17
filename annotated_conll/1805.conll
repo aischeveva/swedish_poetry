@@ -1,0 +1,11 @@
+1	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	skuggan	skuggan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:12
+5	kliver	kliver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+6	bakom	bakom	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+7	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:29
+8	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:33
+9	morgonen	morgon	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

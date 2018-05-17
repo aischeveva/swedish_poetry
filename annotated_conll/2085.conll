@@ -1,0 +1,7 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Spårvagnar	Spårvagnar	PM	PM	NOM	_	_	_	_	B	place	temp:0:1
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:12
+4	dammiga	dammiga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+5	träd	träd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

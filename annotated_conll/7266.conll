@@ -1,0 +1,9 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	röda	röda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	färgar	färgar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:16
+5	ej	ej	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	bergens	bergens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:23
+7	toppar	toppar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:31
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

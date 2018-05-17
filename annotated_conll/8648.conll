@@ -1,0 +1,15 @@
+1	Är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:3
+3	ej	ej	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:6
+4	fri	fri	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:14
+7	snart	snart	AB	AB	POS	_	_	_	_	O	_	temp:0:17
+8	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:23
+9	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+10	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:32
+2	I	i	PP	PP	_	_	_	_	_	O	_	temp:1:34
+3	högen	högen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:36
+

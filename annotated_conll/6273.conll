@@ -1,0 +1,6 @@
+1	dånad	dånad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	låg	låg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+5	altarrund	altarrund	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+

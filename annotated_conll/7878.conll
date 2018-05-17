@@ -1,0 +1,13 @@
+1	Frithiof	frithiof	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	sörjande	sörjande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	värd	värd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:28
+8	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	fylda	fylda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:37
+10	af	af	UO	UO	_	_	_	_	_	O	_	temp:0:43
+11	tårar	tårar	UO	UO	_	_	_	_	_	O	_	temp:0:46
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:51
+

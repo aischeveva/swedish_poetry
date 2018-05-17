@@ -1,0 +1,13 @@
+1	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	friska	frisk	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	våren	våren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:26
+8	kulna	kulna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+9	höst	höst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+10	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:41
+11	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:45
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

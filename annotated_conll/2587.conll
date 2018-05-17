@@ -1,0 +1,8 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:1
+3	myndige	myndige	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+4	far	fara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	gården	gården	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

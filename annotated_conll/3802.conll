@@ -1,0 +1,5 @@
+1	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	kall	kall	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	sanning	sanning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+

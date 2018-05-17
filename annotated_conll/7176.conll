@@ -1,0 +1,8 @@
+1	Kung	kung	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Ring	Ring	PM	PM	NOM	_	_	_	_	B	place	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:18
+7	förestår	förestå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+

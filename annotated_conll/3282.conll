@@ -1,0 +1,6 @@
+1	ödestung	ödestung	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:9
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:13
+4	forntidssång	forntidssång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

@@ -1,0 +1,9 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	bävar	bävar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:10
+4	bryta	bryta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:14
+5	din	din	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	hemliga	hemliga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+7	lag	lag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,103 @@
+1	Ansiktsbehandlingen	ansiktsbehandling	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-14844249:0:1
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14844249:0:21
+3	såååhäääääääääär	såååhäääääääääär	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14844249:0:25
+4	skön	skön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14844249:0:42
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14844249:0:46
+
+1	Fick	få	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14844249:1:48
+2	massage	massage	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14844249:1:53
+3	först	först	AB	AB	_	_	_	_	_	O	_	265827-14844249:1:61
+4	,	,	MID	MID	_	_	_	_	_	O	_	265827-14844249:1:66
+5	och	och	KN	KN	_	_	_	_	_	O	_	265827-14844249:1:68
+6	sen	sen	AB	AB	_	_	_	_	_	O	_	265827-14844249:1:72
+7	bäddades	bädda	VB	VB	PRT|SFO	_	_	_	_	O	_	265827-14844249:1:76
+8	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14844249:1:85
+9	ner	ner	PL	PL	_	_	_	_	_	O	_	265827-14844249:1:89
+10	med	med	PP	PP	_	_	_	_	_	O	_	265827-14844249:1:93
+11	varma	varm	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14844249:1:97
+12	handdukar	handduk	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14844249:1:103
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14844249:1:112
+
+1	Sen	sen	AB	AB	_	_	_	_	_	O	_	265827-14844249:2:114
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14844249:2:118
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14844249:2:122
+4	själva	själv	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14844249:2:126
+5	ansiktsbehandlingen	ansiktsbehandling	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-14844249:2:133
+6	,	,	MID	MID	_	_	_	_	_	O	_	265827-14844249:2:152
+7	fick	få	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14844249:2:154
+8	massage	massage	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14844249:2:159
+9	i	i	PP	PP	_	_	_	_	_	O	_	265827-14844249:2:167
+10	ansiktet	ansikte	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	265827-14844249:2:169
+11	också	också	AB	AB	_	_	_	_	_	O	_	265827-14844249:2:178
+12	OCH	och	KN	KN	_	_	_	_	_	O	_	265827-14844249:2:184
+13	i	i	PP	PP	_	_	_	_	_	O	_	265827-14844249:2:188
+14	hårbotten	hårbotten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-14844249:2:190
+15	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14844249:2:199
+
+1	Schönt	schönt	AB	AB	POS	_	_	_	_	O	_	265827-14844249:3:201
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14844249:3:207
+
+1	Massa	massa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14844249:4:209
+2	krämer	kräm	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14844249:4:215
+3	och	och	KN	KN	_	_	_	_	_	O	_	265827-14844249:4:222
+4	serum	serum	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	265827-14844249:4:226
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14844249:4:231
+
+1	Så	så	AB	AB	_	_	_	_	_	O	_	265827-14844249:5:233
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14844249:5:236
+3	fortfarande	fortfarande	AB	AB	_	_	_	_	_	O	_	265827-14844249:5:239
+4	glansig	glansig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14844249:5:251
+5	och	och	KN	KN	_	_	_	_	_	O	_	265827-14844249:5:259
+6	ÅTERFUKTAD	återfukta	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14844249:5:263
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14844249:5:273
+
+1	Sen	sen	AB	AB	_	_	_	_	_	O	_	265827-14844249:6:275
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14844249:6:279
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14844249:6:282
+4	lite	lite	AB	AB	POS	_	_	_	_	O	_	265827-14844249:6:286
+5	rödprickig	rödprickig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14844249:6:291
+6	också	också	AB	AB	_	_	_	_	_	O	_	265827-14844249:6:302
+7	,	,	MID	MID	_	_	_	_	_	O	_	265827-14844249:6:307
+8	men	men	KN	KN	_	_	_	_	_	O	_	265827-14844249:6:309
+9	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14844249:6:313
+10	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14844249:6:317
+11	ju	ju	AB	AB	_	_	_	_	_	O	_	265827-14844249:6:320
+12	standard	standard	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14844249:6:323
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14844249:6:331
+
+1	Plockade	plocka	PC	PC	PRF|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14844249:7:333
+2	ögonbrynen	ögonbryn	NN	NN	NEU|PLU|DEF|NOM	_	_	_	_	O	_	265827-14844249:7:342
+3	gjorde	göra	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14844249:7:353
+4	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14844249:7:360
+5	också	också	AB	AB	_	_	_	_	_	O	_	265827-14844249:7:364
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14844249:7:369
+
+1	SJUKT	sjukt	AB	AB	_	_	_	_	_	O	_	265827-14844249:8:373
+2	PRODUKTIVA	produktiv	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	265827-14844249:8:379
+3	75	75	RG	RG	NOM	_	_	_	_	O	_	265827-14844249:8:390
+4	MINUTER	minut	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14844249:8:393
+
+1	Sen	sen	AB	AB	_	_	_	_	_	O	_	265827-14844249:9:404
+2	ville	vilja	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14844249:9:408
+3	Amanda	Amanda	PM	PM	NOM	_	_	_	_	B	person	265827-14844249:9:414
+4	äta	äta	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14844249:9:421
+5	middag	middag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14844249:9:425
+6	,	,	MID	MID	_	_	_	_	_	O	_	265827-14844249:9:431
+7	så	så	KN	KN	_	_	_	_	_	O	_	265827-14844249:9:433
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14844249:9:436
+9	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14844249:9:440
+10	våfflor	våffla	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14844249:9:445
+11	och	och	KN	KN	_	_	_	_	_	O	_	265827-14844249:9:453
+12	Ida	Ida	PM	PM	NOM	_	_	_	_	B	person	265827-14844249:9:457
+13	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14844249:9:461
+14	också	också	AB	AB	_	_	_	_	_	O	_	265827-14844249:9:465
+15	och	och	KN	KN	_	_	_	_	_	O	_	265827-14844249:9:471
+16	hjälpte	hjälpa	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-14844249:9:475
+17	till	till	PL	PL	_	_	_	_	_	O	_	265827-14844249:9:483
+18	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14844249:9:487
+
+1	Jättemys	jättemys	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	265827-14844249:10:489
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14844249:10:497
+
+1	lök	lök	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14844249:11:506
+

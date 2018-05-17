@@ -1,0 +1,8 @@
+1	Låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	nytt	ny	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:13
+5	fagert	fagert	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:17
+6	leta	leta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

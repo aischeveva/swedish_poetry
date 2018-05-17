@@ -1,0 +1,9 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	lägger	lägge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	tung	tung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	sköld	sköld	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:26
+7	diamant	diamant	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

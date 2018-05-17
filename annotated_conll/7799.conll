@@ -1,0 +1,14 @@
+1	lefvande	lefvande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+3	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:14
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	skepp	skepp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:28
+7	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:32
+8	gods	gods	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:41
+10	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:43
+11	murade	murade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:47
+12	grafhög	grafhög	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:54
+13	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:61
+

@@ -1,0 +1,6 @@
+1	föga	föga	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	varsamt	varsamt	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+4	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+5	slog	slå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+

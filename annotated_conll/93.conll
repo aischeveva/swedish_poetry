@@ -1,0 +1,13 @@
+1	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	mycket	mycket	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	hjärtat	hjärta	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	tål	tål	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:25
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:26
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:28
+4	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:29
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:31
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:32
+

@@ -1,0 +1,11 @@
+1	minns	minns	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	Phlebas	phlebas	UO	UO	_	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:19
+6	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:27
+8	högrest	högrest	AB	AB	SUV	_	_	_	_	O	_	temp:0:31
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:39
+10	vacker	vacker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:43
+

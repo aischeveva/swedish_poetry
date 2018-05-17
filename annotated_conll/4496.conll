@@ -1,0 +1,5 @@
+1	Fiskalen	fiskalen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+3	djupt	djupt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:12
+4	chockerad	chockerad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+

@@ -1,0 +1,9 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	bjuder	bjuda	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	Hösten	hösten	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+5	tron	tron	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:26
+7	Våren	våren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

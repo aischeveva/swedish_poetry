@@ -1,0 +1,9 @@
+1	Är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	bröstet	bröstet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	träffadt	träffadt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+6	vingen	vingen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	skjuten	skjuten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+8	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

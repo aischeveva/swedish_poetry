@@ -1,0 +1,12 @@
+1	Dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	tom	tom	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+6	öde	öde	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+8	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+9	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:32
+10	ofruktbar	ofruktbar	AB	AB	AN	_	_	_	_	O	_	temp:0:36
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

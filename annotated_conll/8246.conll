@@ -1,0 +1,9 @@
+1	Björn	björn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	der	der	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	nere	nere	AB	AB	_	_	_	_	_	O	_	temp:0:15
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:24
+7	svärd	svärd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

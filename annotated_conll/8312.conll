@@ -1,0 +1,7 @@
+1	kringsvärma	kringsvärma	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	gerna	gerna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:12
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+5	blå	blå	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

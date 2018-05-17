@@ -1,0 +1,15 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	kung	kung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	Helge	Helge	PM	PM	NOM	_	_	_	_	B	person	temp:0:11
+5	fallen	fallen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:24
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:26
+3	Här	här	AB	AB	_	_	_	_	_	O	_	temp:1:28
+4	bröt	bröt	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:32
+5	Frithiof	frithiof	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:37
+6	af	af	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:46
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:1:48
+

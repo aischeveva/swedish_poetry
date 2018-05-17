@@ -1,0 +1,12 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:16
+6	säga	säga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+7	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:25
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+9	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:30
+10	vägrar	vägrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

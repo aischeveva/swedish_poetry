@@ -1,0 +1,6 @@
+1	Med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+5	delat	delat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:16
+

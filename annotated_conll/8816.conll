@@ -1,0 +1,7 @@
+1	oändlig	oändlig	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	smärta	smärta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	djupa	djupa	RG	RG	NOM	_	_	_	_	O	_	temp:0:19
+5	toner	toner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,11 @@
+1	låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	bli	bli	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:8
+4	narrspel	narrspel	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:22
+7	bli	bli	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+8	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:30
+9	skrifva	skrifva	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:34
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

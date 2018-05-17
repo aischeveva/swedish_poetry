@@ -1,0 +1,7 @@
+1	fyra	fyra	RG	RG	NOM	_	_	_	_	O	_	temp:0:0
+2	utaf	utaf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:10
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	land	land	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

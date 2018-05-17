@@ -1,0 +1,7 @@
+1	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	mest	mycket	AB	AB	SUV	_	_	_	_	O	_	temp:0:4
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	kärt	kärt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:16
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

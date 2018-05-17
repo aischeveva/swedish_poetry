@@ -1,0 +1,6 @@
+1	misstänksamt	misstänksamt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	skygg	skygg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+3	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+4	bommade	bommade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:25
+5	hus	hus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

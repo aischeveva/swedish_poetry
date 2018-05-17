@@ -1,0 +1,13 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Barn	barn	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:1
+3	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:5
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:6
+2	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:8
+3	Livet	liv	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:13
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:1:19
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:1:24
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:1:28
+7	dag	dag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:31
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:34
+

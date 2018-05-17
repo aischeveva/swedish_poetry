@@ -1,0 +1,10 @@
+1	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	porten	porten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	stängd	stängd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	nyckeln	nyckeln	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	rostad	rostad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	fast	fast	KN	KN	_	_	_	_	_	O	_	temp:0:37
+8	deri	deri	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

@@ -1,0 +1,5 @@
+1	vindlätt	vindlätt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:9
+3	vinande	vinande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	kast	kast	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+

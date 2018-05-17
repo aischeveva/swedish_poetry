@@ -1,0 +1,11 @@
+1	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:3
+3	storstilat	storstilat	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:19
+6	förakt	förakt	AB	AB	POS	_	_	_	_	O	_	temp:0:26
+7	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:33
+8	sina	sin	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:37
+9	öden	öden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:42
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

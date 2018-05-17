@@ -1,0 +1,8 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	rosenröda	rosenröda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	hjul	hjul	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	himlens	himlens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:25
+6	bryn	bryn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

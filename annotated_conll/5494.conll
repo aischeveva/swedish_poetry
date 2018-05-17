@@ -1,0 +1,5 @@
+1	uppstiger	uppstiger	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hennes	hennes	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+3	ättartal	ättartal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+4	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

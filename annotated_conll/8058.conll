@@ -1,0 +1,5 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	landets	landets	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	bön	bön	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+

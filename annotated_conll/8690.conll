@@ -1,0 +1,12 @@
+1	Hvad	hvad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	skulle	ska	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:17
+6	Nordens	nordens	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:35
+10	Södern	Södern	PM	PM	NOM	_	_	_	_	B	animal	temp:0:37
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

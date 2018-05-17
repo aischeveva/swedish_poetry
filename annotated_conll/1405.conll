@@ -1,0 +1,13 @@
+1	Nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	sluter	sluter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:10
+4	vardagens	vardag	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:14
+5	rymd	rymd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:35
+8	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:39
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+10	lik	lik	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+11	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:48
+12	len	len	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:51
+

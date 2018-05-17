@@ -1,0 +1,9 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	stämman	stämman	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	förnimmes	förnimmes	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+5	berg	berg	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:28
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:33
+7	dalar	dalar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:37
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

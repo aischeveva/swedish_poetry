@@ -1,0 +1,9 @@
+1	Säg	säg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	stjärnor	stjärnor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+6	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:20
+7	ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+8	emot	emot	PP	PP	_	_	_	_	_	O	_	temp:0:26
+

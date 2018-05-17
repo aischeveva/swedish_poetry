@@ -1,0 +1,14 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:1
+3	hand	hand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+5	gjord	gjord	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+6	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:19
+7	verka	verka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+9	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:30
+10	ande	ande	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:34
+11	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:39
+12	skapa	skapa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:43
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:48
+

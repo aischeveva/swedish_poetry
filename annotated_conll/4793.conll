@@ -1,0 +1,11 @@
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	fröjd	fröjd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:10
+4	barndom	barndom	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	fann	fann	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+6	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	dina	dina	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:33
+8	frusna	frusna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:38
+9	fjällar	fjällar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:45
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

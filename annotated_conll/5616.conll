@@ -1,0 +1,9 @@
+1	bär	bär	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:8
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:11
+5	stund	stund	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:20
+

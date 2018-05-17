@@ -1,0 +1,8 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	hemlig	hemlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	glöd	glöd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:23
+7	offereld	offereld	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+

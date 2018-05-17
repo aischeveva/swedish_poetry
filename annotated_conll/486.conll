@@ -1,0 +1,7 @@
+1	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	markerna	markerna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	nyss	nyss	AB	AB	_	_	_	_	_	O	_	temp:0:13
+4	låg	låg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	tomma	tomma	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

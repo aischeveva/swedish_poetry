@@ -1,0 +1,9 @@
+1	Utan	utan	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:5
+3	veta	veta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:14
+5	krafter	krafter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:26
+7	råder	råder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+8	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:35
+

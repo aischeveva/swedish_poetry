@@ -1,0 +1,7 @@
+1	Helstekt	helstekt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	späckad	späckad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	bringa	bringa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

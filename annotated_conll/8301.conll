@@ -1,0 +1,7 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	vakan	vakan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	sjunger	sjunga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	lunden	lunden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

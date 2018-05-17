@@ -1,0 +1,10 @@
+1	Om	om	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	namn	namn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:8
+4	bragder	bragder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+5	jämt	jämt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:20
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+7	falska	falska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	talar	tala	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:36
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

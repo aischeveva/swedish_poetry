@@ -1,0 +1,11 @@
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:4
+3	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:8
+4	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:11
+5	fönster	fönster	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:23
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:26
+8	gavel	gavel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+9	lysa	lysa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:35
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

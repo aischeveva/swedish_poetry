@@ -1,0 +1,10 @@
+1	utöfver	utöfver	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Varg	Varg	PM	PM	NOM	_	_	_	_	B	place	temp:0:8
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	veum	veum	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+6	öfver	öfver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+7	biltog	biltog	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

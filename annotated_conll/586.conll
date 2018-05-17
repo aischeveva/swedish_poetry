@@ -1,0 +1,10 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:4
+3	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:7
+4	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:15
+7	släck	släck	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+8	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:24
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

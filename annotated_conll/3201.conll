@@ -1,0 +1,6 @@
+1	Din	din	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	fåll	fåll	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+5	kyssa	kyssa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+

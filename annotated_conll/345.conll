@@ -1,0 +1,14 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:3
+3	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	straffande	straffande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+6	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:26
+7	gör	göra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:30
+8	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:34
+9	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:37
+10	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:41
+11	lossa	lossa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:45
+12	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:51
+13	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:54
+

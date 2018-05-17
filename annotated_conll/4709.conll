@@ -1,0 +1,5 @@
+1	värdinnan	värdinnan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+3	mäkta	mäkta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+4	troende	troende	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:19
+

@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sjöng	sjöng	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	hjertligt	hjertligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	qväde	qväde	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:30
+7	kärleken	kärleken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:42
+9	Nord	Nord	PM	PM	NOM	_	_	_	_	B	person	temp:0:44
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:48
+

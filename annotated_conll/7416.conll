@@ -1,0 +1,10 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	silfvermånen	silfvermåne	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	sitter	sitta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+4	uppå	uppå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+5	himlens	himlens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:29
+6	blå	blå	AB	AB	KOM	_	_	_	_	O	_	temp:0:37
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:42
+

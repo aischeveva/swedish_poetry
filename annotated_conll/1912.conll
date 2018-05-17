@@ -1,0 +1,6 @@
+1	Varmt	varm	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	klockan	klocka	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	tio	tio	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

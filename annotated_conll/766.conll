@@ -1,0 +1,4 @@
+1	Brus	brus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	vin	vin	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+

@@ -1,0 +1,13 @@
+1	Ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	kvävt	kvävt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	träd	träd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:16
+6	våndans	våndans	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	träd	träd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+9	slog	slå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:34
+10	äntligen	äntligen	AB	AB	_	_	_	_	_	O	_	temp:0:39
+11	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:48
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:50
+

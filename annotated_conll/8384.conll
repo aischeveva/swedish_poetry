@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	aftonsolen	aftonsol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+4	gått	gå	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:19
+5	ner	ner	PL	PL	_	_	_	_	_	O	_	temp:0:24
+6	deröfver	deröfver	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

@@ -1,0 +1,75 @@
+1	Alltså	alltså	AB	AB	_	_	_	_	_	O	_	13263-1168055:0:1
+2	,	,	MID	MID	_	_	_	_	_	O	_	13263-1168055:0:7
+3	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	13263-1168055:0:9
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1168055:0:13
+5	grejen	grej	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1168055:0:16
+6	med	med	PP	PP	_	_	_	_	_	O	_	13263-1168055:0:23
+7	pizzerior	pizzeria	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-1168055:0:27
+8	och	och	KN	KN	_	_	_	_	_	O	_	13263-1168055:0:37
+9	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	13263-1168055:0:41
+10	inredning	inredning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1168055:0:47
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1168055:0:56
+
+1	På	på	PP	PP	_	_	_	_	_	O	_	13263-1168055:1:58
+2	”	”	PAD	PAD	_	_	_	_	_	O	_	13263-1168055:1:61
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	13263-1168055:1:62
+4	”	”	PAD	PAD	_	_	_	_	_	O	_	13263-1168055:1:65
+5	pizzeria	pizzeria	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1168055:1:67
+6	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1168055:1:76
+7	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	13263-1168055:1:80
+8	rosa-vita	rosa-vit	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	13263-1168055:1:83
+9	roslampor	roslampa	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-1168055:1:93
+10	och	och	KN	KN	_	_	_	_	_	O	_	13263-1168055:1:103
+11	knottriga	knottrig	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	13263-1168055:1:107
+12	väggar	vägg	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-1168055:1:117
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1168055:1:123
+
+1	Bland	bland	PP	PP	_	_	_	_	_	O	_	13263-1168055:2:125
+2	mycket	mycket	AB	AB	POS	_	_	_	_	O	_	13263-1168055:2:131
+3	annat	annat	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	13263-1168055:2:138
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1168055:2:143
+
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-1168055:3:145
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1168055:3:149
+3	så	så	AB	AB	_	_	_	_	_	O	_	13263-1168055:3:152
+4	…	…	MID	MID	_	_	_	_	_	O	_	13263-1168055:3:155
+5	tacky	tacky	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-1168055:3:157
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1168055:3:162
+
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-1168055:4:164
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1168055:4:168
+3	kitchigt	kitchigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1168055:4:171
+4	,	,	MID	MID	_	_	_	_	_	O	_	13263-1168055:4:179
+5	omysigt	omysig	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1168055:4:181
+6	,	,	MID	MID	_	_	_	_	_	O	_	13263-1168055:4:188
+7	ganska	ganska	AB	AB	_	_	_	_	_	O	_	13263-1168055:4:190
+8	vulgärt	vulgär	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1168055:4:197
+9	och	och	KN	KN	_	_	_	_	_	O	_	13263-1168055:4:205
+10	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1168055:4:209
+11	ställer	ställa	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1168055:4:213
+12	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	13263-1168055:4:221
+13	frågan	fråga	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1168055:4:225
+14	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-1168055:4:232
+15	f-n	f-n	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1168055:4:236
+16	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	13263-1168055:4:240
+17	hittar	hitta	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1168055:4:243
+18	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	13263-1168055:4:250
+19	där	där	AB	AB	_	_	_	_	_	O	_	13263-1168055:4:253
+20	inredningsprylarna	inredningspryl	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	13263-1168055:4:257
+21	?	?	MAD	MAD	_	_	_	_	_	O	_	13263-1168055:4:275
+
+1	När	när	HA	HA	_	_	_	_	_	O	_	13263-1168055:5:277
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1168055:5:281
+3	tänker	tänka	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1168055:5:285
+4	efter	efter	PP	PP	_	_	_	_	_	O	_	13263-1168055:5:292
+5	så	så	AB	AB	_	_	_	_	_	O	_	13263-1168055:5:298
+6	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1168055:5:301
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1168055:5:305
+8	nog	nog	AB	AB	_	_	_	_	_	O	_	13263-1168055:5:309
+9	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	13263-1168055:5:313
+10	varit	vara	VB	VB	SUP|AKT	_	_	_	_	O	_	13263-1168055:5:320
+11	[	[	PAD	PAD	_	_	_	_	_	O	_	13263-1168055:5:326
+12	...	...	MAD	MAD	_	_	_	_	_	O	_	13263-1168055:5:327
+
+1	]	]	PAD	PAD	_	_	_	_	_	O	_	13263-1168055:6:330
+

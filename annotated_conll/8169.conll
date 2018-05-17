@@ -1,0 +1,9 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:1
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+5	egen	egen	JJ	JJ	POS|UTR|SIN|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+6	bana	bana	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+7	vandra	vandra	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:20
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

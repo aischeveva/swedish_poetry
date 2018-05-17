@@ -1,0 +1,7 @@
+1	För	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	skaran	skaran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	tågade	tågade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	dyster	dyster	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	sångarn	sångarn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,10 @@
+1	där	där	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	de	de	PN	PN	UTR/NEU|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	stumt	stumt	AB	AB	POS	_	_	_	_	O	_	temp:0:7
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+6	ändlösa	ändlösa	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	rymden	rymden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+8	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

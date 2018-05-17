@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Balder	Balder	PM	PM	NOM	_	_	_	_	B	person	temp:0:4
+3	sjelf	sjelf	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	blodlöse	blodlöse	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+6	guden	guden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+8	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:34
+

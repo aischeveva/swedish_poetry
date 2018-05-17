@@ -1,0 +1,10 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:7
+4	skönt	skönt	AB	AB	POS	_	_	_	_	O	_	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:17
+7	forsen	forsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+8	larmar	larmar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

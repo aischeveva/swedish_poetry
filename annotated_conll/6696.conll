@@ -1,0 +1,11 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	sjöng	sjöng	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	Valhalls	valhalls	JJ	JJ	POS|UTR/NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	salar	salar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:28
+7	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:32
+8	Einheriers	Einherier	PM	PM	GEN	_	_	_	_	B	person	temp:0:35
+9	lön	lön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

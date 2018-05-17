@@ -1,0 +1,12 @@
+1	vem	vem	HP	HP	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	kunde	kunna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	trott	trott	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:10
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:16
+5	döden	döden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	gjort	göra	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:26
+7	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:32
+8	stoft	stoft	AB	AB	POS	_	_	_	_	O	_	temp:0:37
+9	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:43
+10	många	mången	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:46
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+

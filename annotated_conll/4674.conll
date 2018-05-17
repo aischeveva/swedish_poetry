@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	viskar	viskar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	dej	dej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	vilset	vilset	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:22
+6	bön	bön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

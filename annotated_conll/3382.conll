@@ -1,0 +1,8 @@
+1	Ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:12
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	döden	döden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

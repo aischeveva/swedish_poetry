@@ -1,0 +1,12 @@
+1	Ljus	ljus	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	ock	ock	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	lyste	lyste	UO	UO	_	_	_	_	_	O	_	temp:0:9
+4	derur	derur	UO	UO	_	_	_	_	_	O	_	temp:0:15
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	Igenom	igenom	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:22
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:1:29
+3	springa	springa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:32
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:1:40
+5	porten	porten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:43
+

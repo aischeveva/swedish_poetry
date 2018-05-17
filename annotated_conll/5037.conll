@@ -1,0 +1,8 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	sena	sen	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	våren	våren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	Norden	norden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+6	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:27
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

@@ -1,0 +1,9 @@
+1	Visst	visst	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	gott	god	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+8	vänder	vända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+

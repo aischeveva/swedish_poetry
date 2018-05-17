@@ -1,0 +1,8 @@
+1	lik	lik	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	unga	unga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	örnen	örnen	NN	NN	NEU|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:16
+6	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:20
+7	klyft	klyft	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

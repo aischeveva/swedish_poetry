@@ -1,0 +1,9 @@
+1	Med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	tårar	tårar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:12
+5	sköna	sköna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+6	ögonen	öga	NN	NN	NEU|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:28
+8	föll	föll	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+

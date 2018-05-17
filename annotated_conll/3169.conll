@@ -1,0 +1,14 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	porten	porten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:21
+6	TRÖST	tröst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:1:33
+2	luften	luften	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:37
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:44
+4	ren	ren	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:47
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:50
+

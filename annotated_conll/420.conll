@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	sorgelösande	sorgelösande	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	skymning	skymning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	brann	brann	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:29
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,5 @@
+1	Storm	storm	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	nordbo	nordbo	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	trifvas	trifvas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:17
+

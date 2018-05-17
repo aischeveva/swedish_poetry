@@ -1,0 +1,12 @@
+1	Ren	ren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	din	din	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:7
+4	klang	klang	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	säker	säker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:24
+8	solens	solens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:28
+9	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+10	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

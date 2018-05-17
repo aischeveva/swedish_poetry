@@ -1,0 +1,9 @@
+1	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	Frithiof	frithiof	AB	AB	AN	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	blickar	blickar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	svedda	svedda	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+7	lunden	lunden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

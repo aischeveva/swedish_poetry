@@ -1,0 +1,11 @@
+1	bort	bort	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	vänaste	vänaste	RG	RG	NOM	_	_	_	_	O	_	temp:0:10
+4	lekar	lekar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:26
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:27
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:29
+4	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:30
+

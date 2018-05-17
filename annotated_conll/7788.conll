@@ -1,0 +1,12 @@
+1	Glitner	glitner	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	fredliga	fredliga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	borg	borg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	sågs	sågs	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:28
+8	äfven	äfven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+9	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:38
+10	förlikande	förlikande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:40
+11	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:51
+

@@ -1,0 +1,9 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:1
+3	gör	göra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+4	ju	ju	AB	AB	_	_	_	_	_	O	_	temp:0:8
+5	dygd	dygd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:16
+7	nöd	nöd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

@@ -1,0 +1,10 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	känslan	känsla	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:15
+5	årsbarn	årsbarn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:31
+8	sjelf	sjelf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

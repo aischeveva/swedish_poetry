@@ -1,0 +1,9 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	dikten	dikten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	icke	icke	VB	VB	KON|PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:19
+6	blommornas	blommornas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:23
+7	doft	doft	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

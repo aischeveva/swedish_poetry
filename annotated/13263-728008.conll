@@ -1,0 +1,66 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-728008:0:1
+2	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-728008:0:5
+3	nog	nog	AB	AB	_	_	_	_	_	O	_	13263-728008:0:10
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	13263-728008:0:14
+5	aning	aning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-728008:0:17
+6	ledsen	ledsen	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-728008:0:23
+7	i	i	PP	PP	_	_	_	_	_	O	_	13263-728008:0:30
+8	ögat	öga	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	13263-728008:0:32
+9	när	när	HA	HA	_	_	_	_	_	O	_	13263-728008:0:37
+10	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-728008:0:41
+11	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-728008:0:45
+12	att	att	SN	SN	_	_	_	_	_	O	_	13263-728008:0:49
+13	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-728008:0:53
+14	kommit	komma	VB	VB	SUP|AKT	_	_	_	_	O	_	13263-728008:0:57
+15	ännu	ännu	AB	AB	_	_	_	_	_	O	_	13263-728008:0:64
+16	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	13263-728008:0:69
+17	lass	lass	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-728008:0:73
+18	med	med	PP	PP	_	_	_	_	_	O	_	13263-728008:0:78
+19	snö	snö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-728008:0:82
+20	i	i	PP	PP	_	_	_	_	_	O	_	13263-728008:0:86
+21	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-728008:0:88
+22	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-728008:0:92
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-728008:1:94
+2	kanske	kanske	AB	AB	_	_	_	_	_	O	_	13263-728008:1:98
+3	jinxade	jinxade	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-728008:1:105
+4	vädret	väder	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	13263-728008:1:113
+5	när	när	HA	HA	_	_	_	_	_	O	_	13263-728008:1:120
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-728008:1:124
+7	la	lägga	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-728008:1:128
+8	upp	upp	PL	PL	_	_	_	_	_	O	_	13263-728008:1:131
+9	sommarbilden	sommarbild	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-728008:1:135
+10	igår	igår	AB	AB	_	_	_	_	_	O	_	13263-728008:1:148
+11	kväll	kväll	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-728008:1:153
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-728008:1:158
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-728008:2:160
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-728008:2:164
+3	gillat	gilla	VB	VB	SUP|AKT	_	_	_	_	O	_	13263-728008:2:168
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	13263-728008:2:175
+5	senaste	sen	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	13263-728008:2:179
+6	veckans	vecka	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	13263-728008:2:187
+7	milda	mild	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	13263-728008:2:195
+8	väder	väder	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-728008:2:201
+9	och	och	KN	KN	_	_	_	_	_	O	_	13263-728008:2:207
+10	häromdagen	häromdagen	AB	AB	_	_	_	_	_	O	_	13263-728008:2:211
+11	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-728008:2:222
+12	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-728008:2:226
+13	till	till	AB	AB	_	_	_	_	_	O	_	13263-728008:2:230
+14	och	och	KN	KN	_	_	_	_	_	O	_	13263-728008:2:235
+15	med	med	AB	AB	_	_	_	_	_	O	_	13263-728008:2:239
+16	lite	lite	AB	AB	POS	_	_	_	_	O	_	13263-728008:2:243
+17	av	av	PP	PP	_	_	_	_	_	O	_	13263-728008:2:248
+18	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	13263-728008:2:251
+19	gräsmatta	gräsmatta	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-728008:2:254
+20	som	som	HP	HP	-|-|-	_	_	_	_	O	_	13263-728008:2:264
+21	tittade	titta	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-728008:2:268
+22	fram	fram	PL	PL	_	_	_	_	_	O	_	13263-728008:2:276
+23	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-728008:2:280
+
+1	Bilen	bil	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-728008:3:282
+2	[	[	PAD	PAD	_	_	_	_	_	O	_	13263-728008:3:288
+3	...	...	MAD	MAD	_	_	_	_	_	O	_	13263-728008:3:289
+
+1	]	]	PAD	PAD	_	_	_	_	_	O	_	13263-728008:4:292
+

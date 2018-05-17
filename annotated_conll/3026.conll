@@ -1,0 +1,9 @@
+1	plöjdes	plöjdes	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+3	medan	medan	SN	SN	_	_	_	_	_	O	_	temp:0:9
+4	ulvarna	ulvarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	tjöt	tjöt	PC	PC	PRF|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:28
+7	skogarna	skogarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

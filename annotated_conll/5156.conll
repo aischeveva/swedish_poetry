@@ -1,0 +1,10 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	bliv	bliv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	rädd	rädd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:18
+7	bleka	bleka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	lilja	lilja	NN	NN	AN	_	_	_	_	O	_	temp:0:28
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

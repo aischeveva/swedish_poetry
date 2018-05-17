@@ -1,0 +1,10 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	norrsken	norrsken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	fräste	fräste	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+4	ner	ner	PL	PL	_	_	_	_	_	O	_	temp:0:20
+5	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	himmelen	himmelen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:38
+8	låga	låga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:40
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

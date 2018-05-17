@@ -1,0 +1,17 @@
+1	Skön	skön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	skall	skall	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:5
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	vara	vara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:14
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	stolt	stolt	AB	AB	POS	_	_	_	_	O	_	temp:0:23
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:30
+2	känner	känna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:34
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:1:41
+4	icke	icke	AB	AB	_	_	_	_	_	O	_	temp:1:45
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:49
+6	men	men	KN	KN	_	_	_	_	_	O	_	temp:1:51
+7	mången	mången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:55
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:61
+

@@ -1,0 +1,15 @@
+1	Ve	ve	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+5	fot	fot	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+7	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:19
+8	tung	tung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+9	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:28
+10	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:32
+11	svindlande	svindlande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:35
+12	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:46
+13	stigarna	stigarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:51
+14	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:59
+

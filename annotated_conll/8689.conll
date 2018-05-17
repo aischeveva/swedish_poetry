@@ -1,0 +1,9 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	lockande	locka	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+5	fordom	Fordom	PM	PM	NOM	_	_	_	_	B	inst	temp:0:14
+6	kära	kär	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	stämmor	stämmor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

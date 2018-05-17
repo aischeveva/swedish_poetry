@@ -1,0 +1,10 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	elden	eld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:12
+
+1	Branden	branden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:15
+2	bådar	bådar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:23
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:29
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:32
+

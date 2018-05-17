@@ -1,0 +1,16 @@
+1	Se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:2
+3	der	der	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+4	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+5	jagtens	jagtens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:15
+6	drottning	drottning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+
+1	Arme	arme	UO	UO	_	_	_	_	_	O	_	temp:1:34
+2	Frithiof	frithiof	UO	UO	_	_	_	_	_	O	_	temp:1:39
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:47
+4	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:49
+5	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:52
+6	dit	dit	AB	AB	_	_	_	_	_	O	_	temp:1:55
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:1:58
+

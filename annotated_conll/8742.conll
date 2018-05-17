@@ -1,0 +1,11 @@
+1	Hvad	hvad	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	rätt	rätt	AB	AB	_	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	ädelt	ädelt	AB	AB	POS	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+9	nödvändigt	nödvändigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

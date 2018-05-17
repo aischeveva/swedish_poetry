@@ -1,0 +1,8 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	striden	striden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+5	landets	landets	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:16
+6	mur	mur	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

@@ -1,0 +1,7 @@
+1	Luften	luften	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	stigar	stigar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:18
+5	bär	bär	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

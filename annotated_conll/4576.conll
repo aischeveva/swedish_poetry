@@ -1,0 +1,8 @@
+1	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:11
+4	blomst	blomst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	paradis	paradis	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

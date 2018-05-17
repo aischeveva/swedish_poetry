@@ -1,0 +1,4 @@
+1	Ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	par	par	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	allena	allena	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+

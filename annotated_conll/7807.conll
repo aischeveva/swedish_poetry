@@ -1,0 +1,15 @@
+1	stod	stå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	ankar	ankar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	master	master	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+8	rår	rår	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:37
+10	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:39
+11	hög	hög	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+12	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:47
+13	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:49
+14	bakstam	bakstam	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:54
+

@@ -1,0 +1,10 @@
+1	blott	blott	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:6
+3	aln	aln	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:13
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+6	svärdet	svärdet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	hos	hos	PP	PP	_	_	_	_	_	O	_	temp:0:30
+8	Frej	Frej	PM	PM	NOM	_	_	_	_	B	animal	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

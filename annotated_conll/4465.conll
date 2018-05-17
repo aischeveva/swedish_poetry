@@ -1,0 +1,8 @@
+1	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	födsloskri	födsloskri	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:19
+5	fårad	fårad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	kind	kind	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

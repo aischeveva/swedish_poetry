@@ -1,0 +1,7 @@
+1	Deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	ättlingar	ättlingar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	möter	möter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+5	lycklige	lycklige	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

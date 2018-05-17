@@ -1,0 +1,10 @@
+1	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	verldsbålslågan	verldsbålslågan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+4	luttradt	luttradt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:20
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:29
+6	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:34
+7	högre	högre	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+8	lif	lif	AB	AB	KOM	_	_	_	_	O	_	temp:0:44
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

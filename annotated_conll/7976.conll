@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	hellre	hellre	AB	AB	SUV	_	_	_	_	O	_	temp:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:23
+7	fädernestrand	fädernestrand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

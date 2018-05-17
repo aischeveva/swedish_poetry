@@ -1,0 +1,12 @@
+1	Vårt	vår	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	svala	svala	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	leende	leende	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+6	hälsning	hälsning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:38
+8	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:43
+9	faders	faders	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+10	rike	rike	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:54
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:58
+

@@ -1,0 +1,11 @@
+1	Hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	kyss	kyss	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:13
+5	bön	bön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:20
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+8	eviga	eviga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+9	skönhet	skönhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

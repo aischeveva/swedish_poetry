@@ -1,0 +1,13 @@
+1	Kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	höra	höra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:7
+4	honom	han	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:12
+5	komma	komma	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:25
+8	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:29
+9	kommer	komma	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+10	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:40
+11	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:44
+12	psalm	psalm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+

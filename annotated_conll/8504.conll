@@ -1,0 +1,16 @@
+1	(	(	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	sad	sad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:1
+3	'	'	NN	NN	AN	_	_	_	_	O	_	temp:0:4
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+5	)	)	PAD	PAD	_	_	_	_	_	O	_	temp:0:9
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+7	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:12
+8	frukta	frukta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+9	ej	Ej	PM	PM	NOM	_	_	_	_	B	person	temp:0:23
+10	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:26
+11	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:30
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+13	kung	kung	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:35
+14	Helge	Helge	PM	PM	NOM	_	_	_	_	B	animal	temp:0:40
+15	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

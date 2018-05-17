@@ -1,0 +1,6 @@
+1	Numro	numro	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	åtta	åtta	RG	RG	NOM	_	_	_	_	O	_	temp:0:6
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	fatal	fatal	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+

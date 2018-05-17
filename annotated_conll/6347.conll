@@ -1,0 +1,10 @@
+1	Kort	kort	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	hammarens	hammarens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:8
+4	skaft	skaft	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	hos	hos	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:28
+7	segrande	segrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:32
+8	Thor	Thor	PM	PM	NOM	_	_	_	_	B	person	temp:0:41
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:45
+

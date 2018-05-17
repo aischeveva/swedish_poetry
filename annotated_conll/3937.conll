@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	djupen	djupen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	far	fara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:20
+6	sken	sken	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:29
+8	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

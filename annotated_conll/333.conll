@@ -1,0 +1,9 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	tung	tung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	börda	börda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:13
+
+1	För	för	PP	PP	_	_	_	_	_	O	_	temp:1:16
+2	er	er	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:1:20
+3	skull	skull	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:23
+

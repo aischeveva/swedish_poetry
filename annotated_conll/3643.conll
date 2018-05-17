@@ -1,0 +1,8 @@
+1	Lyft	lyft	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	bägarn	bägarn	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:11
+
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:14
+2	ska	ska	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:17
+3	fånga	fånga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:21
+

@@ -1,0 +1,10 @@
+1	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	barm	barm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:10
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+6	dagg	dagg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+7	öfver	öfver	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	lilja	lilja	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,7 @@
+1	Tag	tag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:7
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+5	dina	dina	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+6	händer	hända	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+

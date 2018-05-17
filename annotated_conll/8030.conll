@@ -1,0 +1,8 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	snäckorna	snäckorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	kommo	kommo	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	bringa	bringa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+6	svart	svart	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

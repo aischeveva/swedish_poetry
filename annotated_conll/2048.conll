@@ -1,0 +1,7 @@
+1	slätar	slätar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+3	håret	hår	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	automatiskt	automatiskt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+6	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:30
+

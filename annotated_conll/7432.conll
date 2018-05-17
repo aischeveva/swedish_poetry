@@ -1,0 +1,10 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	vakteln	vakteln	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	slår	slår	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+5	djupa	djupa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+6	slag	slag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:31
+8	nattens	nattens	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	frid	frid	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+

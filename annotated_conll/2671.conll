@@ -1,0 +1,10 @@
+1	Så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	högt	högt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	färdas	färdas	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	de	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:20
+7	tommaste	tommaste	UO	UO	_	_	_	_	_	O	_	temp:0:23
+8	vinterhimlar	vinterhimlar	UO	UO	_	_	_	_	_	O	_	temp:0:32
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

@@ -1,0 +1,8 @@
+1	Till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	aska	aska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	kom	komma	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:18
+6	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:22
+7	brand	brand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

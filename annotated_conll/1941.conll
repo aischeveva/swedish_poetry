@@ -1,0 +1,17 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:7
+4	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:10
+5	pillerna	piller	NN	NN	NEU|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:14
+6	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:23
+7	åt	äta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:27
+8	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:30
+9	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:34
+10	ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:38
+11	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:41
+12	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:46
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+14	sa	säga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:51
+15	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:54
+16	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

@@ -1,0 +1,7 @@
+1	Genua	genua	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sjönk	sjunka	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	himlens	himlens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:16
+5	rand	rand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

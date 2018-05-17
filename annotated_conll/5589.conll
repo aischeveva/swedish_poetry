@@ -1,0 +1,6 @@
+1	brud	brud	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	Balders	balders	UO	UO	_	_	_	_	_	O	_	temp:0:7
+4	hage	hage	UO	UO	_	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+

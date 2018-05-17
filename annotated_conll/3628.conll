@@ -1,0 +1,11 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	slingrar	slingrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:12
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:16
+5	ormar	ormar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+6	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:26
+7	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:30
+8	svidande	svidande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:35
+9	hett	hett	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+10	...	...	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

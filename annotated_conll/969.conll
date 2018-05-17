@@ -1,0 +1,12 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	stor	stor	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	rättvisa	rättvisa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+6	gömd	gömd	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+7	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:33
+8	botten	botten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+9	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:43
+10	tingen	tingen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:46
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:52
+

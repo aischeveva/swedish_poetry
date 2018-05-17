@@ -1,0 +1,11 @@
+1	Tar	ta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	mandom	mandom	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	lik	lik	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	Gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+8	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+9	handling	handling	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

@@ -1,0 +1,7 @@
+1	genomglödgande	genomglödgande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	helt	helt	AB	AB	POS	_	_	_	_	O	_	temp:0:15
+3	all	all	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+4	världen	värld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+5	stiger	stiger	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:32
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

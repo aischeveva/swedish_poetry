@@ -1,0 +1,13 @@
+1	Mannen	man	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	hög	hög	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	ädel	ädel	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+7	gestalt	gestalt	AB	AB	POS	_	_	_	_	O	_	temp:0:27
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:35
+9	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:39
+10	anlete	anlete	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:44
+11	öppet	öppet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:51
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:56
+

@@ -1,0 +1,6 @@
+1	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	skryt	skryt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	Gaurisankar	Gaurisankar	PM	PM	NOM	_	_	_	_	B	animal	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

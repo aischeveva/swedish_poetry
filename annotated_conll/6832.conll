@@ -1,0 +1,16 @@
+1	Ja	ja	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:2
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+4	stack	stack	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+6	brand	brand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+7	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:22
+8	tempel	tempel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:33
+10	Varg	Varg	PM	PM	NOM	_	_	_	_	B	person	temp:0:35
+11	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:40
+12	veum	Veum	PM	PM	NOM	_	_	_	_	B	inst	temp:0:42
+13	heter	heta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:47
+14	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:53
+15	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:56
+

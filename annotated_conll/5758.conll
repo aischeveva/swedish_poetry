@@ -1,0 +1,7 @@
+1	blott	blott	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hornet	hornet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:13
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:16
+5	stack	stack	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

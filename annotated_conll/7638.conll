@@ -1,0 +1,11 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	höga	hög	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	nornor	nornor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	sjöngo	sjöngo	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	vagga	vagga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:30
+8	re	re	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+9	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:38
+10	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:39
+

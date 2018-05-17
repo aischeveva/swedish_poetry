@@ -1,0 +1,10 @@
+1	Förföljs	förföljs	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:9
+3	utom	utom	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	list	list	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:31
+8	våld	våld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

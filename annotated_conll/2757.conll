@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:11
+5	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+6	mött	mött	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:21
+7	hennes	hennes	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:26
+8	blick	blick	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

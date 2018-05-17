@@ -1,0 +1,12 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	hade	ha	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	starka	starka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	vingar	vingar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	flög	flyga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:27
+7	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:32
+8	glad	glad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:40
+10	trygg	trygg	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:44
+11	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

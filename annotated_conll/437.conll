@@ -1,0 +1,10 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	tidevarvens	tidevarvens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:12
+5	dom	dom	PN	PN	UTR/NEU|PLU|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:24
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:29
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:30
+

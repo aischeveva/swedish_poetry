@@ -1,0 +1,6 @@
+1	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	någon	någon	PN	PN	UTR|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	vårdkas	vårdkas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:9
+4	österut	österut	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

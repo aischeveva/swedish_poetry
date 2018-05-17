@@ -1,0 +1,7 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:3
+3	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:7
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:11
+5	segrade	segrade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

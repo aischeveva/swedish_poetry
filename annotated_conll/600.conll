@@ -1,0 +1,5 @@
+1	Brand	brand	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:9
+4	blick	blick	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+

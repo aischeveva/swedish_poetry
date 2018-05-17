@@ -1,0 +1,9 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	väntar	vänta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:11
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	länge	länge	AB	AB	POS	_	_	_	_	O	_	temp:0:19
+6	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:25
+7	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:27
+8	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:28
+

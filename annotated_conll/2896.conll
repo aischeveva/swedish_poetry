@@ -1,0 +1,9 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	lever	lever	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	tyst	tyst	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:16
+6	växer	växer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+7	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:26
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

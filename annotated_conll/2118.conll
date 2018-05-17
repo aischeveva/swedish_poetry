@@ -1,0 +1,7 @@
+1	V	v	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:1
+
+1	VAD	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:1:3
+2	ÅSKAN	åskan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:7
+3	SADE	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:13
+

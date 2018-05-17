@@ -1,0 +1,7 @@
+1	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	tvenne	tvenne	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	hjertan	hjertan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	hvilka	hvilka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+6	lofva	lofvara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+

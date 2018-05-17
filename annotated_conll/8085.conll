@@ -1,0 +1,11 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	drucko	drucko	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	dagar	dag	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:19
+7	drucko	Drucko	PM	PM	NOM	_	_	_	_	B	person	temp:0:22
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:29
+9	tre	tre	RG	RG	NOM	_	_	_	_	O	_	temp:0:31
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

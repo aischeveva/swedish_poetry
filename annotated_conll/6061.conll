@@ -1,0 +1,8 @@
+1	Ellida	ellida	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	susar	susar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:13
+4	fram	fram	AB	AB	_	_	_	_	_	O	_	temp:0:16
+5	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	näset	näset	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

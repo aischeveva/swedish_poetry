@@ -1,0 +1,12 @@
+1	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	ej	ej	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+4	spänna	spänna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+5	bågen	bågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+8	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:27
+9	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+10	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

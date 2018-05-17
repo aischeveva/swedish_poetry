@@ -1,0 +1,5 @@
+1	berömd	berömd	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	Nord	Nord	PM	PM	NOM	_	_	_	_	B	person	temp:0:9
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:13
+

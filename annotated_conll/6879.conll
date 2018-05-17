@@ -1,0 +1,11 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	lansen	lansen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:11
+5	förutan	förutan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+6	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:23
+7	kraft	kraft	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:28
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:34
+9	ingen	ingen	PN	PN	UTR|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:37
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

@@ -1,0 +1,9 @@
+1	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	väldig	väldig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:11
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+6	träder	träder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+7	nu	nu	AB	AB	_	_	_	_	_	O	_	temp:0:25
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

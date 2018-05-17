@@ -1,0 +1,6 @@
+1	Därföre	därföre	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+3	fyller	fyller	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	tjoget	tjoget	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

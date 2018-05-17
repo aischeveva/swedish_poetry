@@ -1,0 +1,10 @@
+1	Segla	segla	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	oförskräckt	oförskräckt	AB	AB	POS	_	_	_	_	O	_	temp:0:6
+3	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+
+1	Se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:1:19
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:21
+3	djupt	djupt	PC	PC	PRF|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:23
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:1:29
+5	väster	väster	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:31
+

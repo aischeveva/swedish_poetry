@@ -1,0 +1,7 @@
+1	Genomskinlig	genomskinlig	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+3	klar	klar	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:19
+5	het	het	AB	AB	SUV	_	_	_	_	O	_	temp:0:23
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

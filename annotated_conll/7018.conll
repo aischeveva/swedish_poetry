@@ -1,0 +1,7 @@
+1	sjöhästen	sjöhästen	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	längtar	längta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+3	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:18
+4	stranden	stranden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+5	igen	igen	AB	AB	_	_	_	_	_	O	_	temp:0:32
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

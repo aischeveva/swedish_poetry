@@ -1,0 +1,8 @@
+1	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	hjertas	hjertas	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	brud	brud	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:18
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:20
+

@@ -1,0 +1,10 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	söka	söka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:9
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	sällsam	sällsam	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+8	färg	färg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

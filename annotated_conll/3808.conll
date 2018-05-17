@@ -1,0 +1,9 @@
+1	Glittrande	glittrande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	kall	kall	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+5	vida	vida	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+6	gyllene	gyllene	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+7	världen	värld	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

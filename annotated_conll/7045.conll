@@ -1,0 +1,13 @@
+1	Hvad	hvad	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:8
+4	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:12
+5	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:16
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:20
+7	föds	föds	AB	AB	_	_	_	_	_	O	_	temp:0:24
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+9	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:30
+10	skall	skall	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:34
+11	dö	dö	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:40
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

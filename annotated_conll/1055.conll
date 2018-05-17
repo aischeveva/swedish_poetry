@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	kanske	kanske	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:15
+5	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+6	spången	spången	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:30
+

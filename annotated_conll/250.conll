@@ -1,0 +1,10 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	visa	visa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:3
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:8
+4	barnen	barn	NN	NN	NEU|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+7	leka	leka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+8	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:28
+9	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,15 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	de	den	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:12
+5	saligas	saligas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:15
+6	stränder	strand	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:33
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:34
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:36
+4	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:37
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:39
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:40
+

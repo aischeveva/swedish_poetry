@@ -1,0 +1,9 @@
+1	slå	slå	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+4	ned	ned	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:16
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:18
+

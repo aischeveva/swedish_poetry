@@ -1,0 +1,44 @@
+1	Finally	finally	UO	UO	_	_	_	_	_	O	_	265827-14455644:0:1
+2	home	home	UO	UO	_	_	_	_	_	O	_	265827-14455644:0:9
+3	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14455644:0:13
+
+1	Och	och	KN	KN	_	_	_	_	_	O	_	265827-14455644:1:15
+2	mina	min	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	265827-14455644:1:19
+3	föräldrar	förälder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14455644:1:24
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14455644:1:34
+5	övergivit	överge	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14455644:1:38
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	265827-14455644:1:48
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14455644:1:51
+
+1	MEN	men	KN	KN	_	_	_	_	_	O	_	265827-14455644:2:53
+2	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14455644:2:56
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14455644:3:58
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14455644:3:62
+3	glad	glad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14455644:3:65
+4	-	-	MID	MID	_	_	_	_	_	O	_	265827-14455644:3:70
+5	JAG	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14455644:3:72
+6	HAR	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14455644:3:76
+7	FÅTT	få	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-14455644:3:80
+8	JOBB	jobb	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	265827-14455644:3:85
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14455644:3:89
+
+1	Och	och	KN	KN	_	_	_	_	_	O	_	265827-14455644:4:91
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14455644:4:95
+3	börjar	börja	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14455644:4:99
+4	imorgon	imorgon	AB	AB	_	_	_	_	_	O	_	265827-14455644:4:106
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14455644:4:113
+
+1	Soft	soft	UO	UO	_	_	_	_	_	O	_	265827-14455644:5:117
+2	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-14455644:5:121
+
+1	Haha	haha	IN	IN	_	_	_	_	_	O	_	265827-14455644:6:127
+2	,	,	MID	MID	_	_	_	_	_	O	_	265827-14455644:6:131
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-14455644:6:133
+4	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14455644:6:137
+5	ut	ut	PL	PL	_	_	_	_	_	O	_	265827-14455644:6:141
+6	som	som	KN	KN	_	_	_	_	_	O	_	265827-14455644:6:144
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-14455644:6:148
+8	hund	hund	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14455644:6:151
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14455644:6:155
+

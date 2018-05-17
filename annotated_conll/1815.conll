@@ -1,0 +1,14 @@
+1	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:3
+3	famnen	famn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+4	full	full	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:20
+7	håret	hår	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+8	vått	vått	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+10	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:36
+11	kunde	kunna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:39
+12	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:45
+13	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:49
+

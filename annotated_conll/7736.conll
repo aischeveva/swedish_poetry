@@ -1,0 +1,13 @@
+1	Gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	stundom	stundom	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:17
+5	mö	mö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	kring	kring	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:23
+7	bordet	bordet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:36
+9	fylde	fylde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:40
+10	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:46
+11	hornen	hornen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:48
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:54
+

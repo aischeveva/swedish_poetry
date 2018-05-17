@@ -1,0 +1,6 @@
+1	skrikande	skrikande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	emot	emot	PP	PP	_	_	_	_	_	O	_	temp:0:10
+3	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+4	strand	strand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

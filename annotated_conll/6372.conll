@@ -1,0 +1,8 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	hett	hett	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:13
+5	sköldarna	sköldarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:29
+7	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

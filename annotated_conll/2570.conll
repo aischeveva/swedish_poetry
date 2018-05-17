@@ -1,0 +1,7 @@
+1	Den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:4
+3	tvingas	tvingas	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	ut	ut	PL	PL	_	_	_	_	_	O	_	temp:0:16
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	vildskog	vildskog	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+

@@ -1,0 +1,10 @@
+1	värmen	värmen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	handen	hand	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	ljuset	ljuset	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	rösten	rösten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+8	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:33
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

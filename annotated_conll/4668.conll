@@ -1,0 +1,7 @@
+1	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:3
+3	bristande	bristande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+4	isarnas	isarnas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:16
+5	dön	dön	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

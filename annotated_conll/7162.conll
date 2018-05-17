@@ -1,0 +1,5 @@
+1	Gåfvan	gåfvan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	glad	glad	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:17
+

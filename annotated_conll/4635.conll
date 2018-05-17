@@ -1,0 +1,9 @@
+1	vilken	vilken	HD	HD	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	halkat	halkat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:7
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:14
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+5	egen	egen	JJ	JJ	POS|UTR|SIN|IND/DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	halhets	halhets	NN	NN	NEU|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:26
+7	halka	halka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

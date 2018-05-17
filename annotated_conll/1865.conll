@@ -1,0 +1,7 @@
+1	flöt	flyta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	konstrikt	konstrikt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	sammansatt	sammansatt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+5	parfym	parfym	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

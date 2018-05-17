@@ -1,0 +1,13 @@
+1	Sträckningen	sträckningen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+3	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:17
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:21
+5	drakes	drakes	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:31
+7	sjön	sjön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:37
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:39
+10	stammen	stammen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:41
+11	der	der	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:49
+12	framme	framme	AB	AB	_	_	_	_	_	O	_	temp:0:53
+

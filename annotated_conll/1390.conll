@@ -1,0 +1,9 @@
+1	tag	tag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:5
+4	tag	tag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:13
+6	sista	sist	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:18
+7	skärven	skärven	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

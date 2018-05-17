@@ -1,0 +1,13 @@
+1	endast	endast	AB	AB	SUV	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	mödernet	mödernet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	Vaulund	Vaulund	PM	PM	NOM	_	_	_	_	B	person	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+9	räknad	Räknad	PM	PM	NOM	_	_	_	_	B	person	temp:0:39
+10	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:46
+11	stamfar	stamfar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:50
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

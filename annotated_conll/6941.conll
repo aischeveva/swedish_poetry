@@ -1,0 +1,11 @@
+1	skum	skum	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	natt	natt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	många	mången	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:26
+8	dagen	dag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+9	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:36
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

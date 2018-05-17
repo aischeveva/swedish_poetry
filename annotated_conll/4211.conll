@@ -1,0 +1,11 @@
+1	djupa	djupa	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	jordkalla	jordkalla	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+5	värld	värld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:30
+7	ibland	ibland	AB	AB	_	_	_	_	_	O	_	temp:0:34
+8	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:41
+9	isat	isat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:45
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

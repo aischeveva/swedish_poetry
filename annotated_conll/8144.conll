@@ -1,0 +1,10 @@
+1	stor	stor	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:8
+4	makt	makt	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:27
+

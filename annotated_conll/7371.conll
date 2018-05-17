@@ -1,0 +1,8 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	nya	ny	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	tempel	tempel	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	pekar	pekar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	Skulda	Skulda	PM	PM	NOM	_	_	_	_	B	person	temp:0:21
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:28
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

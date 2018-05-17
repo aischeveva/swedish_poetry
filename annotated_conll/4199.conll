@@ -1,0 +1,5 @@
+1	ren	ren	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	ren	ren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:8
+

@@ -1,0 +1,6 @@
+1	denna	denna	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	dagen	dag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:12
+4	förflutit	förflutit	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

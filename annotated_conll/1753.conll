@@ -1,0 +1,9 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	blott	blott	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:3
+3	nytt	ny	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	begär	begär	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:21
+7	drar	dra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+8	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:30
+

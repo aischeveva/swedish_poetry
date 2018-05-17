@@ -1,0 +1,12 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:9
+5	söker	söker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+6	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+7	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:23
+8	hem	hem	AB	AB	_	_	_	_	_	O	_	temp:0:27
+9	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:31
+10	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:35
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

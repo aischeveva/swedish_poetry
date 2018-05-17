@@ -1,0 +1,9 @@
+1	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	trifves	trifves	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	bäst	bra	AB	AB	SUV	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:17
+6	stormen	stormen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	tumlar	tumlar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+8	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+

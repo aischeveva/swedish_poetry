@@ -1,0 +1,9 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	runt	runt	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:22
+6	världsnatt	världsnatt	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	skalv	skalv	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

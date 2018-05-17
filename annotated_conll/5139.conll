@@ -1,0 +1,9 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	drömt	drömt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:11
+5	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	oskulds	oskulds	AB	AB	AN	_	_	_	_	O	_	temp:0:21
+7	dröm	drömma	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

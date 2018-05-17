@@ -1,0 +1,9 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	likt	likt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	skimret	skimret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	Vätterns	Vättern	PM	PM	GEN	_	_	_	_	B	person	temp:0:22
+6	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:36
+8	sagan	sagan	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+

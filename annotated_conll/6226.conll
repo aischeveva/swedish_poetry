@@ -1,0 +1,9 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:1
+3	litet	liten	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	också	också	AB	AB	_	_	_	_	_	O	_	temp:0:11
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:17
+6	dömma	dömma	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	lyster	lyster	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

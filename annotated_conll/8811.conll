@@ -1,0 +1,8 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	svartklädd	svartklädd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	enka	enka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	lifvets	lifvets	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	glädje	glädje	NN	NN	AN	_	_	_	_	O	_	temp:0:33
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

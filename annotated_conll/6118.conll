@@ -1,0 +1,11 @@
+1	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	ej	ej	RG	RG	NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+4	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:7
+5	toge	toge	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+6	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+7	land	land	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:24
+9	krona	krona	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:28
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

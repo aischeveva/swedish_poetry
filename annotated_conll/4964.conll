@@ -1,0 +1,9 @@
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	kännen	kännen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:14
+6	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+7	veten	veten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+

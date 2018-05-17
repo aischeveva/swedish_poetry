@@ -1,0 +1,7 @@
+1	kramar	kramar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	glimmet	glimmet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+4	dränker	dränker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	minnet	minnet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

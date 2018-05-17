@@ -1,0 +1,11 @@
+1	Deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	tal	tal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	ej	ej	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:14
+5	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:21
+7	hårt	hårt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+9	ljuvt	ljuvt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

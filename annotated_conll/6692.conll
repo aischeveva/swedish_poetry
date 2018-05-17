@@ -1,0 +1,13 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	skalden	skalden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:16
+5	harpa	harpa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+7	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:27
+8	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:31
+9	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:36
+10	kungens	kungens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:40
+11	bord	bord	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:52
+

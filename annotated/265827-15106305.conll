@@ -1,0 +1,67 @@
+1	Hej	hej	IN	IN	_	_	_	_	_	O	_	265827-15106305:0:1
+2	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	265827-15106305:0:5
+3	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-15106305:0:10
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	265827-15106305:0:13
+5	läser	läsa	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106305:0:17
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	265827-15106305:0:23
+7	här	här	AB	AB	_	_	_	_	_	O	_	265827-15106305:0:27
+8	bloggen	blogg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-15106305:0:31
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-15106305:0:38
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	265827-15106305:1:40
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106305:1:44
+3	faktiskt	faktiskt	AB	AB	POS	_	_	_	_	O	_	265827-15106305:1:48
+4	varit	vara	VB	VB	SUP|AKT	_	_	_	_	O	_	265827-15106305:1:57
+5	vaken	vaken	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106305:1:63
+6	sen	sen	PP	PP	_	_	_	_	_	O	_	265827-15106305:1:69
+7	åtta	åtta	RG	RG	NOM	_	_	_	_	O	_	265827-15106305:1:73
+8	,	,	MID	MID	_	_	_	_	_	O	_	265827-15106305:1:77
+9	dock	dock	AB	AB	_	_	_	_	_	O	_	265827-15106305:1:79
+10	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-15106305:1:84
+11	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-15106305:1:88
+12	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-15106305:1:92
+13	halvtimme	halvtimme	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106305:1:95
+14	att	att	IE	IE	_	_	_	_	_	O	_	265827-15106305:1:105
+15	komma	komma	VB	VB	INF|AKT	_	_	_	_	O	_	265827-15106305:1:109
+16	upp	upp	PL	PL	_	_	_	_	_	O	_	265827-15106305:1:115
+17	ur	ur	PP	PP	_	_	_	_	_	O	_	265827-15106305:1:119
+18	sängen	säng	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-15106305:1:122
+19	...	...	MAD	MAD	_	_	_	_	_	O	_	265827-15106305:1:128
+
+1	Spelade	spela	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-15106305:2:132
+2	match	match	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106305:2:140
+3	-	-	MID	MID	_	_	_	_	_	O	_	265827-15106305:2:146
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-15106305:2:148
+5	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-15106305:2:152
+6	bra	bra	AB	AB	POS	_	_	_	_	O	_	265827-15106305:2:157
+7	(	(	PAD	PAD	_	_	_	_	_	O	_	265827-15106305:2:161
+8	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-15106305:2:162
+9	vann	vinna	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-15106305:2:165
+10	alltså	alltså	AB	AB	_	_	_	_	_	O	_	265827-15106305:2:170
+11	,	,	MID	MID	_	_	_	_	_	O	_	265827-15106305:2:176
+12	om	om	SN	SN	_	_	_	_	_	O	_	265827-15106305:2:178
+13	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-15106305:2:181
+14	nu	nu	AB	AB	_	_	_	_	_	O	_	265827-15106305:2:185
+15	inte	inte	AB	AB	_	_	_	_	_	O	_	265827-15106305:2:188
+16	framgick	framgå	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-15106305:2:193
+17	)	)	PAD	PAD	_	_	_	_	_	O	_	265827-15106305:2:201
+18	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106305:2:202
+
+1	Sverige	Sverige	PM	PM	NOM	_	_	_	_	B	inst	265827-15106305:3:206
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-15106305:3:214
+3	inlindad	inlinda	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106305:3:217
+4	i	i	PP	PP	_	_	_	_	_	O	_	265827-15106305:3:226
+5	snö	snö	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106305:3:228
+6	-	-	MID	MID	_	_	_	_	_	O	_	265827-15106305:3:232
+7	åter	åter	AB	AB	_	_	_	_	_	O	_	265827-15106305:3:234
+8	igen	igen	AB	AB	_	_	_	_	_	O	_	265827-15106305:3:239
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-15106305:3:243
+
+1	Tänkte	tänka	VB	VB	PRT|AKT	_	_	_	_	O	_	265827-15106305:4:245
+2	träffa	träffa	VB	VB	INF|AKT	_	_	_	_	O	_	265827-15106305:4:252
+3	Fanny	Fanny	PM	PM	NOM	_	_	_	_	B	place	265827-15106305:4:259
+4	för	för	PP	PP	_	_	_	_	_	O	_	265827-15106305:4:265
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	265827-15106305:4:269
+6	fika	fika	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-15106305:4:272
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	265827-15106305:4:276
+

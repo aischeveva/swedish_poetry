@@ -1,0 +1,10 @@
+1	Highbury	highbury	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	gav	ge	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:13
+4	livet	liv	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+
+1	Richmond	richmond	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:24
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:1:33
+3	Kew	kew	AB	AB	AN	_	_	_	_	O	_	temp:1:37
+

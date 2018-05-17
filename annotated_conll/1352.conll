@@ -1,0 +1,7 @@
+1	söker	söker	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+3	makter	makter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:16
+5	dyrka	dyrka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

@@ -1,0 +1,8 @@
+1	Glädjen	glädjen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ensam	ensam	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+4	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:18
+5	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	andra	andra	PN	PN	UTR/NEU|PLU|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:25
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

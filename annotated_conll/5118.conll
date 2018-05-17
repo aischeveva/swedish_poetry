@@ -1,0 +1,8 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	räknar	räkna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+5	saknads	saknads	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	stunder	stund	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,8 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	fins	fins	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	ej	ej	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	trohet	trohet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	menskobröst	menskobröst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

@@ -1,0 +1,9 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	hillebarder	hillebarder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	gyllne	gyllne	UO	UO	_	_	_	_	_	O	_	temp:0:24
+6	hjelmar	hjelmar	UO	UO	_	_	_	_	_	O	_	temp:0:31
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+8	stod	stå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:40
+

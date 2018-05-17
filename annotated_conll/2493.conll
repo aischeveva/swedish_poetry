@@ -1,0 +1,7 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	lyser	lyse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	livlöst	livlöst	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	rum	rum	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

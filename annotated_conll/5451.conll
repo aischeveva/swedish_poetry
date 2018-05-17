@@ -1,0 +1,7 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	duken	duken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	in	in	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:11
+5	hjeltens	hjeltens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:15
+6	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:24
+

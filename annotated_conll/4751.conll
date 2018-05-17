@@ -1,0 +1,8 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	mänskor	mänskor	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+4	gått	gå	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:15
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:23
+7	stegen	stegen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+

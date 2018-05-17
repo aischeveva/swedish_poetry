@@ -1,0 +1,11 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	högre	högre	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:10
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+5	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+7	gamle	gamle	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+8	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:32
+9	ändå	ändå	AB	AB	_	_	_	_	_	O	_	temp:0:36
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

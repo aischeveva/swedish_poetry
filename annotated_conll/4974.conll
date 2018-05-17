@@ -1,0 +1,8 @@
+1	Högre	högre	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	himlen	himmel	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:19
+6	stam	stam	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

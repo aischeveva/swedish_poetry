@@ -1,0 +1,7 @@
+1	Morgon	morgon	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:10
+4	sjunde	sjunde	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	dagen	dag	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	...	...	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

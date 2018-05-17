@@ -1,0 +1,9 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	enslig	enslig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	blomsterverld	blomsterverld	UO	UO	_	_	_	_	_	O	_	temp:0:10
+4	af	af	UO	UO	_	_	_	_	_	O	_	temp:0:24
+5	frid	frid	UO	UO	_	_	_	_	_	O	_	temp:0:27
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:32
+7	kärlek	kärlek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

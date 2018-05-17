@@ -1,0 +1,12 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:4
+3	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	gick	gå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+5	hem	hem	PL	PL	_	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	sent	sent	AB	AB	POS	_	_	_	_	O	_	temp:0:21
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+9	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:27
+10	hyacintträdgårn	hyacintträdgårn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:47
+

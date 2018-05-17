@@ -1,0 +1,5 @@
+1	Gungande	gungande	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:9
+3	vikens	vikens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:12
+4	vågor	vågor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:19
+

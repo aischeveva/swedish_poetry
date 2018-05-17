@@ -1,0 +1,11 @@
+1	Mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	leder	leder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	ormblick	ormblick	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	stel	stel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+8	grym	grym	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:34
+10	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

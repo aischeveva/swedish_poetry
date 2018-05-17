@@ -1,0 +1,9 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	stillhet	stillhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	vidgades	vidgades	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:12
+4	mjuk	mjuk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:26
+6	soliga	soliga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:30
+7	vinterskogar	vinterskogar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:37
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:49
+

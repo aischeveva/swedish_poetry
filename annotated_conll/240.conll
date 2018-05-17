@@ -1,0 +1,7 @@
+1	Vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	klippan	klippan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	låg	ligga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+4	Prometheus	prometheus	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+5	smidd	smidd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,7 @@
+1	Skriv	skriv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	vägar	vägar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:22
+

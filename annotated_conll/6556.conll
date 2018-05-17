@@ -1,0 +1,9 @@
+1	se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	åter	åter	AB	AB	_	_	_	_	_	O	_	temp:0:12
+5	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+6	lockarna	lockarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	gula	gula	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

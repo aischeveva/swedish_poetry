@@ -1,0 +1,14 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	vild	vild	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:10
+5	blek	blek	UO	UO	_	_	_	_	_	O	_	temp:0:14
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:20
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:24
+3	förbi	förbi	PL	PL	_	_	_	_	_	O	_	temp:1:27
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:32
+5	förbi	förbi	PL	PL	_	_	_	_	_	O	_	temp:1:34
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:1:39
+

@@ -1,0 +1,11 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:7
+4	land	land	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:18
+7	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:22
+8	böljan	böljan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+9	träder	träder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:32
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

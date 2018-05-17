@@ -1,0 +1,4 @@
+1	Bunden	bunden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	masten	masten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+

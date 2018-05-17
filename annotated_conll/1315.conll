@@ -1,0 +1,10 @@
+1	Inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:5
+3	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:13
+
+1	Inte	inte	AB	AB	_	_	_	_	_	O	_	temp:1:16
+2	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:1:21
+3	skinn	skinn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:26
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:31
+

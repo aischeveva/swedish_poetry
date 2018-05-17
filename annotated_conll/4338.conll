@@ -1,0 +1,7 @@
+1	skrattande	skrattande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vit	vit	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	maktmedveten	maktmedveten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	ro	ro	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

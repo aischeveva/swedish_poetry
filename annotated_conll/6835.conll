@@ -1,0 +1,14 @@
+1	fridlös	fridlös	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:15
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+6	hembygd	hembygd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+8	fridlös	fridlös	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:30
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:38
+10	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:40
+11	egen	egen	JJ	JJ	POS|UTR|SIN|IND/DEF|NOM	_	_	_	_	O	_	temp:0:44
+12	barm	barm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:49
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:53
+

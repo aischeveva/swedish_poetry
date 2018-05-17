@@ -1,0 +1,10 @@
+1	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	ingenting	ingenting	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:14
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:18
+5	trogna	trogna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+6	ge	ge	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:28
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:32
+

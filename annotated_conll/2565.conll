@@ -1,0 +1,5 @@
+1	lite	litet	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	längre	längre	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:12
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:14
+

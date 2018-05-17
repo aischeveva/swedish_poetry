@@ -1,0 +1,8 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	dragen	dragen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:11
+5	förtjusa	förtjusa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

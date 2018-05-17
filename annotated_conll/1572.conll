@@ -1,0 +1,8 @@
+1	förnedringsväg	förnedringsväg	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+3	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+5	tyckas	tyckas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:24
+6	ibland	ibland	AB	AB	_	_	_	_	_	O	_	temp:0:31
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

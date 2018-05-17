@@ -1,0 +1,8 @@
+1	fram	fram	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	vågornas	vågornas	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	skum	skum	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+5	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	halkyonerna	halkyonerna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	buren	buren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+

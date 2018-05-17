@@ -1,0 +1,5 @@
+1	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	patetiska	patetiska	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	kval	kval	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+

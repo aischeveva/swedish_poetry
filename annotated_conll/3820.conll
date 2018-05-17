@@ -1,0 +1,6 @@
+1	Hemliga	hemliga	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	löften	löften	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	dagrarna	dagrarna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+4	viska	viska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

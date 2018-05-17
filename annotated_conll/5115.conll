@@ -1,0 +1,9 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	tiden	tid	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:11
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:15
+6	snart	snart	AB	AB	POS	_	_	_	_	O	_	temp:0:18
+7	försvann	försvinna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+8	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

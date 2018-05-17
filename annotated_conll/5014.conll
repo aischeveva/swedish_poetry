@@ -1,0 +1,6 @@
+1	De	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	voro	voro	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	förbundsbröder	förbundsbröder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	alla	alla	PN	PN	UTR/NEU|PLU|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

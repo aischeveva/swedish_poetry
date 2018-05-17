@@ -1,0 +1,8 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	sätter	sätta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	spetsen	spetsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+5	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:22
+6	goda	god	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	svärd	svärd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+

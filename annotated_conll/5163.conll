@@ -1,0 +1,9 @@
+1	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	glöd	glöd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:12
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+7	förbi	förbi	PL	PL	_	_	_	_	_	O	_	temp:0:23
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

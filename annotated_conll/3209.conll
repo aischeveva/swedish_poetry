@@ -1,0 +1,9 @@
+1	Omkring	omkring	PL	PL	_	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+3	sveper	sveper	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:19
+5	vind	vind	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	eld	eld	RG	RG	NOM	_	_	_	_	O	_	temp:0:30
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

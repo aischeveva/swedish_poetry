@@ -1,0 +1,14 @@
+1	sorglöst	sorglöst	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	gungande	gungande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:9
+3	hän	hän	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:21
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:23
+6	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:27
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:32
+9	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:36
+10	lekte	leka	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:40
+11	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:46
+12	vågen	vågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:50
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:55
+

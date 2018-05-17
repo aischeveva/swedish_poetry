@@ -1,0 +1,6 @@
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	gryningsstjärnan	gryningsstjärnan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:24
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

@@ -1,0 +1,7 @@
+1	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	gudar	gudar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	gudinnor	gudinnor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	alla	all	DT	DT	UTR/NEU|PLU|IND/DEF	_	_	_	_	O	_	temp:0:22
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:26
+

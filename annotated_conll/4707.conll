@@ -1,0 +1,8 @@
+1	B-rr	b-rr	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+4	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+5	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:13
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:17
+7	inneboende	inneboende	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:20
+

@@ -1,0 +1,11 @@
+1	På	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	böljan	böljan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	nyss	nyss	AB	AB	_	_	_	_	_	O	_	temp:0:11
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	krig	krig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+7	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:23
+8	klippans	klippans	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	brant	brant	NN	NN	AN	_	_	_	_	O	_	temp:0:36
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

@@ -1,0 +1,14 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	lycklig	lycklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:15
+5	sömn	sömn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:25
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:29
+9	rörd	rörd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+10	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:37
+11	vingar	vingar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:40
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+13	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:48
+

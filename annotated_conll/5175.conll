@@ -1,0 +1,9 @@
+1	Låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	räkna	räkna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	Där	där	AB	AB	_	_	_	_	_	O	_	temp:0:15
+6	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+7	sju	sju	RG	RG	NOM	_	_	_	_	O	_	temp:0:22
+8	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

@@ -1,0 +1,8 @@
+1	Hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	långsamt	långsamt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:4
+3	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+4	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:16
+5	tröga	tröga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	stunder	stund	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

@@ -1,0 +1,16 @@
+1	Från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	stal	stal	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:14
+5	tanken	tanke	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:27
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:28
+3	Du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:30
+4	skrämmer	skrämmer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:33
+5	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:1:42
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:45
+7	hädare	hädare	AB	AB	KOM	_	_	_	_	O	_	temp:1:47
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:53
+

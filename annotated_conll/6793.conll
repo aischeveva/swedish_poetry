@@ -1,0 +1,13 @@
+1	slängde	slänga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:8
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	fasa	fasa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:26
+7	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:38
+9	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:40
+10	mörka	mörka	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:44
+11	skog	skog	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:50
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:54
+

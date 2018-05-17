@@ -1,0 +1,7 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	bud	bud	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:8
+4	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:13
+5	Väldiges	väldiges	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	hus	hus	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+

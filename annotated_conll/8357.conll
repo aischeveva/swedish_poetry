@@ -1,0 +1,10 @@
+1	Farväl	farväl	AB	AB	AN	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	älskade	älskade	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:1:21
+2	annan	annan	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:24
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:29
+

@@ -1,0 +1,10 @@
+1	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	leende	leende	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:13
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:20
+7	strålande	strålande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	sols	sols	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	sken	sken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:38
+

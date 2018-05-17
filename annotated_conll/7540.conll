@@ -1,0 +1,14 @@
+1	Förstån	förstån	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	ännu	ännu	AB	AB	_	_	_	_	_	O	_	temp:0:10
+4	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	ej	ej	UO	UO	_	_	_	_	_	O	_	temp:0:21
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+
+1	spör	spör	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:25
+2	Vala	Vala	PM	PM	NOM	_	_	_	_	B	place	temp:1:30
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:1:35
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:38
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:2:40
+

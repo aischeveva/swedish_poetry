@@ -1,0 +1,11 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	även	även	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+6	kretsen	kretsen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:24
+8	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:28
+9	slute	slute	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:31
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

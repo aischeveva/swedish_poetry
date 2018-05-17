@@ -1,0 +1,12 @@
+1	Björn	björn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	förlorade	förlorade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:16
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:21
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:24
+6	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	båd	båd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	'	'	AB	AB	_	_	_	_	_	O	_	temp:0:35
+9	svärdet	svärdet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+10	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:45
+11	lifvet	lifvet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:49
+

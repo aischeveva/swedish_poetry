@@ -1,0 +1,10 @@
+1	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	full	full	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	bättre	bra	AB	AB	KOM	_	_	_	_	O	_	temp:0:13
+5	liljor	liljor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:27
+7	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:30
+8	graf	graf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

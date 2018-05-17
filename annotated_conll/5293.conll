@@ -1,0 +1,12 @@
+1	Mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:11
+
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:1:13
+2	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:1:15
+3	bröst	bröst	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:20
+4	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:1:26
+5	intet	intet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:32
+6	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:38
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:44
+

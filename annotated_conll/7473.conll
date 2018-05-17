@@ -1,0 +1,12 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	svärdet	svärdet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	tärs	tärs	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:12
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	högen	högen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:26
+8	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:30
+9	lifvets	lifvets	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:33
+10	rus	rus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

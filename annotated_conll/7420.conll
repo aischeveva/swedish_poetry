@@ -1,0 +1,9 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	oskuldsfulla	oskuldsfulla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	hjertat	hjertat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:17
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+
+1	Framför	framför	PP	PP	_	_	_	_	_	O	_	temp:1:26
+2	gudens	gudens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:1:34
+3	bild	bild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:41
+

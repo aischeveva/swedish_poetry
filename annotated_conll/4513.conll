@@ -1,0 +1,7 @@
+1	Gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	hjälper	hjälpa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:8
+4	dej	dej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+5	gärna	gärna	AB	AB	POS	_	_	_	_	O	_	temp:0:20
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

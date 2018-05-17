@@ -1,0 +1,9 @@
+1	kring	kring	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	Balders	balders	UO	UO	_	_	_	_	_	O	_	temp:0:6
+3	hage	hage	UO	UO	_	_	_	_	_	O	_	temp:0:14
+4	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:24
+7	stålklädd	stålklädd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+8	kämpehär	kämpehär	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+

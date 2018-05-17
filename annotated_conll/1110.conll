@@ -1,0 +1,7 @@
+1	unga	unga	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	lemmar	lemmar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	klirrande	klirrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	rassel	rassel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

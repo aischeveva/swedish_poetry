@@ -1,0 +1,11 @@
+1	hvad	hvad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ädelt	ädelt	AB	AB	POS	_	_	_	_	O	_	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	lär	lära	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+6	bäst	bra	AB	AB	SUV	_	_	_	_	O	_	temp:0:19
+7	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:24
+8	ädelt	ädelt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+9	sinne	sinne	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:34
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

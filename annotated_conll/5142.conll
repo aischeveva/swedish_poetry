@@ -1,0 +1,8 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	sjöng	sjöng	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:10
+4	lunden	lunden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	sina	sin	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:21
+6	sånger	sånger	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+

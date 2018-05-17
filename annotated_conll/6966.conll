@@ -1,0 +1,9 @@
+1	Från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	slägt	slägt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	slägte	slägte	RG	RG	NOM	_	_	_	_	O	_	temp:0:16
+5	gingo	gingo	UO	UO	_	_	_	_	_	O	_	temp:0:23
+6	kärnfulla	kärnfulla	UO	UO	_	_	_	_	_	O	_	temp:0:29
+7	orden	orden	UO	UO	_	_	_	_	_	O	_	temp:0:39
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

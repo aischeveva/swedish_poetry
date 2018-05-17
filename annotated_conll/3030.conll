@@ -1,0 +1,9 @@
+1	fulla	full	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	fasa	fasa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:15
+6	fimbulvintern	fimbulvinter	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	hotade	hotade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:33
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

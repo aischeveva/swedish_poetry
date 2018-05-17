@@ -1,0 +1,10 @@
+1	Hvad	hvad	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	vore	vore	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	qvinnan	qvinnan	UO	UO	_	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:19
+6	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+7	slet	slet	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:26
+8	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:31
+9	lös	lös	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,11 @@
+1	skakade	skaka	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:11
+4	lotter	lotter	UO	UO	_	_	_	_	_	O	_	temp:0:15
+5	deri	deri	UO	UO	_	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:28
+8	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:32
+9	stjernornas	stjernornas	RG	RG	NOM	_	_	_	_	O	_	temp:0:36
+10	skimmer	skimmer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:48
+

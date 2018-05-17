@@ -1,0 +1,12 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:8
+4	höst	höst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:17
+6	båda	båda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:26
+8	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:30
+9	bredvid	bredvid	PP	PP	_	_	_	_	_	O	_	temp:0:34
+10	hvarann	hvarann	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:49
+

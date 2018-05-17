@@ -1,0 +1,8 @@
+1	uppstego	uppstego	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:9
+3	lyssna	lyssna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	kungens	kungens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:25
+6	ord	ord	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:33
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

@@ -1,0 +1,7 @@
+1	Forntids	forntids	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	minnen	minne	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+4	framtids	framtids	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	öden	öden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

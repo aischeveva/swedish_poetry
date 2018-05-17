@@ -1,0 +1,8 @@
+1	Vem	vem	HP	HP	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	gav	ge	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	ormen	ormen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:14
+5	fruktansvärda	fruktansvärda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+6	skönhet	skönhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

@@ -1,0 +1,13 @@
+1	Ditt	ditt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	stoff	stoff	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+
+1	Se	se	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:1:20
+2	här	här	AB	AB	_	_	_	_	_	O	_	temp:1:23
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:26
+4	tag	tag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:28
+5	fatt	fatt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:32
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:36
+

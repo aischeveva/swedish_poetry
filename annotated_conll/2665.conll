@@ -1,0 +1,9 @@
+1	På	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	utbredda	utbredda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	vingar	vingar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	vidderna	vidderna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	seglar	seglar	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+7	örnen	örnen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:37
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

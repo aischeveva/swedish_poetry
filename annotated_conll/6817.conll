@@ -1,0 +1,12 @@
+1	lifvet	lifvet	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:10
+4	strid	strid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	början	början	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+8	ungdomen	ungdomen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+9	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:41
+10	berserksgång	berserksgång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:58
+

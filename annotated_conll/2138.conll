@@ -1,0 +1,7 @@
+1	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ens	ens	AB	AB	_	_	_	_	_	O	_	temp:0:5
+3	stillhet	stillhet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	finns	finnas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:18
+5	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	bergen	bergen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+

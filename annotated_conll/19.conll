@@ -1,0 +1,13 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	nyss	nyss	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	avlat	avlat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:13
+5	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+7	gömt	gömt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:31
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:36
+9	knappt	knappt	AB	AB	POS	_	_	_	_	O	_	temp:0:40
+10	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:47
+11	till	till	AB	AB	_	_	_	_	_	O	_	temp:0:50
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:54
+

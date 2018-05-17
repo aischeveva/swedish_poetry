@@ -1,0 +1,9 @@
+1	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	inget	ingen	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:9
+4	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+6	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:26
+7	sandiga	sandiga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	vägen	väg	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:38
+

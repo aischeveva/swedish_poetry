@@ -1,0 +1,6 @@
+1	hell	hell	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:5
+3	dyrköpta	dyrköpta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	segrar	segrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

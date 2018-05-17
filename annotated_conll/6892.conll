@@ -1,0 +1,10 @@
+1	Väl	väl	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	dväljas	dväljas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:4
+3	gudar	gudar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	Helge	Helge	PM	PM	NOM	_	_	_	_	B	place	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:26
+8	disarsal	disarsal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

@@ -1,0 +1,7 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:2
+3	blåa	blåa	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:5
+4	landen	landen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	in	in	PL	PL	_	_	_	_	_	O	_	temp:0:17
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+

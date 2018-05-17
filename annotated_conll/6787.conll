@@ -1,0 +1,17 @@
+1	intet	intet	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	menskligt	menskligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	öga	öga	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+4	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+5	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:24
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:29
+8	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:33
+9	djupa	djupa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:37
+10	graf	graf	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:43
+11	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:48
+12	tyst	tyst	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:51
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:55
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:56
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:58
+

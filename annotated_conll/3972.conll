@@ -1,0 +1,9 @@
+1	Möter	möter	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	Glädjen	Glädjen	PM	PM	NOM	_	_	_	_	B	person	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	möter	möter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+6	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:25
+7	Smärtan	smärta	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

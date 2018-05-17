@@ -1,0 +1,9 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	glimt	glimt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+4	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	ande	ande	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:17
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:22
+7	människan	människan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

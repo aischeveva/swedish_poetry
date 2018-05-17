@@ -1,0 +1,11 @@
+1	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:3
+3	dockspel	dockspel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+5	ta	ta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+6	slut	slut	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:29
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:31
+

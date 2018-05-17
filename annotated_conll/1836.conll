@@ -1,0 +1,8 @@
+1	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:0
+2	måste	måste	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	vara	vara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:10
+4	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:15
+5	försiktig	försiktig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	nuförtiden	nuförtid	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

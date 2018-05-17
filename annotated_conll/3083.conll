@@ -1,0 +1,5 @@
+1	Låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	falla	falla	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:13
+

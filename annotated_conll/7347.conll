@@ -1,0 +1,9 @@
+1	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	flyger	flyge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:17
+6	skön	skön	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+7	Valhallasyn	valhallasyn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

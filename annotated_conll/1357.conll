@@ -1,0 +1,6 @@
+1	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	litet	liten	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	stycke	stycke	UO	UO	_	_	_	_	_	O	_	temp:0:10
+4	mark	mark	UO	UO	_	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

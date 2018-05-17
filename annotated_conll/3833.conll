@@ -1,0 +1,11 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	väntar	vänta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:11
+4	väntar	vänta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:23
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:27
+3	april	april	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:30
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:35
+

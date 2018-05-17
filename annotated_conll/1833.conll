@@ -1,0 +1,12 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	mängd	mängd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	människor	människa	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:27
+7	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:31
+8	runt	runt	PL	PL	_	_	_	_	_	O	_	temp:0:35
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:40
+10	ring	ring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:46
+

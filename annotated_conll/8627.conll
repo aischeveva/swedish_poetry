@@ -1,0 +1,8 @@
+1	Allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	beredt	beredt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	Ellida	Ellida	PM	PM	NOM	_	_	_	_	B	person	temp:0:16
+6	spänner	spänner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	redan	redan	AB	AB	_	_	_	_	_	O	_	temp:0:31
+

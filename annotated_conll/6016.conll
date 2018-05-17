@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	jordens	jord	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	grönska	grönska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	blir	bli	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+5	åter	åter	AB	AB	_	_	_	_	_	O	_	temp:0:25
+6	ny	ny	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

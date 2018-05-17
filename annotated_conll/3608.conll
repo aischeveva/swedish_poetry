@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	sätter	sätta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:11
+4	blida	blida	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:15
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	ring	ring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	omkring	omkring	PL	PL	_	_	_	_	_	O	_	temp:0:28
+8	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:36
+9	säng	säng	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

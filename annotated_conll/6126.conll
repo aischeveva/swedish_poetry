@@ -1,0 +1,9 @@
+1	alltjämt	alltjämt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:9
+3	tjusar	tjusar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	alltjämt	alltjämt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:21
+6	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:30
+7	dårar	dårar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

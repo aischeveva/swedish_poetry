@@ -1,0 +1,10 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	långsam	långsam	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+6	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+7	hvila	hvila	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+8	få	få	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:29
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

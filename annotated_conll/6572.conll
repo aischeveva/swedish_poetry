@@ -1,0 +1,9 @@
+1	Litet	liten	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+4	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:14
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:18
+6	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	hoppas	hoppas	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

@@ -1,0 +1,10 @@
+1	hos	hos	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	honom	han	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:15
+5	drottning	drottning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:30
+7	hvit	hvit	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:38
+9	rosenröd	rosenröd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:42
+

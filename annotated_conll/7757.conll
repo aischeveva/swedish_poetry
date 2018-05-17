@@ -1,0 +1,11 @@
+1	Viking	viking	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	allena	allena	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:7
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:15
+5	nyss	nyss	AB	AB	_	_	_	_	_	O	_	temp:0:19
+6	fylt	fylt	AB	AB	POS	_	_	_	_	O	_	temp:0:24
+7	femton	femton	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	vintrar	vintrar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:36
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:43
+10	emottog	emottog	AB	AB	AN	_	_	_	_	O	_	temp:0:45
+

@@ -1,0 +1,6 @@
+1	Trolldom	trolldom	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+3	å	å	KN	KN	_	_	_	_	_	O	_	temp:0:12
+4	färde	färde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:14
+5	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+

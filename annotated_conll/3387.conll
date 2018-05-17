@@ -1,0 +1,7 @@
+1	Den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	drivas	drivas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:8
+4	långt	långt	AB	AB	POS	_	_	_	_	O	_	temp:0:15
+5	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:21
+6	vinden	vinden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+

@@ -1,0 +1,16 @@
+1	Förråder	förråder	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:9
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:13
+4	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:23
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:24
+3	Din	din	UO	UO	_	_	_	_	_	O	_	temp:1:26
+4	son	son	UO	UO	_	_	_	_	_	O	_	temp:1:30
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:33
+6	o	o	KN	KN	_	_	_	_	_	O	_	temp:1:35
+7	hembygd	hembygd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:37
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:44
+9	vinne	vinne	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:46
+

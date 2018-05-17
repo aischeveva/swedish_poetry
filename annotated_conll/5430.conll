@@ -1,0 +1,7 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	hoppar	hoppar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	under	under	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	silke	silke	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:17
+5	grönt	grönt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:28
+

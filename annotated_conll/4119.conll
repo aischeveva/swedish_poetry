@@ -1,0 +1,7 @@
+1	intet	intet	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	allt	all	DT	DT	NEU|SIN|IND/DEF	_	_	_	_	O	_	temp:0:9
+4	vårt	vår	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:14
+5	sjuka	sjuka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

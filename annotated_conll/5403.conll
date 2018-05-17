@@ -1,0 +1,10 @@
+1	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	första	första	RO	RO	NOM	_	_	_	_	O	_	temp:0:4
+3	ax	ax	NN	NN	AN	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	hvars	hvars	NN	NN	NEU|PLU|IND|GEN	_	_	_	_	O	_	temp:0:15
+6	guld	guld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	blef	blef	UO	UO	_	_	_	_	_	O	_	temp:0:26
+8	moget	moget	UO	UO	_	_	_	_	_	O	_	temp:0:31
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

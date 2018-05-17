@@ -1,0 +1,10 @@
+1	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	kasta	kasta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	bort	bort	PL	PL	_	_	_	_	_	O	_	temp:0:10
+4	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+6	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:20
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:24
+8	drottning	drottning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+9	kastar	kasta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:37
+

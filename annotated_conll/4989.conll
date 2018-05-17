@@ -1,0 +1,10 @@
+1	Firas	firas	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:11
+5	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:21
+8	dans	dans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:25
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

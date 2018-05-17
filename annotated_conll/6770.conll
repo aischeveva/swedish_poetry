@@ -1,0 +1,15 @@
+1	Hvad	hvad	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	skall	skall	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	vintern	vinter	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:19
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	rosen	rosen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:1:34
+2	förstår	förstå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:38
+3	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:46
+4	hennes	hennes	AB	AB	SUV	_	_	_	_	O	_	temp:1:49
+5	pris	pris	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:56
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:60
+

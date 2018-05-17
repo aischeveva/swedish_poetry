@@ -1,0 +1,8 @@
+1	fram	fram	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	mellan	mellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	silfret	silfret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	hårvuxen	hårvuxen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:23
+6	barm	barm	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:32
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

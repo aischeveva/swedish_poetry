@@ -1,0 +1,11 @@
+1	Gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+5	sagt	säga	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:13
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+7	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:19
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:22
+9	talade	talade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:26
+10	nyss	nyss	AB	AB	_	_	_	_	_	O	_	temp:0:33
+

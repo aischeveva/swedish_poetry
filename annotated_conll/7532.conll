@@ -1,0 +1,11 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:6
+4	aska	aska	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	ligger	ligga	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+6	Balders	balders	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+7	gudahus	gudahus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:39
+

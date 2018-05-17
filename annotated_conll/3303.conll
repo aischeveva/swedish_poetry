@@ -1,0 +1,8 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:1
+3	lyser	lyse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:11
+5	Halvars	halvars	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+6	gård	gård	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

@@ -1,0 +1,9 @@
+1	sad	sad	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	Atle	atle	UO	UO	_	_	_	_	_	O	_	temp:0:5
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+5	stolt	stolt	AB	AB	POS	_	_	_	_	O	_	temp:0:11
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:17
+7	håg	håg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

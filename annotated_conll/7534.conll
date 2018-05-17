@@ -1,0 +1,8 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	mensklighetens	mensklighetens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:5
+3	lägre	lägre	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:20
+4	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:25
+5	bägge	bägge	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:27
+6	äro	äro	UO	UO	_	_	_	_	_	O	_	temp:0:33
+7	blott	blott	UO	UO	_	_	_	_	_	O	_	temp:0:37
+

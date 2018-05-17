@@ -1,0 +1,9 @@
+1	hvad	hvad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	henne	hon	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	kärast	kärast	AB	AB	SUV	_	_	_	_	O	_	temp:0:11
+4	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	jordens	jord	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:25
+7	rund	rund	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

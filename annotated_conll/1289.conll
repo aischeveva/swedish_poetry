@@ -1,0 +1,6 @@
+1	andades	andades	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:12
+4	sida	sida	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+

@@ -1,0 +1,12 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	rister	rister	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:12
+5	Oden	Oden	PM	PM	NOM	_	_	_	_	B	person	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+7	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:22
+8	sjelf	sjelf	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:26
+9	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:32
+10	spjut	spjut	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

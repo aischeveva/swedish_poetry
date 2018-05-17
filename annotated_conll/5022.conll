@@ -1,0 +1,9 @@
+1	Vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	ädelt	ädelt	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:10
+4	blomstrar	blomstrar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	järnmängd	järnmängd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	grund	grund	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

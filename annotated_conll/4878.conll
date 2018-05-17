@@ -1,0 +1,5 @@
+1	För	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	lumpna	lumpna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	guldet	guldet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+

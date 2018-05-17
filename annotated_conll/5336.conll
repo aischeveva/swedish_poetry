@@ -1,0 +1,5 @@
+1	Betäcker	betäcker	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hjältens	hjältens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:9
+3	ben	ben	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

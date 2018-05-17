@@ -1,0 +1,8 @@
+1	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	de	den	DT	DT	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:7
+4	marker	marker	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	där	där	HA	HA	_	_	_	_	_	O	_	temp:0:18
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:22
+

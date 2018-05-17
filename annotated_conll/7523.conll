@@ -1,0 +1,12 @@
+1	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	mantel	mantel	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:13
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:17
+6	goda	god	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:21
+7	kläder	kläder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:26
+8	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:33
+9	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:37
+10	ljus	ljus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

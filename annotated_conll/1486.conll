@@ -1,0 +1,7 @@
+1	suger	suger	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	tusen	tusen	RG	RG	NOM	_	_	_	_	O	_	temp:0:12
+4	triumfers	triumfers	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	hämnd	hämnd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

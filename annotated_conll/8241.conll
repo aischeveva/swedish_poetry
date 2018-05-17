@@ -1,0 +1,11 @@
+1	Kyss	kyss	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:10
+5	sköna	sköna	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:19
+
+1	Låt	låta	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:1:21
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:1:25
+3	låga	låga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:1:29
+

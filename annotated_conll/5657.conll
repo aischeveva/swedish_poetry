@@ -1,0 +1,5 @@
+1	säkert	säker	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	öfver	öfver	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+3	vågen	vågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+

@@ -1,0 +1,18 @@
+1	God	god	IN	IN	_	_	_	_	_	O	_	temp:0:0
+2	natt	natt	IN	IN	_	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	mina	min	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:10
+5	damer	damer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:20
+
+1	God	god	IN	IN	_	_	_	_	_	O	_	temp:1:22
+2	natt	natt	IN	IN	_	_	_	_	_	O	_	temp:1:26
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:30
+4	sköna	sköna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:32
+5	damer	damer	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:1:38
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:43
+
+1	God	god	IN	IN	_	_	_	_	_	O	_	temp:2:45
+2	natt	natt	IN	IN	_	_	_	_	_	O	_	temp:2:49
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:2:53
+

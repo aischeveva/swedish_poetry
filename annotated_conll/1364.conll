@@ -1,0 +1,5 @@
+1	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	blixtrande	blixtrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	spjut	spjut	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

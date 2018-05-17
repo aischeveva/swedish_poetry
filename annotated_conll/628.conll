@@ -1,0 +1,6 @@
+1	fast	fast	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	er	er	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:5
+3	bark	bark	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	känns	känna	VB	VB	PRS|SFO	_	_	_	_	O	_	temp:0:13
+5	skrovligt	skrovligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+

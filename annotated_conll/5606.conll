@@ -1,0 +1,7 @@
+1	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	dra	dra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:5
+3	seglaren	seglaren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	qvaf	qvaf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

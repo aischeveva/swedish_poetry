@@ -1,0 +1,29 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	265827-14989916:0:1
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14989916:0:5
+3	före-bilden	före-bild	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-14989916:0:8
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14989916:0:19
+
+1	Ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	265827-14989916:1:21
+2	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14989916:1:24
+3	se	se	VB	VB	INF|AKT	_	_	_	_	O	_	265827-14989916:1:28
+4	efter-bilden	efter-bild	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	265827-14989916:1:31
+5	sen	sen	AB	AB	_	_	_	_	_	O	_	265827-14989916:1:44
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14989916:1:47
+
+1	Not	not	UO	UO	_	_	_	_	_	O	_	265827-14989916:2:49
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14989916:2:52
+
+1	Den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	265827-14989916:3:54
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	265827-14989916:3:58
+3	gissar	gissa	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14989916:3:62
+4	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	265827-14989916:3:69
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	265827-14989916:3:73
+6	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14989916:3:77
+7	på	på	PP	PP	_	_	_	_	_	O	_	265827-14989916:3:82
+8	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	265827-14989916:3:85
+9	tröja	tröja	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	265827-14989916:3:89
+10	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	265827-14989916:3:95
+11	500	500	RG	RG	NOM	_	_	_	_	O	_	265827-14989916:3:99
+12	spänn	spänn	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	265827-14989916:3:103
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	265827-14989916:3:108
+

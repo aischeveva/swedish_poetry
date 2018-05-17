@@ -1,0 +1,16 @@
+1	båd	båd	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:5
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+5	qvinna	qvinna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	Helge	Helge	PM	PM	NOM	_	_	_	_	B	place	temp:0:21
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+9	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:28
+10	rätt	rätt	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+11	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:38
+12	heder	heder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:42
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:49
+

@@ -1,0 +1,14 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:1
+3	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+4	tältas	tältas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:7
+5	å	å	KN	KN	_	_	_	_	_	O	_	temp:0:14
+6	skepp	skepp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+8	ej	Ej	PM	PM	NOM	_	_	_	_	B	person	temp:0:23
+9	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+10	sofvas	sofvas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:29
+11	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:36
+12	hus	hus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+13	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

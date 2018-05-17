@@ -1,0 +1,5 @@
+1	försvann	försvinna	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+3	tyst	tyst	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:17
+

@@ -1,0 +1,14 @@
+1	Buken	buken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	spräcklig	spräcklig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:20
+5	blått	blått	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:30
+7	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:34
+8	gult	gult	AB	AB	POS	_	_	_	_	O	_	temp:0:38
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+10	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:44
+11	baktill	baktill	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+12	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:56
+13	rodret	rodret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:60
+

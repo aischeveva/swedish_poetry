@@ -1,0 +1,10 @@
+1	Hell	hell	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:10
+5	frie	frie	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+6	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:18
+7	af	af	UO	UO	_	_	_	_	_	O	_	temp:0:22
+8	jern	jern	UO	UO	_	_	_	_	_	O	_	temp:0:25
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

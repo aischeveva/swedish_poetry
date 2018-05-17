@@ -1,0 +1,7 @@
+1	Mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	pestens	pestens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	tider	tid	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	hungerns	hungerns	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:22
+6	år	år	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:31
+

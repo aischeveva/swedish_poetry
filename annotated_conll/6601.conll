@@ -1,0 +1,12 @@
+1	Den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:3
+3	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:5
+4	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+5	tagas	tagas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:13
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:20
+8	värd	värd	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+9	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:28
+10	hängas	hängas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:32
+11	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

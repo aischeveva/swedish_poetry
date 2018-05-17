@@ -1,0 +1,13 @@
+1	in	in	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:3
+3	grus	grus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:10
+5	grönskande	grönskande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:14
+6	torf	torf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+8	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:31
+9	hvälfde	hvälfde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:34
+10	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:42
+11	högen	högen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:46
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:51
+

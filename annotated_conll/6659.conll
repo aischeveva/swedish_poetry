@@ -1,0 +1,11 @@
+1	stå	stå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	gungande	gungande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	vågen	vågen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:23
+7	häfdes	häfdes	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:26
+8	hennes	hennes	AB	AB	SUV	_	_	_	_	O	_	temp:0:33
+9	barm	barm	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:40
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

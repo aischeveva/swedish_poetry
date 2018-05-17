@@ -1,0 +1,10 @@
+1	klamrar	klamrar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:8
+3	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	kvisten	kvisten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	sväller	sväller	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+8	glider	glider	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

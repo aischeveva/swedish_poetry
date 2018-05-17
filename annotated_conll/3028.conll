@@ -1,0 +1,10 @@
+1	bakades	bakades	AB	AB	SUV	_	_	_	_	O	_	temp:0:0
+2	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:8
+3	kornet	kornet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:18
+5	grovt	grovt	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+7	hårt	hårt	AB	AB	SUV	_	_	_	_	O	_	temp:0:29
+8	bröd	bröd	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

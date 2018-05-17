@@ -1,0 +1,9 @@
+1	här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	kan	kunna	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:8
+4	varken	varken	KN	KN	_	_	_	_	_	O	_	temp:0:12
+5	ligga	ligga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+6	stå	stå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:25
+7	eller	eller	KN	KN	_	_	_	_	_	O	_	temp:0:29
+8	sitta	sitta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:35
+

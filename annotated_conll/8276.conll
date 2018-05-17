@@ -1,0 +1,8 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	famnen	famn	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:12
+5	bleka	bleka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	mö	mö	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:22
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

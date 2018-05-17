@@ -1,0 +1,11 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ringens	ringens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:4
+3	gyllne	gyllne	UO	UO	_	_	_	_	_	O	_	temp:0:12
+4	smycke	smycke	UO	UO	_	_	_	_	_	O	_	temp:0:19
+5	kring	kring	UO	UO	_	_	_	_	_	O	_	temp:0:26
+6	armen	armen	UO	UO	_	_	_	_	_	O	_	temp:0:32
+7	satt	sitta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:38
+8	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:43
+9	rikt	rikt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:46
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:50
+

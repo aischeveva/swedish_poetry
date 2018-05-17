@@ -1,0 +1,14 @@
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	mina	min	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:8
+4	ådrors	ådrors	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	värme	värme	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+
+1	Det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:1:28
+2	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:1:32
+3	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:1:36
+4	hjärtas	hjärtas	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:41
+5	slag	slag	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:1:49
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:1:53
+

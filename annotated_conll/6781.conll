@@ -1,0 +1,13 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	gamle	gamle	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	kungen	kungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	lade	lade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+6	tryggt	tryggt	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+7	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:33
+8	hufvud	hufvud	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+9	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:45
+10	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:48
+11	knän	knän	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:53
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:57
+

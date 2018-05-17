@@ -1,0 +1,7 @@
+1	Och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:7
+4	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+6	träder	träder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:21
+

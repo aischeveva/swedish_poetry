@@ -1,0 +1,9 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	stod	stå	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	hovet	hovet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	där	där	HA	HA	_	_	_	_	_	O	_	temp:0:16
+6	skarorna	skarorna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	blotade	blotade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

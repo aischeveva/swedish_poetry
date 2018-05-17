@@ -1,0 +1,6 @@
+1	Med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	stjernor	stjernor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	skulle	ska	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:20
+5	bekransa	bekransa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+

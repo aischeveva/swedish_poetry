@@ -1,0 +1,13 @@
+1	Midt	midt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	kämpar	kämpa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	gästernas	gästernas	NN	NN	UTR|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:22
+6	mängd	mängd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:37
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:39
+9	kommit	komma	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:43
+10	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:50
+11	graföl	graföl	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:55
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:61
+

@@ -1,0 +1,6 @@
+1	hvirflande	hvirflande	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:11
+3	gudars	gudars	NN	NN	NEU|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:15
+4	hem	hem	PL	PL	_	_	_	_	_	O	_	temp:0:22
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:25
+

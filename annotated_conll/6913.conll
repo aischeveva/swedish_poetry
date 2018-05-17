@@ -1,0 +1,10 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	joller	joller	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	höfves	höfves	AB	AB	_	_	_	_	_	O	_	temp:0:11
+4	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:25
+7	kungen	kungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	minst	minst	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:41
+

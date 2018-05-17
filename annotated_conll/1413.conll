@@ -1,0 +1,7 @@
+1	smyg	smyg	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:5
+3	tätt	tätt	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:14
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:18
+6	vatten	vatten	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+

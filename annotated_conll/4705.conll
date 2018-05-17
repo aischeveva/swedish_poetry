@@ -1,0 +1,8 @@
+1	Mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	hjärta	hjärta	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	hett	hett	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:15
+5	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:24
+7	masugn	masugn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+

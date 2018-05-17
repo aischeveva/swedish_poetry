@@ -1,0 +1,8 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	ensamhetens	ensamhetens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:2
+3	tid	tid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:22
+6	tunga	tunga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+7	bränt	bränt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+

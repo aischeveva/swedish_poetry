@@ -1,0 +1,6 @@
+1	knarrar	knarrar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	golv	golv	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:13
+4	dörr	dörr	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

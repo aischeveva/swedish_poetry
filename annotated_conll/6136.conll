@@ -1,0 +1,9 @@
+1	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	ej	ej	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	tänktes	tänktes	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:19
+6	pris	pris	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:23
+7	också	också	AB	AB	_	_	_	_	_	O	_	temp:0:28
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

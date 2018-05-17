@@ -1,0 +1,7 @@
+1	skall	skall	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	lära	lära	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:6
+3	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:11
+4	blixtens	blixtens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:15
+5	snabba	snabb	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:24
+6	renhet	renhet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+

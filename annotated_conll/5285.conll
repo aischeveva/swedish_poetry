@@ -1,0 +1,11 @@
+1	Säg	säg	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+5	väktare	väktare	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:12
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+7	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:0:21
+8	natten	natt	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:25
+9	lider	lider	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:32
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

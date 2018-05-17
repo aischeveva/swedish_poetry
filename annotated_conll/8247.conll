@@ -1,0 +1,8 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	kämpar	kämpa	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	nog	nog	AB	AB	_	_	_	_	_	O	_	temp:0:11
+4	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:15
+5	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+6	försvara	försvara	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

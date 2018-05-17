@@ -1,0 +1,7 @@
+1	Följe	följe	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:6
+3	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:10
+4	ålderns	ålderns	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:12
+5	natt	natt	IN	IN	_	_	_	_	_	O	_	temp:0:20
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

@@ -1,0 +1,10 @@
+1	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	niding	niding	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:15
+6	ger	ge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+7	henne	hon	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:23
+8	nej	nej	IN	IN	_	_	_	_	_	O	_	temp:0:29
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

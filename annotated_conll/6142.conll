@@ -1,0 +1,10 @@
+1	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:7
+4	van	van	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:14
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:18
+7	tänka	tänka	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+8	ensam	ensam	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

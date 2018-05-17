@@ -1,0 +1,11 @@
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+4	nära	nära	PP	PP	_	_	_	_	_	O	_	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+6	längtar	längta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:16
+7	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:24
+8	likaväl	likaväl	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+9	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:36
+10	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:37
+

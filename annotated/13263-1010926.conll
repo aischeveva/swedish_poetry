@@ -1,0 +1,66 @@
+1	Monica	Monica	PM	PM	NOM	_	_	_	_	B	person	13263-1010926:0:1
+2	Zetterlund	Zetterlund	PM	PM	NOM	_	_	_	_	I	person	13263-1010926:0:8
+3	i	i	PP	PP	_	_	_	_	_	O	_	13263-1010926:0:19
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	13263-1010926:0:21
+5	paus	paus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1010926:0:24
+6	under	under	PP	PP	_	_	_	_	_	O	_	13263-1010926:0:29
+7	inspelningen	inspelning	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1010926:0:35
+8	av	av	PP	PP	_	_	_	_	_	O	_	13263-1010926:0:48
+9	filmen	film	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1010926:0:51
+10	Att	att	IE	IE	_	_	_	_	_	O	_	13263-1010926:0:58
+11	angöra	angöra	VB	VB	INF|AKT	_	_	_	_	O	_	13263-1010926:0:62
+12	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	13263-1010926:0:69
+13	brygga	brygga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1010926:0:72
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1010926:0:78
+
+1	(	(	PAD	PAD	_	_	_	_	_	O	_	13263-1010926:1:80
+2	1965	1965	RG	RG	NOM	_	_	_	_	O	_	13263-1010926:1:81
+3	)	)	PAD	PAD	_	_	_	_	_	O	_	13263-1010926:1:85
+4	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1010926:1:86
+
+1	Bild	bild	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1010926:2:88
+2	ur	ur	PP	PP	_	_	_	_	_	O	_	13263-1010926:2:93
+3	AB	AB	PM	PM	NOM	_	_	_	_	B	person	13263-1010926:2:96
+4	Skrivstugans	Skrivstugan	PM	PM	GEN	_	_	_	_	I	person	13263-1010926:2:99
+5	arkiv	arkiv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1010926:2:112
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1010926:2:117
+
+1	Ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1010926:3:119
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	13263-1010926:3:123
+3	gamla	gammal	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	13263-1010926:3:127
+4	dokumentären	dokumentär	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	13263-1010926:3:133
+5	om	om	PP	PP	_	_	_	_	_	O	_	13263-1010926:3:146
+6	Monica	Monica	PM	PM	NOM	_	_	_	_	B	person	13263-1010926:3:149
+7	Z	Z	PM	PM	NOM	_	_	_	_	I	person	13263-1010926:3:156
+8	som	som	HP	HP	-|-|-	_	_	_	_	O	_	13263-1010926:3:158
+9	just	just	AB	AB	_	_	_	_	_	O	_	13263-1010926:3:162
+10	i	i	PP	PP	_	_	_	_	_	O	_	13263-1010926:3:167
+11	detta	denna	DT	DT	NEU|SIN|DEF	_	_	_	_	O	_	13263-1010926:3:169
+12	nu	nu	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1010926:3:175
+13	visas	visa	VB	VB	PRS|SFO	_	_	_	_	O	_	13263-1010926:3:178
+14	på	på	PP	PP	_	_	_	_	_	O	_	13263-1010926:3:184
+15	Svt1	Svt1	PM	PM	NOM	_	_	_	_	B	place	13263-1010926:3:187
+16	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1010926:3:191
+
+1	Hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1010926:4:193
+2	verkar	verka	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-1010926:4:197
+3	ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	13263-1010926:4:204
+4	varit	vara	VB	VB	SUP|AKT	_	_	_	_	O	_	13263-1010926:4:207
+5	så	så	AB	AB	_	_	_	_	_	O	_	13263-1010926:4:213
+6	jäkla	jäkla	AB	AB	POS	_	_	_	_	O	_	13263-1010926:4:216
+7	cool	cool	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	13263-1010926:4:222
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1010926:4:226
+
+1	Synd	synd	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	13263-1010926:5:228
+2	att	att	SN	SN	_	_	_	_	_	O	_	13263-1010926:5:233
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-1010926:5:237
+4	skulle	skola	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-1010926:5:241
+5	försvinna	försvinna	VB	VB	INF|AKT	_	_	_	_	O	_	13263-1010926:5:248
+6	sådär	sådär	AB	AB	_	_	_	_	_	O	_	13263-1010926:5:258
+7	hemskt	hemsk	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-1010926:5:264
+8	…	…	MID	MID	_	_	_	_	_	O	_	13263-1010926:5:271
+9	och	och	KN	KN	_	_	_	_	_	O	_	13263-1010926:5:273
+10	för	för	AB	AB	_	_	_	_	_	O	_	13263-1010926:5:277
+11	tidigt	tidigt	AB	AB	POS	_	_	_	_	O	_	13263-1010926:5:281
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-1010926:5:287
+

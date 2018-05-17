@@ -1,0 +1,7 @@
+1	Vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	ju	ju	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:11
+5	djupt	djupt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+6	förbund	förbund	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+

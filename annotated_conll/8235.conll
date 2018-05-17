@@ -1,0 +1,9 @@
+1	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	själs	själs	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	begär	begär	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:17
+6	lefnads	lefnads	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+7	lycka	lycka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

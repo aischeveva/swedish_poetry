@@ -1,0 +1,7 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	lämna	lämna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:4
+3	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:10
+4	öra	öra	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	fritt	fritt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

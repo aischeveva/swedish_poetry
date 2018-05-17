@@ -1,0 +1,10 @@
+1	skål	skål	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:5
+3	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	ära	ära	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:18
+7	härliga	härliga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:21
+8	Nord	nord	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:29
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:33
+

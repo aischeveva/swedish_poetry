@@ -1,0 +1,13 @@
+1	En	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	liten	liten	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	tid	tid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:14
+6	liten	liten	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+7	tid	tid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+9	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:28
+10	liten	liten	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+11	tid	tid	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+12	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

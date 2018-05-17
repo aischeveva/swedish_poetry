@@ -1,0 +1,5 @@
+1	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	tom	tom	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:8
+4	fåfäng	fåfäng	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+

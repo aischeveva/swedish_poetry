@@ -1,0 +1,7 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vänligt	vänligt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	tog	ta	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:12
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	ordet	ordet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:26
+

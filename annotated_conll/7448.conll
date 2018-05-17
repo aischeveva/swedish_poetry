@@ -1,0 +1,10 @@
+1	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	tyst	tyst	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	hänryckning	hänryckning	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	göt	göt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:20
+5	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:24
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:28
+7	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:30
+8	hjeltebarm	hjeltebarm	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

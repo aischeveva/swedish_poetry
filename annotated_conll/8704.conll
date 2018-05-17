@@ -1,0 +1,10 @@
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	qvinnan	qvinnan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	endast	endast	AB	AB	SUV	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:20
+6	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	mannens	mannens	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+8	själ	själ	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

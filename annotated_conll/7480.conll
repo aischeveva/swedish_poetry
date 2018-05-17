@@ -1,0 +1,10 @@
+1	tills	tills	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	himlens	himlens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:13
+5	fromhet	fromhet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:28
+7	skiner	skiner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	deruppå	deruppå	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:37
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

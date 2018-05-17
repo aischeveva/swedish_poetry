@@ -1,0 +1,11 @@
+1	obepröfvad	obepröfvad	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:11
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+4	klinga	klinga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+5	litar	lita	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+6	ej	ej	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:32
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:35
+8	kloke	kloke	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:39
+9	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:45
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:47
+

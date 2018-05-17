@@ -1,0 +1,5 @@
+1	hör	hör	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	bara	bara	AB	AB	_	_	_	_	_	O	_	temp:0:8
+4	din	din	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+

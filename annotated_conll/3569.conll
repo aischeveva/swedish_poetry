@@ -1,0 +1,5 @@
+1	där	där	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	slöjorna	slöjorna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	faller	faller	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+

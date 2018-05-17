@@ -1,0 +1,11 @@
+1	Guds	guds	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	avbild	avbild	UO	UO	_	_	_	_	_	O	_	temp:0:5
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:16
+6	träffande	träffande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+8	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:31
+9	sann	sann	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:35
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

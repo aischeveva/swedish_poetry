@@ -1,0 +1,8 @@
+1	tungt	tungt	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:7
+4	bräddat	bräddat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:11
+5	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	salighet	salighet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

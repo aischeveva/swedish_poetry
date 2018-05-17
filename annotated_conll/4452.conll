@@ -1,0 +1,8 @@
+1	kring	kring	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	frusna	frusna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	källor	källor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+5	döda	döda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+6	hus	hus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:32
+

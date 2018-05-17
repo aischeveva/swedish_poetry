@@ -1,0 +1,16 @@
+1	ve	ve	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:8
+5	danats	danats	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+6	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:19
+7	mull	mull	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+9	vars	vars	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:31
+10	tanke	tanke	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:36
+11	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:42
+12	stål	stål	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:45
+13	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:50
+14	sten	sten	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:54
+15	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:58
+

@@ -1,0 +1,17 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:4
+3	furste	furste	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	tänder	tänder	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+6	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:28
+8	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:32
+9	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:40
+11	släckt	släckt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:49
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:50
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:52
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:53
+

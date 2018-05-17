@@ -1,0 +1,10 @@
+1	Som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:7
+4	fönster	fönster	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+5	vette	vette	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+6	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:29
+8	skogsäng	skogsäng	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

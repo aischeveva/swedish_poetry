@@ -1,0 +1,14 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	hälsa	hälsa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	sval	sval	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	människors	människors	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+8	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:35
+9	oss	vi	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:39
+10	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:43
+11	läkdom	läkdom	NN	NN	NEU|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:47
+12	älska	älska	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:54
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:59
+

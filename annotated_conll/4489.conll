@@ -1,0 +1,8 @@
+1	sej	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:0
+2	undan	undan	PL	PL	_	_	_	_	_	O	_	temp:0:4
+3	lagen	lagen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:16
+5	hängt	hängt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:20
+6	sej	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:26
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+

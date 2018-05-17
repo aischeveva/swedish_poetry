@@ -1,0 +1,10 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	skrämd	skrämd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:10
+4	snar	snar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:19
+6	tysta	tysta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:23
+7	vagn	vagn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+8	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:34
+9	styr	styr	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:38
+

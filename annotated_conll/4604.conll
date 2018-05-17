@@ -1,0 +1,6 @@
+1	tätt	tätt	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mellan	mellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	stölder	stölder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:20
+5	mord	mord	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+

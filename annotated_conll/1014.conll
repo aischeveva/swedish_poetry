@@ -1,0 +1,8 @@
+1	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	mycket	mycket	AB	AB	POS	_	_	_	_	O	_	temp:0:4
+3	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:11
+4	lätt	lätt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:20
+6	brista	brista	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

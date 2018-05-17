@@ -1,0 +1,12 @@
+1	Ve	ve	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:3
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:6
+4	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+6	förbi	förbi	PL	PL	_	_	_	_	_	O	_	temp:0:15
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+8	förbi	förbi	PL	PL	_	_	_	_	_	O	_	temp:0:22
+9	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:28
+10	alltid	alltid	AB	AB	_	_	_	_	_	O	_	temp:0:32
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

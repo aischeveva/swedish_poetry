@@ -1,0 +1,14 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	kungen	kungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	log	log	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:19
+6	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:23
+7	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:25
+8	Helt	helt	AB	AB	POS	_	_	_	_	O	_	temp:0:26
+9	dristigt	dristigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+10	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:40
+11	ditt	ditt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:43
+12	tal	tal	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+13	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:51
+

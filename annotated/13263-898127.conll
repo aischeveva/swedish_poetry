@@ -1,0 +1,24 @@
+1	Töväder	töväder	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-898127:0:1
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-898127:0:8
+
+1	Blask-	blaska	NN	NN	UTR|-|-|SMS	_	_	_	_	O	_	13263-898127:1:10
+2	,	,	MID	MID	_	_	_	_	_	O	_	13263-898127:1:16
+3	plask	plask	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-898127:1:18
+4	och	och	KN	KN	_	_	_	_	_	O	_	13263-898127:1:24
+5	slaskväder	slaskväder	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	13263-898127:1:28
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-898127:1:38
+
+1	Blötväder	blötväder	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	13263-898127:2:40
+2	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-898127:2:49
+
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	13263-898127:3:51
+2	önskar	önska	VB	VB	PRS|AKT	_	_	_	_	O	_	13263-898127:3:55
+3	bara	bara	AB	AB	_	_	_	_	_	O	_	13263-898127:3:62
+4	att	att	SN	SN	_	_	_	_	_	O	_	13263-898127:3:67
+5	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	13263-898127:3:71
+6	kunde	kunna	VB	VB	PRT|AKT	_	_	_	_	O	_	13263-898127:3:75
+7	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	13263-898127:3:81
+8	lite	lite	AB	AB	POS	_	_	_	_	O	_	13263-898127:3:84
+9	fortare	fort	AB	AB	KOM	_	_	_	_	O	_	13263-898127:3:89
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	13263-898127:3:96
+

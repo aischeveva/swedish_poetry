@@ -1,0 +1,9 @@
+1	Phlebas	phlebas	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	feniciern	feniciern	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+4	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	sedan	sedan	AB	AB	_	_	_	_	_	O	_	temp:0:23
+6	fjorton	fjorton	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+7	dar	dar	NN	NN	AN	_	_	_	_	O	_	temp:0:37
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

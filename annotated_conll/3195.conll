@@ -1,0 +1,7 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:8
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+5	föraktar	förakta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

@@ -1,0 +1,9 @@
+1	der	der	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	blåser	blåse	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	re	re	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+4	'	'	UO	UO	_	_	_	_	_	O	_	temp:0:13
+5	n	n	UO	UO	_	_	_	_	_	O	_	temp:0:14
+6	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:16
+7	morgonvind	morgonvind	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

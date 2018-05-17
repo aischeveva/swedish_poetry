@@ -1,0 +1,7 @@
+1	Tänd	tänd	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ässjan	ässjan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:5
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	nytt	ny	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	skapelse	skapelse	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+

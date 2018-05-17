@@ -1,0 +1,6 @@
+1	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	förtvivlat	förtvivlat	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:8
+4	klart	klar	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+

@@ -1,0 +1,6 @@
+1	Nattens	nattens	UO	UO	_	_	_	_	_	O	_	temp:0:0
+2	dop	dop	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+3	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	djupet	djupet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

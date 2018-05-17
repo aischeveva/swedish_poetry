@@ -1,0 +1,10 @@
+1	Två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:0
+2	lögner	lögner	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:15
+5	likväl	likväl	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:18
+6	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:30
+8	visa	visa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:34
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

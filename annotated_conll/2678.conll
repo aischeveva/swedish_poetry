@@ -1,0 +1,8 @@
+1	Skrattande	skrattande	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	dansar	dansar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:18
+4	stjärna	stjärna	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+5	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:30
+6	stjärnegåtor	stjärnegåtor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:36
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:48
+

@@ -1,0 +1,9 @@
+1	medan	medan	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	vintermorgonen	vintermorgon	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	stirrade	stirrade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+4	mörk	mörk	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+5	genom	genom	PP	PP	_	_	_	_	_	O	_	temp:0:35
+6	välvda	välvda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:41
+7	fönster	fönster	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:48
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:55
+

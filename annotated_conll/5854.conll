@@ -1,0 +1,8 @@
+1	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	morgon	morgon	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:2
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+4	kanske	kanske	AB	AB	_	_	_	_	_	O	_	temp:0:12
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:19
+

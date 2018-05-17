@@ -1,0 +1,7 @@
+1	Hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	blund	blund	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:11
+4	sekel	sekel	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:24
+

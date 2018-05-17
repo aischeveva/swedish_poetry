@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	trogna	trogna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	kärlek	kärlek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	fylla	fylla	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:26
+7	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:32
+

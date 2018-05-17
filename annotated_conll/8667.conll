@@ -1,0 +1,11 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	rycker	rycker	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:15
+5	lös	lös	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+7	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:24
+8	drifver	drifver	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:27
+9	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:35
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

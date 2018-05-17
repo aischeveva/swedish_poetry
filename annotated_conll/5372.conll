@@ -1,0 +1,7 @@
+1	då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	öppnar	öppnar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	rosen	rosen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	läppar	läpp	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:16
+5	röda	röda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:27
+

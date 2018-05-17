@@ -1,0 +1,9 @@
+1	tar	ta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:7
+4	tvekande	tvekande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+5	steg	steg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:25
+7	sanden	sanden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

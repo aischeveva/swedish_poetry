@@ -1,0 +1,9 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	slår	slår	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	härsköld	härsköld	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	invid	invid	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+6	landets	landets	NN	NN	NEU|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:27
+7	gränser	gränser	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:35
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

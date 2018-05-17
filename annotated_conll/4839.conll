@@ -1,0 +1,8 @@
+1	Själv	själv	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	spegelns	spegelns	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	lov	lov	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+4	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+5	blygsamhet	blygsamhet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+6	försmår	försmår	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

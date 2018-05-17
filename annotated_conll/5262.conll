@@ -1,0 +1,9 @@
+1	Sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	stumma	stumma	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	massa	massa	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+5	tryckande	tryckande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:18
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:28
+7	rå	rå	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:32
+8	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

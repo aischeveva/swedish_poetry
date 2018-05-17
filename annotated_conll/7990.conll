@@ -1,0 +1,9 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	pris	pris	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	ger	ge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+5	icke	icke	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:18
+6	åt	åt	PP	PP	_	_	_	_	_	O	_	temp:0:23
+7	öfvermodet	öfvermodet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:26
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

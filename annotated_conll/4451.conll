@@ -1,0 +1,7 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	envist	envist	AB	AB	SUV	_	_	_	_	O	_	temp:0:4
+3	dallrande	dallrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:11
+4	sång	sång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+5	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:26
+6	ljus	ljus	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+

@@ -1,0 +1,13 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	Nu	nu	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:1
+3	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:3
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+5	skrek	skrika	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+6	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+8	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:17
+9	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+10	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:23
+11	pröfva	pröfvara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+12	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

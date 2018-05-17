@@ -1,0 +1,9 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	svänger	svänge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	lätt	lätt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:24
+7	enda	enda	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	hopp	hopp	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+

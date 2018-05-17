@@ -1,0 +1,11 @@
+1	Seglar	seglar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	krämare	krämare	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:7
+3	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:15
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	må	må	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:21
+6	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:24
+7	skydda	skydda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:27
+8	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:34
+9	skepp	skepp	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:39
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

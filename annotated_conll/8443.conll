@@ -1,0 +1,10 @@
+1	Vårt	vår	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	öde	öde	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	bestämdt	bestämdt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:22
+7	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+8	att	att	SN	SN	_	_	_	_	_	O	_	temp:0:31
+9	läsa	läsa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:35
+

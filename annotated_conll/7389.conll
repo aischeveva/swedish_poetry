@@ -1,0 +1,11 @@
+1	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	menskor	menskor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	sonas	sonas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:12
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:18
+5	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:22
+6	gudar	gudar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+7	glömma	glömma	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:32
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:39
+

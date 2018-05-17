@@ -1,0 +1,13 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:2
+3	älsken	älsken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+5	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:14
+6	veten	veten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+7	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:22
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:25
+9	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:27
+10	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:30
+

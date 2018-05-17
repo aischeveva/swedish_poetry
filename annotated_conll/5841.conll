@@ -1,0 +1,6 @@
+1	han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	knät	knät	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:9
+4	bröstet	bröstet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+5	stälde	stälde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:21
+

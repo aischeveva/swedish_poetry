@@ -1,0 +1,8 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	uti	uti	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	muren	muren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	ofvanföre	ofvanföre	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:24
+6	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:28
+7	rum	rum	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+

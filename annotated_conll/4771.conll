@@ -1,0 +1,10 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	dina	dina	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	forsars	forsars	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:7
+4	fall	fall	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:20
+6	vilda	vilda	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+7	styrkan	styrkan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:30
+8	tar	ta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:38
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+

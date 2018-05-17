@@ -1,0 +1,8 @@
+1	tills	tills	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	drömmen	drömmen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	inte	inte	AB	AB	_	_	_	_	_	O	_	temp:0:14
+4	plågar	plågar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+5	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:26
+6	mer	mycket	AB	AB	KOM	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

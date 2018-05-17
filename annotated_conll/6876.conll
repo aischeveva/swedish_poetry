@@ -1,0 +1,15 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:1
+3	söner	son	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:3
+4	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:8
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+6	sade	sade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:11
+7	kungen	kungen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+9	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:24
+10	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+11	sol	sol	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+12	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:33
+13	ned	ned	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:37
+14	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:40
+

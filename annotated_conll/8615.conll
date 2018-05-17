@@ -1,0 +1,8 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ögon	öga	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	ljusare	ljusare	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	än	än	KN	KN	_	_	_	_	_	O	_	temp:0:17
+5	Söderns	Södern	PM	PM	GEN	_	_	_	_	B	person	temp:0:20
+6	himmel	himmel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:34
+

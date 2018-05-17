@@ -1,0 +1,11 @@
+1	För	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	barnet	barnet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	guden	guden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	död	död	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:26
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:28
+9	Hela	hel	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:32
+10	ger	ge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:37
+

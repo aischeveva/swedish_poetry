@@ -1,0 +1,9 @@
+1	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	enkla	enkla	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	barken	barken	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:16
+5	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:19
+6	enkelt	enkel	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	liv	liv	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

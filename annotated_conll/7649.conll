@@ -1,0 +1,8 @@
+1	forntidabild	forntidabild	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:13
+3	guden	guden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+4	lutade	lutade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:22
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:29
+6	fall	fall	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

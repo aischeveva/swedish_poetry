@@ -1,0 +1,6 @@
+1	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	ni	ni	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:4
+3	er	er	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	prakt	prakt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:15
+

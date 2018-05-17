@@ -1,0 +1,6 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	vinst	vinst	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:10
+4	förlust	förlust	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+

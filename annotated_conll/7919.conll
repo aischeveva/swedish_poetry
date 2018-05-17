@@ -1,0 +1,9 @@
+1	Den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	dufvan	dufvan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	flyger	flyge	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:15
+5	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:22
+6	hem	hem	AB	AB	_	_	_	_	_	O	_	temp:0:26
+7	igen	igen	AB	AB	_	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

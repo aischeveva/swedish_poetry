@@ -1,0 +1,7 @@
+1	Där	där	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	växer	växer	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:10
+4	klara	klar	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:14
+5	bilder	bild	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+6	fram	fram	PL	PL	_	_	_	_	_	O	_	temp:0:27
+

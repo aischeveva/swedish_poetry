@@ -1,0 +1,9 @@
+1	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	evigheten	evigheten	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+4	templet	templet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:15
+5	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:23
+6	Upsala	Upsala	PM	PM	NOM	_	_	_	_	B	inst	temp:0:25
+7	likt	likt	NN	NN	AN	_	_	_	_	O	_	temp:0:32
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

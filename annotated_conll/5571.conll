@@ -1,0 +1,5 @@
+1	Ingborg	ingborg	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	skulle	ska	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+3	blygas	blygas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:15
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+

@@ -1,0 +1,8 @@
+1	Fjärranifrån	fjärranifrån	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	nådde	nådde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+3	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:19
+4	nyss	nyss	AB	AB	_	_	_	_	_	O	_	temp:0:23
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:28
+6	vind	vind	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

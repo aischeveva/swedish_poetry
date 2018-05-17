@@ -1,0 +1,8 @@
+1	Din	din	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	klagan	klagan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	gör	göra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:11
+4	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:15
+5	mera	mera	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+6	svag	svag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

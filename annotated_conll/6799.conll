@@ -1,0 +1,17 @@
+1	hvem	hvem	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	skilt	skilt	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:9
+4	er	ni	PN	PN	UTR|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+6	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:19
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:21
+8	aldrig	aldrig	AB	AB	_	_	_	_	_	O	_	temp:0:25
+9	skulle	ska	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:32
+10	skiljas	skiljas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:39
+11	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:47
+12	hvarann	hvarann	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:52
+13	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:59
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:60
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:62
+

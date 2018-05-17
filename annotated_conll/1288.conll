@@ -1,0 +1,6 @@
+1	Själar	själar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	samma	samma	DT	DT	UTR/NEU|SIN/PLU|IND	_	_	_	_	O	_	temp:0:10
+4	kvalens	kvalens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:16
+5	rum	rum	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+

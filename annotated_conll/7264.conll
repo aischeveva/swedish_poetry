@@ -1,0 +1,8 @@
+1	Allfaders	allfaders	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:0
+2	blick	blick	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:17
+5	aftondaggens	aftondaggens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:19
+6	droppar	droppar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:32
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,12 @@
+1	Vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	lämnar	lämnar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:3
+3	dem	de	PN	PN	UTR/NEU|PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:10
+4	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:14
+5	blekna	blekna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+6	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:25
+7	glömda	glömda	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:29
+8	lekar	lekar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:36
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:41
+10	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:43
+11	släpper	släpper	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:46
+

@@ -1,0 +1,9 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	jorden	jord	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:12
+5	väl	väl	AB	AB	_	_	_	_	_	O	_	temp:0:16
+6	ändå	ändå	AB	AB	_	_	_	_	_	O	_	temp:0:20
+7	förbi	förbi	PL	PL	_	_	_	_	_	O	_	temp:0:25
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:30
+

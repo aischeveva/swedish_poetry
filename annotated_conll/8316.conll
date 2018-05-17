@@ -1,0 +1,9 @@
+1	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	gudars	gudars	NN	NN	NEU|PLU|DEF|GEN	_	_	_	_	O	_	temp:0:5
+3	salighet	salighet	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:21
+5	dig	du	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:26
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:29
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:31
+

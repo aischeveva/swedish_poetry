@@ -1,0 +1,10 @@
+1	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	sköld	sköld	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:11
+4	ville	vilja	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:15
+5	Frithiof	frithiof	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+6	gifva	gifva	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:35
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:36
+

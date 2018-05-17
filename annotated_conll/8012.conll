@@ -1,0 +1,8 @@
+1	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	högre	högre	UO	UO	_	_	_	_	_	O	_	temp:0:3
+3	bedrifter	bedrifter	UO	UO	_	_	_	_	_	O	_	temp:0:9
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:18
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:20
+6	dess	dess	AB	AB	_	_	_	_	_	O	_	temp:0:25
+7	förgöm	förgöm	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+

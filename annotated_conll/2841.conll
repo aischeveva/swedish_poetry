@@ -1,0 +1,8 @@
+1	Ingen	ingen	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	krävde	krävde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:6
+3	mitt	min	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:13
+4	öga	öga	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:22
+6	pant	pant	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

@@ -1,0 +1,5 @@
+1	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	stjärna	stjärna	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	gömmer	gömmer	UO	UO	_	_	_	_	_	O	_	temp:0:12
+4	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+

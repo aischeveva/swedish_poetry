@@ -1,0 +1,7 @@
+1	blodröda	blodröda	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	runor	runor	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:9
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+4	talande	talande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:24
+6	skymf	skymf	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+

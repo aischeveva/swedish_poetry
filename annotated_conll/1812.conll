@@ -1,0 +1,9 @@
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:0
+2	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:1
+3	våras	våras	NN	NN	-|-|-|-	_	_	_	_	O	_	temp:0:3
+4	gav	ge	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:9
+5	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+6	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:16
+7	hyacinter	hyacinter	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:20
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

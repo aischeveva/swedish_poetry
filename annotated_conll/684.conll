@@ -1,0 +1,7 @@
+1	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:8
+4	ton	ton	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:15
+6	våndan	våndan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+

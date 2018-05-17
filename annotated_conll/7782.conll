@@ -1,0 +1,12 @@
+1	Balder	balder	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	syntes	synas	VB	VB	PRT|SFO	_	_	_	_	O	_	temp:0:7
+3	jämväl	jämväl	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:21
+5	sin	sin	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:24
+6	tron	tron	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:28
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+8	midsommarens	midsommar	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:34
+9	sol	sol	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:50
+11	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:52
+

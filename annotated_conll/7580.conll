@@ -1,0 +1,8 @@
+1	förgården	förgården	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	dock	dock	KN	KN	_	_	_	_	_	O	_	temp:0:10
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:15
+4	Balderstemplet	balderstemplet	NN	NN	UTR|SIN|IND|GEN	_	_	_	_	O	_	temp:0:20
+5	ofvan	ofvan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:35
+6	skyn	skyn	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:45
+

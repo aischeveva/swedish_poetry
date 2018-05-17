@@ -1,0 +1,11 @@
+1	sakta	sakta	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	lösande	lösande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:14
+4	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:18
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:20
+6	skur	skur	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:28
+8	svala	svala	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:31
+9	droppar	droppar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:37
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:44
+

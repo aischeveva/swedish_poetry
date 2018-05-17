@@ -1,0 +1,10 @@
+1	af	af	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	hvitulliga	hvitulliga	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	får	få	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+5	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:19
+6	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:23
+7	ser	se	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+8	hvitaktiga	hvitaktiga	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:30
+9	strömoln	strömoln	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+

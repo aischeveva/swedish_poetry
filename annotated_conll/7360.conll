@@ -1,0 +1,9 @@
+1	Af	af	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	djupblått	djupblått	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	stål	stål	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	hvar	hvar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+5	pelare	pelare	JJ	JJ	KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:23
+6	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:30
+7	skuren	skuren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:40
+

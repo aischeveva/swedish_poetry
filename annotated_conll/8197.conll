@@ -1,0 +1,9 @@
+1	Dock	dock	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	ändtlig	ändtlig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+4	trött	trött	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:20
+6	vägens	vägens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:23
+7	möda	möda	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+

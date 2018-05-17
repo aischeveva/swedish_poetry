@@ -1,0 +1,8 @@
+1	Ha	ha	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:3
+3	värde	värde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:13
+5	fast	fast	SN	SN	_	_	_	_	_	O	_	temp:0:15
+6	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:20
+7	välska	välska	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:24
+

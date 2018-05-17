@@ -1,0 +1,8 @@
+1	Solen	sol	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	glider	glider	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	över	över	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	gräs	gräs	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	häll	häll	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:31
+

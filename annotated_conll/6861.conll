@@ -1,0 +1,10 @@
+1	ty	ty	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:3
+3	tillsammans	tillsammans	AB	AB	_	_	_	_	_	O	_	temp:0:6
+4	höra	höra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+6	liksom	liksom	AB	AB	_	_	_	_	_	O	_	temp:0:24
+7	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:31
+8	två	två	RG	RG	NOM	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:37
+

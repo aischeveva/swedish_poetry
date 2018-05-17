@@ -1,0 +1,10 @@
+1	Deras	deras	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:0
+2	långa	långa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:11
+4	långa	långa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:13
+5	vila	vila	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:19
+6	har	ha	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:24
+7	intet	intet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:28
+8	slut	slut	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+

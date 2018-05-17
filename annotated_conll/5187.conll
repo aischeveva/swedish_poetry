@@ -1,0 +1,8 @@
+1	Nitton	nitton	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:7
+3	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	rimmet	rimmet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	gör	göra	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+6	besvär	besvär	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:21
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:27
+

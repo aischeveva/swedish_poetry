@@ -1,0 +1,12 @@
+1	Intet	intet	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:15
+6	går	gå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:17
+7	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:21
+8	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:25
+9	fjärran	fjärran	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+10	land	land	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+11	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:39
+

@@ -1,0 +1,11 @@
+1	Sorgen	sorgen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:7
+3	lätt	lätt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:16
+6	glädjen	glädjen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:20
+7	stolt	stolt	AB	AB	POS	_	_	_	_	O	_	temp:0:28
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:34
+9	svår	svår	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:38
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

@@ -1,0 +1,12 @@
+1	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	ändå	ändå	AB	AB	_	_	_	_	_	O	_	temp:0:4
+3	fått	få	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:9
+4	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:14
+5	fylld	fylla	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+6	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:24
+7	sitt	sin	PS	PS	NEU|SIN|DEF	_	_	_	_	O	_	temp:0:29
+8	rågade	rågade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:34
+9	mått	må	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:41
+10	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:46
+11	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:47
+

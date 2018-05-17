@@ -1,0 +1,9 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:4
+3	andra	annan	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:8
+4	ruvar	ruvar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:14
+5	stilla	stilla	AB	AB	POS	_	_	_	_	O	_	temp:0:20
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:27
+7	skum	skum	AB	AB	AN	_	_	_	_	O	_	temp:0:31
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+

@@ -1,0 +1,5 @@
+1	maskinskriverskan	maskinskriverskan	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	hem	hem	AB	AB	_	_	_	_	_	O	_	temp:0:18
+3	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:22
+4	tedags-	tedags-	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+

@@ -1,0 +1,11 @@
+1	mot	mot	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:4
+3	kind	kind	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:8
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:13
+5	andas	andas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:17
+6	orörd	orörd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+7	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:29
+8	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:31
+9	tystnad	tystnad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:35
+10	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:42
+

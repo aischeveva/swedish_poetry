@@ -1,0 +1,7 @@
+1	lätt	lätt	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:5
+3	rent	rent	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+5	allt	allt	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:19
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

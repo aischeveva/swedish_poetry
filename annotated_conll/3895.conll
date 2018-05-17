@@ -1,0 +1,8 @@
+1	Ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	enda	enda	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	steg	steg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:14
+5	spårlös	spårlös	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	stig	stig	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:29
+

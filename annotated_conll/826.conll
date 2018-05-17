@@ -1,0 +1,7 @@
+1	tills	tills	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:6
+3	förtärande	förtärande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	undret	undret	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:21
+5	viker	vika	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+6	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:34
+

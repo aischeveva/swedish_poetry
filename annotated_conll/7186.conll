@@ -1,0 +1,7 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	dottern	dottern	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	skurar	skurar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:12
+4	hjelmen	hjelmen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+5	ren	ren	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:31
+

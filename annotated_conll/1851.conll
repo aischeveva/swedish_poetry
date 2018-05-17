@@ -1,0 +1,9 @@
+1	Håll	hålla	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	bara	bara	AB	AB	_	_	_	_	_	O	_	temp:0:5
+3	hunden	hund	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+4	borta	borta	PL	PL	_	_	_	_	_	O	_	temp:0:17
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:22
+6	mänskans	mänskans	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:24
+7	vän	vän	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:36
+

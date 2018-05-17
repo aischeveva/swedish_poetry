@@ -1,0 +1,5 @@
+1	Han	han	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	sålde	sålde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	fädrens	fädrens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:10
+4	gravar	gravar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:18
+

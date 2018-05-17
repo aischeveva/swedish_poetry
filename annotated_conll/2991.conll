@@ -1,0 +1,10 @@
+1	Men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	tröst	tröst	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+5	mild	mild	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:21
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:23
+8	nekas	nekas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:0:27
+9	mig	jag	PN	PN	UTR|SIN|DEF|OBJ	_	_	_	_	O	_	temp:0:33
+

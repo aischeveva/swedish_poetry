@@ -1,0 +1,11 @@
+1	bada	bada	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:0
+2	åter	åter	AB	AB	_	_	_	_	_	O	_	temp:0:5
+3	becksvart	becksvart	VB	VB	SUP|AKT	_	_	_	_	O	_	temp:0:10
+4	bringa	bringa	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:20
+5	lustigt	lustigt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:35
+7	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:37
+8	salta	salta	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:41
+9	flod	flod	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:47
+10	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:51
+

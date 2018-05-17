@@ -1,0 +1,7 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:3
+3	gång	gång	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+4	från	från	PP	PP	_	_	_	_	_	O	_	temp:0:11
+5	sjön	sjön	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:20
+

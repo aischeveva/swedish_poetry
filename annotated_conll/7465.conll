@@ -1,0 +1,9 @@
+1	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	trots	trots	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	hans	hans	PS	PS	UTR/NEU|SIN/PLU|DEF	_	_	_	_	O	_	temp:0:10
+4	gudabälte	gudabälte	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:24
+6	trots	trots	PP	PP	_	_	_	_	_	O	_	temp:0:26
+7	stålhandskarna	stålhandskarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:32
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:46
+

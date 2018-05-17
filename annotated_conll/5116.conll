@@ -1,0 +1,8 @@
+1	Minns	minns	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:6
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:8
+4	hur	hur	HA	HA	_	_	_	_	_	O	_	temp:0:10
+5	våra	vår	PS	PS	UTR/NEU|PLU|DEF	_	_	_	_	O	_	temp:0:14
+6	hjärtan	hjärtan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+7	brunno	brunno	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+

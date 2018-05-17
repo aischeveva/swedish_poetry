@@ -1,0 +1,6 @@
+1	vilar	vilar	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	bladens	bladens	NN	NN	UTR|SIN|DEF|GEN	_	_	_	_	O	_	temp:0:8
+4	dallrande	dallrande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:16
+5	dager	dage	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:26
+

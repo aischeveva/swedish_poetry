@@ -1,0 +1,7 @@
+1	Var	vara	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	fördragsam	fördragsam	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+4	sköna	sköna	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+5	syster	syster	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+6	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

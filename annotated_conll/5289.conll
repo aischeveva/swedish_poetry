@@ -1,0 +1,11 @@
+1	Min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:0
+2	puls	puls	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	slår	slår	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:9
+4	fort	fort	AB	AB	POS	_	_	_	_	O	_	temp:0:14
+5	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:19
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:23
+7	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:25
+8	ungdoms	ungdoms	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:29
+9	tider	tid	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:37
+10	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:42
+

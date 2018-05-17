@@ -1,0 +1,5 @@
+1	vilar	vilar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:6
+3	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:8
+4	tillit	tillit	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+

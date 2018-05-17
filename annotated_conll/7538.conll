@@ -1,0 +1,10 @@
+1	Heimskringlas	heimskringlas	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	häfder	häfder	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:14
+3	gå	gå	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:21
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:24
+5	samma	samma	DT	DT	UTR/NEU|SIN/PLU|IND	_	_	_	_	O	_	temp:0:27
+6	ton	ton	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:33
+7	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:37
+8	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:41
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:44
+

@@ -1,0 +1,6 @@
+1	Plåga	plåga	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:6
+3	välsignelse	välsignelse	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+4	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:22
+5	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:23
+

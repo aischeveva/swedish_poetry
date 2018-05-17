@@ -1,0 +1,10 @@
+1	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	Idavallen	idavallen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	af	af	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+4	försonta	försonta	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:16
+5	Valhalls	Valhall	PM	PM	GEN	_	_	_	_	O	_	temp:0:25
+6	barn	barn	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:38
+
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:40
+

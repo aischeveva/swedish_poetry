@@ -1,0 +1,6 @@
+1	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	raka	raka	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:4
+3	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:9
+4	kvast	kvast	NN	NN	NEU|PLU|IND|NOM	_	_	_	_	O	_	temp:0:13
+5	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:18
+

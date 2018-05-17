@@ -1,0 +1,12 @@
+1	Ofta	ofta	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:4
+3	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:6
+4	månen	måne	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:10
+5	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:16
+6	skyarna	skyarna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:22
+7	flög	flyga	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:34
+9	förtalde	förtalde	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:36
+10	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:45
+11	gamle	gamle	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:49
+

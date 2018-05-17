@@ -1,0 +1,12 @@
+1	Jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:0
+2	vet	veta	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:7
+4	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:9
+5	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:13
+6	ung	ung	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:16
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+8	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:21
+9	den	den	PN	PN	UTR|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:25
+10	unga	unga	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:29
+11	mö	mö	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:34
+

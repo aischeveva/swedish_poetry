@@ -1,0 +1,8 @@
+1	Väck	väck	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	den	den	DT	DT	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:5
+3	ej	ej	JJ	JJ	POS|UTR/NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	mera	mera	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:12
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:18
+7	fråga	fråga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+

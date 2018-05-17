@@ -1,0 +1,9 @@
+1	som	som	KN	KN	_	_	_	_	_	O	_	temp:0:0
+2	Nannas	nannas	AB	AB	AN	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:10
+4	fast	fast	KN	KN	_	_	_	_	_	O	_	temp:0:12
+5	ej	ej	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:17
+6	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:20
+7	berömdt	berömdt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:23
+8	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

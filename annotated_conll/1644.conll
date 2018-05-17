@@ -1,0 +1,6 @@
+1	hörde	höra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:0
+2	prästerna	prästerna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	be	be	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+4	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:19
+5	Gud	Gud	IN	IN	_	_	_	_	_	O	_	temp:0:24
+

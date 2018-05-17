@@ -1,0 +1,10 @@
+1	afsked	afsked	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:0
+2	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:7
+3	evigt	evigt	AB	AB	POS	_	_	_	_	O	_	temp:0:11
+4	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:16
+
+1	När	när	HA	HA	_	_	_	_	_	O	_	temp:1:18
+2	lunderna	lunderna	NN	NN	UTR|PLU|DEF|NOM	_	_	_	_	O	_	temp:1:22
+3	knoppas	knoppas	VB	VB	INF|SFO	_	_	_	_	O	_	temp:1:31
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:1:38
+

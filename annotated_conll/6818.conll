@@ -1,0 +1,14 @@
+1	Klämmas	klämmas	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	skall	skall	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:8
+3	hon	hon	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:14
+4	mellan	mellan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:18
+5	sköldar	sköldar	NN	NN	UTR|PLU|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:32
+7	tills	tills	SN	SN	_	_	_	_	_	O	_	temp:0:34
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:40
+9	vilda	vilda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:44
+10	mod	mod	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:50
+11	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:54
+12	tömdt	tömdt	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:57
+13	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:62
+

@@ -1,0 +1,14 @@
+1	Vem	vem	HP	HP	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	vara	vara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:9
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:14
+5	onda	onda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:18
+6	?	?	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+
+1	Vem	vem	HP	HP	UTR|SIN|IND	_	_	_	_	O	_	temp:1:25
+2	vill	vilja	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:1:29
+3	vara	vara	VB	VB	INF|AKT	_	_	_	_	O	_	temp:1:34
+4	vad	vad	HP	HP	NEU|SIN|IND	_	_	_	_	O	_	temp:1:39
+5	människan	människan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:1:43
+6	i	i	PP	PP	_	_	_	_	_	O	_	temp:1:53
+

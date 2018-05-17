@@ -1,0 +1,12 @@
+1	Där	där	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	såg	se	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:4
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:12
+5	bekant	bekant	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+6	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:22
+7	ropade	ropa	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:26
+8	:	:	MID	MID	_	_	_	_	_	O	_	temp:0:32
+9	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:0:34
+10	Stetson	Stetson	PM	PM	NOM	_	_	_	_	B	place	temp:0:35
+11	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:43
+

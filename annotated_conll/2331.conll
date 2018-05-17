@@ -1,0 +1,10 @@
+1	Månen	måne	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:5
+3	vår	vår	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:7
+4	herre	herre	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	står	stå	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:18
+7	trånande	trånande	PC	PC	PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:23
+8	blek	blek	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:32
+9	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+

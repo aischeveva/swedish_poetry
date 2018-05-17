@@ -1,0 +1,16 @@
+1	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:0
+2	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:3
+3	då	då	HA	HA	_	_	_	_	_	O	_	temp:0:7
+4	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:10
+5	frie	frie	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:13
+6	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:17
+7	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:19
+8	med	med	PP	PP	_	_	_	_	_	O	_	temp:0:22
+9	då	då	HA	HA	_	_	_	_	_	O	_	temp:0:26
+10	vi	vi	PN	PN	UTR|PLU|DEF|SUB	_	_	_	_	O	_	temp:0:29
+11	leke	leke	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:32
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:36
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:37
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:39
+

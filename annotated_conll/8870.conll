@@ -1,0 +1,9 @@
+1	hvar	hvar	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	särskild	särskild	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:5
+3	månad	månad	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:14
+4	af	af	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:20
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:23
+6	långsam	långsam	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:26
+7	sorg	sorg	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:34
+8	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

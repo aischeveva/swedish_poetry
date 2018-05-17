@@ -1,0 +1,9 @@
+1	de	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:0
+2	bleknade	bleknade	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:12
+4	strand	strand	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:15
+5	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:21
+
+1	"	"	PAD	PAD	_	_	_	_	_	O	_	temp:1:22
+2	-	-	MID	MID	_	_	_	_	_	O	_	temp:1:24
+

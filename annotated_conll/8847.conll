@@ -1,0 +1,8 @@
+1	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:0
+2	lysmask	lysmask	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:3
+3	lindad	lindad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	kring	kring	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	en	en	DT	DT	UTR|SIN|IND	_	_	_	_	O	_	temp:0:24
+6	liljestängel	liljestängel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:27
+7	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:39
+

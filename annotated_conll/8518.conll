@@ -1,0 +1,9 @@
+1	om	om	SN	SN	_	_	_	_	_	O	_	temp:0:0
+2	Asars	Asars	PM	PM	NOM	_	_	_	_	B	person	temp:0:3
+3	ofärd	ofärd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:9
+4	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:15
+5	om	om	PP	PP	_	_	_	_	_	O	_	temp:0:19
+6	Helas	helas	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:22
+7	seger	seger	NN	NN	AN	_	_	_	_	O	_	temp:0:28
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:33
+

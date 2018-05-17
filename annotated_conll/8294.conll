@@ -1,0 +1,8 @@
+1	din	din	VB	VB	IMP|AKT	_	_	_	_	O	_	temp:0:0
+2	panna	panna	JJ	JJ	POS|UTR/NEU|PLU|IND/DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:9
+4	dina	dina	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:11
+5	lockars	lockars	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:16
+6	glöd	glöd	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:24
+7	:	:	MAD	MAD	_	_	_	_	_	O	_	temp:0:28
+

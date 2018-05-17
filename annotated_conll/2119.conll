@@ -1,0 +1,7 @@
+1	Efter	efter	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	rött	röd	JJ	JJ	POS|NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:6
+3	fackelsken	fackelsken	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:22
+5	svettiga	svettiga	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:25
+6	drag	drag	AB	AB	AN	_	_	_	_	O	_	temp:0:34
+

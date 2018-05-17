@@ -1,0 +1,7 @@
+1	Gott	gott	AB	AB	POS	_	_	_	_	O	_	temp:0:0
+2	sticker	sticka	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:5
+3	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	törne	törne	JJ	JJ	POS|UTR/NEU|SIN/PLU|IND|NOM	_	_	_	_	O	_	temp:0:17
+6	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:22
+

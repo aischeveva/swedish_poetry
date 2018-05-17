@@ -1,0 +1,7 @@
+1	anklaga	anklaga	JJ	JJ	POS|MAS|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	nornan	nornan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:8
+3	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:14
+4	hvars	hvars	AB	AB	AN	_	_	_	_	O	_	temp:0:16
+5	vreda	vreda	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:22
+6	lotter	lotter	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:28
+

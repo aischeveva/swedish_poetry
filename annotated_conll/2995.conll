@@ -1,0 +1,10 @@
+1	I	i	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	mörkret	mörker	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:2
+3	rörde	röra	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:10
+4	du	du	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:16
+5	törnet	törnet	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:19
+6	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:26
+7	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:27
+8	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:29
+9	sprang	springa	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:33
+

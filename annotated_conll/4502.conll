@@ -1,0 +1,6 @@
+1	Man	man	PN	PN	UTR|SIN|IND|SUB	_	_	_	_	O	_	temp:0:0
+2	dansar	dansar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:4
+3	däruppe	däruppe	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:11
+4	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	klarvaket	klarvaket	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:21
+

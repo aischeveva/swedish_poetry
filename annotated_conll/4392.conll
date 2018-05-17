@@ -1,0 +1,7 @@
+1	när	när	HA	HA	_	_	_	_	_	O	_	temp:0:0
+2	döden	döden	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:4
+3	spelar	spelar	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:10
+4	trött	trött	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:17
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	tungt	tungt	AB	AB	POS	_	_	_	_	O	_	temp:0:27
+

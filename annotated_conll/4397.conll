@@ -1,0 +1,8 @@
+1	-	-	MID	MID	_	_	_	_	_	O	_	temp:0:0
+2	sen	sen	AB	AB	_	_	_	_	_	O	_	temp:0:2
+3	är	vara	VB	VB	PRS|AKT	_	_	_	_	O	_	temp:0:6
+4	det	det	PN	PN	NEU|SIN|DEF|SUB/OBJ	_	_	_	_	O	_	temp:0:9
+5	inget	inget	PN	PN	NEU|SIN|IND|SUB/OBJ	_	_	_	_	O	_	temp:0:13
+6	alls	alls	AB	AB	_	_	_	_	_	O	_	temp:0:19
+7	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:23
+

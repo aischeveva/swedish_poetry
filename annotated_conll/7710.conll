@@ -1,0 +1,14 @@
+1	Dryckessalen	dryckessal	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:0
+2	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:12
+3	ett	en	DT	DT	NEU|SIN|IND	_	_	_	_	O	_	temp:0:14
+4	hus	hus	NN	NN	NEU|SIN|IND|NOM	_	_	_	_	O	_	temp:0:18
+5	för	för	PP	PP	_	_	_	_	_	O	_	temp:0:22
+6	sig	sig	PN	PN	UTR/NEU|SIN/PLU|DEF|OBJ	_	_	_	_	O	_	temp:0:26
+7	sjelf	sjelf	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+9	var	vara	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:37
+10	timrad	timrad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:41
+11	af	af	JJ	JJ	POS|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:48
+12	kärnfur	kärnfur	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:51
+13	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:58
+

@@ -1,0 +1,10 @@
+1	Här	här	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	i	i	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	min	min	PS	PS	UTR|SIN|DEF	_	_	_	_	O	_	temp:0:6
+4	himmel	himmel	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:10
+5	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:16
+6	vid	vid	PP	PP	_	_	_	_	_	O	_	temp:0:18
+7	din	din	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:22
+8	barm	barm	UO	UO	_	_	_	_	_	O	_	temp:0:26
+9	!	!	MAD	MAD	_	_	_	_	_	O	_	temp:0:30
+

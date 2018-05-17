@@ -1,0 +1,10 @@
+1	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	slitnaste	slitnaste	JJ	JJ	SUV|UTR/NEU|SIN/PLU|DEF|NOM	_	_	_	_	O	_	temp:0:3
+3	vardag	vardag	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:13
+4	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:19
+5	så	så	AB	AB	_	_	_	_	_	O	_	temp:0:21
+6	nött	nött	AB	AB	POS	_	_	_	_	O	_	temp:0:24
+7	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:29
+8	grått	grått	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:33
+9	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:38
+

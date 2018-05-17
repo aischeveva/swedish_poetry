@@ -1,0 +1,12 @@
+1	bland	bland	PP	PP	_	_	_	_	_	O	_	temp:0:0
+2	folket	folket	NN	NN	NEU|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:6
+3	ifrån	ifrån	PP	PP	_	_	_	_	_	O	_	temp:0:13
+4	slägt	slägt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:19
+5	till	till	PP	PP	_	_	_	_	_	O	_	temp:0:25
+6	slägt	slägt	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:30
+7	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+8	att	att	IE	IE	_	_	_	_	_	O	_	temp:0:37
+9	hvem	hvem	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:41
+10	som	som	HP	HP	-|-|-	_	_	_	_	O	_	temp:0:46
+11	först	först	AB	AB	_	_	_	_	_	O	_	temp:0:50
+

@@ -1,0 +1,13 @@
+1	Då	då	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	blev	bli	VB	VB	PRT|AKT	_	_	_	_	O	_	temp:0:3
+3	jag	jag	PN	PN	UTR|SIN|DEF|SUB	_	_	_	_	O	_	temp:0:8
+4	överflödad	överflödad	PC	PC	PRF|UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:12
+5	och	och	KN	KN	_	_	_	_	_	O	_	temp:0:23
+6	buren	buren	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:27
+7	av	av	PP	PP	_	_	_	_	_	O	_	temp:0:33
+8	styrkan	styrkan	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:36
+9	ur	ur	PP	PP	_	_	_	_	_	O	_	temp:0:44
+10	sköra	sköra	VB	VB	INF|AKT	_	_	_	_	O	_	temp:0:47
+11	ting	ting	NN	NN	UTR|SIN|IND|NOM	_	_	_	_	O	_	temp:0:53
+12	.	.	MAD	MAD	_	_	_	_	_	O	_	temp:0:57
+

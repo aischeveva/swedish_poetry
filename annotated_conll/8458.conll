@@ -1,0 +1,9 @@
+1	upp	upp	AB	AB	_	_	_	_	_	O	_	temp:0:0
+2	emot	emot	PP	PP	_	_	_	_	_	O	_	temp:0:4
+3	toppen	topp	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:9
+4	;	;	MID	MID	_	_	_	_	_	O	_	temp:0:15
+5	men	men	KN	KN	_	_	_	_	_	O	_	temp:0:17
+6	på	på	PP	PP	_	_	_	_	_	O	_	temp:0:21
+7	domarstenen	domarstenen	NN	NN	UTR|SIN|DEF|NOM	_	_	_	_	O	_	temp:0:24
+8	,	,	MID	MID	_	_	_	_	_	O	_	temp:0:35
+
