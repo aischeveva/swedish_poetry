@@ -1,15 +1,16 @@
 import urllib.request
 import re
-import os
-import html
+import json
+from bs4 import BeautifulSoup
 
 
 def clean_text(text):
-    regClean = re.compile('<.*?>', flags=re.DOTALL)
+    soup = BeautifulSoup(text, 'html.parser')
+    paragraphs = soup.find_all('p')
+    # so far the first paragraph usually contains poem text, but it might change in the future
+    text = paragraphs[0].get_text()
     regSpace = re.compile('\s{2,}', flags=re.DOTALL)
-    text = regClean.sub('', text)
     text = regSpace.sub('', text)
-    text = html.unescape(text)
     return text
 
 
@@ -22,28 +23,25 @@ def get_names():
 
 
 def download_poems(poem_list):
-    user = 'Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729; Tablet PC 2.0; rv:11.0) like Gecko'
-    #req = urllib.request.Request('https://yandex.ru/pogoda/10463', headers={'User-Agent': user_agent})
     source = 'http://svenskadikter.com/'
     temp_arr = {}
     for poem in poem_list:
         try:
-            #req = urllib.request.Request(source + poem, headers={'User-Agent': user_agent})
-            #with urllib.request.urlopen(req) as response:
-            #    text = response.read().decode('utf-8')
             page = urllib.request.urlopen(source+poem)
             text = page.read().decode('utf-8')
             text = clean_text(text)
             temp_arr[' '.join(poem.split('_'))] = text
         except:
-            print('oh no')
+            print('reading page failed')
             continue
     return temp_arr
 
 
 def main():
-    print(get_names())
-    print(download_poems(get_names()))
+    frithiofs_saga_poems = get_names()
+    poems = download_poems(frithiofs_saga_poems)
+    with open('tegner_frithiofs_saga_source_text.json', 'w', encoding='utf-8') as file:
+        json.dump(poems, file)
 
 
 if __name__ == '__main__':

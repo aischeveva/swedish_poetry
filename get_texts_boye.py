@@ -59,7 +59,7 @@ if __name__ == '__main__':
             folder_name = k.lower()
             folder_name = re.sub(' ', '_', folder_name)
             if text != '':
-                with open('boye' + os.sep + folder_name + os.sep + str(i + 1) + '.txt', 'w', encoding='utf-8') as f:
+                with open('poems' + os.sep + 'boye' + os.sep + folder_name + os.sep + str(i + 1) + '.txt', 'w', encoding='utf-8') as f:
                     f.write('name: ' + poem[1].upper() + '\n')
                     f.write('year: ' + arr[k][0] + '\n')
                     f.write('author: KARIN BOYE\n')
